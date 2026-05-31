@@ -1,72 +1,128 @@
-# Mistify Chatbot Agent Instructions
+# Mistify Fragrance Finder Contributor Guide
 
-Use this file as the operating contract for AI coding agents working in this repository.
+Use this file as the operating contract for people and AI coding agents working in this repository.
+
+The short version: Mistify Fragrance Finder is a fragrance recommendation product, not a general chatbot. Preserve the recommendation engine, security boundaries, and data-grounding rules unless the task explicitly asks to change them.
 
 ## Product boundary
 
 Mistify is a public fragrance recommendation web app for Mistify Parfums.
 
-The public chatbot may help only with:
+The public finder may help only with fragrance-related tasks:
 
 - fragrance recommendations
 - perfume notes and fragrance families
-- scent profiles, seasons, occasions, longevity, and sillage
+- scent profiles, accords, seasons, occasions, longevity, and sillage
 - comparison-style fragrance requests when grounded in known database fields
+- reference-style searches such as “something like Bleu de Chanel but fresher”
+- refinement requests such as “make these sweeter,” “more office-safe,” or “better for summer”
 
-The chatbot must **not** become a general-purpose assistant.
+The public finder must **not** become a general-purpose assistant.
 
-Use this refusal for off-topic or unsafe public-chat requests:
+Use this refusal for off-topic, unsafe, or prompt-injection-like public chat requests:
 
 > I can only help with Mistify Parfums fragrance recommendations and perfume-related questions.
 
-## Stack and repo layout
+Do not add broad chat, coding help, life advice, web search, or general assistant behavior to the public recommendation flow.
 
-Frontend:
+## Product architecture
 
-- `frontend/` — React, TypeScript, Vite, regular CSS
-- Main UI files live under `frontend/src/`
-- Global app styling lives in `frontend/src/styles/app.css`
+The app is a full-stack TypeScript project.
 
-Backend:
+```txt
+mistify-fragrance-finder/
+├── backend/       # Express API, database access, recommendation engine, data scripts
+├── frontend/      # React/Vite public finder and admin UI
+├── docs/          # README screenshots and public docs assets
+├── AGENTS.md      # This contributor guide
+├── code_review.md # Security and correctness checklist
+└── README.md      # End-user and project overview
+```
 
-- `backend/` — Node.js, Express, TypeScript
-- Uses `dotenv`, `cors`, `helmet`, `express-rate-limit`, `zod`, `pg`, and `drizzle-orm`
-- Main source files live under `backend/src/`
-- Compiled output goes to `backend/dist/`
+### Frontend
 
-Database:
+- Path: `frontend/`
+- Stack: React, TypeScript, Vite, regular CSS
+- Main public page: `frontend/src/pages/ChatPage.tsx`
+- Admin pages:
+  - `frontend/src/pages/AdminLoginPage.tsx`
+  - `frontend/src/pages/AdminChipsPage.tsx`
+  - `frontend/src/pages/AdminProductsPage.tsx`
+- API clients: `frontend/src/api/`
+- Global product styling: `frontend/src/styles/app.css`
 
-- Supabase PostgreSQL
-- Primary fragrance rows are stored in `public.fragrances`
+The frontend must not make database calls directly and must not call Gemini or any AI provider directly.
+
+### Backend
+
+- Path: `backend/`
+- Stack: Node.js, Express, TypeScript
+- Main entrypoint: `backend/src/index.ts`
+- Chat route: `backend/src/routes/chatRoutes.ts`
+- Chat controller: `backend/src/controllers/chatController.ts`
+- Recommendation service: `backend/src/services/recommendationService.ts`
+- Guard services:
+  - `backend/src/services/promptInjectionGuardService.ts`
+  - `backend/src/services/intentGuardService.ts`
+- Database files:
+  - `backend/src/db/connection.ts`
+  - `backend/src/db/schema.ts`
+- Data/evaluation scripts: `backend/src/scripts/`
+
+Compiled output goes to `backend/dist/` and should not be committed.
+
+### Database
+
+- Database: Supabase/PostgreSQL
+- Primary fragrance rows: `public.fragrances`
 - Rating/popularity signals may come from `public.fragrance_ratings`
 
-AI provider:
+The database is the source of truth for product recommendations. Do not move product selection into frontend code or free-form AI generation.
 
-- Gemini API is optional and backend-only
-- Deterministic recommendation logic must work without Gemini
-- Gemini may explain already-selected recommendations, but must not select, add, remove, or reorder products
+### Optional AI provider
 
-Do not add OpenAI, embeddings, pgvector, new auth systems, or new production dependencies unless explicitly requested.
+- Gemini API is optional and backend-only.
+- Deterministic recommendation logic must work without Gemini.
+- Gemini may explain already-selected recommendations.
+- Gemini must not select, add, remove, or reorder products.
+- Gemini must not invent products, verified notes, ratings, URLs, sources, seasons, or official claims.
 
-## Agent workflow
+Do not add OpenAI, embeddings, pgvector, a new AI provider, or a new production dependency unless explicitly requested.
 
-1. Work in small phases. Do only the requested phase.
-2. Inspect relevant files before editing.
-3. Keep changes tightly scoped. Do not rewrite unrelated files.
-4. Preserve existing security controls, validation, and recommendation behavior unless the task explicitly asks to change them.
-5. Run the relevant verification commands before reporting done.
-6. Do not commit or push unless the user explicitly asks.
+## Workflow rules
+
+1. Inspect relevant files before editing.
+2. Work in small phases.
+3. Do only the requested phase.
+4. Keep changes tightly scoped.
+5. Preserve existing security controls, validation, data rules, and recommendation behavior unless the task explicitly asks to change them.
+6. Run the relevant verification commands before reporting done.
+7. Do not commit or push unless explicitly asked.
+8. Do not rewrite unrelated files.
+9. Do not add production dependencies without asking.
+10. Prefer clear, beginner-friendly TypeScript over clever abstractions.
 
 For UI/admin/layout tasks:
 
 - Do not change recommendation scoring, ranking, match tiers, eligibility, or product selection.
 - Do not refactor backend recommendation logic unless the task asks for it.
+- Keep public pages polished, premium, and product-quality.
+- Keep admin pages clean and usable, but avoid broad auth redesigns unless requested.
 
 For backend/recommendation tasks:
 
 - Understand the current scoring and guards before editing.
+- Preserve prompt-injection and fragrance-topic guards.
 - Add or update regression/evaluation coverage when behavior changes.
-- Prefer returning fewer strong matches over padding with weak unrelated results.
+- Prefer fewer strong matches over padding with weak unrelated results.
+- Run recommendation verification scripts when scoring/ranking changes.
+
+For documentation tasks:
+
+- Keep docs public-safe.
+- Do not include production IPs, private domains, local private paths, deployment secrets, private repo names, or internal operations runbooks.
+- Use placeholder environment values only.
+- Screenshots must use safe demo/public UI states only.
 
 ## Hard security rules
 
@@ -83,6 +139,7 @@ Never expose, log, commit, or send to the frontend:
 - stack traces in public API responses
 - internal file paths
 - environment variable values
+- private deployment details
 
 Public API errors must return safe JSON messages.
 
@@ -93,6 +150,7 @@ Do not log:
 - API keys or database URLs
 - admin passwords or admin tokens
 - raw secrets
+- full SQL errors that reveal schema/credentials
 
 Safe logs may include:
 
@@ -113,13 +171,14 @@ Always preserve:
 - backend-only database calls
 - backend-only AI provider calls
 - rate limiting
-- CORS and helmet
-- zod validation
-- output validation where applicable
+- CORS allowlist
+- Helmet security headers
+- Zod validation
+- safe output validation/fallbacks where applicable
 
 ## Data rules
 
-The fragrance database separates source data from AI-inferred or derived data.
+The fragrance database separates source/verified fields from AI-inferred or derived fields.
 
 Source/grounding fields include:
 
@@ -128,9 +187,17 @@ Source/grounding fields include:
 - `mistify_product_url`
 - `source_brand_batch`
 - `classification`
-- `top_notes`, `middle_notes`, `base_notes`, `all_notes`
-- `source_status`, `source_used`, `source_notes`, `source_confidence`
-- `verified_on_mistify`, `mistify_product_found`, `notes_source_type`
+- `top_notes`
+- `middle_notes`
+- `base_notes`
+- `all_notes`
+- `source_status`
+- `source_used`
+- `source_notes`
+- `source_confidence`
+- `verified_on_mistify`
+- `mistify_product_found`
+- `notes_source_type`
 
 AI-inferred or derived fields include:
 
@@ -149,11 +216,18 @@ AI may infer labels, seasons, occasions, intensity, and scores from existing not
 AI must not invent:
 
 - verified notes
-- Mistify product names or URLs
-- official sources, facts, or claims
-- ratings, vote counts, review counts, or popularity numbers
+- Mistify product names
+- Mistify product URLs
+- official sources
+- official claims
+- ratings
+- vote counts
+- review counts
+- popularity numbers
 
-Never display placeholder verification values to public users as product names, classifications, badges, source labels, or explanation text. Placeholder values include:
+Never display placeholder verification values to public users as product names, classifications, badges, source labels, or explanation text.
+
+Placeholder values include:
 
 - `Not verified`
 - `Not verified on Mistify`
@@ -186,7 +260,7 @@ Display-name behavior:
 Ranking principles:
 
 - Exact note matches are strongest.
-- Close note-family matches may be fallback support.
+- Close note-family matches may provide fallback support.
 - Prompt relevance should matter more than crowd/popularity signals.
 - Crowd signals may reorder similarly relevant matches, but must not overpower requested notes, profiles, seasons, occasions, or time of day.
 - Do not force the maximum number of recommendations; fewer strong matches are better than weak filler.
@@ -211,6 +285,27 @@ Scoring guidance:
 - Broad vibe prompts should usually have a spread: exceptional 90-96, very strong 82-90, good 70-82, decent 60-70, weak below 60.
 
 Do not change scoring, ranking, matchScore, matchTier, strict combo behavior, reference matching, typo/fuzzy matching, product selection, or relevance thresholds unless the task explicitly asks for a recommendation-engine change.
+
+## Conversation and refinement rules
+
+The frontend may send recent conversation context, a last search query, and last recommendations so the backend can interpret refinement requests.
+
+Refinement examples:
+
+- “make these sweeter”
+- “show fresher options”
+- “more masculine”
+- “office-safe”
+- “date night”
+
+The backend should decide whether a request is a valid fragrance refinement. If context is missing, it should ask for clarification instead of guessing wildly.
+
+Refinement must not bypass:
+
+- prompt-injection checks
+- fragrance-topic checks
+- validation
+- recommendation grounding
 
 ## Gemini rules
 
@@ -278,9 +373,11 @@ Product metadata editor:
 - The frontend must not call Gemini, OpenAI, or any AI provider directly.
 - Frontend sorting/filtering should apply only to recommendations returned by the backend.
 - Frontend filters should not search the whole database.
-- Default sort should preserve backend ranking and be labeled `Best Match`.
+- Default result order should preserve backend ranking unless the selected UI sort intentionally changes display order.
 - Do not display source, status, verification metadata, or placeholder values in public match explanations.
 - Valid classifications can be shown; placeholder classifications should be hidden.
+- Error messages should be helpful but safe.
+- Keep the public UI premium/editorial and the admin UI clean/productive.
 
 For reference-search UI such as “something like Lafayette Street”:
 
@@ -290,17 +387,21 @@ For reference-search UI such as “something like Lafayette Street”:
 - Do not invent shared notes or similarity claims.
 - Metadata added to API responses must be optional and backward-compatible.
 
-## Coding style
+## Documentation and screenshot rules
 
-- Keep code beginner-friendly, readable, and focused.
-- Do not over-engineer.
-- Use TypeScript types where helpful.
-- Keep names clear and consistent.
-- Avoid unnecessary comments inside code.
-- Ask before adding new production dependencies.
-- Do not rewrite unrelated files.
-- Do not delete important files.
-- Do not commit or push unless explicitly asked.
+Public docs should be useful to beginners and safe for a portfolio repository.
+
+When updating docs:
+
+- Use clear setup steps.
+- Explain backend and frontend separately.
+- Use placeholder environment values.
+- Avoid private deployment instructions.
+- Avoid production hostnames, IPs, credentials, private paths, and internal runbooks.
+- Keep screenshots under `docs/screenshots/`.
+- Inspect screenshots before committing them.
+- Screenshots must not show secrets, production credentials, private admin data, browser accounts, terminals, or local file paths.
+- Prefer constrained HTML image tags in README files so screenshots do not dominate the page.
 
 ## Git rules
 
@@ -310,13 +411,17 @@ Never commit:
 - `.env` files
 - build outputs such as `dist/`
 - temporary scratch files
-- screenshots/logs unless explicitly requested
+- logs
+- screenshots containing private data
+- credential files
 
 Always check `git status` before staging.
 
 Prefer staging specific files over `git add .`.
 
-Do not force push or rewrite Git history.
+Do not force push or rewrite Git history unless the user explicitly requests it and understands the consequence.
+
+Do not commit or push unless the user explicitly asks.
 
 ## Verification commands
 
@@ -326,8 +431,8 @@ Frontend changes:
 
 ```bash
 cd frontend
-npm run build
 npm run lint
+npm run build
 ```
 
 Backend TypeScript changes:
@@ -353,6 +458,14 @@ cd backend
 npm run benchmark:recommendations
 ```
 
+Docs-only changes:
+
+```bash
+git diff --check
+```
+
+For public docs, also scan for private or secret-looking strings before pushing.
+
 Admin or full-stack changes usually need both frontend and backend builds.
 
 ## Deployment notes
@@ -363,7 +476,9 @@ Deployment targets, process-manager commands, production API URLs, server paths,
 
 Avoid printing `.env` contents or secrets while deploying.
 
-## Response style
+Production deployment values belong in the deployment platform or private environment, not in source-controlled public docs.
+
+## Response style for AI agents
 
 - Keep progress updates short.
 - Do not dump routine logs unless they matter.
