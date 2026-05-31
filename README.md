@@ -30,10 +30,10 @@ The project is built as a practical AI/product recommendation system: determinis
 ## Repository structure
 
 ```text
-mistify-chatbot/
+mistify-fragrance-finder/
   backend/               Express API, database schema, import/evaluation scripts
   frontend/              React/Vite customer and admin UI
-  AGENTS.md              Contributor/agent operating notes
+  AGENTS.md              Contributor operating notes
   code_review.md         Security and correctness review checklist
   README.md
 ```

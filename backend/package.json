@@ -6,7 +6,6 @@
     "dev": "tsx src/index.ts",
     "build": "tsc",
     "start": "node dist/index.js",
-    "import:kilian": "tsx src/scripts/importKilianFragrances.ts",
     "import:ratings": "tsx src/scripts/importFragranceRatings.ts",
     "import:fragrances": "tsx src/scripts/importFragrances.ts",
     "evaluate:recommendations": "tsx src/scripts/evaluateRecommendations.ts",

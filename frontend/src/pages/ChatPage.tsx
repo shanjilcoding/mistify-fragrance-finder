@@ -1518,7 +1518,7 @@ function useChatPageContent() {
             </a>
             <a
               className="brand-subtitle brand-link"
-              href="https://mistify-chatbot.vercel.app/"
+              href="/"
               aria-label="Open Mistify Fragrance Finder"
             >
               Mistify Fragrance Finder
