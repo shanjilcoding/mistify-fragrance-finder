@@ -168,3 +168,49 @@ export const curatedChipFragrances = pgTable(
 
 export type CuratedChipFragrance = InferSelectModel<typeof curatedChipFragrances>
 export type NewCuratedChipFragrance = InferInsertModel<typeof curatedChipFragrances>
+
+export const adminSessions = pgTable(
+  'admin_sessions',
+  {
+    id: bigserial('id', { mode: 'number' }).primaryKey(),
+    tokenHash: text('token_hash').notNull(),
+    expiresAt: timestamp('expires_at', { withTimezone: true }).notNull(),
+    revokedAt: timestamp('revoked_at', { withTimezone: true }),
+    lastUsedAt: timestamp('last_used_at', { withTimezone: true }),
+    ipAddress: text('ip_address'),
+    userAgent: text('user_agent'),
+    createdAt: timestamp('created_at', { withTimezone: true }).defaultNow(),
+  },
+  (table) => [
+    uniqueIndex('admin_sessions_token_hash_unique').on(table.tokenHash),
+    index('admin_sessions_active_idx').on(table.expiresAt, table.revokedAt),
+  ],
+)
+
+export type AdminSession = InferSelectModel<typeof adminSessions>
+export type NewAdminSession = InferInsertModel<typeof adminSessions>
+
+export const adminAuditLogs = pgTable(
+  'admin_audit_logs',
+  {
+    id: bigserial('id', { mode: 'number' }).primaryKey(),
+    sessionId: bigint('session_id', { mode: 'number' }).references(() => adminSessions.id, {
+      onDelete: 'set null',
+    }),
+    action: text('action').notNull(),
+    entityType: text('entity_type').notNull(),
+    entityId: text('entity_id'),
+    summary: text('summary').notNull(),
+    requestJson: jsonb('request_json').$type<Record<string, unknown>>(),
+    ipAddress: text('ip_address'),
+    userAgent: text('user_agent'),
+    createdAt: timestamp('created_at', { withTimezone: true }).defaultNow(),
+  },
+  (table) => [
+    index('admin_audit_logs_created_at_idx').on(table.createdAt),
+    index('admin_audit_logs_entity_idx').on(table.entityType, table.entityId),
+  ],
+)
+
+export type AdminAuditLog = InferSelectModel<typeof adminAuditLogs>
+export type NewAdminAuditLog = InferInsertModel<typeof adminAuditLogs>

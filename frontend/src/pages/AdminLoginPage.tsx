@@ -7,6 +7,7 @@ type AdminLoginPageProps = {
 }
 
 function AdminLoginPage({ onLogin }: AdminLoginPageProps) {
+  const [username, setUsername] = useState('')
   const [password, setPassword] = useState('')
   const [error, setError] = useState('')
   const [isSubmitting, setIsSubmitting] = useState(false)
@@ -17,13 +18,13 @@ function AdminLoginPage({ onLogin }: AdminLoginPageProps) {
     setIsSubmitting(true)
 
     try {
-      const response = await loginAdmin(password)
+      const response = await loginAdmin(username, password)
       sessionStorage.setItem('mistifyAdminToken', response.token)
       onLogin(response.token)
       window.history.pushState({}, '', '/admin/products')
       window.dispatchEvent(new PopStateEvent('popstate'))
     } catch {
-      setError('Invalid admin password.')
+      setError('Invalid admin credentials.')
     } finally {
       setIsSubmitting(false)
       setPassword('')
@@ -50,6 +51,15 @@ function AdminLoginPage({ onLogin }: AdminLoginPageProps) {
             Manage product mappings, public helper chips, and curated fragrance lists.
           </p>
         </div>
+        <label htmlFor="admin-username">Username</label>
+        <input
+          id="admin-username"
+          type="text"
+          value={username}
+          autoComplete="username"
+          placeholder="Enter admin username"
+          onChange={(event) => setUsername(event.target.value)}
+        />
         <label htmlFor="admin-password">Password</label>
         <input
           id="admin-password"
@@ -60,7 +70,7 @@ function AdminLoginPage({ onLogin }: AdminLoginPageProps) {
           onChange={(event) => setPassword(event.target.value)}
         />
         {error ? <p className="admin-error">{error}</p> : null}
-        <button type="submit" disabled={isSubmitting || !password}>
+        <button type="submit" disabled={isSubmitting || !username || !password}>
           {isSubmitting ? 'Checking...' : 'Log In'}
         </button>
         <p className="admin-login-meta">Protected workspace · Session stored only in this browser tab.</p>

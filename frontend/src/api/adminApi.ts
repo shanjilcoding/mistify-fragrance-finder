@@ -82,13 +82,13 @@ async function readJson<T extends object>(response: Response): Promise<T> {
   return data as T
 }
 
-export async function loginAdmin(password: string) {
+export async function loginAdmin(username: string, password: string) {
   const response = await fetch(`${apiUrl}/admin/login`, {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
     },
-    body: JSON.stringify({ password }),
+    body: JSON.stringify({ username, password }),
   })
 
   return readJson<{ token: string; expiresInSeconds: number }>(response)

@@ -14,7 +14,7 @@ function validateProductionEnv() {
     return
   }
 
-  const missingEnvVars = ['FRONTEND_URL', 'DATABASE_URL', 'ADMIN_PASSWORD'].filter(
+  const missingEnvVars = ['FRONTEND_URL', 'DATABASE_URL', 'ADMIN_USERNAME', 'ADMIN_PASSWORD'].filter(
     (key) => !process.env[key]?.trim(),
   )
 

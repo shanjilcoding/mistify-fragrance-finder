@@ -1,4 +1,4 @@
-import { randomBytes, timingSafeEqual } from 'crypto'
+import { createHash, randomBytes, timingSafeEqual } from 'crypto'
 import { Router } from 'express'
 import type { NextFunction, Request, Response } from 'express'
 import rateLimit from 'express-rate-limit'
@@ -7,6 +7,8 @@ import { z } from 'zod'
 import { db } from '../db/connection'
 import { allowedOrigins } from '../utils/env'
 import {
+  adminAuditLogs,
+  adminSessions,
   curatedChipFragrances,
   curatedChips,
   fragrances,
@@ -19,7 +21,6 @@ const maxPageSize = 50
 const maxActiveGenericPromptChips = 30
 const maxActiveCuratedChips = 8
 const maxCuratedChipFragrances = 25
-const adminTokens = new Map<string, number>()
 
 const adminLoginLimiter = rateLimit({
   windowMs: 15 * 60 * 1000,
@@ -73,6 +74,7 @@ const placeholderProductNameSql = sql.join(
 )
 
 const loginSchema = z.object({
+  username: z.string().trim().max(100).optional(),
   password: z.string().min(1).max(200),
 })
 
@@ -176,10 +178,29 @@ function safeStringCompare(input: string, expected: string) {
   return timingSafeEqual(inputBuffer, expectedBuffer)
 }
 
-function createAdminToken() {
+function hashAdminToken(token: string) {
+  return createHash('sha256').update(token).digest('hex')
+}
+
+function getClientIp(req: Request) {
+  return req.ip || req.socket.remoteAddress || null
+}
+
+async function createAdminToken(req: Request) {
   const token = randomBytes(32).toString('hex')
-  adminTokens.set(token, Date.now() + tokenTtlMs)
-  return token
+  const expiresAt = new Date(Date.now() + tokenTtlMs)
+  const [session] = await db
+    .insert(adminSessions)
+    .values({
+      tokenHash: hashAdminToken(token),
+      expiresAt,
+      lastUsedAt: new Date(),
+      ipAddress: getClientIp(req),
+      userAgent: req.header('user-agent') ?? null,
+    })
+    .returning()
+
+  return { token, session }
 }
 
 function getAdminBearerToken(req: Request) {
@@ -187,20 +208,39 @@ function getAdminBearerToken(req: Request) {
   return header?.startsWith('Bearer ') ? header.slice(7).trim() : ''
 }
 
-function requireAdminToken(req: Request, res: Response, next: NextFunction) {
-  const token = getAdminBearerToken(req)
-  const expiresAt = token ? adminTokens.get(token) : undefined
+async function requireAdminToken(req: Request, res: Response, next: NextFunction) {
+  try {
+    const token = getAdminBearerToken(req)
+    const tokenHash = token ? hashAdminToken(token) : ''
+    const [session] = tokenHash
+      ? await db
+          .select()
+          .from(adminSessions)
+          .where(eq(adminSessions.tokenHash, tokenHash))
+          .limit(1)
+      : []
 
-  if (!token || !expiresAt || expiresAt <= Date.now()) {
-    if (token) {
-      adminTokens.delete(token)
+    if (!token || !session || session.revokedAt || session.expiresAt <= new Date()) {
+      if (session && !session.revokedAt) {
+        await db
+          .update(adminSessions)
+          .set({ revokedAt: new Date() })
+          .where(eq(adminSessions.id, session.id))
+      }
+
+      res.status(401).json({ error: 'Admin authorization is required.' })
+      return
     }
 
-    res.status(401).json({ error: 'Admin authorization is required.' })
-    return
+    res.locals.adminSessionId = session.id
+    await db
+      .update(adminSessions)
+      .set({ lastUsedAt: new Date() })
+      .where(eq(adminSessions.id, session.id))
+    next()
+  } catch (error) {
+    next(error)
   }
-
-  next()
 }
 
 function getOriginFromUrl(value: string) {
@@ -224,6 +264,37 @@ function requireAllowedAdminOrigin(req: Request, res: Response, next: NextFuncti
   }
 
   next()
+}
+
+type AdminAuditDetails = {
+  action: string
+  entityType: string
+  entityId?: string | number
+  summary: string
+  requestJson?: Record<string, unknown>
+}
+
+async function writeAdminAuditLog(req: Request, res: Response, details: AdminAuditDetails) {
+  try {
+    await db.insert(adminAuditLogs).values({
+      sessionId: typeof res.locals.adminSessionId === 'number' ? res.locals.adminSessionId : null,
+      action: details.action,
+      entityType: details.entityType,
+      entityId: details.entityId === undefined ? null : String(details.entityId),
+      summary: details.summary,
+      requestJson: details.requestJson ?? null,
+      ipAddress: getClientIp(req),
+      userAgent: req.header('user-agent') ?? null,
+    })
+  } catch (error) {
+    console.warn('[admin] audit log write failed', error)
+  }
+}
+
+function auditRequestBody(req: Request) {
+  return typeof req.body === 'object' && req.body !== null
+    ? (req.body as Record<string, unknown>)
+    : undefined
 }
 
 function toAdminProduct(row: typeof fragrances.$inferSelect) {
@@ -384,34 +455,53 @@ function buildProductFilters(query: z.infer<typeof productQuerySchema>) {
 adminRouter.use(requireAllowedAdminOrigin)
 adminRouter.use(adminRouteLimiter)
 
-adminRouter.post('/login', adminLoginLimiter, (req, res) => {
-  const parsed = loginSchema.safeParse(req.body)
-  const adminPassword = process.env.ADMIN_PASSWORD
+adminRouter.post('/login', adminLoginLimiter, async (req, res, next) => {
+  try {
+    const parsed = loginSchema.safeParse(req.body)
+    const adminUsername = process.env.ADMIN_USERNAME?.trim()
+    const adminPassword = process.env.ADMIN_PASSWORD
 
-  if (!parsed.success || !adminPassword) {
-    res.status(401).json({ error: 'Invalid admin password.' })
-    return
+    if (!parsed.success || !adminPassword) {
+      res.status(401).json({ error: 'Invalid admin credentials.' })
+      return
+    }
+
+    if (adminUsername && !safeStringCompare(parsed.data.username ?? '', adminUsername)) {
+      res.status(401).json({ error: 'Invalid admin credentials.' })
+      return
+    }
+
+    if (!safeStringCompare(parsed.data.password, adminPassword)) {
+      res.status(401).json({ error: 'Invalid admin credentials.' })
+      return
+    }
+
+    const { token } = await createAdminToken(req)
+
+    res.json({
+      token,
+      expiresInSeconds: Math.floor(tokenTtlMs / 1000),
+    })
+  } catch (error) {
+    next(error)
   }
-
-  if (!safeStringCompare(parsed.data.password, adminPassword)) {
-    res.status(401).json({ error: 'Invalid admin password.' })
-    return
-  }
-
-  res.json({
-    token: createAdminToken(),
-    expiresInSeconds: Math.floor(tokenTtlMs / 1000),
-  })
 })
 
-adminRouter.post('/logout', requireAdminToken, (req, res) => {
-  const token = getAdminBearerToken(req)
+adminRouter.post('/logout', requireAdminToken, async (req, res, next) => {
+  try {
+    const token = getAdminBearerToken(req)
 
-  if (token) {
-    adminTokens.delete(token)
+    if (token) {
+      await db
+        .update(adminSessions)
+        .set({ revokedAt: new Date() })
+        .where(eq(adminSessions.tokenHash, hashAdminToken(token)))
+    }
+
+    res.json({ success: true })
+  } catch (error) {
+    next(error)
   }
-
-  res.json({ success: true })
 })
 
 adminRouter.get('/products', requireAdminToken, adminProductsGetLimiter, async (req, res, next) => {
@@ -499,6 +589,14 @@ adminRouter.patch('/products/:id', requireAdminToken, adminProductsPatchLimiter,
       res.status(404).json({ error: 'Product not found.' })
       return
     }
+
+    await writeAdminAuditLog(req, res, {
+      action: 'update_product',
+      entityType: 'fragrance',
+      entityId: updatedProduct.id,
+      summary: `Updated product mapping for fragrance ${updatedProduct.id}.`,
+      requestJson: auditRequestBody(req),
+    })
 
     res.json({ product: toAdminProduct(updatedProduct) })
   } catch (error) {
@@ -623,6 +721,14 @@ adminRouter.post('/prompt-chips', requireAdminToken, async (req, res, next) => {
       })
       .returning()
 
+    await writeAdminAuditLog(req, res, {
+      action: 'create_prompt_chip',
+      entityType: 'generic_prompt_chip',
+      entityId: chip.id,
+      summary: `Created prompt chip ${chip.id}.`,
+      requestJson: auditRequestBody(req),
+    })
+
     res.status(201).json({ chip: toAdminGenericPromptChip(chip) })
   } catch (error) {
     next(error)
@@ -679,6 +785,13 @@ adminRouter.patch('/prompt-chips/reorder', requireAdminToken, async (req, res) =
       .from(genericPromptChips)
       .orderBy(asc(genericPromptChips.sortOrder), asc(genericPromptChips.id))
 
+    await writeAdminAuditLog(req, res, {
+      action: 'reorder_prompt_chips',
+      entityType: 'generic_prompt_chip',
+      summary: `Reordered ${normalizedItems.length} prompt chips.`,
+      requestJson: auditRequestBody(req),
+    })
+
     res.json({ chips: updatedChips.map(toAdminGenericPromptChip) })
   } catch (error) {
     console.error('[admin] generic prompt chip reorder failed', error)
@@ -723,6 +836,14 @@ adminRouter.patch('/prompt-chips/:id', requireAdminToken, async (req, res, next)
       res.status(404).json({ error: 'Prompt chip not found.' })
       return
     }
+
+    await writeAdminAuditLog(req, res, {
+      action: 'update_prompt_chip',
+      entityType: 'generic_prompt_chip',
+      entityId: chip.id,
+      summary: `Updated prompt chip ${chip.id}.`,
+      requestJson: auditRequestBody(req),
+    })
 
     res.json({ chip: toAdminGenericPromptChip(chip) })
   } catch (error) {
@@ -791,6 +912,13 @@ adminRouter.post('/prompt-chips/bulk', requireAdminToken, async (req, res, next)
       ? await db.insert(genericPromptChips).values(validChips).returning()
       : []
 
+    await writeAdminAuditLog(req, res, {
+      action: 'bulk_create_prompt_chips',
+      entityType: 'generic_prompt_chip',
+      summary: `Bulk-created ${createdChips.length} prompt chips and skipped ${skipped.length}.`,
+      requestJson: auditRequestBody(req),
+    })
+
     res.status(201).json({
       created: createdChips.length,
       skipped: skipped.length,
@@ -812,7 +940,20 @@ adminRouter.delete('/prompt-chips/:id', requireAdminToken, async (req, res, next
       return
     }
 
-    await db.delete(genericPromptChips).where(eq(genericPromptChips.id, id.data))
+    const [deletedChip] = await db
+      .delete(genericPromptChips)
+      .where(eq(genericPromptChips.id, id.data))
+      .returning()
+
+    if (deletedChip) {
+      await writeAdminAuditLog(req, res, {
+        action: 'delete_prompt_chip',
+        entityType: 'generic_prompt_chip',
+        entityId: deletedChip.id,
+        summary: `Deleted prompt chip ${deletedChip.id}.`,
+      })
+    }
+
     res.json({ success: true })
   } catch (error) {
     next(error)
@@ -845,6 +986,14 @@ adminRouter.post('/chips', requireAdminToken, async (req, res, next) => {
         updatedAt: new Date(),
       })
       .returning()
+
+    await writeAdminAuditLog(req, res, {
+      action: 'create_curated_chip',
+      entityType: 'curated_chip',
+      entityId: chip.id,
+      summary: `Created curated chip ${chip.id}.`,
+      requestJson: auditRequestBody(req),
+    })
 
     res.status(201).json({ chip: toAdminChip(chip) })
   } catch (error) {
@@ -891,6 +1040,14 @@ adminRouter.patch('/chips/:id', requireAdminToken, async (req, res, next) => {
       return
     }
 
+    await writeAdminAuditLog(req, res, {
+      action: 'update_curated_chip',
+      entityType: 'curated_chip',
+      entityId: chip.id,
+      summary: `Updated curated chip ${chip.id}.`,
+      requestJson: auditRequestBody(req),
+    })
+
     res.json({ chip: toAdminChip(chip) })
   } catch (error) {
     next(error)
@@ -906,7 +1063,17 @@ adminRouter.delete('/chips/:id', requireAdminToken, async (req, res, next) => {
       return
     }
 
-    await db.delete(curatedChips).where(eq(curatedChips.id, id.data))
+    const [deletedChip] = await db.delete(curatedChips).where(eq(curatedChips.id, id.data)).returning()
+
+    if (deletedChip) {
+      await writeAdminAuditLog(req, res, {
+        action: 'delete_curated_chip',
+        entityType: 'curated_chip',
+        entityId: deletedChip.id,
+        summary: `Deleted curated chip ${deletedChip.id}.`,
+      })
+    }
+
     res.json({ success: true })
   } catch (error) {
     next(error)
@@ -993,6 +1160,14 @@ adminRouter.post('/chips/:id/fragrances', requireAdminToken, async (req, res) =>
       })
       .returning()
 
+    await writeAdminAuditLog(req, res, {
+      action: 'add_curated_chip_fragrance',
+      entityType: 'curated_chip_fragrance',
+      entityId: selection.id,
+      summary: `Added fragrance ${selection.fragranceId} to curated chip ${selection.chipId}.`,
+      requestJson: auditRequestBody(req),
+    })
+
     res.status(201).json({ fragrance: toAdminChipFragrance(selection, fragrance) })
   } catch (error) {
     console.error('[admin] curated chip fragrance add failed', error)
@@ -1037,6 +1212,14 @@ adminRouter.patch('/chips/:id/fragrances/:fragranceId', requireAdminToken, async
       return
     }
 
+    await writeAdminAuditLog(req, res, {
+      action: 'update_curated_chip_fragrance',
+      entityType: 'curated_chip_fragrance',
+      entityId: selection.id,
+      summary: `Updated fragrance ${selection.fragranceId} on curated chip ${selection.chipId}.`,
+      requestJson: auditRequestBody(req),
+    })
+
     res.json({ fragrance: toAdminChipFragrance(selection, fragrance) })
   } catch (error) {
     console.error('[admin] curated chip fragrance update failed', error)
@@ -1054,7 +1237,7 @@ adminRouter.delete('/chips/:id/fragrances/:fragranceId', requireAdminToken, asyn
       return
     }
 
-    await db
+    const [deletedSelection] = await db
       .delete(curatedChipFragrances)
       .where(
         and(
@@ -1062,6 +1245,16 @@ adminRouter.delete('/chips/:id/fragrances/:fragranceId', requireAdminToken, asyn
           eq(curatedChipFragrances.fragranceId, fragranceId.data),
         ),
       )
+      .returning()
+
+    if (deletedSelection) {
+      await writeAdminAuditLog(req, res, {
+        action: 'delete_curated_chip_fragrance',
+        entityType: 'curated_chip_fragrance',
+        entityId: deletedSelection.id,
+        summary: `Removed fragrance ${deletedSelection.fragranceId} from curated chip ${deletedSelection.chipId}.`,
+      })
+    }
 
     res.json({ success: true })
   } catch (error) {
