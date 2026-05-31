@@ -1,4 +1,5 @@
 import { useState, useSyncExternalStore } from 'react'
+import { logoutAdmin } from './api/adminApi'
 import ChatPage from './pages/ChatPage'
 import AdminLoginPage from './pages/AdminLoginPage'
 import AdminProductsPage from './pages/AdminProductsPage'
@@ -11,6 +12,10 @@ function App() {
   )
 
   function handleLogout() {
+    if (adminToken) {
+      void logoutAdmin(adminToken).catch(() => undefined)
+    }
+
     sessionStorage.removeItem('mistifyAdminToken')
     setAdminToken('')
     window.history.pushState({}, '', '/admin/login')

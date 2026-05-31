@@ -5,6 +5,7 @@ import rateLimit from 'express-rate-limit'
 import { and, asc, count, desc, eq, ilike, inArray, isNull, or, sql } from 'drizzle-orm'
 import { z } from 'zod'
 import { db } from '../db/connection'
+import { allowedOrigins } from '../utils/env'
 import {
   curatedChipFragrances,
   curatedChips,
@@ -27,6 +28,16 @@ const adminLoginLimiter = rateLimit({
   legacyHeaders: false,
   message: {
     error: 'Too many admin login attempts. Please wait and try again.',
+  },
+})
+
+const adminRouteLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000,
+  limit: 200,
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: {
+    error: 'Too many admin requests. Please wait a moment and try again.',
   },
 })
 
@@ -171,9 +182,13 @@ function createAdminToken() {
   return token
 }
 
-function requireAdminToken(req: Request, res: Response, next: NextFunction) {
+function getAdminBearerToken(req: Request) {
   const header = req.header('authorization')
-  const token = header?.startsWith('Bearer ') ? header.slice(7).trim() : ''
+  return header?.startsWith('Bearer ') ? header.slice(7).trim() : ''
+}
+
+function requireAdminToken(req: Request, res: Response, next: NextFunction) {
+  const token = getAdminBearerToken(req)
   const expiresAt = token ? adminTokens.get(token) : undefined
 
   if (!token || !expiresAt || expiresAt <= Date.now()) {
@@ -182,6 +197,29 @@ function requireAdminToken(req: Request, res: Response, next: NextFunction) {
     }
 
     res.status(401).json({ error: 'Admin authorization is required.' })
+    return
+  }
+
+  next()
+}
+
+function getOriginFromUrl(value: string) {
+  try {
+    return new URL(value).origin
+  } catch {
+    return ''
+  }
+}
+
+function requireAllowedAdminOrigin(req: Request, res: Response, next: NextFunction) {
+  const origin = req.header('origin')
+  const refererOrigin = getOriginFromUrl(req.header('referer') ?? '')
+
+  if (
+    (origin && !allowedOrigins.has(origin)) ||
+    (!origin && refererOrigin && !allowedOrigins.has(refererOrigin))
+  ) {
+    res.status(403).json({ error: 'Admin request origin is not allowed.' })
     return
   }
 
@@ -343,6 +381,9 @@ function buildProductFilters(query: z.infer<typeof productQuerySchema>) {
   return filters.length ? and(...filters) : undefined
 }
 
+adminRouter.use(requireAllowedAdminOrigin)
+adminRouter.use(adminRouteLimiter)
+
 adminRouter.post('/login', adminLoginLimiter, (req, res) => {
   const parsed = loginSchema.safeParse(req.body)
   const adminPassword = process.env.ADMIN_PASSWORD
@@ -361,6 +402,16 @@ adminRouter.post('/login', adminLoginLimiter, (req, res) => {
     token: createAdminToken(),
     expiresInSeconds: Math.floor(tokenTtlMs / 1000),
   })
+})
+
+adminRouter.post('/logout', requireAdminToken, (req, res) => {
+  const token = getAdminBearerToken(req)
+
+  if (token) {
+    adminTokens.delete(token)
+  }
+
+  res.json({ success: true })
 })
 
 adminRouter.get('/products', requireAdminToken, adminProductsGetLimiter, async (req, res, next) => {

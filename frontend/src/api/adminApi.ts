@@ -94,6 +94,17 @@ export async function loginAdmin(password: string) {
   return readJson<{ token: string; expiresInSeconds: number }>(response)
 }
 
+export async function logoutAdmin(token: string) {
+  const response = await fetch(`${apiUrl}/admin/logout`, {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${token}`,
+    },
+  })
+
+  return readJson<{ success: boolean }>(response)
+}
+
 export async function getAdminProducts(
   token: string,
   query: AdminProductsQuery,

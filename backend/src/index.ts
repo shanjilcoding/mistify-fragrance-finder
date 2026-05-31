@@ -3,6 +3,7 @@ import cors from 'cors'
 import express from 'express'
 import type { NextFunction, Request, Response } from 'express'
 import helmet from 'helmet'
+import { allowedOrigins } from './utils/env'
 import adminRouter from './routes/adminRoutes'
 import chatRouter from './routes/chatRoutes'
 import chipRouter from './routes/chipRoutes'
@@ -11,16 +12,6 @@ import recommendationOptionsRouter from './routes/recommendationOptionsRoutes'
 
 const app = express()
 const port = Number(process.env.PORT) || 5000
-const frontendUrl = process.env.FRONTEND_URL?.trim()
-const allowedOrigins = new Set(
-  [frontendUrl, 'http://localhost:5173', 'http://localhost:3000'].filter(
-    (origin): origin is string => Boolean(origin),
-  ),
-)
-
-if (process.env.NODE_ENV === 'production' && !frontendUrl) {
-  console.warn('[security] FRONTEND_URL is not set; production CORS will only allow known local origins.')
-}
 
 app.set('trust proxy', 1)
 app.use(helmet())
@@ -57,14 +48,14 @@ app.use(
     res: Response,
     _next: NextFunction,
   ) => {
-    const statusCode =
+    const isJsonParseError =
       error instanceof SyntaxError ||
       (typeof error === 'object' &&
         error !== null &&
         'type' in error &&
         error.type === 'entity.parse.failed')
-        ? 400
-        : 500
+    const isCorsError = error instanceof Error && error.message === 'Not allowed by CORS'
+    const statusCode = isJsonParseError ? 400 : isCorsError ? 403 : 500
 
     console.warn(
       `[api] safeError status=${statusCode} type=${
@@ -73,9 +64,10 @@ app.use(
     )
 
     res.status(statusCode).json({
-      error:
-        statusCode === 400
-          ? 'Invalid request body.'
+      error: isJsonParseError
+        ? 'Invalid request body.'
+        : isCorsError
+          ? 'Origin is not allowed.'
           : 'Something went wrong. Please try again later.',
     })
   },
