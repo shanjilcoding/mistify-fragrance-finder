@@ -1,0 +1,41 @@
+{
+  "name": "mistify-chatbot-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "import:kilian": "tsx src/scripts/importKilianFragrances.ts",
+    "import:ratings": "tsx src/scripts/importFragranceRatings.ts",
+    "import:fragrances": "tsx src/scripts/importFragrances.ts",
+    "evaluate:recommendations": "tsx src/scripts/evaluateRecommendations.ts",
+    "benchmark:recommendations": "tsx src/scripts/benchmarkRecommendations.ts",
+    "regression:recommendations": "tsx src/scripts/regressionRecommendations.ts",
+    "check:mistify-products": "tsx src/scripts/checkMistifyProductNames.ts",
+    "update:mistify-products": "tsx src/scripts/updateMistifyProductsFromCsv.ts",
+    "update:fragrance-audience": "tsx src/scripts/updateFragranceAudienceFromCsv.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Express API for the Mistify fragrance recommendation chatbot.",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "drizzle-orm": "^0.45.2",
+    "express": "^4.0.0",
+    "express-rate-limit": "^7.0.0",
+    "helmet": "^7.0.0",
+    "pg": "^8.20.0",
+    "zod": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.0",
+    "@types/express": "^4.17.0",
+    "@types/node": "^20.0.0",
+    "@types/pg": "^8.20.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
