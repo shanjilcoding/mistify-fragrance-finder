@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import type { Recommendation } from '../api/chatApi'
+import { buildScentDna } from '../utils/scentDna'
 
 type FragranceCardProps = {
   recommendation: Recommendation
@@ -398,71 +399,6 @@ const wardrobeRoles = [
   'Wildcard pick',
 ]
 
-function noteTextIncludes(notes: string[], terms: string[]) {
-  const normalizedNotes = notes.join(' ').toLowerCase()
-
-  return terms.some((term) => normalizedNotes.includes(term))
-}
-
-function clampProfileScore(value: number) {
-  return Math.max(18, Math.min(96, value))
-}
-
-function buildScentDna(recommendation: Recommendation, notes: string[]) {
-  const classification = recommendation.classification?.toLowerCase() ?? ''
-  const bestSeasons = recommendation.rating?.bestSeasons?.join(' ').toLowerCase() ?? ''
-  const bestTime = recommendation.rating?.bestTime?.toLowerCase() ?? ''
-  const profile = [
-    ...(recommendation.scentProfile ?? []),
-    ...(recommendation.matchedVibes ?? []),
-  ].join(' ').toLowerCase()
-  const corpus = `${classification} ${bestSeasons} ${bestTime} ${profile}`
-
-  return [
-    {
-      label: 'Fresh',
-      value: clampProfileScore(
-        34 +
-          (noteTextIncludes(notes, ['citrus', 'bergamot', 'lemon', 'grapefruit', 'orange', 'neroli', 'aquatic']) ? 34 : 0) +
-          (corpus.includes('fresh') || corpus.includes('summer') || corpus.includes('day') ? 18 : 0),
-      ),
-    },
-    {
-      label: 'Sweet',
-      value: clampProfileScore(
-        28 +
-          (noteTextIncludes(notes, ['vanilla', 'honey', 'caramel', 'tonka', 'praline', 'sugar']) ? 38 : 0) +
-          (corpus.includes('sweet') ? 18 : 0),
-      ),
-    },
-    {
-      label: 'Warm',
-      value: clampProfileScore(
-        30 +
-          (noteTextIncludes(notes, ['amber', 'tobacco', 'cinnamon', 'spice', 'oud', 'leather', 'wood']) ? 38 : 0) +
-          (corpus.includes('winter') || corpus.includes('night') || corpus.includes('warm') ? 16 : 0),
-      ),
-    },
-    {
-      label: 'Woody',
-      value: clampProfileScore(
-        24 +
-          (noteTextIncludes(notes, ['wood', 'cedar', 'sandalwood', 'vetiver', 'oud', 'patchouli']) ? 44 : 0) +
-          (classification.includes('woody') ? 18 : 0),
-      ),
-    },
-    {
-      label: 'Loud',
-      value: clampProfileScore(
-        26 +
-          (bestTime.includes('night') ? 16 : 0) +
-          (noteTextIncludes(notes, ['oud', 'tobacco', 'leather', 'saffron', 'patchouli']) ? 24 : 0) +
-          ((recommendation.matchScore ?? 0) >= 92 ? 8 : 0),
-      ),
-    },
-  ]
-}
-
 function useFragranceCardContent({
   recommendation,
   rank,
@@ -641,7 +577,7 @@ function useFragranceCardContent({
     sharedWithReference.length ||
     differentFromReference.length ||
     missingFromReference.length
-  const scentDna = buildScentDna(recommendation, combinedNotes)
+  const scentDna = buildScentDna(recommendation)
   const productItems = [
     {
       label: 'Displayed as',

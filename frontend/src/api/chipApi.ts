@@ -1,3 +1,5 @@
+import { apiUrl } from './apiUrl'
+
 export type PublicChip = {
   id: number
   label: string
@@ -11,8 +13,6 @@ export type PublicPromptChip = {
   prompt: string
   sortOrder: number
 }
-
-const apiUrl = import.meta.env.VITE_API_URL ?? (import.meta.env.DEV ? 'http://localhost:5000/api' : '/api')
 
 export async function getPublicChips() {
   const response = await fetch(`${apiUrl}/chips`)

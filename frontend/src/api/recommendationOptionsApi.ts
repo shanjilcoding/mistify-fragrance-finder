@@ -1,3 +1,5 @@
+import { apiUrl } from './apiUrl'
+
 export type RecommendationOption = {
   label: string
   value: string
@@ -14,8 +16,6 @@ export type RecommendationOptions = {
   notes: RecommendationOptionGroup[]
   avoids: RecommendationOptionGroup[]
 }
-
-const apiUrl = import.meta.env.VITE_API_URL ?? (import.meta.env.DEV ? 'http://localhost:5000/api' : '/api')
 
 export async function getRecommendationOptions() {
   const response = await fetch(`${apiUrl}/recommendation-options`)

@@ -67,7 +67,7 @@ function ChatBox({
           )}
         </button>
       </div>
-      {characterCount > 0 ? (
+      {isNearLimit ? (
         <p
           className={`character-count ${isNearLimit ? 'near-limit' : ''} ${
             isAtLimit ? 'limit' : ''

@@ -1,3 +1,5 @@
+import { apiUrl } from './apiUrl'
+
 export type Recommendation = {
   mistifyProductName?: string
   mistifyProductUrl?: string | null
@@ -94,8 +96,6 @@ export type ChatRequestContext = {
 type ErrorResponse = {
   error: string
 }
-
-const apiUrl = import.meta.env.VITE_API_URL ?? (import.meta.env.DEV ? 'http://localhost:5000/api' : '/api')
 
 export async function sendChatMessage(
   message: string,
