@@ -1,5 +1,5 @@
 {
-  "name": "mistify-chatbot-backend",
+  "name": "mistify-fragrance-finder-backend",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "Express API for the Mistify fragrance recommendation chatbot.",
+  "description": "Express API for the Mistify Fragrance Finder recommendation app.",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",

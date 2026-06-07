@@ -8,8 +8,32 @@ A customer can describe the kind of scent they want, build a guided fragrance br
 
 The project is built as a practical AI/product recommendation system. Deterministic scoring selects products first. Gemini can optionally help with short explanation text, but the AI layer is not allowed to invent products, notes, sources, ratings, URLs, or official claims.
 
+## For recruiters and reviewers
+
+This project shows practical full-stack AI implementation work, not a wrapper around a chat prompt. The core recommendation flow combines a React customer UI, an Express/TypeScript API, PostgreSQL-backed product data, deterministic ranking, request validation, prompt-injection checks, and optional backend-only AI explanation support.
+
+What I built:
+
+- A public fragrance finder with Concierge, Guided, and Reference search modes.
+- A backend recommendation API that keeps product selection grounded in database rows.
+- Admin tools for curated prompt chips and allowed product metadata updates.
+- Safety controls for off-topic requests, prompt-injection-like input, CORS, rate limiting, request validation, and safe API errors.
+- Data-quality scripts for imports, audits, recommendation evaluation, regression checks, and performance benchmarking.
+
+## Tech stack
+
+| Area | Tools |
+| --- | --- |
+| Frontend | React, TypeScript, Vite, CSS |
+| Backend | Node.js, Express, TypeScript |
+| Database | PostgreSQL/Supabase, Drizzle ORM |
+| Optional AI layer | Gemini, backend-only explanation support |
+| Quality/security | Zod validation, Helmet, CORS allowlist, rate limiting, prompt-injection/topic guards |
+
 ## Table of contents
 
+- [For recruiters and reviewers](#for-recruiters-and-reviewers)
+- [Tech stack](#tech-stack)
 - [Quick start for complete beginners on Windows](#quick-start-for-complete-beginners-on-windows)
 - [Screenshots](#screenshots)
 - [Features](#features)
@@ -135,9 +159,12 @@ Now open `backend\.env` in a text editor and set the backend values:
 
 ```env
 PORT=5000
+NODE_ENV=development
 FRONTEND_URL=http://localhost:5173
+ADMIN_FRONTEND_URL=
 DATABASE_URL=your_postgres_connection_string
 GEMINI_API_KEY=
+ADMIN_USERNAME=admin
 ADMIN_PASSWORD=change-me-for-local-dev
 ```
 
@@ -430,18 +457,24 @@ Create `backend/.env` from `backend/.env.example`:
 
 ```env
 PORT=5000
+NODE_ENV=development
 FRONTEND_URL=http://localhost:5173
+ADMIN_FRONTEND_URL=
 DATABASE_URL=your_postgres_connection_string
 GEMINI_API_KEY=
+ADMIN_USERNAME=admin
 ADMIN_PASSWORD=change-me-for-local-dev
 ```
 
 Backend variables:
 
 - `PORT`: local API port. Default is `5000`.
-- `FRONTEND_URL`: allowed frontend origin for CORS.
+- `NODE_ENV`: local runtime mode. Use `development` for local setup.
+- `FRONTEND_URL`: allowed public frontend origin for CORS.
+- `ADMIN_FRONTEND_URL`: optional separate admin frontend origin when deployed separately. Leave blank for normal local setup.
 - `DATABASE_URL`: PostgreSQL/Supabase connection string used by the recommendation API.
 - `GEMINI_API_KEY`: optional Gemini key for explanation support.
+- `ADMIN_USERNAME`: admin username for local/admin login.
 - `ADMIN_PASSWORD`: password used for local admin login.
 
 ### Frontend environment
