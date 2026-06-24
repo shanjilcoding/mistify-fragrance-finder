@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 265,
+    "fragranceSlug": "prada-paradoxe-265",
+    "brandName": "Prada",
+    "brandSlug": "prada",
+    "originalFragranceName": "Paradoxe",
+    "originalFragranceSlug": "prada-paradoxe",
+    "mistifyProductName": "Paradiis",
+    "mistifyProductSlug": "paradiis",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradiis",
+    "publicInspiredByLabel": "Inspired by Prada Paradoxe",
+    "audience": "unisex",
+    "classification": "Amber Floral",
+    "topNotes": [
+      "Calabrian Bergamot",
+      "Tangerine",
+      "Pear"
+    ],
+    "middleNotes": [
+      "Neroli",
+      "Orange Blossom",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Amber",
+      "White Musk",
+      "Benzoin",
+      "Vanilla"
+    ],
+    "allNotes": [
+      "Calabrian Bergamot",
+      "Tangerine",
+      "Pear",
+      "Neroli",
+      "Orange Blossom",
+      "Jasmine",
+      "Amber",
+      "White Musk",
+      "Benzoin",
+      "Vanilla"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-38-29PM-_1.png?v=1773460252",
+    "searchableText": "Prada prada Prada Paradoxe Paradiis Amber Floral unisex Calabrian Bergamot Tangerine Pear Neroli Orange Blossom Jasmine Amber White Musk Benzoin Vanilla",
+    "createdAt": "2026-05-04T04:41:40.135Z"
+  }
+}

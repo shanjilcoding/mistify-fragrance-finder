@@ -1,0 +1,35 @@
+{
+  "fragrance": {
+    "id": 6,
+    "fragranceSlug": "guerlain-vanille-planifolia-extrait-21-6",
+    "brandName": "Guerlain",
+    "brandSlug": "guerlain",
+    "originalFragranceName": "Vanille Planifolia Extrait 21",
+    "originalFragranceSlug": "guerlain-vanille-planifolia-extrait-21",
+    "mistifyProductName": "Not verified on Mistify",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Guerlain Vanille Planifolia Extrait 21",
+    "audience": null,
+    "classification": "Oriental Vanilla",
+    "topNotes": [],
+    "middleNotes": [
+      "Vanilla",
+      "Spices",
+      "Amber",
+      "Opoponax",
+      "Musk"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Vanilla",
+      "Spices",
+      "Amber",
+      "Opoponax",
+      "Musk"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Guerlain guerlain Guerlain Vanille Planifolia Extrait 21 Not verified on Mistify Oriental Vanilla Vanilla Spices Amber Opoponax Musk",
+    "createdAt": "2026-05-04T04:41:24.857Z"
+  }
+}

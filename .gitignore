@@ -84,7 +84,14 @@ desktop.ini
 scratch/
 drafts/
 local-imports/
+.claude/
+.codex/
+.cursor/
+.windsurf/
+CLAUDE.md
+*_CLAUDE_PROMPT.md
 
 # Deployment/system files
 .vercel/
 .netlify/
+.vercel

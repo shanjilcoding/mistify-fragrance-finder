@@ -1,0 +1,217 @@
+{
+  "fragrances": [
+    {
+      "id": 50,
+      "fragranceSlug": "louis-vuitton-pur-santal-50",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Pur Santal",
+      "originalFragranceSlug": "louis-vuitton-pur-santal",
+      "mistifyProductName": "Pur Santelle",
+      "mistifyProductSlug": "pur-santelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pur-santelle",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Pur Santal",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay10_2026_08_22_34AM.png?v=1778415760",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Pur Santal Pur Santelle Woody Floral Musk Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.416Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 193,
+      "fragranceSlug": "dolce-and-gabbana-velvet-desert-oud-193",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Velvet Desert Oud",
+      "originalFragranceSlug": "dolce-and-gabbana-velvet-desert-oud",
+      "mistifyProductName": "Desert Velvet",
+      "mistifyProductSlug": "desert-velvet",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/desert-velvet",
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Desert Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [],
+      "middleNotes": [
+        "Incense",
+        "Agarwood/Oud",
+        "Amber",
+        "Musk"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Incense",
+        "Agarwood/Oud",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/DesertVelvet.png?v=1765422932",
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Desert Oud Desert Velvet Oriental unisex Incense Agarwood/Oud Amber Musk",
+      "createdAt": "2026-05-04T04:41:35.780Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 133,
+      "fragranceSlug": "creed-sublime-vanille-133",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Sublime Vanille",
+      "originalFragranceSlug": "creed-sublime-vanille",
+      "mistifyProductName": "Superb Vanilla",
+      "mistifyProductSlug": "superb-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/superb-vanilla",
+      "publicInspiredByLabel": "Inspired by Creed Sublime Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bourbon Vanilla",
+        "Lemon"
+      ],
+      "middleNotes": [],
+      "baseNotes": [
+        "Tonka Bean",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bourbon Vanilla",
+        "Lemon",
+        "Tonka Bean",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-35-41AM-_1.png?v=1773460548",
+      "searchableText": "Creed creed Creed Sublime Vanille Superb Vanilla Oriental Vanilla unisex Bourbon Vanilla Lemon Tonka Bean Musk",
+      "createdAt": "2026-05-04T04:41:32.256Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 155,
+      "fragranceSlug": "initio-absolute-aphrodisiac-155",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Absolute Aphrodisiac",
+      "originalFragranceSlug": "initio-absolute-aphrodisiac",
+      "mistifyProductName": "Sensual Aphrodite",
+      "mistifyProductSlug": "sensual-aphrodite",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sensual-aphrodite",
+      "publicInspiredByLabel": "Inspired by Initio Absolute Aphrodisiac",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-11-12-10AM-_1.png?v=1773460511",
+      "searchableText": "Initio initio parfums Initio Parfums Absolute Aphrodisiac Sensual Aphrodite Oriental Spicy unisex Vanilla Amber Castoreum Leather Musk White Flowers",
+      "createdAt": "2026-05-04T04:41:33.535Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 15,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte-15",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Celestia Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte",
+      "mistifyProductName": "Celestial Waters",
+      "mistifyProductSlug": "celestial-waters",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/celestial-waters",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Celestia Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Currant"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Jasmine",
+        "Mimosa",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-55-26AM-_1.png?v=1773460516",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Celestia Cologne Forte Celestial Waters Citrus Aromatic unisex Bergamot Black Currant Jasmine Mimosa Musk",
+      "createdAt": "2026-05-04T04:41:25.373Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 168,
+      "fragranceSlug": "montale-black-aoud-168",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Black Aoud",
+      "originalFragranceSlug": "montale-black-aoud",
+      "mistifyProductName": "Oud Noir",
+      "mistifyProductSlug": "oud-noir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-noir",
+      "publicInspiredByLabel": "Inspired by Montale Black Aoud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudNoir.png?v=1765422952",
+      "searchableText": "Montale montale Montale Black Aoud Oud Noir Woody Floral Musk unisex Rose Oud Patchouli Musk French Labdanum Mandarin Orange",
+      "createdAt": "2026-05-04T04:41:34.288Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    }
+  ]
+}

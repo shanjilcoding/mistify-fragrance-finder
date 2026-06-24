@@ -1,0 +1,314 @@
+{
+  "fragrances": [
+    {
+      "id": 160,
+      "fragranceSlug": "initio-rehab-160",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Rehab",
+      "originalFragranceSlug": "initio-rehab",
+      "mistifyProductName": "Rehabilitee",
+      "mistifyProductSlug": "rehabilitee",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rehabilitee",
+      "publicInspiredByLabel": "Inspired by Initio Rehab",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Rehabilitee.png?v=1765422993",
+      "searchableText": "Initio initio parfums Initio Parfums Rehab Rehabilitee Woody Aromatic unisex Lavender Bergamot Cedar Vetiver Patchouli Sandalwood Musk Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:33.822Z",
+      "sharedNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 148,
+      "fragranceSlug": "ysl-yves-saint-laurent-myslf-148",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "MYSLF",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-myslf",
+      "mistifyProductName": "MYSELF",
+      "mistifyProductSlug": "myself",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/myself",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) MYSLF",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Sage",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Ginger",
+        "Lavender",
+        "Sage",
+        "Orange Blossom",
+        "Cedarwood",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-19-50PM-_1.png?v=1773460424",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) MYSLF MYSELF Woody Aromatic mens Bergamot Ginger Lavender Sage Orange Blossom Cedarwood Ambergris",
+      "createdAt": "2026-05-04T04:41:33.134Z",
+      "sharedNotes": [
+        "Lavender",
+        "Bergamot"
+      ]
+    },
+    {
+      "id": 99,
+      "fragranceSlug": "parfums-de-marly-sedley-99",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Sedley",
+      "originalFragranceSlug": "parfums-de-marly-sedley",
+      "mistifyProductName": "Sédelle",
+      "mistifyProductSlug": "sedelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sedelle",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Sedley",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange",
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum",
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar14_2026_08_56_24PM.png?v=1773536190",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Sedley Sédelle Woody Aromatic unisex Mint Bergamot Grapefruit Lemon Mandarin Orange Lavender Rosemary Geranium Olibanum Ambroxan Sandalwood Vetiver Cedar Cashmeran Patchouli",
+      "createdAt": "2026-05-04T04:41:30.270Z",
+      "sharedNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 112,
+      "fragranceSlug": "parfums-de-marly-valero-112",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Valero",
+      "originalFragranceSlug": "parfums-de-marly-valero",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Valero",
+      "audience": null,
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Citron",
+        "Juniper"
+      ],
+      "middleNotes": [
+        "Geranium",
+        "Lavender",
+        "Cypress",
+        "Nutmeg"
+      ],
+      "baseNotes": [
+        "Ambrox Super",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Citron",
+        "Juniper",
+        "Geranium",
+        "Lavender",
+        "Cypress",
+        "Nutmeg",
+        "Ambrox Super",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valero Not verified Woody Aromatic Bergamot Citron Juniper Geranium Lavender Cypress Nutmeg Ambrox Super Patchouli Sandalwood",
+      "createdAt": "2026-05-04T04:41:31.034Z",
+      "sharedNotes": [
+        "Lavender",
+        "Bergamot"
+      ]
+    },
+    {
+      "id": 211,
+      "fragranceSlug": "rabanne-after-club-211",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "After Club",
+      "originalFragranceSlug": "rabanne-after-club",
+      "mistifyProductName": "Club Afterglow",
+      "mistifyProductSlug": "club-afterglow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/club-afterglow",
+      "publicInspiredByLabel": "Inspired by Rabanne After Club",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Vanilla",
+        "Labdanum",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-33-34PM-_1.png?v=1773460311",
+      "searchableText": "Rabanne rabanne Rabanne After Club Club Afterglow Woody Aromatic unisex Lavender Vanilla Labdanum Amber",
+      "createdAt": "2026-05-04T04:41:36.872Z",
+      "sharedNotes": [
+        "Lavender"
+      ]
+    },
+    {
+      "id": 237,
+      "fragranceSlug": "nasomatto-black-afgano-237",
+      "brandName": "Nasomatto",
+      "brandSlug": "nasomatto",
+      "originalFragranceName": "Black Afgano",
+      "originalFragranceSlug": "nasomatto-black-afgano",
+      "mistifyProductName": "Dark Afgana",
+      "mistifyProductSlug": "dark-afgana",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/dark-afgana",
+      "publicInspiredByLabel": "Inspired by Nasomatto Black Afgano",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cannabis",
+        "Green Notes",
+        "Davana",
+        "Saffron",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Resins",
+        "Woodsy Notes",
+        "Tobacco",
+        "Coffee",
+        "Cinnamon",
+        "Violet",
+        "Raspberry"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Incense",
+        "Amber",
+        "Animal Notes",
+        "Guaiac Wood",
+        "Musk",
+        "Tonka",
+        "Cedar",
+        "Gurjan Balsam",
+        "Ambroxan",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Cannabis",
+        "Green Notes",
+        "Davana",
+        "Saffron",
+        "Thyme",
+        "Resins",
+        "Woodsy Notes",
+        "Tobacco",
+        "Coffee",
+        "Cinnamon",
+        "Violet",
+        "Raspberry",
+        "Oud",
+        "Incense",
+        "Amber",
+        "Animal Notes",
+        "Guaiac Wood",
+        "Musk",
+        "Tonka",
+        "Cedar",
+        "Gurjan Balsam",
+        "Ambroxan",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_59_24PM.png?v=1774407573",
+      "searchableText": "Nasomatto nasomatto Nasomatto Black Afgano Dark Afgana Woody Aromatic unisex Cannabis Green Notes Davana Saffron Thyme Resins Woodsy Notes Tobacco Coffee Cinnamon Violet Raspberry Oud Incense Amber Animal Notes Guaiac Wood Musk Tonka Cedar Gurjan Balsam Ambroxan Vanilla",
+      "createdAt": "2026-05-04T04:41:38.428Z",
+      "sharedNotes": [
+        "Saffron",
+        "Oud",
+        "Cedar"
+      ]
+    }
+  ]
+}

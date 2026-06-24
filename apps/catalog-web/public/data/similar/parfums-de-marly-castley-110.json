@@ -1,0 +1,327 @@
+{
+  "fragrances": [
+    {
+      "id": 32,
+      "fragranceSlug": "louis-vuitton-l-immensite-32",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "L’Immensité",
+      "originalFragranceSlug": "louis-vuitton-l-immensite",
+      "mistifyProductName": "Immensity",
+      "mistifyProductSlug": "immensity",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/immensity",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton L’Immensité",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rosemary",
+        "Sage",
+        "Watery Notes"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Ambroxan"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Rosemary",
+        "Sage",
+        "Watery Notes",
+        "Amber",
+        "Ambroxan"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_26_09PM.png?v=1765422829",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton L’Immensité Immensity Citrus Aromatic mens Grapefruit Bergamot Rosemary Sage Watery Notes Amber Ambroxan",
+      "createdAt": "2026-05-04T04:41:26.356Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Grapefruit"
+      ]
+    },
+    {
+      "id": 191,
+      "fragranceSlug": "dolce-and-gabbana-light-blue-191",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Light Blue",
+      "originalFragranceSlug": "dolce-and-gabbana-light-blue",
+      "mistifyProductName": "Lumine Bleu",
+      "mistifyProductSlug": "lumine-bleu",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lumine-bleu",
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Light Blue",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper",
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood",
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-04-05AM-_1.png?v=1773460205",
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Light Blue Lumine Bleu Citrus Aromatic unisex Grapefruit Bergamot Sicilian Mandarin Juniper Pepper Rosemary Brazilian Rosewood Musk Incense Oakmoss",
+      "createdAt": "2026-05-04T04:41:35.651Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Pepper"
+      ]
+    },
+    {
+      "id": 33,
+      "fragranceSlug": "louis-vuitton-meteore-33",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Météore",
+      "originalFragranceSlug": "louis-vuitton-meteore",
+      "mistifyProductName": "Meteor",
+      "mistifyProductSlug": "meteor",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/stellarium",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Météore",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Mandarin Orange",
+        "Sicilian Orange",
+        "Calabrian Bergamot"
+      ],
+      "middleNotes": [
+        "Pink Pepper",
+        "Pepper",
+        "Nutmeg",
+        "Neroli",
+        "Cardamom"
+      ],
+      "baseNotes": [
+        "Java Vetiver Oil"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Sicilian Orange",
+        "Calabrian Bergamot",
+        "Pink Pepper",
+        "Pepper",
+        "Nutmeg",
+        "Neroli",
+        "Cardamom",
+        "Java Vetiver Oil"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_30_48PM.png?v=1765422830",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Météore Meteor Citrus Aromatic mens Mandarin Orange Sicilian Orange Calabrian Bergamot Pink Pepper Pepper Nutmeg Neroli Cardamom Java Vetiver Oil",
+      "createdAt": "2026-05-04T04:41:26.419Z",
+      "sharedNotes": [
+        "Pepper",
+        "Neroli"
+      ]
+    },
+    {
+      "id": 207,
+      "fragranceSlug": "rabanne-1-million-golden-oud-207",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "1 Million Golden Oud",
+      "originalFragranceSlug": "rabanne-1-million-golden-oud",
+      "mistifyProductName": "Oud Millionaire",
+      "mistifyProductSlug": "oud-millionaire",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-millionaire",
+      "publicInspiredByLabel": "Inspired by Rabanne 1 Million Golden Oud",
+      "audience": "mens",
+      "classification": "Leather",
+      "topNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Black Pepper",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Sandalwood",
+        "Gurjan Balsam"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Cedarwood",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Black Pepper",
+        "Bergamot",
+        "Patchouli",
+        "Sandalwood",
+        "Gurjan Balsam",
+        "Oud",
+        "Leather",
+        "Cedarwood",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-36-58PM-_1.png?v=1773460314",
+      "searchableText": "Rabanne paco rabanne Paco Rabanne 1 Million Golden Oud Oud Millionaire Leather mens Saffron Nutmeg Black Pepper Bergamot Patchouli Sandalwood Gurjan Balsam Oud Leather Cedarwood Labdanum",
+      "createdAt": "2026-05-04T04:41:36.634Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Black Pepper",
+        "Labdanum",
+        "Leather"
+      ]
+    },
+    {
+      "id": 146,
+      "fragranceSlug": "ysl-yves-saint-laurent-l-homme-ultimate-146",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "L’Homme Ultimate",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-l-homme-ultimate",
+      "mistifyProductName": "Hommes Ultimate",
+      "mistifyProductSlug": "hommes-ultimate",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hommes-ultimate",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) L’Homme Ultimate",
+      "audience": "mens",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Sage",
+        "Geranium",
+        "Apple"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Vetiver",
+        "Cashmere Wood"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot",
+        "Rose",
+        "Sage",
+        "Geranium",
+        "Apple",
+        "Cedar",
+        "Vetiver",
+        "Cashmere Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-30PM-_1.png?v=1773460429",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) L’Homme Ultimate Hommes Ultimate Woody Floral Musk mens Ginger Grapefruit Cardamom Bergamot Rose Sage Geranium Apple Cedar Vetiver Cashmere Wood",
+      "createdAt": "2026-05-04T04:41:33.006Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Ginger",
+        "Grapefruit",
+        "Rose"
+      ]
+    },
+    {
+      "id": 315,
+      "fragranceSlug": "roja-dove-elysium-pour-homme-315",
+      "brandName": "Roja Dove",
+      "brandSlug": "roja-dove",
+      "originalFragranceName": "Elysium Pour Homme",
+      "originalFragranceSlug": "roja-dove-elysium-pour-homme",
+      "mistifyProductName": "Elysian Bleu",
+      "mistifyProductSlug": "elysian-bleu",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/elysian-bleu",
+      "publicInspiredByLabel": "Roja Dove Elysium Pour Homme",
+      "audience": null,
+      "classification": "Citrus Aromatic / Woody Amber",
+      "topNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Bergamot",
+        "Lime",
+        "Thyme",
+        "Artemisia",
+        "Galbanum"
+      ],
+      "middleNotes": [
+        "Vetiver",
+        "Juniper Berries",
+        "Black Currant",
+        "Apple",
+        "Cedar",
+        "Pink Pepper",
+        "Cypriol Oil",
+        "Lily-of-the-Valley",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Leather",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Bergamot",
+        "Lime",
+        "Thyme",
+        "Artemisia",
+        "Galbanum",
+        "Vetiver",
+        "Juniper Berries",
+        "Black Currant",
+        "Apple",
+        "Cedar",
+        "Pink Pepper",
+        "Cypriol Oil",
+        "Lily-of-the-Valley",
+        "Jasmine",
+        "Rose",
+        "Ambergris",
+        "Leather",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_08_13_08AM.png?v=1781698396",
+      "searchableText": "Roja Dove Roja Dove Elysium Pour Homme Elysian Bleu Citrus Aromatic / Woody Amber Grapefruit Lemon Bergamot Lime Thyme Artemisia Galbanum Vetiver Juniper Berries Black Currant Apple Cedar Pink Pepper Cypriol Oil Lily-of-the-Valley Jasmine Rose Ambergris Leather Vanilla Benzoin Labdanum",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Rose",
+        "Labdanum",
+        "Benzoin",
+        "Leather"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "fragrances": [
+    {
+      "id": 205,
+      "fragranceSlug": "xerjoff-torino-21-205",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Torino 21",
+      "originalFragranceSlug": "xerjoff-torino-21",
+      "mistifyProductName": "Torino Verde",
+      "mistifyProductSlug": "torino-verde",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vanilla-veil-copy",
+      "publicInspiredByLabel": "Inspired by Xerjoff Torino 21",
+      "audience": "unisex",
+      "classification": "Aromatic Green",
+      "topNotes": [
+        "Mint",
+        "Lemon",
+        "Basil",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Black Currant",
+        "Rosemary",
+        "Lavender",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vervain"
+      ],
+      "allNotes": [
+        "Mint",
+        "Lemon",
+        "Basil",
+        "Thyme",
+        "Black Currant",
+        "Rosemary",
+        "Lavender",
+        "Jasmine",
+        "Musk",
+        "Vervain"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar3-2026-01-09-45PM-_1.png?v=1773460122",
+      "searchableText": "Xerjoff xerjoff Xerjoff Torino 21 Torino Verde Aromatic Green unisex Mint Lemon Basil Thyme Black Currant Rosemary Lavender Jasmine Musk Vervain",
+      "createdAt": "2026-05-04T04:41:36.517Z",
+      "sharedNotes": [
+        "Basil",
+        "Mint"
+      ]
+    },
+    {
+      "id": 87,
+      "fragranceSlug": "tom-ford-tobacco-vanille-87",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Tobacco Vanille",
+      "originalFragranceSlug": "tom-ford-tobacco-vanille",
+      "mistifyProductName": "Tobacco Vanilla",
+      "mistifyProductSlug": "tobacco-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/tobacco-vanilla",
+      "publicInspiredByLabel": "Inspired by Tom Ford Tobacco Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Tobacco Leaf",
+        "Spicy Notes"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Tobacco Blossom"
+      ],
+      "baseNotes": [
+        "Dried Fruits",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Tobacco Leaf",
+        "Spicy Notes",
+        "Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Tobacco Blossom",
+        "Dried Fruits",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_23_29PM.png?v=1765422884",
+      "searchableText": "Tom Ford tom ford Tom Ford Tobacco Vanille Tobacco Vanilla Oriental Spicy unisex Tobacco Leaf Spicy Notes Vanilla Cacao Tonka Bean Tobacco Blossom Dried Fruits Woody Notes",
+      "createdAt": "2026-05-04T04:41:29.570Z",
+      "sharedNotes": [
+        "Woody Notes"
+      ]
+    },
+    {
+      "id": 206,
+      "fragranceSlug": "rabanne-1-million-206",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "1 Million",
+      "originalFragranceSlug": "rabanne-1-million",
+      "mistifyProductName": "Golden Luxe",
+      "mistifyProductSlug": "golden-luxe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-luxe?_pos=2&_sid=cb998cf94&_ss=r",
+      "publicInspiredByLabel": "Inspired by Rabanne 1 Million",
+      "audience": "mens",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Blood Mandarin",
+        "Grapefruit",
+        "Mint"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Spicy Notes",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Leather",
+        "Woody Notes",
+        "Indian Patchouli"
+      ],
+      "allNotes": [
+        "Blood Mandarin",
+        "Grapefruit",
+        "Mint",
+        "Cinnamon",
+        "Spicy Notes",
+        "Rose",
+        "Amber",
+        "Leather",
+        "Woody Notes",
+        "Indian Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_45_20PM_eda64bdf-de46-4f14-8adf-b3a151fd82f8.png?v=1774406735",
+      "searchableText": "Rabanne paco rabanne Paco Rabanne 1 Million Golden Luxe Woody Spicy mens Blood Mandarin Grapefruit Mint Cinnamon Spicy Notes Rose Amber Leather Woody Notes Indian Patchouli",
+      "createdAt": "2026-05-04T04:41:36.571Z",
+      "sharedNotes": [
+        "Mint",
+        "Woody Notes"
+      ]
+    },
+    {
+      "id": 334,
+      "fragranceSlug": "dior-bois-dargent-334",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Bois d'Argent",
+      "originalFragranceSlug": "dior-bois-dargent",
+      "mistifyProductName": "Silver Wood",
+      "mistifyProductSlug": "silver-wood",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silver-wood",
+      "publicInspiredByLabel": "Dior Bois d'Argent",
+      "audience": null,
+      "classification": "Woody Floral",
+      "topNotes": [
+        "Iris",
+        "Frankincense"
+      ],
+      "middleNotes": [
+        "Myrrh",
+        "Honey"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Iris",
+        "Frankincense",
+        "Myrrh",
+        "Honey",
+        "Musk",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/SilverWood-fcdf2e8b-041b-4cd8-9ace-9e28120edef8-_1.png?v=1773460459",
+      "searchableText": "Dior Christian Dior Bois d'Argent Silver Wood Woody Floral Iris Frankincense Myrrh Honey Musk Woody Notes",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Woody Notes"
+      ]
+    },
+    {
+      "id": 309,
+      "fragranceSlug": "hermes-terre-dhermes-eau-givree-309",
+      "brandName": "Hermès",
+      "brandSlug": "hermes",
+      "originalFragranceName": "Terre d'Hermès Eau Givrée",
+      "originalFragranceSlug": "hermes-terre-dhermes-eau-givree",
+      "mistifyProductName": "Terre Givré",
+      "mistifyProductSlug": "terre-givre",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/terre-givre",
+      "publicInspiredByLabel": "Hermès Terre d'Hermès Eau Givrée",
+      "audience": null,
+      "classification": "Citrus Mineral / Fresh Woody",
+      "topNotes": [
+        "Citron"
+      ],
+      "middleNotes": [
+        "Juniper Berries",
+        "Timur"
+      ],
+      "baseNotes": [
+        "Mineral Notes",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Citron",
+        "Juniper Berries",
+        "Timur",
+        "Mineral Notes",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_53_26AM.png?v=1781711616",
+      "searchableText": "Hermès Hermès Terre d'Hermès Eau Givrée Terre Givré Citrus Mineral / Fresh Woody Citron Juniper Berries Timur Mineral Notes Woody Notes",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Woody Notes"
+      ]
+    },
+    {
+      "id": 175,
+      "fragranceSlug": "mancera-aoud-orchid-175",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Aoud Orchid",
+      "originalFragranceSlug": "mancera-aoud-orchid",
+      "mistifyProductName": "Orchid Essence",
+      "mistifyProductSlug": "orchid-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orchid-essence",
+      "publicInspiredByLabel": "Inspired by Mancera Aoud Orchid",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange",
+        "Orchid",
+        "Patchouli",
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OrchidEssence.png?v=1765422998",
+      "searchableText": "Mancera mancera Mancera Aoud Orchid Orchid Essence Oriental Floral unisex Coconut Peach Mandarin Orange Orchid Patchouli Woody Notes Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.708Z",
+      "sharedNotes": [
+        "Woody Notes"
+      ]
+    }
+  ]
+}

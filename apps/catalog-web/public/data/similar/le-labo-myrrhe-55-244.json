@@ -1,0 +1,293 @@
+{
+  "fragrances": [
+    {
+      "id": 168,
+      "fragranceSlug": "montale-black-aoud-168",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Black Aoud",
+      "originalFragranceSlug": "montale-black-aoud",
+      "mistifyProductName": "Oud Noir",
+      "mistifyProductSlug": "oud-noir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-noir",
+      "publicInspiredByLabel": "Inspired by Montale Black Aoud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudNoir.png?v=1765422952",
+      "searchableText": "Montale montale Montale Black Aoud Oud Noir Woody Floral Musk unisex Rose Oud Patchouli Musk French Labdanum Mandarin Orange",
+      "createdAt": "2026-05-04T04:41:34.288Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Musk",
+        "Oud"
+      ]
+    },
+    {
+      "id": 147,
+      "fragranceSlug": "ysl-yves-saint-laurent-m7-oud-absolu-147",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "M7 Oud Absolu",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-m7-oud-absolu",
+      "mistifyProductName": "Absolute Oud",
+      "mistifyProductSlug": "absolute-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/absolute-oud",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) M7 Oud Absolu",
+      "audience": "mens",
+      "classification": "Woody Amber",
+      "topNotes": [
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Oud"
+      ],
+      "baseNotes": [
+        "Myrrh",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Patchouli",
+        "Oud",
+        "Myrrh",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28-2025-12-37-15AM-_1.png?v=1773460427",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) M7 Oud Absolu Absolute Oud Woody Amber mens Mandarin Orange Patchouli Oud Myrrh Labdanum",
+      "createdAt": "2026-05-04T04:41:33.065Z",
+      "sharedNotes": [
+        "Myrrh",
+        "Patchouli",
+        "Oud"
+      ]
+    },
+    {
+      "id": 157,
+      "fragranceSlug": "initio-oud-for-greatness-157",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Greatness",
+      "originalFragranceSlug": "initio-oud-for-greatness",
+      "mistifyProductName": "Majestic Oud",
+      "mistifyProductSlug": "majestic-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-oud",
+      "publicInspiredByLabel": "Inspired by Initio Oud for Greatness",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Oud"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_56_51PM.png?v=1765422990",
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Greatness Majestic Oud Woody Spicy unisex Saffron Nutmeg Lavender Oud Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.651Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Musk",
+        "Oud"
+      ]
+    },
+    {
+      "id": 69,
+      "fragranceSlug": "kilian-rose-oud-69",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rose Oud",
+      "originalFragranceSlug": "kilian-rose-oud",
+      "mistifyProductName": "Rosy Oud",
+      "mistifyProductSlug": "rosy-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rosy-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Rose Oud",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Rose",
+        "Saffron",
+        "Oud",
+        "Cedarwood",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RosyOud_9a080a3b-9ff3-481e-8ecc-190466f11560.png?v=1765422921",
+      "searchableText": "Kilian kilian By Kilian Rose Oud Rosy Oud Oriental Floral unisex Rose Saffron Oud Cedarwood Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:28.526Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Musk",
+        "Oud"
+      ]
+    },
+    {
+      "id": 231,
+      "fragranceSlug": "tiziana-terenzi-orion-231",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Orion",
+      "originalFragranceSlug": "tiziana-terenzi-orion",
+      "mistifyProductName": "Orien",
+      "mistifyProductSlug": "orien",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orien",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Orion",
+      "audience": "unisex",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant"
+      ],
+      "middleNotes": [
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant",
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine",
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Orien-_1.png?v=1773460410",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Orion Orien Floral Woody Musk unisex Pineapple Apple Bergamot Red Currant Birch Thyme Patchouli Jasmine Cedar Incense Oud Musk Amber",
+      "createdAt": "2026-05-04T04:41:38.057Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Patchouli",
+        "Musk",
+        "Oud"
+      ]
+    },
+    {
+      "id": 256,
+      "fragranceSlug": "roja-dove-amber-aoud-256",
+      "brandName": "Roja Dove",
+      "brandSlug": "roja-dove",
+      "originalFragranceName": "Amber Aoud",
+      "originalFragranceSlug": "roja-dove-amber-aoud",
+      "mistifyProductName": "Amber Oudh",
+      "mistifyProductSlug": "amber-oudh",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-oudh",
+      "publicInspiredByLabel": "Inspired by Roja Dove Amber Aoud",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime",
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-12-15PM-_1.png?v=1773460351",
+      "searchableText": "Roja Dove roja dove Roja Dove Amber Aoud Amber Oudh Oriental Spicy unisex Bergamot Lemon Lime Rose Fig Ylang-Ylang Jasmine Oud Ambergris Saffron Civet Sandalwood Musk Orris Cinnamon Patchouli Birch Oakmoss",
+      "createdAt": "2026-05-04T04:41:39.587Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Patchouli",
+        "Musk",
+        "Ambergris",
+        "Oud"
+      ]
+    }
+  ]
+}

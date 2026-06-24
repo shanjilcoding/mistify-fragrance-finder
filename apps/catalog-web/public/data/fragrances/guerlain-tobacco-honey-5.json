@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 5,
+    "fragranceSlug": "guerlain-tobacco-honey-5",
+    "brandName": "Guerlain",
+    "brandSlug": "guerlain",
+    "originalFragranceName": "Tobacco Honey",
+    "originalFragranceSlug": "guerlain-tobacco-honey",
+    "mistifyProductName": "Honey Tobaccoe",
+    "mistifyProductSlug": "honey-tobaccoe",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/honey-tobaccoe",
+    "publicInspiredByLabel": "Inspired by Guerlain Tobacco Honey",
+    "audience": "unisex",
+    "classification": "Oriental Gourmand",
+    "topNotes": [
+      "Honey",
+      "Plum"
+    ],
+    "middleNotes": [
+      "Tobacco",
+      "Cinnamon"
+    ],
+    "baseNotes": [
+      "Patchouli",
+      "Amber",
+      "Musk"
+    ],
+    "allNotes": [
+      "Honey",
+      "Plum",
+      "Tobacco",
+      "Cinnamon",
+      "Patchouli",
+      "Amber",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-30-16PM-_1.png?v=1773460364",
+    "searchableText": "Guerlain guerlain Guerlain Tobacco Honey Honey Tobaccoe Oriental Gourmand unisex Honey Plum Tobacco Cinnamon Patchouli Amber Musk",
+    "createdAt": "2026-05-04T04:41:24.794Z"
+  }
+}

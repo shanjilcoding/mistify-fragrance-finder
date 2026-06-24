@@ -1,0 +1,325 @@
+{
+  "fragrances": [
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z",
+      "sharedNotes": [
+        "Rose",
+        "Musk",
+        "Sandalwood",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 132,
+      "fragranceSlug": "creed-silver-mountain-water-132",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Silver Mountain Water",
+      "originalFragranceSlug": "creed-silver-mountain-water",
+      "mistifyProductName": "Mountain Heights",
+      "mistifyProductSlug": "mountain-heights",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mountain-heights",
+      "publicInspiredByLabel": "Inspired by Creed Silver Mountain Water",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Green Tea",
+        "Black Currant"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Petitgrain",
+        "Sandalwood",
+        "Galbanum"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Green Tea",
+        "Black Currant",
+        "Musk",
+        "Petitgrain",
+        "Sandalwood",
+        "Galbanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_04_03_06PM.png?v=1765422855",
+      "searchableText": "Creed creed Creed Silver Mountain Water Mountain Heights Aromatic unisex Bergamot Mandarin Orange Green Tea Black Currant Musk Petitgrain Sandalwood Galbanum",
+      "createdAt": "2026-05-04T04:41:32.199Z",
+      "sharedNotes": [
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 140,
+      "fragranceSlug": "creed-eladaria-140",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Eladaria",
+      "originalFragranceSlug": "creed-eladaria",
+      "mistifyProductName": "Eladarié",
+      "mistifyProductSlug": "eladarie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eladarie",
+      "publicInspiredByLabel": "Inspired by Creed Eladaria",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "Pink Pepper",
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Powdery Notes",
+        "Peony",
+        "Lily-of-the-Valley"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Mandarin Orange",
+        "Bergamot",
+        "Rose",
+        "Powdery Notes",
+        "Peony",
+        "Lily-of-the-Valley",
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay7_2026_04_17_24PM.png?v=1778185051",
+      "searchableText": "Creed creed Creed Eladaria Eladarié Floral womens Pink Pepper Mandarin Orange Bergamot Rose Powdery Notes Peony Lily-of-the-Valley Musk Ambroxan Cashmere Wood Vanilla",
+      "createdAt": "2026-05-04T04:41:32.651Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Rose",
+        "Musk",
+        "Ambroxan"
+      ]
+    },
+    {
+      "id": 131,
+      "fragranceSlug": "creed-royal-oud-131",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Royal Oud",
+      "originalFragranceSlug": "creed-royal-oud",
+      "mistifyProductName": "Regal Oud",
+      "mistifyProductSlug": "regal-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/regal-oud",
+      "publicInspiredByLabel": "Inspired by Creed Royal Oud",
+      "audience": "unisex",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Galbanum",
+        "Angelica"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot",
+        "Cedar",
+        "Galbanum",
+        "Angelica",
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-35-06PM-_1.png?v=1773460550",
+      "searchableText": "Creed creed Creed Royal Oud Regal Oud Amber Fougere unisex Pink Pepper Lemon Bergamot Cedar Galbanum Angelica Oud Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.140Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Musk",
+        "Sandalwood",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 229,
+      "fragranceSlug": "tiziana-terenzi-gumin-229",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Gumin",
+      "originalFragranceSlug": "tiziana-terenzi-gumin",
+      "mistifyProductName": "Gemine",
+      "mistifyProductSlug": "gemine",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gemine",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Gumin",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Mandarin Orange",
+        "Orange",
+        "Pineapple",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Ozonic Notes",
+        "Amber",
+        "Violet",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Orange",
+        "Pineapple",
+        "Bergamot",
+        "Ozonic Notes",
+        "Amber",
+        "Violet",
+        "Jasmine",
+        "Rose",
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Gemine-_1.png?v=1773460415",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Gumin Gemine Not listed clearly by Fragrantica unisex Mandarin Orange Orange Pineapple Bergamot Ozonic Notes Amber Violet Jasmine Rose Musk Sandalwood Birch Oud",
+      "createdAt": "2026-05-04T04:41:37.940Z",
+      "sharedNotes": [
+        "Rose",
+        "Ozonic Notes",
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 125,
+      "fragranceSlug": "creed-aventus-absolute-125",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus Absolute",
+      "originalFragranceSlug": "creed-aventus-absolute",
+      "mistifyProductName": "Absolu Crestus",
+      "mistifyProductSlug": "absolu-crestus",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/absolu-crestus",
+      "publicInspiredByLabel": "Inspired by Creed Aventus Absolute",
+      "audience": "mens",
+      "classification": "Chypre Fruity",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Nutmeg",
+        "Cloves"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Cinnamon",
+        "Citron",
+        "Cardamom",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vetiver",
+        "Oakmoss",
+        "Ambroxan",
+        "Sandalwood",
+        "Musk",
+        "Tonka",
+        "Evernyl"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Nutmeg",
+        "Cloves",
+        "Ginger",
+        "Cinnamon",
+        "Citron",
+        "Cardamom",
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oakmoss",
+        "Ambroxan",
+        "Sandalwood",
+        "Musk",
+        "Tonka",
+        "Evernyl"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_34_56AM.png?v=1765422817",
+      "searchableText": "Creed creed Creed Aventus Absolute Absolu Crestus Chypre Fruity mens Grapefruit Bergamot Pink Pepper Black Currant Pineapple Nutmeg Cloves Ginger Cinnamon Citron Cardamom Rose Patchouli Vetiver Oakmoss Ambroxan Sandalwood Musk Tonka Evernyl",
+      "createdAt": "2026-05-04T04:41:31.801Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Rose",
+        "Musk",
+        "Sandalwood",
+        "Ambroxan"
+      ]
+    }
+  ]
+}

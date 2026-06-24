@@ -1,0 +1,291 @@
+{
+  "fragrances": [
+    {
+      "id": 322,
+      "fragranceSlug": "kayali-yum-boujee-marshmallow-322",
+      "brandName": "Kayali",
+      "brandSlug": "kayali",
+      "originalFragranceName": "Yum Boujee Marshmallow",
+      "originalFragranceSlug": "kayali-yum-boujee-marshmallow",
+      "mistifyProductName": "Boujee Mallows",
+      "mistifyProductSlug": "boujee-mallows",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/boujee-mallows",
+      "publicInspiredByLabel": "Kayali Yum Boujee Marshmallow",
+      "audience": null,
+      "classification": "Floral Fruity Gourmand",
+      "topNotes": [
+        "Freesia",
+        "Italian Lemon",
+        "Nectarine Blossom",
+        "Apple"
+      ],
+      "middleNotes": [
+        "Marshmallow",
+        "Strawberry",
+        "Coconut",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Whipped Vanilla",
+        "Sugar",
+        "Musk",
+        "Raspberry",
+        "Ambroxan"
+      ],
+      "allNotes": [
+        "Freesia",
+        "Italian Lemon",
+        "Nectarine Blossom",
+        "Apple",
+        "Marshmallow",
+        "Strawberry",
+        "Coconut",
+        "Orange Blossom",
+        "Whipped Vanilla",
+        "Sugar",
+        "Musk",
+        "Raspberry",
+        "Ambroxan"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-35-42PM-_1.png?v=1773460295",
+      "searchableText": "Kayali Kayali Yum Boujee Marshmallow Boujee Mallows Floral Fruity Gourmand Freesia Italian Lemon Nectarine Blossom Apple Marshmallow Strawberry Coconut Orange Blossom Whipped Vanilla Sugar Musk Raspberry Ambroxan",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Raspberry",
+        "Marshmallow",
+        "Musk"
+      ]
+    },
+    {
+      "id": 132,
+      "fragranceSlug": "creed-silver-mountain-water-132",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Silver Mountain Water",
+      "originalFragranceSlug": "creed-silver-mountain-water",
+      "mistifyProductName": "Mountain Heights",
+      "mistifyProductSlug": "mountain-heights",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mountain-heights",
+      "publicInspiredByLabel": "Inspired by Creed Silver Mountain Water",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Green Tea",
+        "Black Currant"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Petitgrain",
+        "Sandalwood",
+        "Galbanum"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Green Tea",
+        "Black Currant",
+        "Musk",
+        "Petitgrain",
+        "Sandalwood",
+        "Galbanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_04_03_06PM.png?v=1765422855",
+      "searchableText": "Creed creed Creed Silver Mountain Water Mountain Heights Aromatic unisex Bergamot Mandarin Orange Green Tea Black Currant Musk Petitgrain Sandalwood Galbanum",
+      "createdAt": "2026-05-04T04:41:32.199Z",
+      "sharedNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Black Currant",
+        "Musk"
+      ]
+    },
+    {
+      "id": 16,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte-16",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Vitae Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte",
+      "mistifyProductName": "Vitae Essence",
+      "mistifyProductSlug": "vitae-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vitae-essence",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Vitae Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Floral Notes",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Floral Notes",
+        "Solar Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/VitaeEssence.png?v=1765422978",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Vitae Cologne Forte Vitae Essence Citrus unisex Mandarin Orange Bergamot Floral Notes Solar Notes Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.428Z",
+      "sharedNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Musk"
+      ]
+    },
+    {
+      "id": 317,
+      "fragranceSlug": "louis-vuitton-california-dream-317",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "California Dream",
+      "originalFragranceSlug": "louis-vuitton-california-dream",
+      "mistifyProductName": "Cali Dream",
+      "mistifyProductSlug": "cali-dream",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cali-dream",
+      "publicInspiredByLabel": "Louis Vuitton California Dream",
+      "audience": null,
+      "classification": "Citrus Musky / Soft Fruity",
+      "topNotes": [
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Pear"
+      ],
+      "baseNotes": [
+        "Ambrette",
+        "Musk",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Pear",
+        "Ambrette",
+        "Musk",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun15_2026_01_24_23PM.png?v=1781544277",
+      "searchableText": "Louis Vuitton Louis Vuitton California Dream Cali Dream Citrus Musky / Soft Fruity Mandarin Orange Pear Ambrette Musk Benzoin",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Mandarin Orange",
+        "Musk",
+        "Ambrette"
+      ]
+    },
+    {
+      "id": 38,
+      "fragranceSlug": "louis-vuitton-contre-moi-38",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Contre Moi",
+      "originalFragranceSlug": "louis-vuitton-contre-moi",
+      "mistifyProductName": "Contre Moiême",
+      "mistifyProductSlug": "contre-moieme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/contre-moieme",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Contre Moi",
+      "audience": "womens",
+      "classification": "Floral Vanilla",
+      "topNotes": [
+        "Orange Blossom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Vanilla Orchid",
+        "Rose",
+        "Magnolia",
+        "Almond"
+      ],
+      "baseNotes": [
+        "Tahitian Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Ambrette",
+        "Musk"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Vanilla Orchid",
+        "Rose",
+        "Magnolia",
+        "Almond",
+        "Tahitian Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Ambrette",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-45-42PM-_1.png?v=1773460269",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Contre Moi Contre Moiême Floral Vanilla womens Orange Blossom Bergamot Vanilla Orchid Rose Magnolia Almond Tahitian Vanilla Cacao Tonka Bean Ambrette Musk",
+      "createdAt": "2026-05-04T04:41:26.708Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Orange Blossom",
+        "Musk",
+        "Ambrette"
+      ]
+    },
+    {
+      "id": 108,
+      "fragranceSlug": "parfums-de-marly-valaya-108",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Valaya",
+      "originalFragranceSlug": "parfums-de-marly-valaya",
+      "mistifyProductName": "Valeti",
+      "mistifyProductSlug": "valeti",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/valeti",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Valaya",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Peach",
+        "Petalia"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin",
+        "Orange Blossom",
+        "Peach",
+        "Petalia",
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-15AM-_1.png?v=1773460483",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valaya Valeti Floral Woody Musk womens Bergamot Grapefruit Mandarin Orange Blossom Peach Petalia Ambroxan White Musk Akigalawood",
+      "createdAt": "2026-05-04T04:41:30.796Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Orange Blossom"
+      ]
+    }
+  ]
+}

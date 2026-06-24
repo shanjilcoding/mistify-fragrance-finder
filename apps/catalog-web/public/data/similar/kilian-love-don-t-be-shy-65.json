@@ -1,0 +1,287 @@
+{
+  "fragrances": [
+    {
+      "id": 170,
+      "fragranceSlug": "montale-dark-cherry-170",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Dark Cherry",
+      "originalFragranceSlug": "montale-dark-cherry",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Dark Cherry",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Black Cherry"
+      ],
+      "middleNotes": [
+        "Rose Petals",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Cherry",
+        "Rose Petals",
+        "Jasmine",
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Dark Cherry Not verified Floral Fruity Bergamot Black Cherry Rose Petals Jasmine Musk Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:34.405Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 232,
+      "fragranceSlug": "tiziana-terenzi-saiph-232",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Saiph",
+      "originalFragranceSlug": "tiziana-terenzi-saiph",
+      "mistifyProductName": "Saipha",
+      "mistifyProductSlug": "saipha",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saipha",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Saiph",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Saipha-_1.png?v=1773460407",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk",
+      "createdAt": "2026-05-04T04:41:38.116Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 15,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte-15",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Celestia Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte",
+      "mistifyProductName": "Celestial Waters",
+      "mistifyProductSlug": "celestial-waters",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/celestial-waters",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Celestia Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Currant"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Jasmine",
+        "Mimosa",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-55-26AM-_1.png?v=1773460516",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Celestia Cologne Forte Celestial Waters Citrus Aromatic unisex Bergamot Black Currant Jasmine Mimosa Musk",
+      "createdAt": "2026-05-04T04:41:25.373Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Musk"
+      ]
+    },
+    {
+      "id": 86,
+      "fragranceSlug": "tom-ford-soleil-neige-86",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Soleil Neige",
+      "originalFragranceSlug": "tom-ford-soleil-neige",
+      "mistifyProductName": "Soleil Snow",
+      "mistifyProductSlug": "soleil-snow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-snow",
+      "publicInspiredByLabel": "Inspired by Tom Ford Soleil Neige",
+      "audience": "unisex",
+      "classification": "Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Carrot Seeds"
+      ],
+      "middleNotes": [
+        "White Flowers",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Carrot Seeds",
+        "White Flowers",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose",
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_09_07AM.png?v=1774325369",
+      "searchableText": "Tom Ford tom ford Tom Ford Soleil Neige Soleil Snow Floral Musk unisex Bergamot Carrot Seeds White Flowers Jasmine Orange Blossom Turkish Rose Benzoin Vanilla Labdanum",
+      "createdAt": "2026-05-04T04:41:29.512Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Orange Blossom",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 324,
+      "fragranceSlug": "clive-christian-strange-heavens-out-of-the-blue-324",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Strange Heavens Out of the Blue",
+      "originalFragranceSlug": "clive-christian-strange-heavens-out-of-the-blue",
+      "mistifyProductName": "Strange Skies",
+      "mistifyProductSlug": "strange-skies",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/strange-skies",
+      "publicInspiredByLabel": "Clive Christian Strange Heavens Out of the Blue",
+      "audience": null,
+      "classification": "Gourmand Oriental / Smoky Sweet",
+      "topNotes": [
+        "Coffee",
+        "Pink Pepper",
+        "Anise"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Cocoa",
+        "Vanilla",
+        "Smoke"
+      ],
+      "allNotes": [
+        "Coffee",
+        "Pink Pepper",
+        "Anise",
+        "Jasmine",
+        "Orange Blossom",
+        "Caramel",
+        "Cocoa",
+        "Vanilla",
+        "Smoke"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay11_2026_02_44_12PM.png?v=1778525061",
+      "searchableText": "Clive Christian Clive Christian Strange Heavens Out of the Blue Strange Skies Gourmand Oriental / Smoky Sweet Coffee Pink Pepper Anise Jasmine Orange Blossom Caramel Cocoa Vanilla Smoke",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Vanilla",
+        "Caramel"
+      ]
+    },
+    {
+      "id": 265,
+      "fragranceSlug": "prada-paradoxe-265",
+      "brandName": "Prada",
+      "brandSlug": "prada",
+      "originalFragranceName": "Paradoxe",
+      "originalFragranceSlug": "prada-paradoxe",
+      "mistifyProductName": "Paradiis",
+      "mistifyProductSlug": "paradiis",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradiis",
+      "publicInspiredByLabel": "Inspired by Prada Paradoxe",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear",
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine",
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-38-29PM-_1.png?v=1773460252",
+      "searchableText": "Prada prada Prada Paradoxe Paradiis Amber Floral unisex Calabrian Bergamot Tangerine Pear Neroli Orange Blossom Jasmine Amber White Musk Benzoin Vanilla",
+      "createdAt": "2026-05-04T04:41:40.135Z",
+      "sharedNotes": [
+        "Neroli",
+        "Jasmine",
+        "Orange Blossom",
+        "Vanilla"
+      ]
+    }
+  ]
+}

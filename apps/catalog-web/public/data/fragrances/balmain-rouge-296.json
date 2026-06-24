@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 296,
+    "fragranceSlug": "balmain-rouge-296",
+    "brandName": "Balmain",
+    "brandSlug": "balmain",
+    "originalFragranceName": "Rouge",
+    "originalFragranceSlug": "balmain-rouge",
+    "mistifyProductName": "Rouje",
+    "mistifyProductSlug": "rouje",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/tygara-copy",
+    "publicInspiredByLabel": "Inspired by Balmain Rouge",
+    "audience": "womens",
+    "classification": "Floral Fruity",
+    "topNotes": [],
+    "middleNotes": [
+      "Osmanthus",
+      "Lily",
+      "Georgywood",
+      "Iris",
+      "Magnolia",
+      "Ylang-Ylang"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Osmanthus",
+      "Lily",
+      "Georgywood",
+      "Iris",
+      "Magnolia",
+      "Ylang-Ylang"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-24-38AM-_1.png?v=1773460233",
+    "searchableText": "Balmain balmain Balmain Rouge Rouje Floral Fruity womens Osmanthus Lily Georgywood Iris Magnolia Ylang-Ylang",
+    "createdAt": "2026-05-04T04:41:42.010Z"
+  }
+}

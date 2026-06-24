@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 20,
+    "fragranceSlug": "maison-francis-kurkdjian-oud-20",
+    "brandName": "Maison Francis Kurkdjian",
+    "brandSlug": "maison-francis-kurkdjian",
+    "originalFragranceName": "Oud",
+    "originalFragranceSlug": "maison-francis-kurkdjian-oud",
+    "mistifyProductName": "Satin Moody Oud",
+    "mistifyProductSlug": "satin-moody-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/satin-moody-oud",
+    "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud",
+    "audience": null,
+    "classification": "Oriental Woody/Oud Woody",
+    "topNotes": [
+      "Saffron",
+      "Elemi"
+    ],
+    "middleNotes": [
+      "Agarwood/Oud"
+    ],
+    "baseNotes": [
+      "Patchouli",
+      "Cedar"
+    ],
+    "allNotes": [
+      "Saffron",
+      "Elemi",
+      "Agarwood/Oud",
+      "Patchouli",
+      "Cedar"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_13_59PM.png?v=1765422983",
+    "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Satin Moody Oud Oriental Woody/Oud Woody Saffron Elemi Agarwood/Oud Patchouli Cedar",
+    "createdAt": "2026-05-04T04:41:25.657Z"
+  }
+}

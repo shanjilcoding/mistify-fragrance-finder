@@ -1,0 +1,393 @@
+{
+  "fragrances": [
+    {
+      "id": 247,
+      "fragranceSlug": "penhaligon-s-halfeti-247",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti",
+      "originalFragranceSlug": "penhaligon-s-halfeti",
+      "mistifyProductName": "Halfeti Rose",
+      "mistifyProductSlug": "halfeti-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit",
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine",
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_43_29AM.png?v=1765422933",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Halfeti Rose Oriental Woody unisex Cypress Leaf Saffron Cardamom Artemisia Bergamot Grapefruit Bulgarian Rose Nutmeg Jasmine Oud Cedar Leather Sandalwood Amber Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:39.038Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Bulgarian Rose",
+        "Tonka Bean",
+        "Vanilla",
+        "Sandalwood",
+        "Musk",
+        "Amber",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 226,
+      "fragranceSlug": "clive-christian-blonde-amber-226",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Blonde Amber",
+      "originalFragranceSlug": "clive-christian-blonde-amber",
+      "mistifyProductName": "Amber Luxe",
+      "mistifyProductSlug": "amber-luxe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-luxe",
+      "publicInspiredByLabel": "Inspired by Clive Christian Blonde Amber",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit",
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris",
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-34-30PM-_1.png?v=1773460457",
+      "searchableText": "Clive Christian clive christian Clive Christian Blonde Amber Amber Luxe Oriental unisex Rum Olibanum Bitter Orange Cardamom Pink Pepper Ginger Bergamot Grapefruit Dried Fruits White Tobacco Sandalwood Tuberose Saffron Osmanthus Jasmine Orris Tonka Bean Vanilla Myrrh Labdanum Patchouli Musk Cedar Vetiver",
+      "createdAt": "2026-05-04T04:41:37.756Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Tuberose",
+        "Orris",
+        "Tonka Bean",
+        "Vanilla",
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 187,
+      "fragranceSlug": "sabrina-carpenter-caramel-dream-187",
+      "brandName": "Sabrina Carpenter",
+      "brandSlug": "sabrina-carpenter",
+      "originalFragranceName": "Caramel Dream",
+      "originalFragranceSlug": "sabrina-carpenter-caramel-dream",
+      "mistifyProductName": "Caramel Rêverie",
+      "mistifyProductSlug": "caramel-reverie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/caramel-reverie",
+      "publicInspiredByLabel": "Inspired by Sabrina Carpenter Caramel Dream",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar",
+        "Almond Milk",
+        "Orange",
+        "Freesia",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Vanilla",
+        "Orange Blossom",
+        "Orchid"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Sugar",
+        "Almond Milk",
+        "Orange",
+        "Freesia",
+        "Lemon",
+        "Dark Chocolate",
+        "Vanilla",
+        "Orange Blossom",
+        "Orchid",
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec29-2025-01-49-19PM-_1.png?v=1773460180",
+      "searchableText": "Sabrina Carpenter sabrina carpenter Sabrina Carpenter Caramel Dream Caramel Rêverie Oriental Vanilla unisex Sugar Almond Milk Orange Freesia Lemon Dark Chocolate Vanilla Orange Blossom Orchid Caramel Patchouli Sandalwood Musk Amber",
+      "createdAt": "2026-05-04T04:41:35.407Z",
+      "sharedNotes": [
+        "Lemon",
+        "Orange Blossom",
+        "Vanilla",
+        "Sandalwood",
+        "Musk",
+        "Amber",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 201,
+      "fragranceSlug": "xerjoff-naxos-201",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Naxos",
+      "originalFragranceSlug": "xerjoff-naxos",
+      "mistifyProductName": "Naxian Gold",
+      "mistifyProductSlug": "naxian-gold",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/naxian-gold",
+      "publicInspiredByLabel": "Inspired by Xerjoff Naxos",
+      "audience": "unisex",
+      "classification": "Citrus Gourmand",
+      "topNotes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Honey",
+        "Cinnamon",
+        "Cashmeran",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Tobacco Leaf",
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon",
+        "Honey",
+        "Cinnamon",
+        "Cashmeran",
+        "Jasmine Sambac",
+        "Tobacco Leaf",
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-29-20PM-_1.png?v=1773460339",
+      "searchableText": "Xerjoff xerjoff Xerjoff Naxos Naxian Gold Citrus Gourmand unisex Lavender Bergamot Lemon Honey Cinnamon Cashmeran Jasmine Sambac Tobacco Leaf Vanilla Tonka Bean",
+      "createdAt": "2026-05-04T04:41:36.283Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine Sambac",
+        "Tonka Bean",
+        "Vanilla",
+        "Cinnamon"
+      ]
+    },
+    {
+      "id": 332,
+      "fragranceSlug": "dior-poison-girl-332",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Poison Girl",
+      "originalFragranceSlug": "dior-poison-girl",
+      "mistifyProductName": "Venom Femme",
+      "mistifyProductSlug": "venom-femme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/venom-femme",
+      "publicInspiredByLabel": "Dior Poison Girl",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bitter Orange",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Damask Rose",
+        "Grasse Rose",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Almond",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bitter Orange",
+        "Lemon",
+        "Damask Rose",
+        "Grasse Rose",
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla",
+        "Almond",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-23-15AM-_1.png?v=1773460465",
+      "searchableText": "Dior Christian Dior Poison Girl Venom Femme Oriental Vanilla Bitter Orange Lemon Damask Rose Grasse Rose Orange Blossom Tonka Bean Vanilla Almond Sandalwood",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Almond",
+        "Lemon",
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 256,
+      "fragranceSlug": "roja-dove-amber-aoud-256",
+      "brandName": "Roja Dove",
+      "brandSlug": "roja-dove",
+      "originalFragranceName": "Amber Aoud",
+      "originalFragranceSlug": "roja-dove-amber-aoud",
+      "mistifyProductName": "Amber Oudh",
+      "mistifyProductSlug": "amber-oudh",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-oudh",
+      "publicInspiredByLabel": "Inspired by Roja Dove Amber Aoud",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime",
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-12-15PM-_1.png?v=1773460351",
+      "searchableText": "Roja Dove roja dove Roja Dove Amber Aoud Amber Oudh Oriental Spicy unisex Bergamot Lemon Lime Rose Fig Ylang-Ylang Jasmine Oud Ambergris Saffron Civet Sandalwood Musk Orris Cinnamon Patchouli Birch Oakmoss",
+      "createdAt": "2026-05-04T04:41:39.587Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lemon",
+        "Orris",
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Cinnamon"
+      ]
+    }
+  ]
+}

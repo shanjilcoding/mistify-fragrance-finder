@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 270,
+    "fragranceSlug": "diptyque-do-son-270",
+    "brandName": "Diptyque",
+    "brandSlug": "diptyque",
+    "originalFragranceName": "Do Son",
+    "originalFragranceSlug": "diptyque-do-son",
+    "mistifyProductName": "Do Sonara",
+    "mistifyProductSlug": "do-sonara",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/do-sonara",
+    "publicInspiredByLabel": "Inspired by Diptyque Do Son",
+    "audience": "womens",
+    "classification": "Floral",
+    "topNotes": [
+      "African Orange Flower",
+      "Iris",
+      "Rose"
+    ],
+    "middleNotes": [
+      "Tuberose",
+      "Pink Pepper"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Benzoin"
+    ],
+    "allNotes": [
+      "African Orange Flower",
+      "Iris",
+      "Rose",
+      "Tuberose",
+      "Pink Pepper",
+      "Musk",
+      "Benzoin"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-23-08PM-_1.png?v=1773460372",
+    "searchableText": "Diptyque diptyque Diptyque Do Son Do Sonara Floral womens African Orange Flower Iris Rose Tuberose Pink Pepper Musk Benzoin",
+    "createdAt": "2026-05-04T04:41:40.444Z"
+  }
+}

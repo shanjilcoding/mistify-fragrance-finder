@@ -1,0 +1,51 @@
+{
+  "fragrance": {
+    "id": 122,
+    "fragranceSlug": "bond-no-9-bleecker-street-122",
+    "brandName": "Bond No. 9",
+    "brandSlug": "bond-no-9",
+    "originalFragranceName": "Bleecker Street",
+    "originalFragranceSlug": "bond-no-9-bleecker-street",
+    "mistifyProductName": "Bleek St.",
+    "mistifyProductSlug": "bleek-st",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleek-st",
+    "publicInspiredByLabel": "Inspired by Bond No. 9 Bleecker Street",
+    "audience": "unisex",
+    "classification": "Woody Aromatic Gourmand",
+    "topNotes": [
+      "Violet Leaf",
+      "Blueberry",
+      "Thyme"
+    ],
+    "middleNotes": [
+      "Cedarwood",
+      "Jasmine",
+      "Cinnamon"
+    ],
+    "baseNotes": [
+      "Oakmoss",
+      "Suede",
+      "Amber",
+      "Vanilla",
+      "Patchouli",
+      "Caramel"
+    ],
+    "allNotes": [
+      "Violet Leaf",
+      "Blueberry",
+      "Thyme",
+      "Cedarwood",
+      "Jasmine",
+      "Cinnamon",
+      "Oakmoss",
+      "Suede",
+      "Amber",
+      "Vanilla",
+      "Patchouli",
+      "Caramel"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-33-00AM-_1.png?v=1773460249",
+    "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Bleecker Street Bleek St. Woody Aromatic Gourmand unisex Violet Leaf Blueberry Thyme Cedarwood Jasmine Cinnamon Oakmoss Suede Amber Vanilla Patchouli Caramel",
+    "createdAt": "2026-05-04T04:41:31.629Z"
+  }
+}

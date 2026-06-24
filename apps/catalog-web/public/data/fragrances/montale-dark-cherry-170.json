@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 170,
+    "fragranceSlug": "montale-dark-cherry-170",
+    "brandName": "Montale",
+    "brandSlug": "montale",
+    "originalFragranceName": "Dark Cherry",
+    "originalFragranceSlug": "montale-dark-cherry",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Montale Dark Cherry",
+    "audience": null,
+    "classification": "Floral Fruity",
+    "topNotes": [
+      "Bergamot",
+      "Black Cherry"
+    ],
+    "middleNotes": [
+      "Rose Petals",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Vanilla",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Black Cherry",
+      "Rose Petals",
+      "Jasmine",
+      "Musk",
+      "Vanilla",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Montale montale Montale Dark Cherry Not verified Floral Fruity Bergamot Black Cherry Rose Petals Jasmine Musk Vanilla Sandalwood",
+    "createdAt": "2026-05-04T04:41:34.405Z"
+  }
+}

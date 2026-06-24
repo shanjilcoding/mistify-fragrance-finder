@@ -1,0 +1,35 @@
+{
+  "fragrance": {
+    "id": 218,
+    "fragranceSlug": "ermenegildo-zegna-javanese-patchouli-218",
+    "brandName": "Ermenegildo Zegna",
+    "brandSlug": "ermenegildo-zegna",
+    "originalFragranceName": "Javanese Patchouli",
+    "originalFragranceSlug": "ermenegildo-zegna-javanese-patchouli",
+    "mistifyProductName": "Mystic Pathouli",
+    "mistifyProductSlug": "mystic-pathouli",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/mystic-pathouli",
+    "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Javanese Patchouli",
+    "audience": "unisex",
+    "classification": "Woody Spicy",
+    "topNotes": [],
+    "middleNotes": [
+      "Patchouli",
+      "Pink Pepper",
+      "Calabrian Bergamot",
+      "Cedar",
+      "Tonka Bean"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Patchouli",
+      "Pink Pepper",
+      "Calabrian Bergamot",
+      "Cedar",
+      "Tonka Bean"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-31-15PM-_1.png?v=1773460478",
+    "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Javanese Patchouli Mystic Pathouli Woody Spicy unisex Patchouli Pink Pepper Calabrian Bergamot Cedar Tonka Bean",
+    "createdAt": "2026-05-04T04:41:37.272Z"
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "fragrances": [
+    {
+      "id": 289,
+      "fragranceSlug": "frederic-malle-portrait-of-a-lady-289",
+      "brandName": "Frederic Malle",
+      "brandSlug": "frederic-malle",
+      "originalFragranceName": "Portrait of a Lady",
+      "originalFragranceSlug": "frederic-malle-portrait-of-a-lady",
+      "mistifyProductName": "Portrait Femme",
+      "mistifyProductSlug": "portrait-femme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/portrait-femme",
+      "publicInspiredByLabel": "Inspired by Frederic Malle Portrait of a Lady",
+      "audience": "womens",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Clove",
+        "Raspberry",
+        "Black Currant",
+        "Cinnamon",
+        "Red Berries"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Patchouli",
+        "Incense",
+        "Sandalwood",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Sandalwood",
+        "Musk",
+        "Benzoin",
+        "Amber",
+        "Ambergris",
+        "Cedar",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Rose",
+        "Clove",
+        "Raspberry",
+        "Black Currant",
+        "Cinnamon",
+        "Red Berries",
+        "Turkish Rose",
+        "Patchouli",
+        "Incense",
+        "Sandalwood",
+        "Ylang-Ylang",
+        "Incense",
+        "Sandalwood",
+        "Musk",
+        "Benzoin",
+        "Amber",
+        "Ambergris",
+        "Cedar",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-55-16PM-_1.png?v=1773460336",
+      "searchableText": "Frederic Malle frederic malle Frederic Malle Portrait of a Lady Portrait Femme Oriental Floral womens Rose Clove Raspberry Black Currant Cinnamon Red Berries Turkish Rose Patchouli Incense Sandalwood Ylang-Ylang Incense Sandalwood Musk Benzoin Amber Ambergris Cedar Vanilla",
+      "createdAt": "2026-05-04T04:41:41.596Z",
+      "sharedNotes": [
+        "Black Currant",
+        "Turkish Rose",
+        "Vanilla",
+        "Benzoin",
+        "Sandalwood",
+        "Cedar",
+        "Patchouli",
+        "Ambergris",
+        "Musk"
+      ]
+    },
+    {
+      "id": 226,
+      "fragranceSlug": "clive-christian-blonde-amber-226",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Blonde Amber",
+      "originalFragranceSlug": "clive-christian-blonde-amber",
+      "mistifyProductName": "Amber Luxe",
+      "mistifyProductSlug": "amber-luxe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-luxe",
+      "publicInspiredByLabel": "Inspired by Clive Christian Blonde Amber",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit",
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris",
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-34-30PM-_1.png?v=1773460457",
+      "searchableText": "Clive Christian clive christian Clive Christian Blonde Amber Amber Luxe Oriental unisex Rum Olibanum Bitter Orange Cardamom Pink Pepper Ginger Bergamot Grapefruit Dried Fruits White Tobacco Sandalwood Tuberose Saffron Osmanthus Jasmine Orris Tonka Bean Vanilla Myrrh Labdanum Patchouli Musk Cedar Vetiver",
+      "createdAt": "2026-05-04T04:41:37.756Z",
+      "sharedNotes": [
+        "Ginger",
+        "Bergamot",
+        "Pink Pepper",
+        "Cardamom",
+        "Vanilla",
+        "Sandalwood",
+        "Cedar",
+        "Patchouli",
+        "Musk"
+      ]
+    },
+    {
+      "id": 203,
+      "fragranceSlug": "xerjoff-laylati-203",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Laylati",
+      "originalFragranceSlug": "xerjoff-laylati",
+      "mistifyProductName": "Laylatal",
+      "mistifyProductSlug": "laylatal",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/laylatal",
+      "publicInspiredByLabel": "Inspired by Xerjoff Laylati",
+      "audience": "unisex",
+      "classification": "Woody Oriental",
+      "topNotes": [
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Tobacco",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Green Notes",
+        "Cedar",
+        "Patchouli",
+        "Musk",
+        "Tobacco",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Laylatal.png?v=1765422944",
+      "searchableText": "Xerjoff xerjoff Xerjoff Laylati Laylatal Woody Oriental unisex Green Notes Cedar Patchouli Musk Tobacco Vanilla",
+      "createdAt": "2026-05-04T04:41:36.401Z",
+      "sharedNotes": [
+        "Green Notes",
+        "Vanilla",
+        "Cedar",
+        "Patchouli",
+        "Musk"
+      ]
+    },
+    {
+      "id": 158,
+      "fragranceSlug": "initio-oud-for-happiness-158",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Happiness",
+      "originalFragranceSlug": "initio-oud-for-happiness",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Initio Oud for Happiness",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Bergamot",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Licorice",
+        "Oud",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Herbal Notes",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Ginger",
+        "Licorice",
+        "Oud",
+        "Cedar",
+        "Vanilla",
+        "Herbal Notes",
+        "Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Happiness Not verified Woody Spicy Bergamot Ginger Licorice Oud Cedar Vanilla Herbal Notes Musk",
+      "createdAt": "2026-05-04T04:41:33.707Z",
+      "sharedNotes": [
+        "Ginger",
+        "Bergamot",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ]
+    },
+    {
+      "id": 232,
+      "fragranceSlug": "tiziana-terenzi-saiph-232",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Saiph",
+      "originalFragranceSlug": "tiziana-terenzi-saiph",
+      "mistifyProductName": "Saipha",
+      "mistifyProductSlug": "saipha",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saipha",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Saiph",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Saipha-_1.png?v=1773460407",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk",
+      "createdAt": "2026-05-04T04:41:38.116Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Green Notes",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ]
+    },
+    {
+      "id": 125,
+      "fragranceSlug": "creed-aventus-absolute-125",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus Absolute",
+      "originalFragranceSlug": "creed-aventus-absolute",
+      "mistifyProductName": "Absolu Crestus",
+      "mistifyProductSlug": "absolu-crestus",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/absolu-crestus",
+      "publicInspiredByLabel": "Inspired by Creed Aventus Absolute",
+      "audience": "mens",
+      "classification": "Chypre Fruity",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Nutmeg",
+        "Cloves"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Cinnamon",
+        "Citron",
+        "Cardamom",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vetiver",
+        "Oakmoss",
+        "Ambroxan",
+        "Sandalwood",
+        "Musk",
+        "Tonka",
+        "Evernyl"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Nutmeg",
+        "Cloves",
+        "Ginger",
+        "Cinnamon",
+        "Citron",
+        "Cardamom",
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oakmoss",
+        "Ambroxan",
+        "Sandalwood",
+        "Musk",
+        "Tonka",
+        "Evernyl"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_34_56AM.png?v=1765422817",
+      "searchableText": "Creed creed Creed Aventus Absolute Absolu Crestus Chypre Fruity mens Grapefruit Bergamot Pink Pepper Black Currant Pineapple Nutmeg Cloves Ginger Cinnamon Citron Cardamom Rose Patchouli Vetiver Oakmoss Ambroxan Sandalwood Musk Tonka Evernyl",
+      "createdAt": "2026-05-04T04:41:31.801Z",
+      "sharedNotes": [
+        "Ginger",
+        "Bergamot",
+        "Pink Pepper",
+        "Cardamom",
+        "Black Currant",
+        "Sandalwood",
+        "Patchouli",
+        "Musk"
+      ]
+    }
+  ]
+}

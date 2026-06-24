@@ -1,0 +1,281 @@
+{
+  "fragrances": [
+    {
+      "id": 195,
+      "fragranceSlug": "giardini-di-toscana-bianco-latte-195",
+      "brandName": "Giardini Di Toscana",
+      "brandSlug": "giardini-di-toscana",
+      "originalFragranceName": "Bianco Latte",
+      "originalFragranceSlug": "giardini-di-toscana-bianco-latte",
+      "mistifyProductName": "Bianco Lattéa",
+      "mistifyProductSlug": "bianco-lattea",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/valeroux",
+      "publicInspiredByLabel": "Inspired by Giardini Di Toscana Bianco Latte",
+      "audience": "unisex",
+      "classification": "Gourmand/Creamy Vanilla",
+      "topNotes": [
+        "Caramel"
+      ],
+      "middleNotes": [
+        "Coumarin",
+        "Honey"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Caramel",
+        "Coumarin",
+        "Honey",
+        "Vanilla",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec22-2025-09-52-18AM-_1.png?v=1773460188",
+      "searchableText": "Giardini Di Toscana giardini di toscana Giardini di Toscana Bianco Latte Bianco Lattéa Gourmand/Creamy Vanilla unisex Caramel Coumarin Honey Vanilla White Musk",
+      "createdAt": "2026-05-04T04:41:35.913Z",
+      "sharedNotes": [
+        "Vanilla",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 265,
+      "fragranceSlug": "prada-paradoxe-265",
+      "brandName": "Prada",
+      "brandSlug": "prada",
+      "originalFragranceName": "Paradoxe",
+      "originalFragranceSlug": "prada-paradoxe",
+      "mistifyProductName": "Paradiis",
+      "mistifyProductSlug": "paradiis",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradiis",
+      "publicInspiredByLabel": "Inspired by Prada Paradoxe",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear",
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine",
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-38-29PM-_1.png?v=1773460252",
+      "searchableText": "Prada prada Prada Paradoxe Paradiis Amber Floral unisex Calabrian Bergamot Tangerine Pear Neroli Orange Blossom Jasmine Amber White Musk Benzoin Vanilla",
+      "createdAt": "2026-05-04T04:41:40.135Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Vanilla",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 305,
+      "fragranceSlug": "chanel-coco-mademoiselle-305",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Coco Mademoiselle",
+      "originalFragranceSlug": "chanel-coco-mademoiselle",
+      "mistifyProductName": "Cocoiselle",
+      "mistifyProductSlug": "cocoiselle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cocoiselle",
+      "publicInspiredByLabel": "Chanel Coco Mademoiselle",
+      "audience": null,
+      "classification": "Citrus Floral / Patchouli Amber",
+      "topNotes": [
+        "Orange",
+        "Mandarin Orange",
+        "Bergamot",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Jasmine",
+        "Mimosa",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "White Musk",
+        "Vanilla",
+        "Vetiver",
+        "Tonka Bean",
+        "Opoponax"
+      ],
+      "allNotes": [
+        "Orange",
+        "Mandarin Orange",
+        "Bergamot",
+        "Orange Blossom",
+        "Turkish Rose",
+        "Jasmine",
+        "Mimosa",
+        "Ylang-Ylang",
+        "Patchouli",
+        "White Musk",
+        "Vanilla",
+        "Vetiver",
+        "Tonka Bean",
+        "Opoponax"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_10_27PM.png?v=1781712637",
+      "searchableText": "Chanel Chanel Coco Mademoiselle Cocoiselle Citrus Floral / Patchouli Amber Orange Mandarin Orange Bergamot Orange Blossom Turkish Rose Jasmine Mimosa Ylang-Ylang Patchouli White Musk Vanilla Vetiver Tonka Bean Opoponax",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Ylang-Ylang",
+        "Vanilla",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 171,
+      "fragranceSlug": "montale-intense-cafe-171",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Intense Cafe",
+      "originalFragranceSlug": "montale-intense-cafe",
+      "mistifyProductName": "Café Rose",
+      "mistifyProductSlug": "cafe-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cafe-rose",
+      "publicInspiredByLabel": "Inspired by Montale Intense Cafe",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Floral Notes"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Coffee"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Floral Notes",
+        "Rose",
+        "Coffee",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CafeRose.png?v=1765422956",
+      "searchableText": "Montale montale Montale Intense Cafe Café Rose Oriental Vanilla unisex Floral Notes Rose Coffee Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.468Z",
+      "sharedNotes": [
+        "Vanilla",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 1,
+      "fragranceSlug": "guerlain-les-absolus-d-orient-ambre-eternel-1",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Les Absolus d'Orient Ambre Eternel",
+      "originalFragranceSlug": "guerlain-les-absolus-d-orient-ambre-eternel",
+      "mistifyProductName": "Eternal Amber",
+      "mistifyProductSlug": "eternal-amber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eternal-amber",
+      "publicInspiredByLabel": "Inspired by Guerlain Les Absolus d'Orient Ambre Eternel",
+      "audience": "unisex",
+      "classification": "Oriental Amber",
+      "topNotes": [
+        "Ambergris",
+        "Cardamom",
+        "Coriander"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Musk",
+        "Woodsy Notes"
+      ],
+      "allNotes": [
+        "Ambergris",
+        "Cardamom",
+        "Coriander",
+        "Ylang-Ylang",
+        "Orange Blossom",
+        "Leather",
+        "Musk",
+        "Woodsy Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-26-54PM-_1.png?v=1773460361",
+      "searchableText": "Guerlain guerlain Guerlain Les Absolus d'Orient Ambre Eternel Eternal Amber Oriental Amber unisex Ambergris Cardamom Coriander Ylang-Ylang Orange Blossom Leather Musk Woodsy Notes",
+      "createdAt": "2026-05-04T04:41:24.292Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Ylang-Ylang"
+      ]
+    },
+    {
+      "id": 188,
+      "fragranceSlug": "giorgio-armani-my-way-188",
+      "brandName": "Giorgio Armani",
+      "brandSlug": "giorgio-armani",
+      "originalFragranceName": "My Way",
+      "originalFragranceSlug": "giorgio-armani-my-way",
+      "mistifyProductName": "My Voie",
+      "mistifyProductSlug": "my-voie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/my-voie",
+      "publicInspiredByLabel": "Inspired by Giorgio Armani My Way",
+      "audience": "unisex",
+      "classification": "Floral White/Soft Woody",
+      "topNotes": [
+        "Orange Blossom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Indian Jasmine"
+      ],
+      "baseNotes": [
+        "Madagascar Vanilla",
+        "White Musk",
+        "Virginian Cedar"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Tuberose",
+        "Indian Jasmine",
+        "Madagascar Vanilla",
+        "White Musk",
+        "Virginian Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec23-2025-12-30-29PM-_1.png?v=1773460185",
+      "searchableText": "Giorgio Armani giorgio armani Giorgio Armani My Way My Voie Floral White/Soft Woody unisex Orange Blossom Bergamot Tuberose Indian Jasmine Madagascar Vanilla White Musk Virginian Cedar",
+      "createdAt": "2026-05-04T04:41:35.467Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "White Musk"
+      ]
+    }
+  ]
+}

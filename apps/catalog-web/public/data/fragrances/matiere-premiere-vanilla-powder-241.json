@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 241,
+    "fragranceSlug": "matiere-premiere-vanilla-powder-241",
+    "brandName": "Matiere Premiere",
+    "brandSlug": "matiere-premiere",
+    "originalFragranceName": "Vanilla Powder",
+    "originalFragranceSlug": "matiere-premiere-vanilla-powder",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Matiere Premiere Vanilla Powder",
+    "audience": null,
+    "classification": "Oriental Vanilla",
+    "topNotes": [
+      "Coconut Powder",
+      "Heliotrope"
+    ],
+    "middleNotes": [
+      "Madagascar Vanilla"
+    ],
+    "baseNotes": [
+      "Vanilla Absolute",
+      "White Musk",
+      "Musk",
+      "Palo Santo",
+      "Coconut",
+      "Lactones"
+    ],
+    "allNotes": [
+      "Coconut Powder",
+      "Heliotrope",
+      "Madagascar Vanilla",
+      "Vanilla Absolute",
+      "White Musk",
+      "Musk",
+      "Palo Santo",
+      "Coconut",
+      "Lactones"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Matiere Premiere matiere premiere Matiere Premiere Vanilla Powder Not verified Oriental Vanilla Coconut Powder Heliotrope Madagascar Vanilla Vanilla Absolute White Musk Musk Palo Santo Coconut Lactones",
+    "createdAt": "2026-05-04T04:41:38.660Z"
+  }
+}

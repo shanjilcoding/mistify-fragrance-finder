@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 152,
+    "fragranceSlug": "ysl-yves-saint-laurent-la-nuit-de-l-homme-152",
+    "brandName": "YSL (Yves Saint Laurent)",
+    "brandSlug": "ysl-yves-saint-laurent",
+    "originalFragranceName": "La Nuit de l’Homme",
+    "originalFragranceSlug": "ysl-yves-saint-laurent-la-nuit-de-l-homme",
+    "mistifyProductName": "The Night of Man",
+    "mistifyProductSlug": "the-night-of-man",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/the-night-of-man",
+    "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) La Nuit de l’Homme",
+    "audience": "mens",
+    "classification": "Woody Spicy",
+    "topNotes": [
+      "Cardamom"
+    ],
+    "middleNotes": [
+      "Lavender",
+      "Cedar"
+    ],
+    "baseNotes": [
+      "Vetiver",
+      "Caraway"
+    ],
+    "allNotes": [
+      "Cardamom",
+      "Lavender",
+      "Cedar",
+      "Vetiver",
+      "Caraway"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-41-32AM-_1.png?v=1773460417",
+    "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) La Nuit de l’Homme The Night of Man Woody Spicy mens Cardamom Lavender Cedar Vetiver Caraway",
+    "createdAt": "2026-05-04T04:41:33.364Z"
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "fragrances": [
+    {
+      "id": 214,
+      "fragranceSlug": "viktor-and-rolf-spice-bomb-214",
+      "brandName": "Viktor & Rolf",
+      "brandSlug": "viktor-and-rolf",
+      "originalFragranceName": "Spice Bomb",
+      "originalFragranceSlug": "viktor-and-rolf-spice-bomb",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Viktor & Rolf Spice Bomb",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Pink Pepper",
+        "Elemi",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Paprika",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Tobacco",
+        "Leather",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Elemi",
+        "Bergamot",
+        "Grapefruit",
+        "Cinnamon",
+        "Paprika",
+        "Saffron",
+        "Tobacco",
+        "Leather",
+        "Vetiver"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Viktor & Rolf viktor and rolf Viktor & Rolf Spice Bomb Not verified Woody Spicy Pink Pepper Elemi Bergamot Grapefruit Cinnamon Paprika Saffron Tobacco Leather Vetiver",
+      "createdAt": "2026-05-04T04:41:37.047Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Cinnamon",
+        "Leather"
+      ]
+    },
+    {
+      "id": 77,
+      "fragranceSlug": "tom-ford-grey-vetiver-77",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Grey Vetiver",
+      "originalFragranceSlug": "tom-ford-grey-vetiver",
+      "mistifyProductName": "Silver Vetiver",
+      "mistifyProductSlug": "silver-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silver-vetiver",
+      "publicInspiredByLabel": "Inspired by Tom Ford Grey Vetiver",
+      "audience": "mens",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Grapefruit",
+        "Orange Blossom",
+        "Sage"
+      ],
+      "middleNotes": [
+        "Nutmeg",
+        "Orris Root",
+        "Pimento"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Woodsy Notes",
+        "Oakmoss",
+        "Amber"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Orange Blossom",
+        "Sage",
+        "Nutmeg",
+        "Orris Root",
+        "Pimento",
+        "Vetiver",
+        "Woodsy Notes",
+        "Oakmoss",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_54_08AM.png?v=1765422869",
+      "searchableText": "Tom Ford tom ford Tom Ford Grey Vetiver Silver Vetiver Woody Spicy mens Grapefruit Orange Blossom Sage Nutmeg Orris Root Pimento Vetiver Woodsy Notes Oakmoss Amber",
+      "createdAt": "2026-05-04T04:41:28.987Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Amber"
+      ]
+    },
+    {
+      "id": 10,
+      "fragranceSlug": "guerlain-extra-habit-rouge-prive-10",
+      "brandName": "Guerlain Extra",
+      "brandSlug": "guerlain-extra",
+      "originalFragranceName": "Habit Rouge Privé",
+      "originalFragranceSlug": "guerlain-extra-habit-rouge-prive",
+      "mistifyProductName": "Rogue Privé",
+      "mistifyProductSlug": "rogue-prive",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rogue-prive",
+      "publicInspiredByLabel": "Inspired by Guerlain Extra Habit Rouge Privé",
+      "audience": "mens",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Bergamot",
+        "Lime",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose",
+        "Cinnamon"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lime",
+        "Orange",
+        "Jasmine",
+        "Rose",
+        "Cinnamon",
+        "Leather",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-39-53PM-_1.png?v=1773460367",
+      "searchableText": "Guerlain Extra guerlain extra Guerlain extra Habit Rouge Privé Rogue Privé Oriental Woody mens Bergamot Lime Orange Jasmine Rose Cinnamon Leather Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:25.095Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Rose",
+        "Leather"
+      ]
+    },
+    {
+      "id": 263,
+      "fragranceSlug": "chopard-oud-malaki-263",
+      "brandName": "Chopard",
+      "brandSlug": "chopard",
+      "originalFragranceName": "Oud Malaki",
+      "originalFragranceSlug": "chopard-oud-malaki",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Chopard Oud Malaki",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Grapefruit",
+        "Lavender",
+        "Artemisia"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Spices",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Dark Woodsy Notes",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lavender",
+        "Artemisia",
+        "Tobacco",
+        "Spices",
+        "Leather",
+        "Oud",
+        "Dark Woodsy Notes",
+        "Ambergris"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Chopard chopard Chopard Oud Malaki Not verified Woody Spicy Grapefruit Lavender Artemisia Tobacco Spices Leather Oud Dark Woodsy Notes Ambergris",
+      "createdAt": "2026-05-04T04:41:40.023Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Leather"
+      ]
+    },
+    {
+      "id": 84,
+      "fragranceSlug": "tom-ford-santal-blush-84",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Santal Blush",
+      "originalFragranceSlug": "tom-ford-santal-blush",
+      "mistifyProductName": "Santal Veil",
+      "mistifyProductSlug": "santal-veil",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/santal-veil",
+      "publicInspiredByLabel": "Inspired by Tom Ford Santal Blush",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Fenugreek",
+        "Carrot Seeds"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Ylang-Ylang",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Benzoin",
+        "Agarwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Fenugreek",
+        "Carrot Seeds",
+        "Jasmine",
+        "Ylang-Ylang",
+        "Rose",
+        "Sandalwood",
+        "Benzoin",
+        "Agarwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_29_23AM.png?v=1774326570",
+      "searchableText": "Tom Ford tom ford Tom Ford Santal Blush Santal Veil Woody Spicy unisex Cinnamon Fenugreek Carrot Seeds Jasmine Ylang-Ylang Rose Sandalwood Benzoin Agarwood Musk",
+      "createdAt": "2026-05-04T04:41:29.400Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Rose"
+      ]
+    },
+    {
+      "id": 98,
+      "fragranceSlug": "parfums-de-marly-herod-98",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Herod",
+      "originalFragranceSlug": "parfums-de-marly-herod",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Herod",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Pepperwood"
+      ],
+      "middleNotes": [
+        "Tobacco Leaf",
+        "Incense",
+        "Osmanthus",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk",
+        "Cypriol",
+        "Vetiver",
+        "Amber",
+        "Iso E Super"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Pepperwood",
+        "Tobacco Leaf",
+        "Incense",
+        "Osmanthus",
+        "Labdanum",
+        "Vanilla",
+        "Cedar",
+        "Musk",
+        "Cypriol",
+        "Vetiver",
+        "Amber",
+        "Iso E Super"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Herod Not verified Woody Spicy Cinnamon Pepperwood Tobacco Leaf Incense Osmanthus Labdanum Vanilla Cedar Musk Cypriol Vetiver Amber Iso E Super",
+      "createdAt": "2026-05-04T04:41:30.212Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Amber"
+      ]
+    }
+  ]
+}

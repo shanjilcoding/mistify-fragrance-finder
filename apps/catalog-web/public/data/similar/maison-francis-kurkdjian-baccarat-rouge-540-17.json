@@ -1,0 +1,287 @@
+{
+  "fragrances": [
+    {
+      "id": 18,
+      "fragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum-18",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Baccarat Rouge 540 Extrait de Parfum",
+      "originalFragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum",
+      "mistifyProductName": "Baccarata Intense 440",
+      "mistifyProductSlug": "baccarata-intense-440",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baccarata-intense-440?variant=49907830686015",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum",
+      "audience": null,
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Bitter Almond",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Egyptian Jasmine",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Woody Notes",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bitter Almond",
+        "Saffron",
+        "Egyptian Jasmine",
+        "Cedar",
+        "Ambergris",
+        "Woody Notes",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-58-36PM-_1.png?v=1773460513",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum Baccarata Intense 440 Amber Floral Bitter Almond Saffron Egyptian Jasmine Cedar Ambergris Woody Notes Musk",
+      "createdAt": "2026-05-04T04:41:25.544Z",
+      "sharedNotes": [
+        "Saffron",
+        "Ambergris",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 20,
+      "fragranceSlug": "maison-francis-kurkdjian-oud-20",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Oud",
+      "originalFragranceSlug": "maison-francis-kurkdjian-oud",
+      "mistifyProductName": "Satin Moody Oud",
+      "mistifyProductSlug": "satin-moody-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/satin-moody-oud",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud",
+      "audience": null,
+      "classification": "Oriental Woody/Oud Woody",
+      "topNotes": [
+        "Saffron",
+        "Elemi"
+      ],
+      "middleNotes": [
+        "Agarwood/Oud"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Elemi",
+        "Agarwood/Oud",
+        "Patchouli",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_13_59PM.png?v=1765422983",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Satin Moody Oud Oriental Woody/Oud Woody Saffron Elemi Agarwood/Oud Patchouli Cedar",
+      "createdAt": "2026-05-04T04:41:25.657Z",
+      "sharedNotes": [
+        "Saffron",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 143,
+      "fragranceSlug": "ysl-yves-saint-laurent-libre-143",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Libre",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-libre",
+      "mistifyProductName": "Libre Vanillé",
+      "mistifyProductSlug": "libre-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-vanille",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre",
+      "audience": "unisex",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Black Currant",
+        "Petitgrain"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Madagascar Vanilla",
+        "Musk",
+        "Cedar",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Black Currant",
+        "Petitgrain",
+        "Lavender",
+        "Orange Blossom",
+        "Jasmine",
+        "Madagascar Vanilla",
+        "Musk",
+        "Cedar",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb26-2026-12-44-22PM-_1.png?v=1773460127",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Libre Vanillé Amber Fougere unisex Lavender Mandarin Orange Black Currant Petitgrain Lavender Orange Blossom Jasmine Madagascar Vanilla Musk Cedar Ambergris",
+      "createdAt": "2026-05-04T04:41:32.824Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Ambergris",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 265,
+      "fragranceSlug": "prada-paradoxe-265",
+      "brandName": "Prada",
+      "brandSlug": "prada",
+      "originalFragranceName": "Paradoxe",
+      "originalFragranceSlug": "prada-paradoxe",
+      "mistifyProductName": "Paradiis",
+      "mistifyProductSlug": "paradiis",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradiis",
+      "publicInspiredByLabel": "Inspired by Prada Paradoxe",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear",
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine",
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-38-29PM-_1.png?v=1773460252",
+      "searchableText": "Prada prada Prada Paradoxe Paradiis Amber Floral unisex Calabrian Bergamot Tangerine Pear Neroli Orange Blossom Jasmine Amber White Musk Benzoin Vanilla",
+      "createdAt": "2026-05-04T04:41:40.135Z",
+      "sharedNotes": [
+        "Jasmine"
+      ]
+    },
+    {
+      "id": 85,
+      "fragranceSlug": "tom-ford-soleil-blanc-85",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Soleil Blanc",
+      "originalFragranceSlug": "tom-ford-soleil-blanc",
+      "mistifyProductName": "Soleil Sun",
+      "mistifyProductSlug": "soleil-sun",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-sun",
+      "publicInspiredByLabel": "Inspired by Tom Ford Soleil Blanc",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pistachio",
+        "Bergamot",
+        "Cardamom",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Coconut",
+        "Amber",
+        "Tonka Bean",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Pistachio",
+        "Bergamot",
+        "Cardamom",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Coconut",
+        "Amber",
+        "Tonka Bean",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-41-35AM-_1.png?v=1773460537",
+      "searchableText": "Tom Ford tom ford Tom Ford Soleil Blanc Soleil Sun Amber Floral unisex Pistachio Bergamot Cardamom Pink Pepper Tuberose Ylang-Ylang Jasmine Coconut Amber Tonka Bean Benzoin",
+      "createdAt": "2026-05-04T04:41:29.454Z",
+      "sharedNotes": [
+        "Jasmine"
+      ]
+    },
+    {
+      "id": 127,
+      "fragranceSlug": "creed-carmina-127",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Carmina",
+      "originalFragranceSlug": "creed-carmina",
+      "mistifyProductName": "Karmina",
+      "mistifyProductSlug": "karmina",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/karmina",
+      "publicInspiredByLabel": "Inspired by Creed Carmina",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pink Pepper",
+        "Black Cherry",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "May Rose",
+        "Peony",
+        "Violet",
+        "Cashmere Wood"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambroxan",
+        "Frankincense",
+        "Myrrh"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Black Cherry",
+        "Saffron",
+        "May Rose",
+        "Peony",
+        "Violet",
+        "Cashmere Wood",
+        "Musk",
+        "Ambroxan",
+        "Frankincense",
+        "Myrrh"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_46_39PM.png?v=1765422844",
+      "searchableText": "Creed creed Creed Carmina Karmina Amber Floral womens Pink Pepper Black Cherry Saffron May Rose Peony Violet Cashmere Wood Musk Ambroxan Frankincense Myrrh",
+      "createdAt": "2026-05-04T04:41:31.917Z",
+      "sharedNotes": [
+        "Saffron"
+      ]
+    }
+  ]
+}

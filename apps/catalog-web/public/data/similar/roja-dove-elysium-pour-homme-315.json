@@ -1,0 +1,358 @@
+{
+  "fragrances": [
+    {
+      "id": 110,
+      "fragranceSlug": "parfums-de-marly-castley-110",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Castley",
+      "originalFragranceSlug": "parfums-de-marly-castley",
+      "mistifyProductName": "Castellan",
+      "mistifyProductSlug": "castellan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/castellan",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Castley",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Pepper",
+        "Ginger",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Neroli",
+        "Petitgrain",
+        "Timur",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Akigalawood",
+        "Labdanum",
+        "Benzoin",
+        "Leather"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Pepper",
+        "Ginger",
+        "Grapefruit",
+        "Pepper",
+        "Neroli",
+        "Petitgrain",
+        "Timur",
+        "Rose",
+        "Akigalawood",
+        "Labdanum",
+        "Benzoin",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-29-17AM-_1.png?v=1773460238",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Castley Castellan Citrus Aromatic mens Bergamot Black Pepper Ginger Grapefruit Pepper Neroli Petitgrain Timur Rose Akigalawood Labdanum Benzoin Leather",
+      "createdAt": "2026-05-04T04:41:30.917Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Rose",
+        "Leather",
+        "Benzoin",
+        "Labdanum"
+      ]
+    },
+    {
+      "id": 10,
+      "fragranceSlug": "guerlain-extra-habit-rouge-prive-10",
+      "brandName": "Guerlain Extra",
+      "brandSlug": "guerlain-extra",
+      "originalFragranceName": "Habit Rouge Privé",
+      "originalFragranceSlug": "guerlain-extra-habit-rouge-prive",
+      "mistifyProductName": "Rogue Privé",
+      "mistifyProductSlug": "rogue-prive",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rogue-prive",
+      "publicInspiredByLabel": "Inspired by Guerlain Extra Habit Rouge Privé",
+      "audience": "mens",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Bergamot",
+        "Lime",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose",
+        "Cinnamon"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lime",
+        "Orange",
+        "Jasmine",
+        "Rose",
+        "Cinnamon",
+        "Leather",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-39-53PM-_1.png?v=1773460367",
+      "searchableText": "Guerlain Extra guerlain extra Guerlain extra Habit Rouge Privé Rogue Privé Oriental Woody mens Bergamot Lime Orange Jasmine Rose Cinnamon Leather Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:25.095Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lime",
+        "Jasmine",
+        "Rose",
+        "Leather",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 306,
+      "fragranceSlug": "nishane-ani-306",
+      "brandName": "Nishane",
+      "brandSlug": "nishane",
+      "originalFragranceName": "Ani",
+      "originalFragranceSlug": "nishane-ani",
+      "mistifyProductName": "Anique",
+      "mistifyProductSlug": "anique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/anique",
+      "publicInspiredByLabel": "Nishane Ani",
+      "audience": null,
+      "classification": "Spicy Vanilla / Woody Amber",
+      "topNotes": [
+        "Ginger",
+        "Bergamot",
+        "Pink Pepper",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Cardamom",
+        "Black Currant",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Benzoin",
+        "Sandalwood",
+        "Cedar",
+        "Patchouli",
+        "Ambergris",
+        "Musk"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Bergamot",
+        "Pink Pepper",
+        "Green Notes",
+        "Cardamom",
+        "Black Currant",
+        "Turkish Rose",
+        "Vanilla",
+        "Benzoin",
+        "Sandalwood",
+        "Cedar",
+        "Patchouli",
+        "Ambergris",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_05_01PM_b09c0367-8ac0-482e-8c49-bb95010362c5.png?v=1781712317",
+      "searchableText": "Nishane Nishane Ani Anique Spicy Vanilla / Woody Amber Ginger Bergamot Pink Pepper Green Notes Cardamom Black Currant Turkish Rose Vanilla Benzoin Sandalwood Cedar Patchouli Ambergris Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Cedar",
+        "Pink Pepper",
+        "Ambergris",
+        "Vanilla",
+        "Benzoin"
+      ]
+    },
+    {
+      "id": 86,
+      "fragranceSlug": "tom-ford-soleil-neige-86",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Soleil Neige",
+      "originalFragranceSlug": "tom-ford-soleil-neige",
+      "mistifyProductName": "Soleil Snow",
+      "mistifyProductSlug": "soleil-snow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-snow",
+      "publicInspiredByLabel": "Inspired by Tom Ford Soleil Neige",
+      "audience": "unisex",
+      "classification": "Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Carrot Seeds"
+      ],
+      "middleNotes": [
+        "White Flowers",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Carrot Seeds",
+        "White Flowers",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose",
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_09_07AM.png?v=1774325369",
+      "searchableText": "Tom Ford tom ford Tom Ford Soleil Neige Soleil Snow Floral Musk unisex Bergamot Carrot Seeds White Flowers Jasmine Orange Blossom Turkish Rose Benzoin Vanilla Labdanum",
+      "createdAt": "2026-05-04T04:41:29.512Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ]
+    },
+    {
+      "id": 247,
+      "fragranceSlug": "penhaligon-s-halfeti-247",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti",
+      "originalFragranceSlug": "penhaligon-s-halfeti",
+      "mistifyProductName": "Halfeti Rose",
+      "mistifyProductSlug": "halfeti-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit",
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine",
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_43_29AM.png?v=1765422933",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Halfeti Rose Oriental Woody unisex Cypress Leaf Saffron Cardamom Artemisia Bergamot Grapefruit Bulgarian Rose Nutmeg Jasmine Oud Cedar Leather Sandalwood Amber Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:39.038Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Artemisia",
+        "Cedar",
+        "Jasmine",
+        "Leather",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 301,
+      "fragranceSlug": "chanel-bleu-de-chanel-301",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Bleu de Chanel",
+      "originalFragranceSlug": "chanel-bleu-de-chanel",
+      "mistifyProductName": "Bleu Élan",
+      "mistifyProductSlug": "bleu-elan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-elan",
+      "publicInspiredByLabel": "Inspired by Chanel Bleu de Chanel",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper",
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super",
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Chanel chanel Chanel Bleu de Chanel Bleu Élan Woody Aromatic mens Grapefruit Lemon Mint Pink Pepper Ginger Nutmeg Jasmine Iso E Super Incense Cedar Vetiver Sandalwood Patchouli Labdanum White Musk",
+      "createdAt": "2026-05-04T04:41:42.307Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Vetiver",
+        "Cedar",
+        "Pink Pepper",
+        "Jasmine",
+        "Labdanum"
+      ]
+    }
+  ]
+}

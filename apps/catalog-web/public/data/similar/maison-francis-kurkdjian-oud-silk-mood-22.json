@@ -1,0 +1,274 @@
+{
+  "fragrances": [
+    {
+      "id": 159,
+      "fragranceSlug": "initio-psychedelic-love-159",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Psychedelic Love",
+      "originalFragranceSlug": "initio-psychedelic-love",
+      "mistifyProductName": "Hypnotic Love",
+      "mistifyProductSlug": "hypnotic-love",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hypnotic-love",
+      "publicInspiredByLabel": "Inspired by Initio Psychedelic Love",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Ylang-Ylang",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Heliotrope",
+        "Hedione",
+        "Bulgarian Rose"
+      ],
+      "baseNotes": [
+        "Myrrh",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Ylang-Ylang",
+        "Bergamot",
+        "Heliotrope",
+        "Hedione",
+        "Bulgarian Rose",
+        "Myrrh",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-30-34AM-_1.png?v=1773460506",
+      "searchableText": "Initio initio parfums Initio Parfums Psychedelic Love Hypnotic Love Floral unisex Ylang-Ylang Bergamot Heliotrope Hedione Bulgarian Rose Myrrh Sandalwood",
+      "createdAt": "2026-05-04T04:41:33.764Z",
+      "sharedNotes": [
+        "Bulgarian Rose",
+        "Bergamot",
+        "Hedione"
+      ]
+    },
+    {
+      "id": 41,
+      "fragranceSlug": "louis-vuitton-les-sables-roses-41",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Les Sables Roses",
+      "originalFragranceSlug": "louis-vuitton-les-sables-roses",
+      "mistifyProductName": "Sable Roseux",
+      "mistifyProductSlug": "sable-roseux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sable-roseux",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Les Sables Roses",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Bulgarian Rose"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Black Pepper"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Rose",
+        "Bulgarian Rose",
+        "Saffron",
+        "Black Pepper",
+        "Oud",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-21-03PM-_1.png?v=1773460255",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Les Sables Roses Sable Roseux Oriental Floral unisex Rose Bulgarian Rose Saffron Black Pepper Oud Ambergris",
+      "createdAt": "2026-05-04T04:41:26.886Z",
+      "sharedNotes": [
+        "Bulgarian Rose",
+        "Oud"
+      ]
+    },
+    {
+      "id": 24,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-media-cologne-forte-24",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Media Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-media-cologne-forte",
+      "mistifyProductName": "Aqua Médié",
+      "mistifyProductSlug": "aqua-medie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/aqua-medie",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Media Cologne Forte",
+      "audience": "unisex",
+      "classification": "Green Citrus/Aromatic Fresh",
+      "topNotes": [
+        "Bergamot",
+        "Vervain"
+      ],
+      "middleNotes": [
+        "Fennel",
+        "Hedione"
+      ],
+      "baseNotes": [
+        "Matcha Tea",
+        "Musk",
+        "Woodsy Notes"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Vervain",
+        "Fennel",
+        "Hedione",
+        "Matcha Tea",
+        "Musk",
+        "Woodsy Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan13-2026-07-36-12AM-_1.png?v=1773460175",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Media Cologne Forte Aqua Médié Green Citrus/Aromatic Fresh unisex Bergamot Vervain Fennel Hedione Matcha Tea Musk Woodsy Notes",
+      "createdAt": "2026-05-04T04:41:25.899Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Hedione"
+      ]
+    },
+    {
+      "id": 25,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-universalis-25",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Universalis",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-universalis",
+      "mistifyProductName": "Aqua Universelle",
+      "mistifyProductSlug": "aqua-universelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/aqua-universelle",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Universalis",
+      "audience": "unisex",
+      "classification": "Green Citrus/Aromatic Fresh",
+      "topNotes": [
+        "Bergamot",
+        "Vervain"
+      ],
+      "middleNotes": [
+        "Fennel",
+        "Hedione"
+      ],
+      "baseNotes": [
+        "Matcha Tea",
+        "Musk",
+        "Woodsy Notes"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Vervain",
+        "Fennel",
+        "Hedione",
+        "Matcha Tea",
+        "Musk",
+        "Woodsy Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan19-2026-11-12-57AM-_1.png?v=1773460172",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Universalis Aqua Universelle Green Citrus/Aromatic Fresh unisex Bergamot Vervain Fennel Hedione Matcha Tea Musk Woodsy Notes",
+      "createdAt": "2026-05-04T04:41:25.957Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Hedione"
+      ]
+    },
+    {
+      "id": 131,
+      "fragranceSlug": "creed-royal-oud-131",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Royal Oud",
+      "originalFragranceSlug": "creed-royal-oud",
+      "mistifyProductName": "Regal Oud",
+      "mistifyProductSlug": "regal-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/regal-oud",
+      "publicInspiredByLabel": "Inspired by Creed Royal Oud",
+      "audience": "unisex",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Galbanum",
+        "Angelica"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot",
+        "Cedar",
+        "Galbanum",
+        "Angelica",
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-35-06PM-_1.png?v=1773460550",
+      "searchableText": "Creed creed Creed Royal Oud Regal Oud Amber Fougere unisex Pink Pepper Lemon Bergamot Cedar Galbanum Angelica Oud Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.140Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Oud"
+      ]
+    },
+    {
+      "id": 166,
+      "fragranceSlug": "montale-aoud-night-166",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Night",
+      "originalFragranceSlug": "montale-aoud-night",
+      "mistifyProductName": "Midnight Oud",
+      "mistifyProductSlug": "midnight-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/midnight-oud",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Night",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Fruity Notes",
+        "Bergamot",
+        "Sicilian Lemon"
+      ],
+      "middleNotes": [
+        "Moroccan Rose",
+        "Indonesian Patchouli Leaf"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Guaiac Wood",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Fruity Notes",
+        "Bergamot",
+        "Sicilian Lemon",
+        "Moroccan Rose",
+        "Indonesian Patchouli Leaf",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Guaiac Wood",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MidnightOud.png?v=1765422949",
+      "searchableText": "Montale montale Montale Aoud Night Midnight Oud Oriental Woody unisex Oud Fruity Notes Bergamot Sicilian Lemon Moroccan Rose Indonesian Patchouli Leaf Leather Sandalwood Amber Guaiac Wood White Musk",
+      "createdAt": "2026-05-04T04:41:34.175Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Guaiac Wood",
+        "Oud"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "fragrances": [
+    {
+      "id": 85,
+      "fragranceSlug": "tom-ford-soleil-blanc-85",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Soleil Blanc",
+      "originalFragranceSlug": "tom-ford-soleil-blanc",
+      "mistifyProductName": "Soleil Sun",
+      "mistifyProductSlug": "soleil-sun",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-sun",
+      "publicInspiredByLabel": "Inspired by Tom Ford Soleil Blanc",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pistachio",
+        "Bergamot",
+        "Cardamom",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Coconut",
+        "Amber",
+        "Tonka Bean",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Pistachio",
+        "Bergamot",
+        "Cardamom",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Coconut",
+        "Amber",
+        "Tonka Bean",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-41-35AM-_1.png?v=1773460537",
+      "searchableText": "Tom Ford tom ford Tom Ford Soleil Blanc Soleil Sun Amber Floral unisex Pistachio Bergamot Cardamom Pink Pepper Tuberose Ylang-Ylang Jasmine Coconut Amber Tonka Bean Benzoin",
+      "createdAt": "2026-05-04T04:41:29.454Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Amber",
+        "Benzoin"
+      ]
+    },
+    {
+      "id": 149,
+      "fragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet-149",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Supreme Bouquet",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet",
+      "mistifyProductName": "Ethereal Bloom",
+      "mistifyProductSlug": "ethereal-bloom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ethereal-bloom",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Supreme Bouquet",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pear",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pear",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/EtherealBloom-_1.png?v=1773460422",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Supreme Bouquet Ethereal Bloom Amber Floral womens Pear Pink Pepper Tuberose Ylang-Ylang Jasmine Amber Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.197Z",
+      "sharedNotes": [
+        "Pear",
+        "Jasmine",
+        "Amber"
+      ]
+    },
+    {
+      "id": 86,
+      "fragranceSlug": "tom-ford-soleil-neige-86",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Soleil Neige",
+      "originalFragranceSlug": "tom-ford-soleil-neige",
+      "mistifyProductName": "Soleil Snow",
+      "mistifyProductSlug": "soleil-snow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-snow",
+      "publicInspiredByLabel": "Inspired by Tom Ford Soleil Neige",
+      "audience": "unisex",
+      "classification": "Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Carrot Seeds"
+      ],
+      "middleNotes": [
+        "White Flowers",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Carrot Seeds",
+        "White Flowers",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose",
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_09_07AM.png?v=1774325369",
+      "searchableText": "Tom Ford tom ford Tom Ford Soleil Neige Soleil Snow Floral Musk unisex Bergamot Carrot Seeds White Flowers Jasmine Orange Blossom Turkish Rose Benzoin Vanilla Labdanum",
+      "createdAt": "2026-05-04T04:41:29.512Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Jasmine",
+        "Benzoin",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 171,
+      "fragranceSlug": "montale-intense-cafe-171",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Intense Cafe",
+      "originalFragranceSlug": "montale-intense-cafe",
+      "mistifyProductName": "Café Rose",
+      "mistifyProductSlug": "cafe-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cafe-rose",
+      "publicInspiredByLabel": "Inspired by Montale Intense Cafe",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Floral Notes"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Coffee"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Floral Notes",
+        "Rose",
+        "Coffee",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CafeRose.png?v=1765422956",
+      "searchableText": "Montale montale Montale Intense Cafe Café Rose Oriental Vanilla unisex Floral Notes Rose Coffee Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.468Z",
+      "sharedNotes": [
+        "Amber",
+        "White Musk",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 65,
+      "fragranceSlug": "kilian-love-don-t-be-shy-65",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Love, Don’t Be Shy",
+      "originalFragranceSlug": "kilian-love-don-t-be-shy",
+      "mistifyProductName": "Love, I’m Not Shy",
+      "mistifyProductSlug": "love-i-m-not-shy",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/love-im-not-shy",
+      "publicInspiredByLabel": "Inspired by Kilian Love, Don’t Be Shy",
+      "audience": "unisex",
+      "classification": "Floral Gourmand",
+      "topNotes": [
+        "Neroli",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Bergamot",
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom",
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-33-02PM-_1.png?v=1773460529",
+      "searchableText": "Kilian kilian By Kilian Love, Don’t Be Shy Love, I’m Not Shy Floral Gourmand unisex Neroli Bergamot Jasmine Honeysuckle Orange Blossom Vanilla Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.274Z",
+      "sharedNotes": [
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 12,
+      "fragranceSlug": "maison-francis-kurkdjian-a-p-o-m-12",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "A.P.O.M",
+      "originalFragranceSlug": "maison-francis-kurkdjian-a-p-o-m",
+      "mistifyProductName": "A Part of Aura",
+      "mistifyProductSlug": "a-part-of-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/a-part-of-aura",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian A.P.O.M",
+      "audience": "unisex",
+      "classification": "Amber Floral Fougere",
+      "topNotes": [
+        "Sweet Florals",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "allNotes": [
+        "Sweet Florals",
+        "Orange Blossom",
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom",
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-08-30AM-_1.png?v=1773460306",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian A.P.O.M A Part of Aura Amber Floral Fougere unisex Sweet Florals Orange Blossom Lavender Ylang-Ylang Orange Blossom Vanilla White Musk Light Amber",
+      "createdAt": "2026-05-04T04:41:25.206Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "White Musk",
+        "Vanilla"
+      ]
+    }
+  ]
+}

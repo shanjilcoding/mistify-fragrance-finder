@@ -1,0 +1,287 @@
+{
+  "fragrances": [
+    {
+      "id": 130,
+      "fragranceSlug": "creed-queen-of-silk-130",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Queen of Silk",
+      "originalFragranceSlug": "creed-queen-of-silk",
+      "mistifyProductName": "Silken Queen",
+      "mistifyProductSlug": "silken-queen",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silken-queen",
+      "publicInspiredByLabel": "Inspired by Creed Queen of Silk",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Osmanthus",
+        "Magnolia",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Passionfruit",
+        "Oud",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Incense",
+        "Myrrh",
+        "Ambroxan",
+        "Cedarwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Magnolia",
+        "Saffron",
+        "Tuberose",
+        "Passionfruit",
+        "Oud",
+        "Patchouli",
+        "Vanilla",
+        "Incense",
+        "Myrrh",
+        "Ambroxan",
+        "Cedarwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-33-41AM-_1.png?v=1773460553",
+      "searchableText": "Creed creed Creed Queen of Silk Silken Queen Amber Floral womens Osmanthus Magnolia Saffron Tuberose Passionfruit Oud Patchouli Vanilla Incense Myrrh Ambroxan Cedarwood Musk",
+      "createdAt": "2026-05-04T04:41:32.081Z",
+      "sharedNotes": [
+        "Saffron",
+        "Musk",
+        "Ambroxan",
+        "Myrrh"
+      ]
+    },
+    {
+      "id": 140,
+      "fragranceSlug": "creed-eladaria-140",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Eladaria",
+      "originalFragranceSlug": "creed-eladaria",
+      "mistifyProductName": "Eladarié",
+      "mistifyProductSlug": "eladarie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eladarie",
+      "publicInspiredByLabel": "Inspired by Creed Eladaria",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "Pink Pepper",
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Powdery Notes",
+        "Peony",
+        "Lily-of-the-Valley"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Mandarin Orange",
+        "Bergamot",
+        "Rose",
+        "Powdery Notes",
+        "Peony",
+        "Lily-of-the-Valley",
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay7_2026_04_17_24PM.png?v=1778185051",
+      "searchableText": "Creed creed Creed Eladaria Eladarié Floral womens Pink Pepper Mandarin Orange Bergamot Rose Powdery Notes Peony Lily-of-the-Valley Musk Ambroxan Cashmere Wood Vanilla",
+      "createdAt": "2026-05-04T04:41:32.651Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Peony",
+        "Cashmere Wood",
+        "Musk",
+        "Ambroxan"
+      ]
+    },
+    {
+      "id": 149,
+      "fragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet-149",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Supreme Bouquet",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet",
+      "mistifyProductName": "Ethereal Bloom",
+      "mistifyProductSlug": "ethereal-bloom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ethereal-bloom",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Supreme Bouquet",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pear",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pear",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/EtherealBloom-_1.png?v=1773460422",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Supreme Bouquet Ethereal Bloom Amber Floral womens Pear Pink Pepper Tuberose Ylang-Ylang Jasmine Amber Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.197Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Musk"
+      ]
+    },
+    {
+      "id": 18,
+      "fragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum-18",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Baccarat Rouge 540 Extrait de Parfum",
+      "originalFragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum",
+      "mistifyProductName": "Baccarata Intense 440",
+      "mistifyProductSlug": "baccarata-intense-440",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baccarata-intense-440?variant=49907830686015",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum",
+      "audience": null,
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Bitter Almond",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Egyptian Jasmine",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Woody Notes",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bitter Almond",
+        "Saffron",
+        "Egyptian Jasmine",
+        "Cedar",
+        "Ambergris",
+        "Woody Notes",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-58-36PM-_1.png?v=1773460513",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum Baccarata Intense 440 Amber Floral Bitter Almond Saffron Egyptian Jasmine Cedar Ambergris Woody Notes Musk",
+      "createdAt": "2026-05-04T04:41:25.544Z",
+      "sharedNotes": [
+        "Saffron",
+        "Musk"
+      ]
+    },
+    {
+      "id": 17,
+      "fragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-17",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Baccarat Rouge 540",
+      "originalFragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540",
+      "mistifyProductName": "Baccarata 440",
+      "mistifyProductSlug": "baccarata-440",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baccarata-440",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Baccarat Rouge 540",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Saffron",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Ambergris"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Fir Resin"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Jasmine",
+        "Ambergris",
+        "Cedar",
+        "Fir Resin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_10_54_14PM.png?v=1765422979",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Baccarat Rouge 540 Baccarata 440 Amber Floral unisex Saffron Jasmine Ambergris Cedar Fir Resin",
+      "createdAt": "2026-05-04T04:41:25.486Z",
+      "sharedNotes": [
+        "Saffron"
+      ]
+    },
+    {
+      "id": 271,
+      "fragranceSlug": "diptyque-eau-rihla-271",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Eau Rihla",
+      "originalFragranceSlug": "diptyque-eau-rihla",
+      "mistifyProductName": "Eau Relia",
+      "mistifyProductSlug": "eau-relia",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eau-relia",
+      "publicInspiredByLabel": "Inspired by Diptyque Eau Rihla",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Iris",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper",
+        "Leather",
+        "Iris",
+        "Cedar",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-50-51AM-_1.png?v=1773460377",
+      "searchableText": "Diptyque diptyque Diptyque Eau Rihla Eau Relia Oriental Woody unisex Raspberry Saffron Pink Pepper Leather Iris Cedar Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:40.507Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Saffron",
+        "Musk"
+      ]
+    }
+  ]
+}

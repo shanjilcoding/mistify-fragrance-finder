@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 298,
+    "fragranceSlug": "marc-antoine-barrois-ganymede-298",
+    "brandName": "Marc-Antoine Barrois",
+    "brandSlug": "marc-antoine-barrois",
+    "originalFragranceName": "Ganymede",
+    "originalFragranceSlug": "marc-antoine-barrois-ganymede",
+    "mistifyProductName": "Mineral Suede",
+    "mistifyProductSlug": "mineral-suede",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/mineral-suede",
+    "publicInspiredByLabel": "Inspired by Marc-Antoine Barrois Ganymede",
+    "audience": null,
+    "classification": "Woody Spicy",
+    "topNotes": [
+      "Saffron",
+      "Italian Mandarin"
+    ],
+    "middleNotes": [
+      "Chinese Osmanthus",
+      "Immortelle",
+      "Violet Leaf"
+    ],
+    "baseNotes": [
+      "Mineral Notes",
+      "Suede",
+      "Akigalawood",
+      "Cedar",
+      "Musk",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Saffron",
+      "Italian Mandarin",
+      "Chinese Osmanthus",
+      "Immortelle",
+      "Violet Leaf",
+      "Mineral Notes",
+      "Suede",
+      "Akigalawood",
+      "Cedar",
+      "Musk",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay20_2026_02_13_18PM.png?v=1779300809",
+    "searchableText": "Marc-Antoine Barrois marc antoine barrois Marc-Antoine Barrois Ganymede Mineral Suede Woody Spicy Saffron Italian Mandarin Chinese Osmanthus Immortelle Violet Leaf Mineral Notes Suede Akigalawood Cedar Musk Patchouli",
+    "createdAt": "2026-05-04T04:41:42.126Z"
+  }
+}

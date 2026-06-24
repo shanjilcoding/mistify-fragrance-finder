@@ -1,0 +1,245 @@
+{
+  "fragrances": [
+    {
+      "id": 168,
+      "fragranceSlug": "montale-black-aoud-168",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Black Aoud",
+      "originalFragranceSlug": "montale-black-aoud",
+      "mistifyProductName": "Oud Noir",
+      "mistifyProductSlug": "oud-noir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-noir",
+      "publicInspiredByLabel": "Inspired by Montale Black Aoud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudNoir.png?v=1765422952",
+      "searchableText": "Montale montale Montale Black Aoud Oud Noir Woody Floral Musk unisex Rose Oud Patchouli Musk French Labdanum Mandarin Orange",
+      "createdAt": "2026-05-04T04:41:34.288Z",
+      "sharedNotes": [
+        "Musk",
+        "Mandarin Orange"
+      ]
+    },
+    {
+      "id": 132,
+      "fragranceSlug": "creed-silver-mountain-water-132",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Silver Mountain Water",
+      "originalFragranceSlug": "creed-silver-mountain-water",
+      "mistifyProductName": "Mountain Heights",
+      "mistifyProductSlug": "mountain-heights",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mountain-heights",
+      "publicInspiredByLabel": "Inspired by Creed Silver Mountain Water",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Green Tea",
+        "Black Currant"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Petitgrain",
+        "Sandalwood",
+        "Galbanum"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Green Tea",
+        "Black Currant",
+        "Musk",
+        "Petitgrain",
+        "Sandalwood",
+        "Galbanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_04_03_06PM.png?v=1765422855",
+      "searchableText": "Creed creed Creed Silver Mountain Water Mountain Heights Aromatic unisex Bergamot Mandarin Orange Green Tea Black Currant Musk Petitgrain Sandalwood Galbanum",
+      "createdAt": "2026-05-04T04:41:32.199Z",
+      "sharedNotes": [
+        "Musk",
+        "Black Currant",
+        "Bergamot",
+        "Mandarin Orange"
+      ]
+    },
+    {
+      "id": 15,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte-15",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Celestia Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte",
+      "mistifyProductName": "Celestial Waters",
+      "mistifyProductSlug": "celestial-waters",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/celestial-waters",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Celestia Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Currant"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Jasmine",
+        "Mimosa",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-55-26AM-_1.png?v=1773460516",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Celestia Cologne Forte Celestial Waters Citrus Aromatic unisex Bergamot Black Currant Jasmine Mimosa Musk",
+      "createdAt": "2026-05-04T04:41:25.373Z",
+      "sharedNotes": [
+        "Musk",
+        "Black Currant",
+        "Bergamot"
+      ]
+    },
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Musk",
+        "Bergamot"
+      ]
+    },
+    {
+      "id": 151,
+      "fragranceSlug": "ysl-yves-saint-laurent-exquisite-musk-151",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Exquisite Musk",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-exquisite-musk",
+      "mistifyProductName": "Exquis Musk",
+      "mistifyProductSlug": "exquis-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/exquis-musk",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Exquisite Musk",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Angelica"
+      ],
+      "middleNotes": [
+        "Iris",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Angelica",
+        "Iris",
+        "Rose",
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar22_2026_09_51_38AM.png?v=1774187508",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Exquisite Musk Exquis Musk Woody Floral Musk unisex Ginger Angelica Iris Rose Musk Ambergris Benzoin",
+      "createdAt": "2026-05-04T04:41:33.307Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 50,
+      "fragranceSlug": "louis-vuitton-pur-santal-50",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Pur Santal",
+      "originalFragranceSlug": "louis-vuitton-pur-santal",
+      "mistifyProductName": "Pur Santelle",
+      "mistifyProductSlug": "pur-santelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pur-santelle",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Pur Santal",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay10_2026_08_22_34AM.png?v=1778415760",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Pur Santal Pur Santelle Woody Floral Musk Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.416Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    }
+  ]
+}

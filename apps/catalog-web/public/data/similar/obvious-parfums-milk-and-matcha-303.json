@@ -1,0 +1,287 @@
+{
+  "fragrances": [
+    {
+      "id": 186,
+      "fragranceSlug": "ex-nihilo-blue-talisman-186",
+      "brandName": "Ex Nihilo",
+      "brandSlug": "ex-nihilo",
+      "originalFragranceName": "Blue Talisman",
+      "originalFragranceSlug": "ex-nihilo-blue-talisman",
+      "mistifyProductName": "Azure Talisman",
+      "mistifyProductSlug": "azure-talisman",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/azure-talisman",
+      "publicInspiredByLabel": "Inspired by Ex Nihilo Blue Talisman",
+      "audience": "unisex",
+      "classification": "Woody/Ambery Oriental",
+      "topNotes": [
+        "Pear",
+        "Bergamot",
+        "Mandarin",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Georgywood"
+      ],
+      "baseNotes": [
+        "Akigalawood",
+        "Musk",
+        "Ambrofix"
+      ],
+      "allNotes": [
+        "Pear",
+        "Bergamot",
+        "Mandarin",
+        "Ginger",
+        "Orange Blossom",
+        "Georgywood",
+        "Akigalawood",
+        "Musk",
+        "Ambrofix"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-25-00PM-_1.png?v=1773460308",
+      "searchableText": "Ex Nihilo ex nihilo Ex Nihilo Blue Talisman Azure Talisman Woody/Ambery Oriental unisex Pear Bergamot Mandarin Ginger Orange Blossom Georgywood Akigalawood Musk Ambrofix",
+      "createdAt": "2026-05-04T04:41:35.349Z",
+      "sharedNotes": [
+        "Ginger",
+        "Mandarin",
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 245,
+      "fragranceSlug": "maison-martin-margiela-replica-by-the-fireplace-245",
+      "brandName": "Maison Martin Margiela 'REPLICA'",
+      "brandSlug": "maison-martin-margiela-replica",
+      "originalFragranceName": "By The Fireplace",
+      "originalFragranceSlug": "maison-martin-margiela-replica-by-the-fireplace",
+      "mistifyProductName": "Fireplace Glow",
+      "mistifyProductSlug": "fireplace-glow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fireplace-glow",
+      "publicInspiredByLabel": "Inspired by Maison Martin Margiela 'REPLICA' By The Fireplace",
+      "audience": "unisex",
+      "classification": "Woody",
+      "topNotes": [
+        "Cloves",
+        "Pink Pepper",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Chestnut",
+        "Guaiac Wood",
+        "Juniper"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Peru Balsam",
+        "Cashmeran"
+      ],
+      "allNotes": [
+        "Cloves",
+        "Pink Pepper",
+        "Orange Blossom",
+        "Chestnut",
+        "Guaiac Wood",
+        "Juniper",
+        "Vanilla",
+        "Peru Balsam",
+        "Cashmeran"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-32-03PM-_1.png?v=1773460390",
+      "searchableText": "Maison Martin Margiela 'REPLICA' maison martin margiela replica Maison Martin Margiela 'REPLICA' By The Fireplace Fireplace Glow Woody unisex Cloves Pink Pepper Orange Blossom Chestnut Guaiac Wood Juniper Vanilla Peru Balsam Cashmeran",
+      "createdAt": "2026-05-04T04:41:38.913Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Vanilla",
+        "Peru Balsam"
+      ]
+    },
+    {
+      "id": 332,
+      "fragranceSlug": "dior-poison-girl-332",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Poison Girl",
+      "originalFragranceSlug": "dior-poison-girl",
+      "mistifyProductName": "Venom Femme",
+      "mistifyProductSlug": "venom-femme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/venom-femme",
+      "publicInspiredByLabel": "Dior Poison Girl",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bitter Orange",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Damask Rose",
+        "Grasse Rose",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Almond",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bitter Orange",
+        "Lemon",
+        "Damask Rose",
+        "Grasse Rose",
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla",
+        "Almond",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-23-15AM-_1.png?v=1773460465",
+      "searchableText": "Dior Christian Dior Poison Girl Venom Femme Oriental Vanilla Bitter Orange Lemon Damask Rose Grasse Rose Orange Blossom Tonka Bean Vanilla Almond Sandalwood",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 299,
+      "fragranceSlug": "marc-antoine-barrois-aldebaran-299",
+      "brandName": "Marc-Antoine Barrois",
+      "brandSlug": "marc-antoine-barrois",
+      "originalFragranceName": "Aldebaran",
+      "originalFragranceSlug": "marc-antoine-barrois-aldebaran",
+      "mistifyProductName": "Aldébaré",
+      "mistifyProductSlug": "aldebare",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/aldebare",
+      "publicInspiredByLabel": "Inspired by Marc-Antoine Barrois Aldebaran",
+      "audience": null,
+      "classification": "Floral",
+      "topNotes": [
+        "Tuberose"
+      ],
+      "middleNotes": [
+        "Paprika",
+        "Mate"
+      ],
+      "baseNotes": [
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Tuberose",
+        "Paprika",
+        "Mate",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay14_2026_05_02_42PM.png?v=1778792569",
+      "searchableText": "Marc-Antoine Barrois marc antoine barrois Marc-Antoine Barrois Aldebaran Aldébaré Floral Tuberose Paprika Mate Tonka Bean",
+      "createdAt": "2026-05-04T04:41:42.184Z",
+      "sharedNotes": [
+        "Mate",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 265,
+      "fragranceSlug": "prada-paradoxe-265",
+      "brandName": "Prada",
+      "brandSlug": "prada",
+      "originalFragranceName": "Paradoxe",
+      "originalFragranceSlug": "prada-paradoxe",
+      "mistifyProductName": "Paradiis",
+      "mistifyProductSlug": "paradiis",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradiis",
+      "publicInspiredByLabel": "Inspired by Prada Paradoxe",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear",
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine",
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-38-29PM-_1.png?v=1773460252",
+      "searchableText": "Prada prada Prada Paradoxe Paradiis Amber Floral unisex Calabrian Bergamot Tangerine Pear Neroli Orange Blossom Jasmine Amber White Musk Benzoin Vanilla",
+      "createdAt": "2026-05-04T04:41:40.135Z",
+      "sharedNotes": [
+        "Tangerine",
+        "Orange Blossom",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 179,
+      "fragranceSlug": "mancera-tonka-cola-179",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Tonka Cola",
+      "originalFragranceSlug": "mancera-tonka-cola",
+      "mistifyProductName": "Cola Spice",
+      "mistifyProductSlug": "cola-spice",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cola-spice",
+      "publicInspiredByLabel": "Inspired by Mancera Tonka Cola",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Cherry",
+        "Sicilian Lemon",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Coca-Cola",
+        "Indonesian Patchouli Leaf",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Cherry",
+        "Sicilian Lemon",
+        "Nutmeg",
+        "Coca-Cola",
+        "Indonesian Patchouli Leaf",
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_50_16PM_10d11dd4-fe8b-44fa-8349-483f0da6c265.png?v=1774407032",
+      "searchableText": "Mancera mancera Mancera Tonka Cola Cola Spice Oriental Spicy unisex Cinnamon Cherry Sicilian Lemon Nutmeg Coca-Cola Indonesian Patchouli Leaf Orange Blossom Tonka Bean Vanilla Benzoin Labdanum",
+      "createdAt": "2026-05-04T04:41:34.939Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla"
+      ]
+    }
+  ]
+}

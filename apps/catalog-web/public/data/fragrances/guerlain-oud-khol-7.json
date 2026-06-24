@@ -1,0 +1,35 @@
+{
+  "fragrance": {
+    "id": 7,
+    "fragranceSlug": "guerlain-oud-khol-7",
+    "brandName": "Guerlain",
+    "brandSlug": "guerlain",
+    "originalFragranceName": "Oud Khol",
+    "originalFragranceSlug": "guerlain-oud-khol",
+    "mistifyProductName": "Not verified on Mistify",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Guerlain Oud Khol",
+    "audience": null,
+    "classification": "Leather",
+    "topNotes": [],
+    "middleNotes": [
+      "Aldehydes",
+      "Oud",
+      "Leather",
+      "Moss",
+      "Praline"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Aldehydes",
+      "Oud",
+      "Leather",
+      "Moss",
+      "Praline"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Guerlain guerlain Guerlain Oud Khol Not verified on Mistify Leather Aldehydes Oud Leather Moss Praline",
+    "createdAt": "2026-05-04T04:41:24.916Z"
+  }
+}

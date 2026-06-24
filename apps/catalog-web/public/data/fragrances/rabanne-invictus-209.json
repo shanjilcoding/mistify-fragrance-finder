@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 209,
+    "fragranceSlug": "rabanne-invictus-209",
+    "brandName": "Rabanne",
+    "brandSlug": "rabanne",
+    "originalFragranceName": "Invictus",
+    "originalFragranceSlug": "rabanne-invictus",
+    "mistifyProductName": "Victorious",
+    "mistifyProductSlug": "victorious",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/victorious",
+    "publicInspiredByLabel": "Inspired by Rabanne Invictus",
+    "audience": "mens",
+    "classification": "Woody Aquatic",
+    "topNotes": [
+      "Sea Notes",
+      "Grapefruit",
+      "Mandarin Orange"
+    ],
+    "middleNotes": [
+      "Bay Leaf",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Ambergris",
+      "Guaiac Wood",
+      "Oakmoss",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Sea Notes",
+      "Grapefruit",
+      "Mandarin Orange",
+      "Bay Leaf",
+      "Jasmine",
+      "Ambergris",
+      "Guaiac Wood",
+      "Oakmoss",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Screenshot2025-12-04at12.01.14PM.png?v=1765422965",
+    "searchableText": "Rabanne paco rabanne Paco Rabanne Invictus Victorious Woody Aquatic mens Sea Notes Grapefruit Mandarin Orange Bay Leaf Jasmine Ambergris Guaiac Wood Oakmoss Patchouli",
+    "createdAt": "2026-05-04T04:41:36.760Z"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "fragrance": {
+    "id": 130,
+    "fragranceSlug": "creed-queen-of-silk-130",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Queen of Silk",
+    "originalFragranceSlug": "creed-queen-of-silk",
+    "mistifyProductName": "Silken Queen",
+    "mistifyProductSlug": "silken-queen",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/silken-queen",
+    "publicInspiredByLabel": "Inspired by Creed Queen of Silk",
+    "audience": "womens",
+    "classification": "Amber Floral",
+    "topNotes": [
+      "Osmanthus",
+      "Magnolia",
+      "Saffron"
+    ],
+    "middleNotes": [
+      "Tuberose",
+      "Passionfruit",
+      "Oud",
+      "Patchouli"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Incense",
+      "Myrrh",
+      "Ambroxan",
+      "Cedarwood",
+      "Musk"
+    ],
+    "allNotes": [
+      "Osmanthus",
+      "Magnolia",
+      "Saffron",
+      "Tuberose",
+      "Passionfruit",
+      "Oud",
+      "Patchouli",
+      "Vanilla",
+      "Incense",
+      "Myrrh",
+      "Ambroxan",
+      "Cedarwood",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-33-41AM-_1.png?v=1773460553",
+    "searchableText": "Creed creed Creed Queen of Silk Silken Queen Amber Floral womens Osmanthus Magnolia Saffron Tuberose Passionfruit Oud Patchouli Vanilla Incense Myrrh Ambroxan Cedarwood Musk",
+    "createdAt": "2026-05-04T04:41:32.081Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 332,
+    "fragranceSlug": "dior-poison-girl-332",
+    "brandName": "Dior",
+    "brandSlug": "dior",
+    "originalFragranceName": "Poison Girl",
+    "originalFragranceSlug": "dior-poison-girl",
+    "mistifyProductName": "Venom Femme",
+    "mistifyProductSlug": "venom-femme",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/venom-femme",
+    "publicInspiredByLabel": "Dior Poison Girl",
+    "audience": null,
+    "classification": "Oriental Vanilla",
+    "topNotes": [
+      "Bitter Orange",
+      "Lemon"
+    ],
+    "middleNotes": [
+      "Damask Rose",
+      "Grasse Rose",
+      "Orange Blossom"
+    ],
+    "baseNotes": [
+      "Tonka Bean",
+      "Vanilla",
+      "Almond",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Bitter Orange",
+      "Lemon",
+      "Damask Rose",
+      "Grasse Rose",
+      "Orange Blossom",
+      "Tonka Bean",
+      "Vanilla",
+      "Almond",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-23-15AM-_1.png?v=1773460465",
+    "searchableText": "Dior Christian Dior Poison Girl Venom Femme Oriental Vanilla Bitter Orange Lemon Damask Rose Grasse Rose Orange Blossom Tonka Bean Vanilla Almond Sandalwood",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 30,
+    "fragranceSlug": "louis-vuitton-heures-d-absence-30",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Heures d’Absence",
+    "originalFragranceSlug": "louis-vuitton-heures-d-absence",
+    "mistifyProductName": "Hours of Absence",
+    "mistifyProductSlug": "hours-of-absence",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/hours-of-absence",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Heures d’Absence",
+    "audience": "womens",
+    "classification": "Floral Musk",
+    "topNotes": [
+      "Raspberry",
+      "Mimosa"
+    ],
+    "middleNotes": [
+      "Grasse Jasmine",
+      "Jasmine Sambac",
+      "May Rose"
+    ],
+    "baseNotes": [
+      "Peru Balsam",
+      "Sandalwood",
+      "Musk Notes",
+      "Vanilla"
+    ],
+    "allNotes": [
+      "Raspberry",
+      "Mimosa",
+      "Grasse Jasmine",
+      "Jasmine Sambac",
+      "May Rose",
+      "Peru Balsam",
+      "Sandalwood",
+      "Musk Notes",
+      "Vanilla"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_49_38PM.png?v=1765422826",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Heures d’Absence Hours of Absence Floral Musk womens Raspberry Mimosa Grasse Jasmine Jasmine Sambac May Rose Peru Balsam Sandalwood Musk Notes Vanilla",
+    "createdAt": "2026-05-04T04:41:26.238Z"
+  }
+}

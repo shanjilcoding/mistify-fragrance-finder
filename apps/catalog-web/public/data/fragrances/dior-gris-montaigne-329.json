@@ -1,0 +1,53 @@
+{
+  "fragrance": {
+    "id": 329,
+    "fragranceSlug": "dior-gris-montaigne-329",
+    "brandName": "Dior",
+    "brandSlug": "dior",
+    "originalFragranceName": "Gris Montaigne",
+    "originalFragranceSlug": "dior-gris-montaigne",
+    "mistifyProductName": "Gris Montaire",
+    "mistifyProductSlug": "gris-montaire",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/torino-verde-copy",
+    "publicInspiredByLabel": "Dior Gris Montaigne",
+    "audience": null,
+    "classification": "Floral Chypre / Elegant Fruity Floral",
+    "topNotes": [
+      "Bergamot",
+      "Grapefruit"
+    ],
+    "middleNotes": [
+      "Rose",
+      "Strawberry",
+      "Jasmine",
+      "Orange Blossom",
+      "Ylang-Ylang"
+    ],
+    "baseNotes": [
+      "Patchouli",
+      "Oakmoss",
+      "Sandalwood",
+      "Amber",
+      "Cedar",
+      "White Musk"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Grapefruit",
+      "Rose",
+      "Strawberry",
+      "Jasmine",
+      "Orange Blossom",
+      "Ylang-Ylang",
+      "Patchouli",
+      "Oakmoss",
+      "Sandalwood",
+      "Amber",
+      "Cedar",
+      "White Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar10-2026-12-10-56PM-_1.png?v=1773460119",
+    "searchableText": "Dior Dior Gris Montaigne Gris Montaire Floral Chypre / Elegant Fruity Floral Bergamot Grapefruit Rose Strawberry Jasmine Orange Blossom Ylang-Ylang Patchouli Oakmoss Sandalwood Amber Cedar White Musk",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

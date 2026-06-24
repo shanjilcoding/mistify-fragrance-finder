@@ -1,0 +1,57 @@
+{
+  "fragrance": {
+    "id": 301,
+    "fragranceSlug": "chanel-bleu-de-chanel-301",
+    "brandName": "Chanel",
+    "brandSlug": "chanel",
+    "originalFragranceName": "Bleu de Chanel",
+    "originalFragranceSlug": "chanel-bleu-de-chanel",
+    "mistifyProductName": "Bleu Élan",
+    "mistifyProductSlug": "bleu-elan",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-elan",
+    "publicInspiredByLabel": "Inspired by Chanel Bleu de Chanel",
+    "audience": "mens",
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Grapefruit",
+      "Lemon",
+      "Mint",
+      "Pink Pepper"
+    ],
+    "middleNotes": [
+      "Ginger",
+      "Nutmeg",
+      "Jasmine",
+      "Iso E Super"
+    ],
+    "baseNotes": [
+      "Incense",
+      "Cedar",
+      "Vetiver",
+      "Sandalwood",
+      "Patchouli",
+      "Labdanum",
+      "White Musk"
+    ],
+    "allNotes": [
+      "Grapefruit",
+      "Lemon",
+      "Mint",
+      "Pink Pepper",
+      "Ginger",
+      "Nutmeg",
+      "Jasmine",
+      "Iso E Super",
+      "Incense",
+      "Cedar",
+      "Vetiver",
+      "Sandalwood",
+      "Patchouli",
+      "Labdanum",
+      "White Musk"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Chanel chanel Chanel Bleu de Chanel Bleu Élan Woody Aromatic mens Grapefruit Lemon Mint Pink Pepper Ginger Nutmeg Jasmine Iso E Super Incense Cedar Vetiver Sandalwood Patchouli Labdanum White Musk",
+    "createdAt": "2026-05-04T04:41:42.307Z"
+  }
+}

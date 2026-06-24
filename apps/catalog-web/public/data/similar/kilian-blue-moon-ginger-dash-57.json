@@ -1,0 +1,302 @@
+{
+  "fragrances": [
+    {
+      "id": 301,
+      "fragranceSlug": "chanel-bleu-de-chanel-301",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Bleu de Chanel",
+      "originalFragranceSlug": "chanel-bleu-de-chanel",
+      "mistifyProductName": "Bleu Élan",
+      "mistifyProductSlug": "bleu-elan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-elan",
+      "publicInspiredByLabel": "Inspired by Chanel Bleu de Chanel",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper",
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super",
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Chanel chanel Chanel Bleu de Chanel Bleu Élan Woody Aromatic mens Grapefruit Lemon Mint Pink Pepper Ginger Nutmeg Jasmine Iso E Super Incense Cedar Vetiver Sandalwood Patchouli Labdanum White Musk",
+      "createdAt": "2026-05-04T04:41:42.307Z",
+      "sharedNotes": [
+        "Lemon",
+        "Mint",
+        "Ginger",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 99,
+      "fragranceSlug": "parfums-de-marly-sedley-99",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Sedley",
+      "originalFragranceSlug": "parfums-de-marly-sedley",
+      "mistifyProductName": "Sédelle",
+      "mistifyProductSlug": "sedelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sedelle",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Sedley",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange",
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum",
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar14_2026_08_56_24PM.png?v=1773536190",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Sedley Sédelle Woody Aromatic unisex Mint Bergamot Grapefruit Lemon Mandarin Orange Lavender Rosemary Geranium Olibanum Ambroxan Sandalwood Vetiver Cedar Cashmeran Patchouli",
+      "createdAt": "2026-05-04T04:41:30.270Z",
+      "sharedNotes": [
+        "Lemon",
+        "Mint",
+        "Ambroxan"
+      ]
+    },
+    {
+      "id": 108,
+      "fragranceSlug": "parfums-de-marly-valaya-108",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Valaya",
+      "originalFragranceSlug": "parfums-de-marly-valaya",
+      "mistifyProductName": "Valeti",
+      "mistifyProductSlug": "valeti",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/valeti",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Valaya",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Peach",
+        "Petalia"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin",
+        "Orange Blossom",
+        "Peach",
+        "Petalia",
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-15AM-_1.png?v=1773460483",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valaya Valeti Floral Woody Musk womens Bergamot Grapefruit Mandarin Orange Blossom Peach Petalia Ambroxan White Musk Akigalawood",
+      "createdAt": "2026-05-04T04:41:30.796Z",
+      "sharedNotes": [
+        "Ambroxan",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 291,
+      "fragranceSlug": "bvlgari-le-gemme-tygar-291",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Le Gemme Tygar",
+      "originalFragranceSlug": "bvlgari-le-gemme-tygar",
+      "mistifyProductName": "Tygara",
+      "mistifyProductSlug": "tygara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/castellan-copy",
+      "publicInspiredByLabel": "Inspired by Bvlgari Le Gemme Tygar",
+      "audience": "mens",
+      "classification": "Citrus Woody/Musky Amber",
+      "topNotes": [
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Ambrette"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Musk",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Ginger",
+        "Ambrette",
+        "Ambroxan",
+        "Musk",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-20-42AM-_1.png?v=1773460236",
+      "searchableText": "Bvlgari bvlgari Bvlgari Le Gemme Tygar Tygara Citrus Woody/Musky Amber mens Grapefruit Ginger Ambrette Ambroxan Musk Vetiver Patchouli",
+      "createdAt": "2026-05-04T04:41:41.717Z",
+      "sharedNotes": [
+        "Ginger",
+        "Ambroxan"
+      ]
+    },
+    {
+      "id": 205,
+      "fragranceSlug": "xerjoff-torino-21-205",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Torino 21",
+      "originalFragranceSlug": "xerjoff-torino-21",
+      "mistifyProductName": "Torino Verde",
+      "mistifyProductSlug": "torino-verde",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vanilla-veil-copy",
+      "publicInspiredByLabel": "Inspired by Xerjoff Torino 21",
+      "audience": "unisex",
+      "classification": "Aromatic Green",
+      "topNotes": [
+        "Mint",
+        "Lemon",
+        "Basil",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Black Currant",
+        "Rosemary",
+        "Lavender",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vervain"
+      ],
+      "allNotes": [
+        "Mint",
+        "Lemon",
+        "Basil",
+        "Thyme",
+        "Black Currant",
+        "Rosemary",
+        "Lavender",
+        "Jasmine",
+        "Musk",
+        "Vervain"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar3-2026-01-09-45PM-_1.png?v=1773460122",
+      "searchableText": "Xerjoff xerjoff Xerjoff Torino 21 Torino Verde Aromatic Green unisex Mint Lemon Basil Thyme Black Currant Rosemary Lavender Jasmine Musk Vervain",
+      "createdAt": "2026-05-04T04:41:36.517Z",
+      "sharedNotes": [
+        "Lemon",
+        "Mint"
+      ]
+    },
+    {
+      "id": 27,
+      "fragranceSlug": "louis-vuitton-afternoon-swim-27",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Afternoon Swim",
+      "originalFragranceSlug": "louis-vuitton-afternoon-swim",
+      "mistifyProductName": "Afterdawn Swim",
+      "mistifyProductSlug": "afterdawn-swim",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/afterdawn-swim",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Afternoon Swim",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Ginger"
+      ],
+      "baseNotes": [
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange",
+        "Ginger",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_12_16_25PM.png?v=1765422821",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Afternoon Swim Afterdawn Swim Citrus unisex Bergamot Mandarin Orange Ginger Ambergris",
+      "createdAt": "2026-05-04T04:41:26.069Z",
+      "sharedNotes": [
+        "Ginger"
+      ]
+    }
+  ]
+}

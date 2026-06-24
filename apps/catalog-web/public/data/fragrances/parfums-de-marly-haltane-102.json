@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 102,
+    "fragranceSlug": "parfums-de-marly-haltane-102",
+    "brandName": "Parfums de Marly",
+    "brandSlug": "parfums-de-marly",
+    "originalFragranceName": "Haltane",
+    "originalFragranceSlug": "parfums-de-marly-haltane",
+    "mistifyProductName": "Heltene",
+    "mistifyProductSlug": "heltene",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/heltene",
+    "publicInspiredByLabel": "Inspired by Parfums de Marly Haltane",
+    "audience": "mens",
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Lavender",
+      "Clary Sage",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Saffron",
+      "Praline"
+    ],
+    "baseNotes": [
+      "Oud",
+      "Cedar"
+    ],
+    "allNotes": [
+      "Lavender",
+      "Clary Sage",
+      "Bergamot",
+      "Saffron",
+      "Praline",
+      "Oud",
+      "Cedar"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-23-10PM-_1.png?v=1773460495",
+    "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Haltane Heltene Woody Aromatic mens Lavender Clary Sage Bergamot Saffron Praline Oud Cedar",
+    "createdAt": "2026-05-04T04:41:30.462Z"
+  }
+}

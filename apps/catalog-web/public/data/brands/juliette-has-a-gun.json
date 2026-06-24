@@ -1,0 +1,35 @@
+{
+  "brand": {
+    "brandName": "Juliette Has A Gun",
+    "brandSlug": "juliette-has-a-gun",
+    "fragranceCount": 1,
+    "searchableText": "Not a Perfume Not verified Inspired by Juliette Has A Gun Not a Perfume Juliette Has A Gun juliette has a gun Juliette Has a Gun Not a Perfume Not verified Floral Woody Musk Cetalox"
+  },
+  "fragrances": [
+    {
+      "id": 282,
+      "fragranceSlug": "juliette-has-a-gun-not-a-perfume-282",
+      "brandName": "Juliette Has A Gun",
+      "brandSlug": "juliette-has-a-gun",
+      "originalFragranceName": "Not a Perfume",
+      "originalFragranceSlug": "juliette-has-a-gun-not-a-perfume",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Juliette Has A Gun Not a Perfume",
+      "audience": null,
+      "classification": "Floral Woody Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "Cetalox"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Cetalox"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Juliette Has A Gun juliette has a gun Juliette Has a Gun Not a Perfume Not verified Floral Woody Musk Cetalox",
+      "createdAt": "2026-05-04T04:41:41.184Z"
+    }
+  ]
+}

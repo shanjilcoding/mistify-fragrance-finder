@@ -1,0 +1,297 @@
+{
+  "fragrances": [
+    {
+      "id": 121,
+      "fragranceSlug": "bond-no-9-the-scent-of-peace-121",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "The Scent of Peace",
+      "originalFragranceSlug": "bond-no-9-the-scent-of-peace",
+      "mistifyProductName": "Peace Accord",
+      "mistifyProductSlug": "peace-accord",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/peace-accord",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 The Scent of Peace",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Black Currant"
+      ],
+      "middleNotes": [
+        "Lily-of-the-Valley"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Black Currant",
+        "Lily-of-the-Valley",
+        "Musk",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay2_2026_12_19_26AM_b14f75f2-431c-4b3b-b131-e88f0a68e598.png?v=1777695613",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 The Scent of Peace Peace Accord Woody Aromatic unisex Grapefruit Black Currant Lily-of-the-Valley Musk Cedar",
+      "createdAt": "2026-05-04T04:41:31.575Z",
+      "sharedNotes": [
+        "Grapefruit"
+      ]
+    },
+    {
+      "id": 281,
+      "fragranceSlug": "amouage-decision-281",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Decision",
+      "originalFragranceSlug": "amouage-decision",
+      "mistifyProductName": "Final Say",
+      "mistifyProductSlug": "final-say",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/final-say",
+      "publicInspiredByLabel": "Inspired by Amouage Decision",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper",
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh",
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb10-2026-01-48-07PM-_1.png?v=1773460152",
+      "searchableText": "Amouage amouage Amouage Decision Final Say Woody Aromatic unisex Cardamom Bergamot Pink Pepper Frankincense Juniper Berries Myrrh Vanilla Cedarwood Patchouli",
+      "createdAt": "2026-05-04T04:41:41.123Z",
+      "sharedNotes": [
+        "Cardamom"
+      ]
+    },
+    {
+      "id": 237,
+      "fragranceSlug": "nasomatto-black-afgano-237",
+      "brandName": "Nasomatto",
+      "brandSlug": "nasomatto",
+      "originalFragranceName": "Black Afgano",
+      "originalFragranceSlug": "nasomatto-black-afgano",
+      "mistifyProductName": "Dark Afgana",
+      "mistifyProductSlug": "dark-afgana",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/dark-afgana",
+      "publicInspiredByLabel": "Inspired by Nasomatto Black Afgano",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cannabis",
+        "Green Notes",
+        "Davana",
+        "Saffron",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Resins",
+        "Woodsy Notes",
+        "Tobacco",
+        "Coffee",
+        "Cinnamon",
+        "Violet",
+        "Raspberry"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Incense",
+        "Amber",
+        "Animal Notes",
+        "Guaiac Wood",
+        "Musk",
+        "Tonka",
+        "Cedar",
+        "Gurjan Balsam",
+        "Ambroxan",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Cannabis",
+        "Green Notes",
+        "Davana",
+        "Saffron",
+        "Thyme",
+        "Resins",
+        "Woodsy Notes",
+        "Tobacco",
+        "Coffee",
+        "Cinnamon",
+        "Violet",
+        "Raspberry",
+        "Oud",
+        "Incense",
+        "Amber",
+        "Animal Notes",
+        "Guaiac Wood",
+        "Musk",
+        "Tonka",
+        "Cedar",
+        "Gurjan Balsam",
+        "Ambroxan",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_59_24PM.png?v=1774407573",
+      "searchableText": "Nasomatto nasomatto Nasomatto Black Afgano Dark Afgana Woody Aromatic unisex Cannabis Green Notes Davana Saffron Thyme Resins Woodsy Notes Tobacco Coffee Cinnamon Violet Raspberry Oud Incense Amber Animal Notes Guaiac Wood Musk Tonka Cedar Gurjan Balsam Ambroxan Vanilla",
+      "createdAt": "2026-05-04T04:41:38.428Z",
+      "sharedNotes": [
+        "Cannabis",
+        "Tobacco"
+      ]
+    },
+    {
+      "id": 242,
+      "fragranceSlug": "le-labo-santal-33-242",
+      "brandName": "Le Labo",
+      "brandSlug": "le-labo",
+      "originalFragranceName": "Santal 33",
+      "originalFragranceSlug": "le-labo-santal-33",
+      "mistifyProductName": "Santana 33",
+      "mistifyProductSlug": "santana-33",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/santana-33",
+      "publicInspiredByLabel": "Inspired by Le Labo Santal 33",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [],
+      "middleNotes": [
+        "Sandalwood",
+        "Leather",
+        "Papyrus",
+        "Virginia Cedar",
+        "Cardamom",
+        "Violet",
+        "Iris",
+        "Amber"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Sandalwood",
+        "Leather",
+        "Papyrus",
+        "Virginia Cedar",
+        "Cardamom",
+        "Violet",
+        "Iris",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-10-57PM-_1.png?v=1773460392",
+      "searchableText": "Le Labo le labo Le Labo Santal 33 Santana 33 Woody Aromatic unisex Sandalwood Leather Papyrus Virginia Cedar Cardamom Violet Iris Amber",
+      "createdAt": "2026-05-04T04:41:38.731Z",
+      "sharedNotes": [
+        "Cardamom"
+      ]
+    },
+    {
+      "id": 99,
+      "fragranceSlug": "parfums-de-marly-sedley-99",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Sedley",
+      "originalFragranceSlug": "parfums-de-marly-sedley",
+      "mistifyProductName": "Sédelle",
+      "mistifyProductSlug": "sedelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sedelle",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Sedley",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange",
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum",
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar14_2026_08_56_24PM.png?v=1773536190",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Sedley Sédelle Woody Aromatic unisex Mint Bergamot Grapefruit Lemon Mandarin Orange Lavender Rosemary Geranium Olibanum Ambroxan Sandalwood Vetiver Cedar Cashmeran Patchouli",
+      "createdAt": "2026-05-04T04:41:30.270Z",
+      "sharedNotes": [
+        "Grapefruit"
+      ]
+    },
+    {
+      "id": 211,
+      "fragranceSlug": "rabanne-after-club-211",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "After Club",
+      "originalFragranceSlug": "rabanne-after-club",
+      "mistifyProductName": "Club Afterglow",
+      "mistifyProductSlug": "club-afterglow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/club-afterglow",
+      "publicInspiredByLabel": "Inspired by Rabanne After Club",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Vanilla",
+        "Labdanum",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-33-34PM-_1.png?v=1773460311",
+      "searchableText": "Rabanne rabanne Rabanne After Club Club Afterglow Woody Aromatic unisex Lavender Vanilla Labdanum Amber",
+      "createdAt": "2026-05-04T04:41:36.872Z",
+      "sharedNotes": []
+    }
+  ]
+}

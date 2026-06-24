@@ -1,0 +1,278 @@
+{
+  "fragrances": [
+    {
+      "id": 69,
+      "fragranceSlug": "kilian-rose-oud-69",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rose Oud",
+      "originalFragranceSlug": "kilian-rose-oud",
+      "mistifyProductName": "Rosy Oud",
+      "mistifyProductSlug": "rosy-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rosy-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Rose Oud",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Rose",
+        "Saffron",
+        "Oud",
+        "Cedarwood",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RosyOud_9a080a3b-9ff3-481e-8ecc-190466f11560.png?v=1765422921",
+      "searchableText": "Kilian kilian By Kilian Rose Oud Rosy Oud Oriental Floral unisex Rose Saffron Oud Cedarwood Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:28.526Z",
+      "sharedNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ]
+    },
+    {
+      "id": 151,
+      "fragranceSlug": "ysl-yves-saint-laurent-exquisite-musk-151",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Exquisite Musk",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-exquisite-musk",
+      "mistifyProductName": "Exquis Musk",
+      "mistifyProductSlug": "exquis-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/exquis-musk",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Exquisite Musk",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Angelica"
+      ],
+      "middleNotes": [
+        "Iris",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Angelica",
+        "Iris",
+        "Rose",
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar22_2026_09_51_38AM.png?v=1774187508",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Exquisite Musk Exquis Musk Woody Floral Musk unisex Ginger Angelica Iris Rose Musk Ambergris Benzoin",
+      "createdAt": "2026-05-04T04:41:33.307Z",
+      "sharedNotes": [
+        "Rose",
+        "Musk"
+      ]
+    },
+    {
+      "id": 66,
+      "fragranceSlug": "kilian-musk-oud-66",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Musk Oud",
+      "originalFragranceSlug": "kilian-musk-oud",
+      "mistifyProductName": "Oud Musk",
+      "mistifyProductSlug": "oud-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-musk",
+      "publicInspiredByLabel": "Inspired by Kilian Musk Oud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Lemon",
+        "Cardamom",
+        "Coriander"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Cypress",
+        "Geranium",
+        "Artemisia"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Musk",
+        "Rum",
+        "Incense",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lemon",
+        "Cardamom",
+        "Coriander",
+        "Bulgarian Rose",
+        "Cypress",
+        "Geranium",
+        "Artemisia",
+        "Oud",
+        "Musk",
+        "Rum",
+        "Incense",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudMusk.png?v=1765422915",
+      "searchableText": "Kilian kilian By Kilian Musk Oud Oud Musk Woody Floral Musk unisex Lemon Cardamom Coriander Bulgarian Rose Cypress Geranium Artemisia Oud Musk Rum Incense Patchouli",
+      "createdAt": "2026-05-04T04:41:28.331Z",
+      "sharedNotes": [
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ]
+    },
+    {
+      "id": 156,
+      "fragranceSlug": "initio-musk-therapy-156",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Musk Therapy",
+      "originalFragranceSlug": "initio-musk-therapy",
+      "mistifyProductName": "Therapeutic Musk",
+      "mistifyProductSlug": "therapeutic-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/therapeutic-musk",
+      "publicInspiredByLabel": "Inspired by Initio Musk Therapy",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "White Musk",
+        "Musk",
+        "Black Currant",
+        "Bergamot",
+        "Mandarin Orange",
+        "Magnolia",
+        "White Sandalwood",
+        "Hedione"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "White Musk",
+        "Musk",
+        "Black Currant",
+        "Bergamot",
+        "Mandarin Orange",
+        "Magnolia",
+        "White Sandalwood",
+        "Hedione"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-25-54PM-_1.png?v=1773460508",
+      "searchableText": "Initio initio parfums Initio Parfums Musk Therapy Therapeutic Musk Woody Floral Musk unisex White Musk Musk Black Currant Bergamot Mandarin Orange Magnolia White Sandalwood Hedione",
+      "createdAt": "2026-05-04T04:41:33.598Z",
+      "sharedNotes": [
+        "Musk",
+        "Mandarin Orange"
+      ]
+    },
+    {
+      "id": 120,
+      "fragranceSlug": "bond-no-9-new-york-oud-120",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "New York Oud",
+      "originalFragranceSlug": "bond-no-9-new-york-oud",
+      "mistifyProductName": "Urban Oud",
+      "mistifyProductSlug": "urban-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-oud",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 New York Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Plum",
+        "Saffron",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root"
+      ],
+      "baseNotes": [
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Plum",
+        "Saffron",
+        "Orange",
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root",
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_18_40AM.png?v=1774325928",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 New York Oud Urban Oud Oriental unisex Plum Saffron Orange Rose Oud Patchouli Orris Root Musk White Honey Vetiver",
+      "createdAt": "2026-05-04T04:41:31.518Z",
+      "sharedNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ]
+    },
+    {
+      "id": 244,
+      "fragranceSlug": "le-labo-myrrhe-55-244",
+      "brandName": "Le Labo",
+      "brandSlug": "le-labo",
+      "originalFragranceName": "Myrrhe 55",
+      "originalFragranceSlug": "le-labo-myrrhe-55",
+      "mistifyProductName": "Myrrhique 55",
+      "mistifyProductSlug": "myrrhique-55",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/myrrhique-55",
+      "publicInspiredByLabel": "Inspired by Le Labo Myrrhe 55",
+      "audience": "unisex",
+      "classification": "Not split cleanly",
+      "topNotes": [],
+      "middleNotes": [
+        "Jasmine",
+        "Myrrh",
+        "Patchouli",
+        "Musk",
+        "Ambergris",
+        "Oud"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Jasmine",
+        "Myrrh",
+        "Patchouli",
+        "Musk",
+        "Ambergris",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov13-2025-09-35-43AM-_1.png?v=1773460218",
+      "searchableText": "Le Labo le labo Le Labo Myrrhe 55 Myrrhique 55 Not split cleanly unisex Jasmine Myrrh Patchouli Musk Ambergris Oud",
+      "createdAt": "2026-05-04T04:41:38.851Z",
+      "sharedNotes": [
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ]
+    }
+  ]
+}

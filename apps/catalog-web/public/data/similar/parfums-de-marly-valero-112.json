@@ -1,0 +1,311 @@
+{
+  "fragrances": [
+    {
+      "id": 99,
+      "fragranceSlug": "parfums-de-marly-sedley-99",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Sedley",
+      "originalFragranceSlug": "parfums-de-marly-sedley",
+      "mistifyProductName": "Sédelle",
+      "mistifyProductSlug": "sedelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sedelle",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Sedley",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange",
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum",
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar14_2026_08_56_24PM.png?v=1773536190",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Sedley Sédelle Woody Aromatic unisex Mint Bergamot Grapefruit Lemon Mandarin Orange Lavender Rosemary Geranium Olibanum Ambroxan Sandalwood Vetiver Cedar Cashmeran Patchouli",
+      "createdAt": "2026-05-04T04:41:30.270Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Geranium",
+        "Lavender",
+        "Patchouli",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 160,
+      "fragranceSlug": "initio-rehab-160",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Rehab",
+      "originalFragranceSlug": "initio-rehab",
+      "mistifyProductName": "Rehabilitee",
+      "mistifyProductSlug": "rehabilitee",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rehabilitee",
+      "publicInspiredByLabel": "Inspired by Initio Rehab",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Rehabilitee.png?v=1765422993",
+      "searchableText": "Initio initio parfums Initio Parfums Rehab Rehabilitee Woody Aromatic unisex Lavender Bergamot Cedar Vetiver Patchouli Sandalwood Musk Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:33.822Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lavender",
+        "Patchouli",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 134,
+      "fragranceSlug": "creed-viking-134",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Viking",
+      "originalFragranceSlug": "creed-viking",
+      "mistifyProductName": "Voyager",
+      "mistifyProductSlug": "voyager",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/voyager",
+      "publicInspiredByLabel": "Inspired by Creed Viking",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Pink Pepper",
+        "Bulgarian Rose",
+        "Peppermint"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Lemon",
+        "Pink Pepper",
+        "Bulgarian Rose",
+        "Peppermint",
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_32_22PM.png?v=1765422858",
+      "searchableText": "Creed creed Creed Viking Voyager Woody Aromatic mens Pink Pepper Calabrian Bergamot Lemon Pink Pepper Bulgarian Rose Peppermint Sandalwood Vetiver Patchouli Lavender",
+      "createdAt": "2026-05-04T04:41:32.311Z",
+      "sharedNotes": [
+        "Lavender",
+        "Patchouli",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 42,
+      "fragranceSlug": "louis-vuitton-lvers-lovers-42",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "LVERS / Lovers",
+      "originalFragranceSlug": "louis-vuitton-lvers-lovers",
+      "mistifyProductName": "LOVERS",
+      "mistifyProductSlug": "lovers",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/solar-essence",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton LVERS / Lovers",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Galbanum",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Cedarwood"
+      ],
+      "allNotes": [
+        "Galbanum",
+        "Bergamot",
+        "Ginger",
+        "Solar Notes",
+        "Sandalwood",
+        "Cedarwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton LVERS / Lovers LOVERS Woody Aromatic unisex Galbanum Bergamot Ginger Solar Notes Sandalwood Cedarwood",
+      "createdAt": "2026-05-04T04:41:26.948Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 301,
+      "fragranceSlug": "chanel-bleu-de-chanel-301",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Bleu de Chanel",
+      "originalFragranceSlug": "chanel-bleu-de-chanel",
+      "mistifyProductName": "Bleu Élan",
+      "mistifyProductSlug": "bleu-elan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-elan",
+      "publicInspiredByLabel": "Inspired by Chanel Bleu de Chanel",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper",
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super",
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Chanel chanel Chanel Bleu de Chanel Bleu Élan Woody Aromatic mens Grapefruit Lemon Mint Pink Pepper Ginger Nutmeg Jasmine Iso E Super Incense Cedar Vetiver Sandalwood Patchouli Labdanum White Musk",
+      "createdAt": "2026-05-04T04:41:42.307Z",
+      "sharedNotes": [
+        "Nutmeg",
+        "Patchouli",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 281,
+      "fragranceSlug": "amouage-decision-281",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Decision",
+      "originalFragranceSlug": "amouage-decision",
+      "mistifyProductName": "Final Say",
+      "mistifyProductSlug": "final-say",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/final-say",
+      "publicInspiredByLabel": "Inspired by Amouage Decision",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper",
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh",
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb10-2026-01-48-07PM-_1.png?v=1773460152",
+      "searchableText": "Amouage amouage Amouage Decision Final Say Woody Aromatic unisex Cardamom Bergamot Pink Pepper Frankincense Juniper Berries Myrrh Vanilla Cedarwood Patchouli",
+      "createdAt": "2026-05-04T04:41:41.123Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Patchouli"
+      ]
+    }
+  ]
+}

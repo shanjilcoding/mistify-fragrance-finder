@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 23,
+    "fragranceSlug": "maison-francis-kurkdjian-grand-soir-23",
+    "brandName": "Maison Francis Kurkdjian",
+    "brandSlug": "maison-francis-kurkdjian",
+    "originalFragranceName": "Grand Soir",
+    "originalFragranceSlug": "maison-francis-kurkdjian-grand-soir",
+    "mistifyProductName": "Grand Soirelle",
+    "mistifyProductSlug": "grand-soirelle",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/grand-soirelle",
+    "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Grand Soir",
+    "audience": "unisex",
+    "classification": "Oriental Amber",
+    "topNotes": [
+      "Spanish Labdanum",
+      "Orange"
+    ],
+    "middleNotes": [
+      "Lavender",
+      "Siam Benzoin"
+    ],
+    "baseNotes": [
+      "Amber",
+      "Vanilla",
+      "Tonka Bean",
+      "Musk",
+      "Cedar"
+    ],
+    "allNotes": [
+      "Spanish Labdanum",
+      "Orange",
+      "Lavender",
+      "Siam Benzoin",
+      "Amber",
+      "Vanilla",
+      "Tonka Bean",
+      "Musk",
+      "Cedar"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov20-2025-10-17-02AM-_1.png?v=1773460207",
+    "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Grand Soir Grand Soirelle Oriental Amber unisex Spanish Labdanum Orange Lavender Siam Benzoin Amber Vanilla Tonka Bean Musk Cedar",
+    "createdAt": "2026-05-04T04:41:25.837Z"
+  }
+}

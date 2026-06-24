@@ -1,0 +1,29 @@
+{
+  "fragrance": {
+    "id": 275,
+    "fragranceSlug": "roberto-cavalli-tiger-oud-275",
+    "brandName": "Roberto Cavalli",
+    "brandSlug": "roberto-cavalli",
+    "originalFragranceName": "Tiger Oud",
+    "originalFragranceSlug": "roberto-cavalli-tiger-oud",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Roberto Cavalli Tiger Oud",
+    "audience": null,
+    "classification": "Oriental Floral",
+    "topNotes": [],
+    "middleNotes": [
+      "Oud",
+      "Rose"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Oud",
+      "Rose"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Roberto Cavalli roberto cavalli Roberto Cavalli Tiger Oud Not verified Oriental Floral Oud Rose",
+    "createdAt": "2026-05-04T04:41:40.757Z"
+  }
+}

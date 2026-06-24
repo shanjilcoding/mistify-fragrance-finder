@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 142,
+    "fragranceSlug": "ysl-yves-saint-laurent-babycat-142",
+    "brandName": "YSL (Yves Saint Laurent)",
+    "brandSlug": "ysl-yves-saint-laurent",
+    "originalFragranceName": "Babycat",
+    "originalFragranceSlug": "ysl-yves-saint-laurent-babycat",
+    "mistifyProductName": "Wildcat",
+    "mistifyProductSlug": "wildcat",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/wildcat",
+    "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Babycat",
+    "audience": "unisex",
+    "classification": "Oriental Spicy",
+    "topNotes": [
+      "Pink Pepper",
+      "Black Pepper",
+      "Elemi"
+    ],
+    "middleNotes": [
+      "Olibanum",
+      "Saffron"
+    ],
+    "baseNotes": [
+      "Bourbon Vanilla",
+      "Suede",
+      "Cedar"
+    ],
+    "allNotes": [
+      "Pink Pepper",
+      "Black Pepper",
+      "Elemi",
+      "Olibanum",
+      "Saffron",
+      "Bourbon Vanilla",
+      "Suede",
+      "Cedar"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-18-52PM-_1.png?v=1773460434",
+    "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Babycat Wildcat Oriental Spicy unisex Pink Pepper Black Pepper Elemi Olibanum Saffron Bourbon Vanilla Suede Cedar",
+    "createdAt": "2026-05-04T04:41:32.770Z"
+  }
+}

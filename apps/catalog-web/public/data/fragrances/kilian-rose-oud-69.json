@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 69,
+    "fragranceSlug": "kilian-rose-oud-69",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Rose Oud",
+    "originalFragranceSlug": "kilian-rose-oud",
+    "mistifyProductName": "Rosy Oud",
+    "mistifyProductSlug": "rosy-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/rosy-oud",
+    "publicInspiredByLabel": "Inspired by Kilian Rose Oud",
+    "audience": "unisex",
+    "classification": "Oriental Floral",
+    "topNotes": [
+      "Rose",
+      "Saffron"
+    ],
+    "middleNotes": [
+      "Oud",
+      "Cedarwood"
+    ],
+    "baseNotes": [
+      "Patchouli",
+      "Musk"
+    ],
+    "allNotes": [
+      "Rose",
+      "Saffron",
+      "Oud",
+      "Cedarwood",
+      "Patchouli",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RosyOud_9a080a3b-9ff3-481e-8ecc-190466f11560.png?v=1765422921",
+    "searchableText": "Kilian kilian By Kilian Rose Oud Rosy Oud Oriental Floral unisex Rose Saffron Oud Cedarwood Patchouli Musk",
+    "createdAt": "2026-05-04T04:41:28.526Z"
+  }
+}

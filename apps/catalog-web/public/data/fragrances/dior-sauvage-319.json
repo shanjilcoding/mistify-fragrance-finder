@@ -1,0 +1,51 @@
+{
+  "fragrance": {
+    "id": 319,
+    "fragranceSlug": "dior-sauvage-319",
+    "brandName": "Dior",
+    "brandSlug": "dior",
+    "originalFragranceName": "Sauvage",
+    "originalFragranceSlug": "dior-sauvage",
+    "mistifyProductName": "Sauvagerie",
+    "mistifyProductSlug": "sauvagerie",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/sauvagerie",
+    "publicInspiredByLabel": "Dior Sauvage",
+    "audience": null,
+    "classification": "Aromatic Fresh / Woody Spicy",
+    "topNotes": [
+      "Calabrian Bergamot",
+      "Black Pepper",
+      "Pink Pepper"
+    ],
+    "middleNotes": [
+      "Sichuan Pepper",
+      "Lavender",
+      "Geranium",
+      "Elemi",
+      "Patchouli",
+      "Vetiver"
+    ],
+    "baseNotes": [
+      "Ambroxan",
+      "Cedar",
+      "Labdanum"
+    ],
+    "allNotes": [
+      "Calabrian Bergamot",
+      "Black Pepper",
+      "Pink Pepper",
+      "Sichuan Pepper",
+      "Lavender",
+      "Geranium",
+      "Elemi",
+      "Patchouli",
+      "Vetiver",
+      "Ambroxan",
+      "Cedar",
+      "Labdanum"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun11_2026_07_51_31AM.png?v=1781178701",
+    "searchableText": "Dior Dior Sauvage Sauvagerie Aromatic Fresh / Woody Spicy Calabrian Bergamot Black Pepper Pink Pepper Sichuan Pepper Lavender Geranium Elemi Patchouli Vetiver Ambroxan Cedar Labdanum",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

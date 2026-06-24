@@ -1,0 +1,269 @@
+{
+  "fragrances": [
+    {
+      "id": 103,
+      "fragranceSlug": "parfums-de-marly-layton-103",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Layton",
+      "originalFragranceSlug": "parfums-de-marly-layton",
+      "mistifyProductName": "Laytonington",
+      "mistifyProductSlug": "laytonington",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/laytonington",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Layton",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Geranium",
+        "Violet",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender",
+        "Geranium",
+        "Violet",
+        "Jasmine",
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-32-05AM-_1.png?v=1773460493",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Layton Laytonington Oriental Floral unisex Apple Bergamot Lavender Geranium Violet Jasmine Vanilla Pepper Patchouli Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:30.521Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Violet"
+      ]
+    },
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lemon",
+        "Amber"
+      ]
+    },
+    {
+      "id": 293,
+      "fragranceSlug": "bvlgari-baciami-293",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Baciami",
+      "originalFragranceSlug": "bvlgari-baciami",
+      "mistifyProductName": "Baciâme",
+      "mistifyProductSlug": "baciame",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baciame",
+      "publicInspiredByLabel": "Inspired by Bvlgari Baciami",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Gardenia"
+      ],
+      "middleNotes": [
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Gardenia",
+        "Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan1-2026-06-46-55AM-_1.png?v=1773460177",
+      "searchableText": "Bvlgari bvlgari Bvlgari Baciami Baciâme Oriental Floral unisex Gardenia Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:41.838Z",
+      "sharedNotes": [
+        "Amber"
+      ]
+    },
+    {
+      "id": 201,
+      "fragranceSlug": "xerjoff-naxos-201",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Naxos",
+      "originalFragranceSlug": "xerjoff-naxos",
+      "mistifyProductName": "Naxian Gold",
+      "mistifyProductSlug": "naxian-gold",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/naxian-gold",
+      "publicInspiredByLabel": "Inspired by Xerjoff Naxos",
+      "audience": "unisex",
+      "classification": "Citrus Gourmand",
+      "topNotes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Honey",
+        "Cinnamon",
+        "Cashmeran",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Tobacco Leaf",
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon",
+        "Honey",
+        "Cinnamon",
+        "Cashmeran",
+        "Jasmine Sambac",
+        "Tobacco Leaf",
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-29-20PM-_1.png?v=1773460339",
+      "searchableText": "Xerjoff xerjoff Xerjoff Naxos Naxian Gold Citrus Gourmand unisex Lavender Bergamot Lemon Honey Cinnamon Cashmeran Jasmine Sambac Tobacco Leaf Vanilla Tonka Bean",
+      "createdAt": "2026-05-04T04:41:36.283Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lemon",
+        "Tobacco Leaf"
+      ]
+    },
+    {
+      "id": 175,
+      "fragranceSlug": "mancera-aoud-orchid-175",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Aoud Orchid",
+      "originalFragranceSlug": "mancera-aoud-orchid",
+      "mistifyProductName": "Orchid Essence",
+      "mistifyProductSlug": "orchid-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orchid-essence",
+      "publicInspiredByLabel": "Inspired by Mancera Aoud Orchid",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange",
+        "Orchid",
+        "Patchouli",
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OrchidEssence.png?v=1765422998",
+      "searchableText": "Mancera mancera Mancera Aoud Orchid Orchid Essence Oriental Floral unisex Coconut Peach Mandarin Orange Orchid Patchouli Woody Notes Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.708Z",
+      "sharedNotes": [
+        "Amber"
+      ]
+    },
+    {
+      "id": 37,
+      "fragranceSlug": "louis-vuitton-attrape-reves-37",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Attrape-Rêves",
+      "originalFragranceSlug": "louis-vuitton-attrape-reves",
+      "mistifyProductName": "Mystic Dream",
+      "mistifyProductSlug": "mystic-dream",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mystic-dream",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Attrape-Rêves",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Bergamot",
+        "Ginger",
+        "Lychee"
+      ],
+      "middleNotes": [
+        "Peony",
+        "Cocoa Flower",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Patchouli Essence"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Ginger",
+        "Lychee",
+        "Peony",
+        "Cocoa Flower",
+        "Turkish Rose",
+        "Patchouli Essence"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-40-04PM-_1.png?v=1773460325",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Attrape-Rêves Mystic Dream Oriental Floral unisex Bergamot Ginger Lychee Peony Cocoa Flower Turkish Rose Patchouli Essence",
+      "createdAt": "2026-05-04T04:41:26.650Z",
+      "sharedNotes": [
+        "Bergamot"
+      ]
+    }
+  ]
+}

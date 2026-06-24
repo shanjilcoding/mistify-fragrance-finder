@@ -1,0 +1,290 @@
+{
+  "fragrances": [
+    {
+      "id": 256,
+      "fragranceSlug": "roja-dove-amber-aoud-256",
+      "brandName": "Roja Dove",
+      "brandSlug": "roja-dove",
+      "originalFragranceName": "Amber Aoud",
+      "originalFragranceSlug": "roja-dove-amber-aoud",
+      "mistifyProductName": "Amber Oudh",
+      "mistifyProductSlug": "amber-oudh",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-oudh",
+      "publicInspiredByLabel": "Inspired by Roja Dove Amber Aoud",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime",
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-12-15PM-_1.png?v=1773460351",
+      "searchableText": "Roja Dove roja dove Roja Dove Amber Aoud Amber Oudh Oriental Spicy unisex Bergamot Lemon Lime Rose Fig Ylang-Ylang Jasmine Oud Ambergris Saffron Civet Sandalwood Musk Orris Cinnamon Patchouli Birch Oakmoss",
+      "createdAt": "2026-05-04T04:41:39.587Z",
+      "sharedNotes": [
+        "Saffron",
+        "Musk",
+        "Jasmine",
+        "Sandalwood",
+        "Oakmoss",
+        "Oud"
+      ]
+    },
+    {
+      "id": 94,
+      "fragranceSlug": "tom-ford-noir-extreme-94",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Noir Extreme",
+      "originalFragranceSlug": "tom-ford-noir-extreme",
+      "mistifyProductName": "Night Extreme",
+      "mistifyProductSlug": "night-extreme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/night-extreme",
+      "publicInspiredByLabel": "Inspired by Tom Ford Noir Extreme",
+      "audience": "mens",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Mandarin",
+        "Neroli",
+        "Saffron",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Kulfi",
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin",
+        "Neroli",
+        "Saffron",
+        "Nutmeg",
+        "Kulfi",
+        "Rose",
+        "Jasmine",
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_51_27PM.png?v=1765422879",
+      "searchableText": "Tom Ford tom ford Tom Ford Noir Extreme Night Extreme Oriental Spicy mens Mandarin Neroli Saffron Nutmeg Kulfi Rose Jasmine Vanilla Amber Sandalwood",
+      "createdAt": "2026-05-04T04:41:29.974Z",
+      "sharedNotes": [
+        "Saffron",
+        "Amber",
+        "Jasmine",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 155,
+      "fragranceSlug": "initio-absolute-aphrodisiac-155",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Absolute Aphrodisiac",
+      "originalFragranceSlug": "initio-absolute-aphrodisiac",
+      "mistifyProductName": "Sensual Aphrodite",
+      "mistifyProductSlug": "sensual-aphrodite",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sensual-aphrodite",
+      "publicInspiredByLabel": "Inspired by Initio Absolute Aphrodisiac",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-11-12-10AM-_1.png?v=1773460511",
+      "searchableText": "Initio initio parfums Initio Parfums Absolute Aphrodisiac Sensual Aphrodite Oriental Spicy unisex Vanilla Amber Castoreum Leather Musk White Flowers",
+      "createdAt": "2026-05-04T04:41:33.535Z",
+      "sharedNotes": [
+        "Musk",
+        "Amber"
+      ]
+    },
+    {
+      "id": 142,
+      "fragranceSlug": "ysl-yves-saint-laurent-babycat-142",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Babycat",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-babycat",
+      "mistifyProductName": "Wildcat",
+      "mistifyProductSlug": "wildcat",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/wildcat",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Babycat",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Elemi"
+      ],
+      "middleNotes": [
+        "Olibanum",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Suede",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Elemi",
+        "Olibanum",
+        "Saffron",
+        "Bourbon Vanilla",
+        "Suede",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-18-52PM-_1.png?v=1773460434",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Babycat Wildcat Oriental Spicy unisex Pink Pepper Black Pepper Elemi Olibanum Saffron Bourbon Vanilla Suede Cedar",
+      "createdAt": "2026-05-04T04:41:32.770Z",
+      "sharedNotes": [
+        "Saffron"
+      ]
+    },
+    {
+      "id": 219,
+      "fragranceSlug": "ermenegildo-zegna-bourbon-vanilla-219",
+      "brandName": "Ermenegildo Zegna",
+      "brandSlug": "ermenegildo-zegna",
+      "originalFragranceName": "Bourbon Vanilla",
+      "originalFragranceSlug": "ermenegildo-zegna-bourbon-vanilla",
+      "mistifyProductName": "Bourbon Vanille",
+      "mistifyProductSlug": "bourbon-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bourbon-vanille",
+      "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Bourbon Vanilla",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Vanilla",
+        "Ginger",
+        "Cassis",
+        "Vetiver",
+        "Cypriol/Nagarmotha",
+        "Turkish Rose"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Vanilla",
+        "Ginger",
+        "Cassis",
+        "Vetiver",
+        "Cypriol/Nagarmotha",
+        "Turkish Rose"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar13-2026-01-28-48PM-_1.png?v=1773460116",
+      "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Bourbon Vanilla Bourbon Vanille Oriental Spicy unisex Vanilla Ginger Cassis Vetiver Cypriol/Nagarmotha Turkish Rose",
+      "createdAt": "2026-05-04T04:41:37.332Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z",
+      "sharedNotes": [
+        "Saffron",
+        "Musk",
+        "Sandalwood",
+        "Oud"
+      ]
+    }
+  ]
+}

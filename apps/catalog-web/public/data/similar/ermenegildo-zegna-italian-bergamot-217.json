@@ -1,0 +1,286 @@
+{
+  "fragrances": [
+    {
+      "id": 32,
+      "fragranceSlug": "louis-vuitton-l-immensite-32",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "L’Immensité",
+      "originalFragranceSlug": "louis-vuitton-l-immensite",
+      "mistifyProductName": "Immensity",
+      "mistifyProductSlug": "immensity",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/immensity",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton L’Immensité",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rosemary",
+        "Sage",
+        "Watery Notes"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Ambroxan"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Rosemary",
+        "Sage",
+        "Watery Notes",
+        "Amber",
+        "Ambroxan"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_26_09PM.png?v=1765422829",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton L’Immensité Immensity Citrus Aromatic mens Grapefruit Bergamot Rosemary Sage Watery Notes Amber Ambroxan",
+      "createdAt": "2026-05-04T04:41:26.356Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Rosemary"
+      ]
+    },
+    {
+      "id": 191,
+      "fragranceSlug": "dolce-and-gabbana-light-blue-191",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Light Blue",
+      "originalFragranceSlug": "dolce-and-gabbana-light-blue",
+      "mistifyProductName": "Lumine Bleu",
+      "mistifyProductSlug": "lumine-bleu",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lumine-bleu",
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Light Blue",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper",
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood",
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-04-05AM-_1.png?v=1773460205",
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Light Blue Lumine Bleu Citrus Aromatic unisex Grapefruit Bergamot Sicilian Mandarin Juniper Pepper Rosemary Brazilian Rosewood Musk Incense Oakmoss",
+      "createdAt": "2026-05-04T04:41:35.651Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Rosemary"
+      ]
+    },
+    {
+      "id": 55,
+      "fragranceSlug": "kilian-bamboo-harmony-55",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Bamboo Harmony",
+      "originalFragranceSlug": "kilian-bamboo-harmony",
+      "mistifyProductName": "Harmony Bamboo",
+      "mistifyProductSlug": "harmony-bamboo",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/harmony-bamboo",
+      "publicInspiredByLabel": "Inspired by Kilian Bamboo Harmony",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Neroli",
+        "Bitter Orange"
+      ],
+      "middleNotes": [
+        "Tea",
+        "Bamboo",
+        "Mate",
+        "Mimosa",
+        "Spices"
+      ],
+      "baseNotes": [
+        "Fig Leaf",
+        "Holly",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Neroli",
+        "Bitter Orange",
+        "Tea",
+        "Bamboo",
+        "Mate",
+        "Mimosa",
+        "Spices",
+        "Fig Leaf",
+        "Holly",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/HarmonyBamboo.png?v=1765422902",
+      "searchableText": "Kilian kilian By Kilian Bamboo Harmony Harmony Bamboo Citrus Aromatic unisex Bergamot Neroli Bitter Orange Tea Bamboo Mate Mimosa Spices Fig Leaf Holly Oakmoss",
+      "createdAt": "2026-05-04T04:41:27.703Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Neroli"
+      ]
+    },
+    {
+      "id": 110,
+      "fragranceSlug": "parfums-de-marly-castley-110",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Castley",
+      "originalFragranceSlug": "parfums-de-marly-castley",
+      "mistifyProductName": "Castellan",
+      "mistifyProductSlug": "castellan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/castellan",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Castley",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Pepper",
+        "Ginger",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Neroli",
+        "Petitgrain",
+        "Timur",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Akigalawood",
+        "Labdanum",
+        "Benzoin",
+        "Leather"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Pepper",
+        "Ginger",
+        "Grapefruit",
+        "Pepper",
+        "Neroli",
+        "Petitgrain",
+        "Timur",
+        "Rose",
+        "Akigalawood",
+        "Labdanum",
+        "Benzoin",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-29-17AM-_1.png?v=1773460238",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Castley Castellan Citrus Aromatic mens Bergamot Black Pepper Ginger Grapefruit Pepper Neroli Petitgrain Timur Rose Akigalawood Labdanum Benzoin Leather",
+      "createdAt": "2026-05-04T04:41:30.917Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Neroli"
+      ]
+    },
+    {
+      "id": 15,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte-15",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Celestia Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte",
+      "mistifyProductName": "Celestial Waters",
+      "mistifyProductSlug": "celestial-waters",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/celestial-waters",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Celestia Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Currant"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Jasmine",
+        "Mimosa",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-55-26AM-_1.png?v=1773460516",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Celestia Cologne Forte Celestial Waters Citrus Aromatic unisex Bergamot Black Currant Jasmine Mimosa Musk",
+      "createdAt": "2026-05-04T04:41:25.373Z",
+      "sharedNotes": [
+        "Bergamot"
+      ]
+    },
+    {
+      "id": 33,
+      "fragranceSlug": "louis-vuitton-meteore-33",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Météore",
+      "originalFragranceSlug": "louis-vuitton-meteore",
+      "mistifyProductName": "Meteor",
+      "mistifyProductSlug": "meteor",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/stellarium",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Météore",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Mandarin Orange",
+        "Sicilian Orange",
+        "Calabrian Bergamot"
+      ],
+      "middleNotes": [
+        "Pink Pepper",
+        "Pepper",
+        "Nutmeg",
+        "Neroli",
+        "Cardamom"
+      ],
+      "baseNotes": [
+        "Java Vetiver Oil"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Sicilian Orange",
+        "Calabrian Bergamot",
+        "Pink Pepper",
+        "Pepper",
+        "Nutmeg",
+        "Neroli",
+        "Cardamom",
+        "Java Vetiver Oil"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_30_48PM.png?v=1765422830",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Météore Meteor Citrus Aromatic mens Mandarin Orange Sicilian Orange Calabrian Bergamot Pink Pepper Pepper Nutmeg Neroli Cardamom Java Vetiver Oil",
+      "createdAt": "2026-05-04T04:41:26.419Z",
+      "sharedNotes": [
+        "Neroli"
+      ]
+    }
+  ]
+}

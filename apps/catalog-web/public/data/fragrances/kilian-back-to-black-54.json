@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 54,
+    "fragranceSlug": "kilian-back-to-black-54",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Back to Black",
+    "originalFragranceSlug": "kilian-back-to-black",
+    "mistifyProductName": "Back 2 Blacky",
+    "mistifyProductSlug": "back-2-blacky",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/back-2-black",
+    "publicInspiredByLabel": "Inspired by Kilian Back to Black",
+    "audience": "unisex",
+    "classification": "Oriental",
+    "topNotes": [
+      "Honey",
+      "Cherry",
+      "Raspberry"
+    ],
+    "middleNotes": [
+      "Tobacco",
+      "Almond",
+      "Vanilla"
+    ],
+    "baseNotes": [
+      "Cedar",
+      "Patchouli",
+      "Amber"
+    ],
+    "allNotes": [
+      "Honey",
+      "Cherry",
+      "Raspberry",
+      "Tobacco",
+      "Almond",
+      "Vanilla",
+      "Cedar",
+      "Patchouli",
+      "Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Back2Blacky.png?v=1765422900",
+    "searchableText": "Kilian kilian By Kilian Back to Black Back 2 Blacky Oriental unisex Honey Cherry Raspberry Tobacco Almond Vanilla Cedar Patchouli Amber",
+    "createdAt": "2026-05-04T04:41:27.650Z"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "brand": {
+    "brandName": "Penhaligon's",
+    "brandSlug": "penhaligon-s",
+    "fragranceCount": 3,
+    "searchableText": "Halfeti Halfeti Rose Inspired by Penhaligon's Halfeti Penhaligon's penhaligons Penhaligon's Halfeti Halfeti Rose Oriental Woody unisex Cypress Leaf Saffron Cardamom Artemisia Bergamot Grapefruit Bulgarian Rose Nutmeg Jasmine Oud Cedar Leather Sandalwood Amber Tonka Bean Vanilla Musk Halfeti Cedar Halfeti Cedar Rose Inspired by Penhaligon's Halfeti Cedar Penhaligon's penhaligons Penhaligon's Halfeti Cedar Halfeti Cedar Rose Woody Spicy unisex Rum Saffron Peach Cardamom Virginia Cedar Dried Fruits Cinnamon Mineral Notes Immortelle Atlas Cedar Tonka Bean Vanilla Labdanum Patchouli Vaara Royal Vaara Inspired by Penhaligon's Vaara Penhaligon's penhaligons Penhaligon's Vaara Royal Vaara Oriental Quince Rose Water Saffron Coriander Carrot Seeds Rose Peony Freesia Magnolia Honey White Musk Cedar Sandalwood Benzoin Tonka Bean"
+  },
+  "fragrances": [
+    {
+      "id": 247,
+      "fragranceSlug": "penhaligon-s-halfeti-247",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti",
+      "originalFragranceSlug": "penhaligon-s-halfeti",
+      "mistifyProductName": "Halfeti Rose",
+      "mistifyProductSlug": "halfeti-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit",
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine",
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_43_29AM.png?v=1765422933",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Halfeti Rose Oriental Woody unisex Cypress Leaf Saffron Cardamom Artemisia Bergamot Grapefruit Bulgarian Rose Nutmeg Jasmine Oud Cedar Leather Sandalwood Amber Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:39.038Z"
+    },
+    {
+      "id": 248,
+      "fragranceSlug": "penhaligon-s-halfeti-cedar-248",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti Cedar",
+      "originalFragranceSlug": "penhaligon-s-halfeti-cedar",
+      "mistifyProductName": "Halfeti Cedar Rose",
+      "mistifyProductSlug": "halfeti-cedar-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-cedar-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti Cedar",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Rum",
+        "Saffron",
+        "Peach",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Virginia Cedar",
+        "Dried Fruits",
+        "Cinnamon",
+        "Mineral Notes",
+        "Immortelle"
+      ],
+      "baseNotes": [
+        "Atlas Cedar",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Rum",
+        "Saffron",
+        "Peach",
+        "Cardamom",
+        "Virginia Cedar",
+        "Dried Fruits",
+        "Cinnamon",
+        "Mineral Notes",
+        "Immortelle",
+        "Atlas Cedar",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_46_35AM.png?v=1765422935",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Cedar Halfeti Cedar Rose Woody Spicy unisex Rum Saffron Peach Cardamom Virginia Cedar Dried Fruits Cinnamon Mineral Notes Immortelle Atlas Cedar Tonka Bean Vanilla Labdanum Patchouli",
+      "createdAt": "2026-05-04T04:41:39.097Z"
+    },
+    {
+      "id": 249,
+      "fragranceSlug": "penhaligon-s-vaara-249",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Vaara",
+      "originalFragranceSlug": "penhaligon-s-vaara",
+      "mistifyProductName": "Royal Vaara",
+      "mistifyProductSlug": "royal-vaara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/royal-vaara",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Vaara",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Quince",
+        "Rose Water",
+        "Saffron",
+        "Coriander",
+        "Carrot Seeds"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Peony",
+        "Freesia",
+        "Magnolia"
+      ],
+      "baseNotes": [
+        "Honey",
+        "White Musk",
+        "Cedar",
+        "Sandalwood",
+        "Benzoin",
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Quince",
+        "Rose Water",
+        "Saffron",
+        "Coriander",
+        "Carrot Seeds",
+        "Rose",
+        "Peony",
+        "Freesia",
+        "Magnolia",
+        "Honey",
+        "White Musk",
+        "Cedar",
+        "Sandalwood",
+        "Benzoin",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoyalVaara.png?v=1765422937",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Vaara Royal Vaara Oriental Quince Rose Water Saffron Coriander Carrot Seeds Rose Peony Freesia Magnolia Honey White Musk Cedar Sandalwood Benzoin Tonka Bean",
+      "createdAt": "2026-05-04T04:41:39.160Z"
+    }
+  ]
+}

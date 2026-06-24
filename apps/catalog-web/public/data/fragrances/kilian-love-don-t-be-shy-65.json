@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 65,
+    "fragranceSlug": "kilian-love-don-t-be-shy-65",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Love, Don’t Be Shy",
+    "originalFragranceSlug": "kilian-love-don-t-be-shy",
+    "mistifyProductName": "Love, I’m Not Shy",
+    "mistifyProductSlug": "love-i-m-not-shy",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/love-im-not-shy",
+    "publicInspiredByLabel": "Inspired by Kilian Love, Don’t Be Shy",
+    "audience": "unisex",
+    "classification": "Floral Gourmand",
+    "topNotes": [
+      "Neroli",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Jasmine",
+      "Honeysuckle",
+      "Orange Blossom"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Caramel",
+      "Musk"
+    ],
+    "allNotes": [
+      "Neroli",
+      "Bergamot",
+      "Jasmine",
+      "Honeysuckle",
+      "Orange Blossom",
+      "Vanilla",
+      "Caramel",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-33-02PM-_1.png?v=1773460529",
+    "searchableText": "Kilian kilian By Kilian Love, Don’t Be Shy Love, I’m Not Shy Floral Gourmand unisex Neroli Bergamot Jasmine Honeysuckle Orange Blossom Vanilla Caramel Musk",
+    "createdAt": "2026-05-04T04:41:28.274Z"
+  }
+}

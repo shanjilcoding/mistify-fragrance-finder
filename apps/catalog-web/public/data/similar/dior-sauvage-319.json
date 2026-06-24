@@ -1,0 +1,318 @@
+{
+  "fragrances": [
+    {
+      "id": 134,
+      "fragranceSlug": "creed-viking-134",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Viking",
+      "originalFragranceSlug": "creed-viking",
+      "mistifyProductName": "Voyager",
+      "mistifyProductSlug": "voyager",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/voyager",
+      "publicInspiredByLabel": "Inspired by Creed Viking",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Pink Pepper",
+        "Bulgarian Rose",
+        "Peppermint"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Lemon",
+        "Pink Pepper",
+        "Bulgarian Rose",
+        "Peppermint",
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_32_22PM.png?v=1765422858",
+      "searchableText": "Creed creed Creed Viking Voyager Woody Aromatic mens Pink Pepper Calabrian Bergamot Lemon Pink Pepper Bulgarian Rose Peppermint Sandalwood Vetiver Patchouli Lavender",
+      "createdAt": "2026-05-04T04:41:32.311Z",
+      "sharedNotes": [
+        "Calabrian Bergamot",
+        "Pink Pepper",
+        "Lavender",
+        "Patchouli",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 142,
+      "fragranceSlug": "ysl-yves-saint-laurent-babycat-142",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Babycat",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-babycat",
+      "mistifyProductName": "Wildcat",
+      "mistifyProductSlug": "wildcat",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/wildcat",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Babycat",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Elemi"
+      ],
+      "middleNotes": [
+        "Olibanum",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Suede",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Elemi",
+        "Olibanum",
+        "Saffron",
+        "Bourbon Vanilla",
+        "Suede",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-18-52PM-_1.png?v=1773460434",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Babycat Wildcat Oriental Spicy unisex Pink Pepper Black Pepper Elemi Olibanum Saffron Bourbon Vanilla Suede Cedar",
+      "createdAt": "2026-05-04T04:41:32.770Z",
+      "sharedNotes": [
+        "Black Pepper",
+        "Pink Pepper",
+        "Elemi",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 99,
+      "fragranceSlug": "parfums-de-marly-sedley-99",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Sedley",
+      "originalFragranceSlug": "parfums-de-marly-sedley",
+      "mistifyProductName": "Sédelle",
+      "mistifyProductSlug": "sedelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sedelle",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Sedley",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange",
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum",
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar14_2026_08_56_24PM.png?v=1773536190",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Sedley Sédelle Woody Aromatic unisex Mint Bergamot Grapefruit Lemon Mandarin Orange Lavender Rosemary Geranium Olibanum Ambroxan Sandalwood Vetiver Cedar Cashmeran Patchouli",
+      "createdAt": "2026-05-04T04:41:30.270Z",
+      "sharedNotes": [
+        "Lavender",
+        "Geranium",
+        "Patchouli",
+        "Vetiver",
+        "Ambroxan",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 218,
+      "fragranceSlug": "ermenegildo-zegna-javanese-patchouli-218",
+      "brandName": "Ermenegildo Zegna",
+      "brandSlug": "ermenegildo-zegna",
+      "originalFragranceName": "Javanese Patchouli",
+      "originalFragranceSlug": "ermenegildo-zegna-javanese-patchouli",
+      "mistifyProductName": "Mystic Pathouli",
+      "mistifyProductSlug": "mystic-pathouli",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mystic-pathouli",
+      "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Javanese Patchouli",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Patchouli",
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Cedar",
+        "Tonka Bean"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Patchouli",
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Cedar",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-31-15PM-_1.png?v=1773460478",
+      "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Javanese Patchouli Mystic Pathouli Woody Spicy unisex Patchouli Pink Pepper Calabrian Bergamot Cedar Tonka Bean",
+      "createdAt": "2026-05-04T04:41:37.272Z",
+      "sharedNotes": [
+        "Calabrian Bergamot",
+        "Pink Pepper",
+        "Patchouli",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 301,
+      "fragranceSlug": "chanel-bleu-de-chanel-301",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Bleu de Chanel",
+      "originalFragranceSlug": "chanel-bleu-de-chanel",
+      "mistifyProductName": "Bleu Élan",
+      "mistifyProductSlug": "bleu-elan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-elan",
+      "publicInspiredByLabel": "Inspired by Chanel Bleu de Chanel",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper",
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super",
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Chanel chanel Chanel Bleu de Chanel Bleu Élan Woody Aromatic mens Grapefruit Lemon Mint Pink Pepper Ginger Nutmeg Jasmine Iso E Super Incense Cedar Vetiver Sandalwood Patchouli Labdanum White Musk",
+      "createdAt": "2026-05-04T04:41:42.307Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Patchouli",
+        "Vetiver",
+        "Cedar",
+        "Labdanum"
+      ]
+    },
+    {
+      "id": 144,
+      "fragranceSlug": "ysl-yves-saint-laurent-y-intense-144",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Y Intense",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-y-intense",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Y Intense",
+      "audience": null,
+      "classification": "Aromatic Fougere",
+      "topNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries"
+      ],
+      "middleNotes": [
+        "Sage",
+        "Geranium",
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries",
+        "Sage",
+        "Geranium",
+        "Lavender",
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Y Intense Not verified Aromatic Fougere Ginger Bergamot Juniper Berries Sage Geranium Lavender Vetiver Tonka Bean Cedar Olibanum",
+      "createdAt": "2026-05-04T04:41:32.882Z",
+      "sharedNotes": [
+        "Lavender",
+        "Geranium",
+        "Vetiver",
+        "Cedar"
+      ]
+    }
+  ]
+}

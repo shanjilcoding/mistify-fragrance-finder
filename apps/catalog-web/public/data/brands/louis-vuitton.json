@@ -1,0 +1,966 @@
+{
+  "brand": {
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "fragranceCount": 26,
+    "searchableText": "Afternoon Swim Afterdawn Swim Inspired by Louis Vuitton Afternoon Swim Louis Vuitton louis vuitton Louis Vuitton Afternoon Swim Afterdawn Swim Citrus unisex Bergamot Mandarin Orange Ginger Ambergris Ambre Levant Amber Levante Inspired by Louis Vuitton Ambre Levant Louis Vuitton louis vuitton Louis Vuitton Ambre Levant Amber Levante Spicy Amber/Incense Oud unisex Cinnamon Mandarin Incense White Pepper Amber Oud Ambergris Labdanum Attrape-Rêves Mystic Dream Inspired by Louis Vuitton Attrape-Rêves Louis Vuitton louis vuitton Louis Vuitton Attrape-Rêves Mystic Dream Oriental Floral unisex Bergamot Ginger Lychee Peony Cocoa Flower Turkish Rose Patchouli Essence Cactus Garden Cacté Jardin Inspired by Louis Vuitton Cactus Garden Louis Vuitton louis vuitton Louis Vuitton Cactus Garden Cacté Jardin Citrus Aromatic/Green Tea mens Mate Bergamot Lemongrass Geranium Incense California Dream Cali Dream Louis Vuitton California Dream Louis Vuitton Louis Vuitton California Dream Cali Dream Citrus Musky / Soft Fruity Mandarin Orange Pear Ambrette Musk Benzoin City of Stars Starry City Inspired by Louis Vuitton City of Stars Louis Vuitton louis vuitton Louis Vuitton City of Stars Starry City Citrus Aromatic unisex Lime Blood Orange Blood Mandarin Lemon Bergamot Tiare Flower Powdery Notes Musk Sandalwood Contre Moi Contre Moiême Inspired by Louis Vuitton Contre Moi Louis Vuitton louis vuitton Louis Vuitton Contre Moi Contre Moiême Floral Vanilla womens Orange Blossom Bergamot Vanilla Orchid Rose Magnolia Almond Tahitian Vanilla Cacao Tonka Bean Ambrette Musk Fantasmagory Fantasmique Inspired by Louis Vuitton Fantasmagory Louis Vuitton louis vuitton Louis Vuitton Fantasmagory Fantasmique Oriental Vanilla unisex Anise Ginger Almond Floral Notes Vanilla Leather Fleur du Désert Floral de Mirage Inspired by Louis Vuitton Fleur du Désert Louis Vuitton louis vuitton Louis Vuitton Fleur du Désert Floral de Mirage Floral unisex Jasmine Orange Blossom Rose Sandalwood Heures d’Absence Hours of Absence Inspired by Louis Vuitton Heures d’Absence Louis Vuitton louis vuitton Louis Vuitton Heures d’Absence Hours of Absence Floral Musk womens Raspberry Mimosa Grasse Jasmine Jasmine Sambac May Rose Peru Balsam Sandalwood Musk Notes Vanilla Imagination Imaginique Inspired by Louis Vuitton Imagination Louis Vuitton louis vuitton Louis Vuitton Imagination Imaginique Citrus Aromatic mens Citron Calabrian Bergamot Sicilian Orange Tunisian Neroli Nigerian Ginger Ceylon Cinnamon Chinese Black Tea Ambroxan Guaiac Wood Olibanum Ink Mark Ink Script Inspired by Louis Vuitton Ink Mark Louis Vuitton louis vuitton Louis Vuitton Ink Mark Ink Script Oriental Woody unisex Sandalwood Incense Amber L’Immensité Immensity Inspired by Louis Vuitton L’Immensité Louis Vuitton louis vuitton Louis Vuitton L’Immensité Immensity Citrus Aromatic mens Grapefruit Bergamot Rosemary Sage Watery Notes Amber Ambroxan Les Sables Roses Sable Roseux Inspired by Louis Vuitton Les Sables Roses Louis Vuitton louis vuitton Louis Vuitton Les Sables Roses Sable Roseux Oriental Floral unisex Rose Bulgarian Rose Saffron Black Pepper Oud Ambergris LVERS / Lovers LOVERS Inspired by Louis Vuitton LVERS / Lovers Louis Vuitton louis vuitton Louis Vuitton LVERS / Lovers LOVERS Woody Aromatic unisex Galbanum Bergamot Ginger Solar Notes Sandalwood Cedarwood Météore Meteor Inspired by Louis Vuitton Météore Louis Vuitton louis vuitton Louis Vuitton Météore Meteor Citrus Aromatic mens Mandarin Orange Sicilian Orange Calabrian Bergamot Pink Pepper Pepper Nutmeg Neroli Cardamom Java Vetiver Oil Moon Tale Moon Story Inspired by Louis Vuitton Moon Tale Louis Vuitton louis vuitton Louis Vuitton Moon Tale Moon Story Floral Fruity/Soft Romantic unisex Peony Magnolia Jasmine Sambac Rose Geranium Raspberry Ombre Nomade Ombre Nomad Inspired by Louis Vuitton Ombre Nomade Louis Vuitton louis vuitton Louis Vuitton Ombre Nomade Ombre Nomad Leather unisex Raspberry Oud Wood Incense Benzoin Pacific Chill Atlantic Chill Inspired by Louis Vuitton Pacific Chill Louis Vuitton louis vuitton Louis Vuitton Pacific Chill Atlantic Chill Citrus Aromatic unisex Blackcurrant Cedrat Lemon Carrot Seed Coriander Basil Peppermint Orange Essence May Rose Ambrette Seeds Pur Oud Oud Essence Inspired by Louis Vuitton Pur Oud Louis Vuitton louis vuitton Louis Vuitton Pur Oud Oud Essence Woody Spicy unisex Oud Ambrettolide Helvetolide Pur Santal Pur Santelle Inspired by Louis Vuitton Pur Santal Louis Vuitton louis vuitton Louis Vuitton Pur Santal Pur Santelle Woody Floral Musk Sandalwood Musk Rain Tea Rain Chai Inspired by Louis Vuitton Rain Tea Louis Vuitton louis vuitton Louis Vuitton Rain Tea Rain Chai Fresh Citrus/Aromatic Green unisex Tea Lemongrass Magnolia Woody Notes Rose Spell On You Spelle Inspired by Louis Vuitton Spell On You Louis Vuitton louis vuitton Louis Vuitton Spell On You Spelle Floral Powdery/Soft Fruity womens Tuscan Iris Violet Green Notes Tuscan Iris Rose Chinese Jasmine Acacia Flower White Musk Peach Stellar Times Stellara Inspired by Louis Vuitton Stellar Times Louis Vuitton louis vuitton Louis Vuitton Stellar Times Stellara Amber Floral unisex White Amber Peru Balsam Orange Blossom Sun Song Solar Aura Inspired by Louis Vuitton Sun Song Louis Vuitton louis vuitton Louis Vuitton Sun Song Solar Aura Citrus Floral mens Orange Blossom Lemon Bergamot Musk Symphony Synchrony Inspired by Louis Vuitton Symphony Louis Vuitton louis vuitton Louis Vuitton Symphony Synchrony Citrus unisex Grapefruit Bergamot Ginger"
+  },
+  "fragrances": [
+    {
+      "id": 27,
+      "fragranceSlug": "louis-vuitton-afternoon-swim-27",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Afternoon Swim",
+      "originalFragranceSlug": "louis-vuitton-afternoon-swim",
+      "mistifyProductName": "Afterdawn Swim",
+      "mistifyProductSlug": "afterdawn-swim",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/afterdawn-swim",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Afternoon Swim",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Ginger"
+      ],
+      "baseNotes": [
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange",
+        "Ginger",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_12_16_25PM.png?v=1765422821",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Afternoon Swim Afterdawn Swim Citrus unisex Bergamot Mandarin Orange Ginger Ambergris",
+      "createdAt": "2026-05-04T04:41:26.069Z"
+    },
+    {
+      "id": 49,
+      "fragranceSlug": "louis-vuitton-ambre-levant-49",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Ambre Levant",
+      "originalFragranceSlug": "louis-vuitton-ambre-levant",
+      "mistifyProductName": "Amber Levante",
+      "mistifyProductSlug": "amber-levante",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-levante",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Ambre Levant",
+      "audience": "unisex",
+      "classification": "Spicy Amber/Incense Oud",
+      "topNotes": [
+        "Cinnamon",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Incense",
+        "White Pepper"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Oud",
+        "Ambergris",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Mandarin",
+        "Incense",
+        "White Pepper",
+        "Amber",
+        "Oud",
+        "Ambergris",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr24_2026_12_25_51PM.png?v=1777047960",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Ambre Levant Amber Levante Spicy Amber/Incense Oud unisex Cinnamon Mandarin Incense White Pepper Amber Oud Ambergris Labdanum",
+      "createdAt": "2026-05-04T04:41:27.358Z"
+    },
+    {
+      "id": 37,
+      "fragranceSlug": "louis-vuitton-attrape-reves-37",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Attrape-Rêves",
+      "originalFragranceSlug": "louis-vuitton-attrape-reves",
+      "mistifyProductName": "Mystic Dream",
+      "mistifyProductSlug": "mystic-dream",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mystic-dream",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Attrape-Rêves",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Bergamot",
+        "Ginger",
+        "Lychee"
+      ],
+      "middleNotes": [
+        "Peony",
+        "Cocoa Flower",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Patchouli Essence"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Ginger",
+        "Lychee",
+        "Peony",
+        "Cocoa Flower",
+        "Turkish Rose",
+        "Patchouli Essence"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-40-04PM-_1.png?v=1773460325",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Attrape-Rêves Mystic Dream Oriental Floral unisex Bergamot Ginger Lychee Peony Cocoa Flower Turkish Rose Patchouli Essence",
+      "createdAt": "2026-05-04T04:41:26.650Z"
+    },
+    {
+      "id": 39,
+      "fragranceSlug": "louis-vuitton-cactus-garden-39",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Cactus Garden",
+      "originalFragranceSlug": "louis-vuitton-cactus-garden",
+      "mistifyProductName": "Cacté Jardin",
+      "mistifyProductSlug": "cacte-jardin",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cacte-jardin",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Cactus Garden",
+      "audience": "mens",
+      "classification": "Citrus Aromatic/Green Tea",
+      "topNotes": [
+        "Mate",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Lemongrass",
+        "Geranium"
+      ],
+      "baseNotes": [
+        "Incense"
+      ],
+      "allNotes": [
+        "Mate",
+        "Bergamot",
+        "Lemongrass",
+        "Geranium",
+        "Incense"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-03-17-20PM-_1.png?v=1773460272",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Cactus Garden Cacté Jardin Citrus Aromatic/Green Tea mens Mate Bergamot Lemongrass Geranium Incense",
+      "createdAt": "2026-05-04T04:41:26.764Z"
+    },
+    {
+      "id": 317,
+      "fragranceSlug": "louis-vuitton-california-dream-317",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "California Dream",
+      "originalFragranceSlug": "louis-vuitton-california-dream",
+      "mistifyProductName": "Cali Dream",
+      "mistifyProductSlug": "cali-dream",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cali-dream",
+      "publicInspiredByLabel": "Louis Vuitton California Dream",
+      "audience": null,
+      "classification": "Citrus Musky / Soft Fruity",
+      "topNotes": [
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Pear"
+      ],
+      "baseNotes": [
+        "Ambrette",
+        "Musk",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Pear",
+        "Ambrette",
+        "Musk",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun15_2026_01_24_23PM.png?v=1781544277",
+      "searchableText": "Louis Vuitton Louis Vuitton California Dream Cali Dream Citrus Musky / Soft Fruity Mandarin Orange Pear Ambrette Musk Benzoin",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 28,
+      "fragranceSlug": "louis-vuitton-city-of-stars-28",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "City of Stars",
+      "originalFragranceSlug": "louis-vuitton-city-of-stars",
+      "mistifyProductName": "Starry City",
+      "mistifyProductSlug": "starry-city",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/starry-city",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton City of Stars",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Lime",
+        "Blood Orange",
+        "Blood Mandarin",
+        "Lemon",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Tiare Flower"
+      ],
+      "baseNotes": [
+        "Powdery Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Lime",
+        "Blood Orange",
+        "Blood Mandarin",
+        "Lemon",
+        "Bergamot",
+        "Tiare Flower",
+        "Powdery Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_26_41PM.png?v=1765422822",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton City of Stars Starry City Citrus Aromatic unisex Lime Blood Orange Blood Mandarin Lemon Bergamot Tiare Flower Powdery Notes Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:26.125Z"
+    },
+    {
+      "id": 38,
+      "fragranceSlug": "louis-vuitton-contre-moi-38",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Contre Moi",
+      "originalFragranceSlug": "louis-vuitton-contre-moi",
+      "mistifyProductName": "Contre Moiême",
+      "mistifyProductSlug": "contre-moieme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/contre-moieme",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Contre Moi",
+      "audience": "womens",
+      "classification": "Floral Vanilla",
+      "topNotes": [
+        "Orange Blossom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Vanilla Orchid",
+        "Rose",
+        "Magnolia",
+        "Almond"
+      ],
+      "baseNotes": [
+        "Tahitian Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Ambrette",
+        "Musk"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Vanilla Orchid",
+        "Rose",
+        "Magnolia",
+        "Almond",
+        "Tahitian Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Ambrette",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-45-42PM-_1.png?v=1773460269",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Contre Moi Contre Moiême Floral Vanilla womens Orange Blossom Bergamot Vanilla Orchid Rose Magnolia Almond Tahitian Vanilla Cacao Tonka Bean Ambrette Musk",
+      "createdAt": "2026-05-04T04:41:26.708Z"
+    },
+    {
+      "id": 45,
+      "fragranceSlug": "louis-vuitton-fantasmagory-45",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Fantasmagory",
+      "originalFragranceSlug": "louis-vuitton-fantasmagory",
+      "mistifyProductName": "Fantasmique",
+      "mistifyProductSlug": "fantasmique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fantasmique",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Fantasmagory",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Anise",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Almond",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Leather"
+      ],
+      "allNotes": [
+        "Anise",
+        "Ginger",
+        "Almond",
+        "Floral Notes",
+        "Vanilla",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec18-2025-10-09-42AM-_1.png?v=1773460194",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Fantasmagory Fantasmique Oriental Vanilla unisex Anise Ginger Almond Floral Notes Vanilla Leather",
+      "createdAt": "2026-05-04T04:41:27.120Z"
+    },
+    {
+      "id": 29,
+      "fragranceSlug": "louis-vuitton-fleur-du-desert-29",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Fleur du Désert",
+      "originalFragranceSlug": "louis-vuitton-fleur-du-desert",
+      "mistifyProductName": "Floral de Mirage",
+      "mistifyProductSlug": "floral-de-mirage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/floral-de-mirage",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Fleur du Désert",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Jasmine",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Rose"
+      ],
+      "baseNotes": [
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Rose",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_22_06AM.png?v=1774326133",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Fleur du Désert Floral de Mirage Floral unisex Jasmine Orange Blossom Rose Sandalwood",
+      "createdAt": "2026-05-04T04:41:26.180Z"
+    },
+    {
+      "id": 30,
+      "fragranceSlug": "louis-vuitton-heures-d-absence-30",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Heures d’Absence",
+      "originalFragranceSlug": "louis-vuitton-heures-d-absence",
+      "mistifyProductName": "Hours of Absence",
+      "mistifyProductSlug": "hours-of-absence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hours-of-absence",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Heures d’Absence",
+      "audience": "womens",
+      "classification": "Floral Musk",
+      "topNotes": [
+        "Raspberry",
+        "Mimosa"
+      ],
+      "middleNotes": [
+        "Grasse Jasmine",
+        "Jasmine Sambac",
+        "May Rose"
+      ],
+      "baseNotes": [
+        "Peru Balsam",
+        "Sandalwood",
+        "Musk Notes",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Mimosa",
+        "Grasse Jasmine",
+        "Jasmine Sambac",
+        "May Rose",
+        "Peru Balsam",
+        "Sandalwood",
+        "Musk Notes",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_49_38PM.png?v=1765422826",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Heures d’Absence Hours of Absence Floral Musk womens Raspberry Mimosa Grasse Jasmine Jasmine Sambac May Rose Peru Balsam Sandalwood Musk Notes Vanilla",
+      "createdAt": "2026-05-04T04:41:26.238Z"
+    },
+    {
+      "id": 31,
+      "fragranceSlug": "louis-vuitton-imagination-31",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Imagination",
+      "originalFragranceSlug": "louis-vuitton-imagination",
+      "mistifyProductName": "Imaginique",
+      "mistifyProductSlug": "imaginique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/imaginique",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Imagination",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Citron",
+        "Calabrian Bergamot",
+        "Sicilian Orange"
+      ],
+      "middleNotes": [
+        "Tunisian Neroli",
+        "Nigerian Ginger",
+        "Ceylon Cinnamon"
+      ],
+      "baseNotes": [
+        "Chinese Black Tea",
+        "Ambroxan",
+        "Guaiac Wood",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Citron",
+        "Calabrian Bergamot",
+        "Sicilian Orange",
+        "Tunisian Neroli",
+        "Nigerian Ginger",
+        "Ceylon Cinnamon",
+        "Chinese Black Tea",
+        "Ambroxan",
+        "Guaiac Wood",
+        "Olibanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_57_38AM.png?v=1765422818",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Imagination Imaginique Citrus Aromatic mens Citron Calabrian Bergamot Sicilian Orange Tunisian Neroli Nigerian Ginger Ceylon Cinnamon Chinese Black Tea Ambroxan Guaiac Wood Olibanum",
+      "createdAt": "2026-05-04T04:41:26.297Z"
+    },
+    {
+      "id": 47,
+      "fragranceSlug": "louis-vuitton-ink-mark-47",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Ink Mark",
+      "originalFragranceSlug": "louis-vuitton-ink-mark",
+      "mistifyProductName": "Ink Script",
+      "mistifyProductSlug": "ink-script",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ink-script",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Ink Mark",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [],
+      "middleNotes": [
+        "Sandalwood",
+        "Incense",
+        "Amber"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Sandalwood",
+        "Incense",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb3-2026-12-08-40PM-_1.png?v=1773460161",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Ink Mark Ink Script Oriental Woody unisex Sandalwood Incense Amber",
+      "createdAt": "2026-05-04T04:41:27.237Z"
+    },
+    {
+      "id": 32,
+      "fragranceSlug": "louis-vuitton-l-immensite-32",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "L’Immensité",
+      "originalFragranceSlug": "louis-vuitton-l-immensite",
+      "mistifyProductName": "Immensity",
+      "mistifyProductSlug": "immensity",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/immensity",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton L’Immensité",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rosemary",
+        "Sage",
+        "Watery Notes"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Ambroxan"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Rosemary",
+        "Sage",
+        "Watery Notes",
+        "Amber",
+        "Ambroxan"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_26_09PM.png?v=1765422829",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton L’Immensité Immensity Citrus Aromatic mens Grapefruit Bergamot Rosemary Sage Watery Notes Amber Ambroxan",
+      "createdAt": "2026-05-04T04:41:26.356Z"
+    },
+    {
+      "id": 41,
+      "fragranceSlug": "louis-vuitton-les-sables-roses-41",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Les Sables Roses",
+      "originalFragranceSlug": "louis-vuitton-les-sables-roses",
+      "mistifyProductName": "Sable Roseux",
+      "mistifyProductSlug": "sable-roseux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sable-roseux",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Les Sables Roses",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Bulgarian Rose"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Black Pepper"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Rose",
+        "Bulgarian Rose",
+        "Saffron",
+        "Black Pepper",
+        "Oud",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-21-03PM-_1.png?v=1773460255",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Les Sables Roses Sable Roseux Oriental Floral unisex Rose Bulgarian Rose Saffron Black Pepper Oud Ambergris",
+      "createdAt": "2026-05-04T04:41:26.886Z"
+    },
+    {
+      "id": 42,
+      "fragranceSlug": "louis-vuitton-lvers-lovers-42",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "LVERS / Lovers",
+      "originalFragranceSlug": "louis-vuitton-lvers-lovers",
+      "mistifyProductName": "LOVERS",
+      "mistifyProductSlug": "lovers",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/solar-essence",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton LVERS / Lovers",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Galbanum",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Cedarwood"
+      ],
+      "allNotes": [
+        "Galbanum",
+        "Bergamot",
+        "Ginger",
+        "Solar Notes",
+        "Sandalwood",
+        "Cedarwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton LVERS / Lovers LOVERS Woody Aromatic unisex Galbanum Bergamot Ginger Solar Notes Sandalwood Cedarwood",
+      "createdAt": "2026-05-04T04:41:26.948Z"
+    },
+    {
+      "id": 33,
+      "fragranceSlug": "louis-vuitton-meteore-33",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Météore",
+      "originalFragranceSlug": "louis-vuitton-meteore",
+      "mistifyProductName": "Meteor",
+      "mistifyProductSlug": "meteor",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/stellarium",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Météore",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Mandarin Orange",
+        "Sicilian Orange",
+        "Calabrian Bergamot"
+      ],
+      "middleNotes": [
+        "Pink Pepper",
+        "Pepper",
+        "Nutmeg",
+        "Neroli",
+        "Cardamom"
+      ],
+      "baseNotes": [
+        "Java Vetiver Oil"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Sicilian Orange",
+        "Calabrian Bergamot",
+        "Pink Pepper",
+        "Pepper",
+        "Nutmeg",
+        "Neroli",
+        "Cardamom",
+        "Java Vetiver Oil"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_30_48PM.png?v=1765422830",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Météore Meteor Citrus Aromatic mens Mandarin Orange Sicilian Orange Calabrian Bergamot Pink Pepper Pepper Nutmeg Neroli Cardamom Java Vetiver Oil",
+      "createdAt": "2026-05-04T04:41:26.419Z"
+    },
+    {
+      "id": 51,
+      "fragranceSlug": "louis-vuitton-moon-tale-51",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Moon Tale",
+      "originalFragranceSlug": "louis-vuitton-moon-tale",
+      "mistifyProductName": "Moon Story",
+      "mistifyProductSlug": "moon-story",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/moon-story",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Moon Tale",
+      "audience": "unisex",
+      "classification": "Floral Fruity/Soft Romantic",
+      "topNotes": [
+        "Peony",
+        "Magnolia"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac",
+        "Rose Geranium"
+      ],
+      "baseNotes": [
+        "Raspberry"
+      ],
+      "allNotes": [
+        "Peony",
+        "Magnolia",
+        "Jasmine Sambac",
+        "Rose Geranium",
+        "Raspberry"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb3-2026-12-08-37PM-_1.png?v=1773460164",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Moon Tale Moon Story Floral Fruity/Soft Romantic unisex Peony Magnolia Jasmine Sambac Rose Geranium Raspberry",
+      "createdAt": "2026-05-04T04:41:27.474Z"
+    },
+    {
+      "id": 36,
+      "fragranceSlug": "louis-vuitton-ombre-nomade-36",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Ombre Nomade",
+      "originalFragranceSlug": "louis-vuitton-ombre-nomade",
+      "mistifyProductName": "Ombre Nomad",
+      "mistifyProductSlug": "ombre-nomad",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-nomad",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Ombre Nomade",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Oud Wood"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Oud Wood",
+        "Incense",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_45_50PM.png?v=1765422836",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Ombre Nomade Ombre Nomad Leather unisex Raspberry Oud Wood Incense Benzoin",
+      "createdAt": "2026-05-04T04:41:26.592Z"
+    },
+    {
+      "id": 34,
+      "fragranceSlug": "louis-vuitton-pacific-chill-34",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Pacific Chill",
+      "originalFragranceSlug": "louis-vuitton-pacific-chill",
+      "mistifyProductName": "Atlantic Chill",
+      "mistifyProductSlug": "atlantic-chill",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oceanic-escape",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Pacific Chill",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Blackcurrant",
+        "Cedrat",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Carrot Seed",
+        "Coriander",
+        "Basil",
+        "Peppermint",
+        "Orange Essence"
+      ],
+      "baseNotes": [
+        "May Rose",
+        "Ambrette Seeds"
+      ],
+      "allNotes": [
+        "Blackcurrant",
+        "Cedrat",
+        "Lemon",
+        "Carrot Seed",
+        "Coriander",
+        "Basil",
+        "Peppermint",
+        "Orange Essence",
+        "May Rose",
+        "Ambrette Seeds"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_35_03PM.png?v=1765422832",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Pacific Chill Atlantic Chill Citrus Aromatic unisex Blackcurrant Cedrat Lemon Carrot Seed Coriander Basil Peppermint Orange Essence May Rose Ambrette Seeds",
+      "createdAt": "2026-05-04T04:41:26.479Z"
+    },
+    {
+      "id": 35,
+      "fragranceSlug": "louis-vuitton-pur-oud-35",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Pur Oud",
+      "originalFragranceSlug": "louis-vuitton-pur-oud",
+      "mistifyProductName": "Oud Essence",
+      "mistifyProductSlug": "oud-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-essence",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Pur Oud",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Ambrettolide",
+        "Helvetolide"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Oud",
+        "Ambrettolide",
+        "Helvetolide"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_58_54PM.png?v=1765422834",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Pur Oud Oud Essence Woody Spicy unisex Oud Ambrettolide Helvetolide",
+      "createdAt": "2026-05-04T04:41:26.533Z"
+    },
+    {
+      "id": 50,
+      "fragranceSlug": "louis-vuitton-pur-santal-50",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Pur Santal",
+      "originalFragranceSlug": "louis-vuitton-pur-santal",
+      "mistifyProductName": "Pur Santelle",
+      "mistifyProductSlug": "pur-santelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pur-santelle",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Pur Santal",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay10_2026_08_22_34AM.png?v=1778415760",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Pur Santal Pur Santelle Woody Floral Musk Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.416Z"
+    },
+    {
+      "id": 46,
+      "fragranceSlug": "louis-vuitton-rain-tea-46",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Rain Tea",
+      "originalFragranceSlug": "louis-vuitton-rain-tea",
+      "mistifyProductName": "Rain Chai",
+      "mistifyProductSlug": "rain-chai",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rain-chai",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Rain Tea",
+      "audience": "unisex",
+      "classification": "Fresh Citrus/Aromatic Green",
+      "topNotes": [],
+      "middleNotes": [
+        "Tea",
+        "Lemongrass",
+        "Magnolia",
+        "Woody Notes",
+        "Rose"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Tea",
+        "Lemongrass",
+        "Magnolia",
+        "Woody Notes",
+        "Rose"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb3-2026-12-08-35PM-_1.png?v=1773460166",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Rain Tea Rain Chai Fresh Citrus/Aromatic Green unisex Tea Lemongrass Magnolia Woody Notes Rose",
+      "createdAt": "2026-05-04T04:41:27.178Z"
+    },
+    {
+      "id": 48,
+      "fragranceSlug": "louis-vuitton-spell-on-you-48",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Spell On You",
+      "originalFragranceSlug": "louis-vuitton-spell-on-you",
+      "mistifyProductName": "Spelle",
+      "mistifyProductSlug": "spelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/spelle",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Spell On You",
+      "audience": "womens",
+      "classification": "Floral Powdery/Soft Fruity",
+      "topNotes": [
+        "Tuscan Iris",
+        "Violet",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Tuscan Iris",
+        "Rose",
+        "Chinese Jasmine"
+      ],
+      "baseNotes": [
+        "Acacia Flower",
+        "White Musk",
+        "Peach"
+      ],
+      "allNotes": [
+        "Tuscan Iris",
+        "Violet",
+        "Green Notes",
+        "Tuscan Iris",
+        "Rose",
+        "Chinese Jasmine",
+        "Acacia Flower",
+        "White Musk",
+        "Peach"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr30_2026_03_05_57PM.png?v=1777575969",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Spell On You Spelle Floral Powdery/Soft Fruity womens Tuscan Iris Violet Green Notes Tuscan Iris Rose Chinese Jasmine Acacia Flower White Musk Peach",
+      "createdAt": "2026-05-04T04:41:27.300Z"
+    },
+    {
+      "id": 43,
+      "fragranceSlug": "louis-vuitton-stellar-times-43",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Stellar Times",
+      "originalFragranceSlug": "louis-vuitton-stellar-times",
+      "mistifyProductName": "Stellara",
+      "mistifyProductSlug": "stellara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/stellara",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Stellar Times",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "White Amber"
+      ],
+      "middleNotes": [
+        "Peru Balsam"
+      ],
+      "baseNotes": [
+        "Orange Blossom"
+      ],
+      "allNotes": [
+        "White Amber",
+        "Peru Balsam",
+        "Orange Blossom"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-41-52PM-_1.png?v=1773460266",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Stellar Times Stellara Amber Floral unisex White Amber Peru Balsam Orange Blossom",
+      "createdAt": "2026-05-04T04:41:27.007Z"
+    },
+    {
+      "id": 40,
+      "fragranceSlug": "louis-vuitton-sun-song-40",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Sun Song",
+      "originalFragranceSlug": "louis-vuitton-sun-song",
+      "mistifyProductName": "Solar Aura",
+      "mistifyProductSlug": "solar-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/solar-aura",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Sun Song",
+      "audience": "mens",
+      "classification": "Citrus Floral",
+      "topNotes": [
+        "Orange Blossom",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Bergamot"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Lemon",
+        "Bergamot",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-49-28PM-_1.png?v=1773460275",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Sun Song Solar Aura Citrus Floral mens Orange Blossom Lemon Bergamot Musk",
+      "createdAt": "2026-05-04T04:41:26.827Z"
+    },
+    {
+      "id": 44,
+      "fragranceSlug": "louis-vuitton-symphony-44",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Symphony",
+      "originalFragranceSlug": "louis-vuitton-symphony",
+      "mistifyProductName": "Synchrony",
+      "mistifyProductSlug": "synchrony",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/synchrony",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Symphony",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [],
+      "middleNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Ginger"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Ginger"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_44_42PM.png?v=1765422838",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Symphony Synchrony Citrus unisex Grapefruit Bergamot Ginger",
+      "createdAt": "2026-05-04T04:41:27.061Z"
+    }
+  ]
+}

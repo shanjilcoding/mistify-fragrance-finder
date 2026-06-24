@@ -1,0 +1,33 @@
+{
+  "fragrance": {
+    "id": 43,
+    "fragranceSlug": "louis-vuitton-stellar-times-43",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Stellar Times",
+    "originalFragranceSlug": "louis-vuitton-stellar-times",
+    "mistifyProductName": "Stellara",
+    "mistifyProductSlug": "stellara",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/stellara",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Stellar Times",
+    "audience": "unisex",
+    "classification": "Amber Floral",
+    "topNotes": [
+      "White Amber"
+    ],
+    "middleNotes": [
+      "Peru Balsam"
+    ],
+    "baseNotes": [
+      "Orange Blossom"
+    ],
+    "allNotes": [
+      "White Amber",
+      "Peru Balsam",
+      "Orange Blossom"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-41-52PM-_1.png?v=1773460266",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Stellar Times Stellara Amber Floral unisex White Amber Peru Balsam Orange Blossom",
+    "createdAt": "2026-05-04T04:41:27.007Z"
+  }
+}

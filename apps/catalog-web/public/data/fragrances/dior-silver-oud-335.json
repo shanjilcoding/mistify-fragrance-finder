@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 335,
+    "fragranceSlug": "dior-silver-oud-335",
+    "brandName": "Dior",
+    "brandSlug": "dior",
+    "originalFragranceName": "Silver Oud",
+    "originalFragranceSlug": "dior-silver-oud",
+    "mistifyProductName": "Mystic Silver",
+    "mistifyProductSlug": "mystic-silver",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/mystic-silver",
+    "publicInspiredByLabel": "Dior Silver Oud",
+    "audience": null,
+    "classification": "Woody Oriental",
+    "topNotes": [
+      "Agarwood (Oud)"
+    ],
+    "middleNotes": [
+      "Cedarwood",
+      "Spices"
+    ],
+    "baseNotes": [
+      "Leather",
+      "Vanilla",
+      "Amber"
+    ],
+    "allNotes": [
+      "Agarwood (Oud)",
+      "Cedarwood",
+      "Spices",
+      "Leather",
+      "Vanilla",
+      "Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MysticSilver-_1.png?v=1773460462",
+    "searchableText": "Dior Christian Dior Silver Oud Mystic Silver Woody Oriental Agarwood (Oud) Cedarwood Spices Leather Vanilla Amber",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

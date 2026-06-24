@@ -1,0 +1,276 @@
+{
+  "fragrances": [
+    {
+      "id": 76,
+      "fragranceSlug": "tom-ford-electric-cherry-76",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Electric Cherry",
+      "originalFragranceSlug": "tom-ford-electric-cherry",
+      "mistifyProductName": "Cherry Spark",
+      "mistifyProductSlug": "cherry-spark",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cherry-spark",
+      "publicInspiredByLabel": "Inspired by Tom Ford Electric Cherry",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Cherry",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Pink Pepper",
+        "Musk",
+        "Ambrettolide"
+      ],
+      "allNotes": [
+        "Cherry",
+        "Ginger",
+        "Jasmine Sambac",
+        "Pink Pepper",
+        "Musk",
+        "Ambrettolide"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_10_56_01AM.png?v=1765422867",
+      "searchableText": "Tom Ford tom ford Tom Ford Electric Cherry Cherry Spark Floral Fruity unisex Cherry Ginger Jasmine Sambac Pink Pepper Musk Ambrettolide",
+      "createdAt": "2026-05-04T04:41:28.924Z",
+      "sharedNotes": [
+        "Jasmine Sambac"
+      ]
+    },
+    {
+      "id": 269,
+      "fragranceSlug": "byredo-black-saffron-269",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Black Saffron",
+      "originalFragranceSlug": "byredo-black-saffron",
+      "mistifyProductName": "Saffron Noir",
+      "mistifyProductSlug": "saffron-noir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saffron-noir",
+      "publicInspiredByLabel": "Inspired by Byredo Black Saffron",
+      "audience": "unisex",
+      "classification": "Amber/Leather",
+      "topNotes": [
+        "Juniper Berries",
+        "Pomelo",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Black Violet",
+        "Cristal Rose",
+        "Leather Accord"
+      ],
+      "baseNotes": [
+        "Blonde Woods",
+        "Raspberry",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Pomelo",
+        "Saffron",
+        "Black Violet",
+        "Cristal Rose",
+        "Leather Accord",
+        "Blonde Woods",
+        "Raspberry",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-04-11PM-_1.png?v=1773460347",
+      "searchableText": "Byredo byredo Byredo Black Saffron Saffron Noir Amber/Leather unisex Juniper Berries Pomelo Saffron Black Violet Cristal Rose Leather Accord Blonde Woods Raspberry Vetiver",
+      "createdAt": "2026-05-04T04:41:40.380Z",
+      "sharedNotes": [
+        "Raspberry"
+      ]
+    },
+    {
+      "id": 250,
+      "fragranceSlug": "kayali-lovefest-burning-cherry-48-250",
+      "brandName": "Kayali",
+      "brandSlug": "kayali",
+      "originalFragranceName": "Lovefest Burning Cherry 48",
+      "originalFragranceSlug": "kayali-lovefest-burning-cherry-48",
+      "mistifyProductName": "Loving Flaming Cherry 49",
+      "mistifyProductSlug": "loving-flaming-cherry-49",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/loving-flaming-cherry-49?variant=49907914604863",
+      "publicInspiredByLabel": "Inspired by Kayali Lovefest Burning Cherry 48",
+      "audience": "unisex",
+      "classification": "Floral Fruity Gourmand/Warm Sweet Gourmand",
+      "topNotes": [
+        "Black Cherry",
+        "Raspberry",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose Damascena",
+        "Jasmine Sambac",
+        "Heliotrope",
+        "Praline"
+      ],
+      "baseNotes": [
+        "Palo Santo",
+        "Patchouli",
+        "Ambrettolide",
+        "Peru Balsam",
+        "Vetiver",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Black Cherry",
+        "Raspberry",
+        "Bergamot",
+        "Rose Damascena",
+        "Jasmine Sambac",
+        "Heliotrope",
+        "Praline",
+        "Palo Santo",
+        "Patchouli",
+        "Ambrettolide",
+        "Peru Balsam",
+        "Vetiver",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_11_04_38PM.png?v=1774407885",
+      "searchableText": "Kayali kayali Kayali Lovefest Burning Cherry 48 Loving Flaming Cherry 49 Floral Fruity Gourmand/Warm Sweet Gourmand unisex Black Cherry Raspberry Bergamot Rose Damascena Jasmine Sambac Heliotrope Praline Palo Santo Patchouli Ambrettolide Peru Balsam Vetiver Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:39.218Z",
+      "sharedNotes": [
+        "Jasmine Sambac",
+        "Raspberry"
+      ]
+    },
+    {
+      "id": 30,
+      "fragranceSlug": "louis-vuitton-heures-d-absence-30",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Heures d’Absence",
+      "originalFragranceSlug": "louis-vuitton-heures-d-absence",
+      "mistifyProductName": "Hours of Absence",
+      "mistifyProductSlug": "hours-of-absence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hours-of-absence",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Heures d’Absence",
+      "audience": "womens",
+      "classification": "Floral Musk",
+      "topNotes": [
+        "Raspberry",
+        "Mimosa"
+      ],
+      "middleNotes": [
+        "Grasse Jasmine",
+        "Jasmine Sambac",
+        "May Rose"
+      ],
+      "baseNotes": [
+        "Peru Balsam",
+        "Sandalwood",
+        "Musk Notes",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Mimosa",
+        "Grasse Jasmine",
+        "Jasmine Sambac",
+        "May Rose",
+        "Peru Balsam",
+        "Sandalwood",
+        "Musk Notes",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_49_38PM.png?v=1765422826",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Heures d’Absence Hours of Absence Floral Musk womens Raspberry Mimosa Grasse Jasmine Jasmine Sambac May Rose Peru Balsam Sandalwood Musk Notes Vanilla",
+      "createdAt": "2026-05-04T04:41:26.238Z",
+      "sharedNotes": [
+        "Jasmine Sambac",
+        "Raspberry"
+      ]
+    },
+    {
+      "id": 80,
+      "fragranceSlug": "tom-ford-lost-cherry-80",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lost Cherry",
+      "originalFragranceSlug": "tom-ford-lost-cherry",
+      "mistifyProductName": "Cherry Reverie",
+      "mistifyProductSlug": "cherry-reverie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cherry-reverie",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lost Cherry",
+      "audience": "unisex",
+      "classification": "Floral Gourmand",
+      "topNotes": [
+        "Black Cherry",
+        "Bitter Almond",
+        "Cherry Liqueur"
+      ],
+      "middleNotes": [
+        "Griotte Syrup",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Peru Balsam",
+        "Roasted Tonka Bean",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Black Cherry",
+        "Bitter Almond",
+        "Cherry Liqueur",
+        "Griotte Syrup",
+        "Jasmine Sambac",
+        "Peru Balsam",
+        "Roasted Tonka Bean",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-25-11AM-_1.png?v=1773460540",
+      "searchableText": "Tom Ford tom ford Tom Ford Lost Cherry Cherry Reverie Floral Gourmand unisex Black Cherry Bitter Almond Cherry Liqueur Griotte Syrup Jasmine Sambac Peru Balsam Roasted Tonka Bean Sandalwood Vetiver Cedar",
+      "createdAt": "2026-05-04T04:41:29.166Z",
+      "sharedNotes": [
+        "Jasmine Sambac"
+      ]
+    },
+    {
+      "id": 36,
+      "fragranceSlug": "louis-vuitton-ombre-nomade-36",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Ombre Nomade",
+      "originalFragranceSlug": "louis-vuitton-ombre-nomade",
+      "mistifyProductName": "Ombre Nomad",
+      "mistifyProductSlug": "ombre-nomad",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-nomad",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Ombre Nomade",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Oud Wood"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Oud Wood",
+        "Incense",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_45_50PM.png?v=1765422836",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Ombre Nomade Ombre Nomad Leather unisex Raspberry Oud Wood Incense Benzoin",
+      "createdAt": "2026-05-04T04:41:26.592Z",
+      "sharedNotes": [
+        "Raspberry"
+      ]
+    }
+  ]
+}

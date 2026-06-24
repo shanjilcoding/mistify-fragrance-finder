@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 53,
+    "fragranceSlug": "kilian-angels-share-53",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Angels’ Share",
+    "originalFragranceSlug": "kilian-angels-share",
+    "mistifyProductName": "Angels’ Limit",
+    "mistifyProductSlug": "angels-limit",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/angels-limit",
+    "publicInspiredByLabel": "Inspired by Kilian Angels’ Share",
+    "audience": "unisex",
+    "classification": "Gourmand",
+    "topNotes": [
+      "Cognac"
+    ],
+    "middleNotes": [
+      "Oak",
+      "Cinnamon",
+      "Tonka Bean"
+    ],
+    "baseNotes": [
+      "Sandalwood",
+      "Praline",
+      "Vanilla"
+    ],
+    "allNotes": [
+      "Cognac",
+      "Oak",
+      "Cinnamon",
+      "Tonka Bean",
+      "Sandalwood",
+      "Praline",
+      "Vanilla"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_27_43PM.png?v=1765422900",
+    "searchableText": "Kilian kilian By Kilian Angels’ Share Angels’ Limit Gourmand unisex Cognac Oak Cinnamon Tonka Bean Sandalwood Praline Vanilla",
+    "createdAt": "2026-05-04T04:41:27.592Z"
+  }
+}

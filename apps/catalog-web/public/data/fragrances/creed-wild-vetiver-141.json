@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 141,
+    "fragranceSlug": "creed-wild-vetiver-141",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Wild Vetiver",
+    "originalFragranceSlug": "creed-wild-vetiver",
+    "mistifyProductName": "Wild Vétiver",
+    "mistifyProductSlug": "wild-vetiver",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/wild-vetiver",
+    "publicInspiredByLabel": "Inspired by Creed Wild Vetiver",
+    "audience": "unisex",
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Bergamot",
+      "Pink Pepper",
+      "Timur Berry"
+    ],
+    "middleNotes": [
+      "White Florals",
+      "Vetiver"
+    ],
+    "baseNotes": [
+      "Cedarwood",
+      "Amberwood"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Pink Pepper",
+      "Timur Berry",
+      "White Florals",
+      "Vetiver",
+      "Cedarwood",
+      "Amberwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr24_2026_12_16_47PM.png?v=1777047425",
+    "searchableText": "Creed creed Creed Wild Vetiver Wild Vétiver Woody Aromatic unisex Bergamot Pink Pepper Timur Berry White Florals Vetiver Cedarwood Amberwood",
+    "createdAt": "2026-05-04T04:41:32.712Z"
+  }
+}

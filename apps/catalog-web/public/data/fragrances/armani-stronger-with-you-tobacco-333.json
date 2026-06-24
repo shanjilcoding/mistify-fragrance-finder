@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 333,
+    "fragranceSlug": "armani-stronger-with-you-tobacco-333",
+    "brandName": "Armani",
+    "brandSlug": "armani",
+    "originalFragranceName": "Stronger With You Tobacco",
+    "originalFragranceSlug": "armani-stronger-with-you-tobacco",
+    "mistifyProductName": "Tobacco Strength",
+    "mistifyProductSlug": "tobacco-strength",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/tobacco-strength",
+    "publicInspiredByLabel": "Armani Stronger With You Tobacco",
+    "audience": null,
+    "classification": "Oriental Spicy",
+    "topNotes": [
+      "Spicy Notes",
+      "Pink Pepper"
+    ],
+    "middleNotes": [
+      "Tobacco",
+      "Vanilla"
+    ],
+    "baseNotes": [
+      "Chestnut",
+      "Amberwood"
+    ],
+    "allNotes": [
+      "Spicy Notes",
+      "Pink Pepper",
+      "Tobacco",
+      "Vanilla",
+      "Chestnut",
+      "Amberwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-16-39PM-_1.png?v=1773460354",
+    "searchableText": "Armani Armani Stronger With You Tobacco Tobacco Strength Oriental Spicy Spicy Notes Pink Pepper Tobacco Vanilla Chestnut Amberwood",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 135,
+    "fragranceSlug": "creed-white-amber-135",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "White Amber",
+    "originalFragranceSlug": "creed-white-amber",
+    "mistifyProductName": "Whitened Amber",
+    "mistifyProductSlug": "whitened-amber",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/whitened-amber",
+    "publicInspiredByLabel": "Inspired by Creed White Amber",
+    "audience": "mens",
+    "classification": "Floral Woody Musk",
+    "topNotes": [
+      "Amber",
+      "Jasmine"
+    ],
+    "middleNotes": [
+      "Benzoin"
+    ],
+    "baseNotes": [
+      "Sandalwood",
+      "Musk"
+    ],
+    "allNotes": [
+      "Amber",
+      "Jasmine",
+      "Benzoin",
+      "Sandalwood",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-37-49AM-_1.png?v=1773460545",
+    "searchableText": "Creed creed Creed White Amber Whitened Amber Floral Woody Musk mens Amber Jasmine Benzoin Sandalwood Musk",
+    "createdAt": "2026-05-04T04:41:32.365Z"
+  }
+}

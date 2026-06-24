@@ -1,0 +1,254 @@
+{
+  "fragrances": [
+    {
+      "id": 195,
+      "fragranceSlug": "giardini-di-toscana-bianco-latte-195",
+      "brandName": "Giardini Di Toscana",
+      "brandSlug": "giardini-di-toscana",
+      "originalFragranceName": "Bianco Latte",
+      "originalFragranceSlug": "giardini-di-toscana-bianco-latte",
+      "mistifyProductName": "Bianco Lattéa",
+      "mistifyProductSlug": "bianco-lattea",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/valeroux",
+      "publicInspiredByLabel": "Inspired by Giardini Di Toscana Bianco Latte",
+      "audience": "unisex",
+      "classification": "Gourmand/Creamy Vanilla",
+      "topNotes": [
+        "Caramel"
+      ],
+      "middleNotes": [
+        "Coumarin",
+        "Honey"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Caramel",
+        "Coumarin",
+        "Honey",
+        "Vanilla",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec22-2025-09-52-18AM-_1.png?v=1773460188",
+      "searchableText": "Giardini Di Toscana giardini di toscana Giardini di Toscana Bianco Latte Bianco Lattéa Gourmand/Creamy Vanilla unisex Caramel Coumarin Honey Vanilla White Musk",
+      "createdAt": "2026-05-04T04:41:35.913Z",
+      "sharedNotes": [
+        "White Musk"
+      ]
+    },
+    {
+      "id": 171,
+      "fragranceSlug": "montale-intense-cafe-171",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Intense Cafe",
+      "originalFragranceSlug": "montale-intense-cafe",
+      "mistifyProductName": "Café Rose",
+      "mistifyProductSlug": "cafe-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cafe-rose",
+      "publicInspiredByLabel": "Inspired by Montale Intense Cafe",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Floral Notes"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Coffee"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Floral Notes",
+        "Rose",
+        "Coffee",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CafeRose.png?v=1765422956",
+      "searchableText": "Montale montale Montale Intense Cafe Café Rose Oriental Vanilla unisex Floral Notes Rose Coffee Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.468Z",
+      "sharedNotes": [
+        "White Musk"
+      ]
+    },
+    {
+      "id": 156,
+      "fragranceSlug": "initio-musk-therapy-156",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Musk Therapy",
+      "originalFragranceSlug": "initio-musk-therapy",
+      "mistifyProductName": "Therapeutic Musk",
+      "mistifyProductSlug": "therapeutic-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/therapeutic-musk",
+      "publicInspiredByLabel": "Inspired by Initio Musk Therapy",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "White Musk",
+        "Musk",
+        "Black Currant",
+        "Bergamot",
+        "Mandarin Orange",
+        "Magnolia",
+        "White Sandalwood",
+        "Hedione"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "White Musk",
+        "Musk",
+        "Black Currant",
+        "Bergamot",
+        "Mandarin Orange",
+        "Magnolia",
+        "White Sandalwood",
+        "Hedione"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-25-54PM-_1.png?v=1773460508",
+      "searchableText": "Initio initio parfums Initio Parfums Musk Therapy Therapeutic Musk Woody Floral Musk unisex White Musk Musk Black Currant Bergamot Mandarin Orange Magnolia White Sandalwood Hedione",
+      "createdAt": "2026-05-04T04:41:33.598Z",
+      "sharedNotes": [
+        "White Musk"
+      ]
+    },
+    {
+      "id": 12,
+      "fragranceSlug": "maison-francis-kurkdjian-a-p-o-m-12",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "A.P.O.M",
+      "originalFragranceSlug": "maison-francis-kurkdjian-a-p-o-m",
+      "mistifyProductName": "A Part of Aura",
+      "mistifyProductSlug": "a-part-of-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/a-part-of-aura",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian A.P.O.M",
+      "audience": "unisex",
+      "classification": "Amber Floral Fougere",
+      "topNotes": [
+        "Sweet Florals",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "allNotes": [
+        "Sweet Florals",
+        "Orange Blossom",
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom",
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-08-30AM-_1.png?v=1773460306",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian A.P.O.M A Part of Aura Amber Floral Fougere unisex Sweet Florals Orange Blossom Lavender Ylang-Ylang Orange Blossom Vanilla White Musk Light Amber",
+      "createdAt": "2026-05-04T04:41:25.206Z",
+      "sharedNotes": [
+        "White Musk"
+      ]
+    },
+    {
+      "id": 57,
+      "fragranceSlug": "kilian-blue-moon-ginger-dash-57",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Blue Moon Ginger Dash",
+      "originalFragranceSlug": "kilian-blue-moon-ginger-dash",
+      "mistifyProductName": "Blue Mooned Dashing Ginger",
+      "mistifyProductSlug": "blue-mooned-dashing-ginger",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/blue-mooned-dashing-ginger",
+      "publicInspiredByLabel": "Inspired by Kilian Blue Moon Ginger Dash",
+      "audience": "unisex",
+      "classification": "Fresh Citrus/Aromatic",
+      "topNotes": [
+        "Lemon",
+        "Calone",
+        "Mint",
+        "Aldehydes"
+      ],
+      "middleNotes": [
+        "Vodka",
+        "Ginger"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Lemon",
+        "Calone",
+        "Mint",
+        "Aldehydes",
+        "Vodka",
+        "Ginger",
+        "Ambroxan",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_04_04_03PM.png?v=1774382652",
+      "searchableText": "Kilian kilian By Kilian Blue Moon Ginger Dash Blue Mooned Dashing Ginger Fresh Citrus/Aromatic unisex Lemon Calone Mint Aldehydes Vodka Ginger Ambroxan White Musk",
+      "createdAt": "2026-05-04T04:41:27.820Z",
+      "sharedNotes": [
+        "White Musk"
+      ]
+    },
+    {
+      "id": 202,
+      "fragranceSlug": "xerjoff-erba-pura-202",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Erba Pura",
+      "originalFragranceSlug": "xerjoff-erba-pura",
+      "mistifyProductName": "Herb Pura",
+      "mistifyProductSlug": "herb-pura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/herb-pura",
+      "publicInspiredByLabel": "Inspired by Xerjoff Erba Pura",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Sicilian Orange",
+        "Calabrian Bergamot",
+        "Sicilian Lemon"
+      ],
+      "middleNotes": [
+        "Fruits"
+      ],
+      "baseNotes": [
+        "White Musk",
+        "Madagascar Vanilla",
+        "Amber"
+      ],
+      "allNotes": [
+        "Sicilian Orange",
+        "Calabrian Bergamot",
+        "Sicilian Lemon",
+        "Fruits",
+        "White Musk",
+        "Madagascar Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-47-48AM-_1.png?v=1773460527",
+      "searchableText": "Xerjoff xerjoff Xerjoff Erba Pura Herb Pura Oriental unisex Sicilian Orange Calabrian Bergamot Sicilian Lemon Fruits White Musk Madagascar Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:36.343Z",
+      "sharedNotes": [
+        "White Musk"
+      ]
+    }
+  ]
+}

@@ -87,3 +87,4 @@ local-imports/
 # Deployment/system files
 .vercel/
 .netlify/
+.vercel

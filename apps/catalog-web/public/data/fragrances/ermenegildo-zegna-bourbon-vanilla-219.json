@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 219,
+    "fragranceSlug": "ermenegildo-zegna-bourbon-vanilla-219",
+    "brandName": "Ermenegildo Zegna",
+    "brandSlug": "ermenegildo-zegna",
+    "originalFragranceName": "Bourbon Vanilla",
+    "originalFragranceSlug": "ermenegildo-zegna-bourbon-vanilla",
+    "mistifyProductName": "Bourbon Vanille",
+    "mistifyProductSlug": "bourbon-vanille",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/bourbon-vanille",
+    "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Bourbon Vanilla",
+    "audience": "unisex",
+    "classification": "Oriental Spicy",
+    "topNotes": [],
+    "middleNotes": [
+      "Vanilla",
+      "Ginger",
+      "Cassis",
+      "Vetiver",
+      "Cypriol/Nagarmotha",
+      "Turkish Rose"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Vanilla",
+      "Ginger",
+      "Cassis",
+      "Vetiver",
+      "Cypriol/Nagarmotha",
+      "Turkish Rose"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar13-2026-01-28-48PM-_1.png?v=1773460116",
+    "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Bourbon Vanilla Bourbon Vanille Oriental Spicy unisex Vanilla Ginger Cassis Vetiver Cypriol/Nagarmotha Turkish Rose",
+    "createdAt": "2026-05-04T04:41:37.332Z"
+  }
+}

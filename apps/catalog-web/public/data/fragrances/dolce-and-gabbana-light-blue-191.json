@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 191,
+    "fragranceSlug": "dolce-and-gabbana-light-blue-191",
+    "brandName": "Dolce & Gabbana",
+    "brandSlug": "dolce-and-gabbana",
+    "originalFragranceName": "Light Blue",
+    "originalFragranceSlug": "dolce-and-gabbana-light-blue",
+    "mistifyProductName": "Lumine Bleu",
+    "mistifyProductSlug": "lumine-bleu",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/lumine-bleu",
+    "publicInspiredByLabel": "Inspired by Dolce & Gabbana Light Blue",
+    "audience": "unisex",
+    "classification": "Citrus Aromatic",
+    "topNotes": [
+      "Grapefruit",
+      "Bergamot",
+      "Sicilian Mandarin",
+      "Juniper"
+    ],
+    "middleNotes": [
+      "Pepper",
+      "Rosemary",
+      "Brazilian Rosewood"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Incense",
+      "Oakmoss"
+    ],
+    "allNotes": [
+      "Grapefruit",
+      "Bergamot",
+      "Sicilian Mandarin",
+      "Juniper",
+      "Pepper",
+      "Rosemary",
+      "Brazilian Rosewood",
+      "Musk",
+      "Incense",
+      "Oakmoss"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-04-05AM-_1.png?v=1773460205",
+    "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Light Blue Lumine Bleu Citrus Aromatic unisex Grapefruit Bergamot Sicilian Mandarin Juniper Pepper Rosemary Brazilian Rosewood Musk Incense Oakmoss",
+    "createdAt": "2026-05-04T04:41:35.651Z"
+  }
+}

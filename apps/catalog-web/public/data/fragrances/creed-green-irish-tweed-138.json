@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 138,
+    "fragranceSlug": "creed-green-irish-tweed-138",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Green Irish Tweed",
+    "originalFragranceSlug": "creed-green-irish-tweed",
+    "mistifyProductName": "Verdant Tweed",
+    "mistifyProductSlug": "verdant-tweed",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/verdant-tweed",
+    "publicInspiredByLabel": "Inspired by Creed Green Irish Tweed",
+    "audience": "unisex",
+    "classification": "Woody Floral Musk",
+    "topNotes": [
+      "Lemon Verbena",
+      "Iris"
+    ],
+    "middleNotes": [
+      "Violet Leaf"
+    ],
+    "baseNotes": [
+      "Ambergris",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Lemon Verbena",
+      "Iris",
+      "Violet Leaf",
+      "Ambergris",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-07-49AM-_1.png?v=1773460135",
+    "searchableText": "Creed creed Creed Green Irish Tweed Verdant Tweed Woody Floral Musk unisex Lemon Verbena Iris Violet Leaf Ambergris Sandalwood",
+    "createdAt": "2026-05-04T04:41:32.543Z"
+  }
+}

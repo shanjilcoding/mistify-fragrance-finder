@@ -1,0 +1,347 @@
+{
+  "fragrances": [
+    {
+      "id": 163,
+      "fragranceSlug": "montale-arabians-163",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Arabians",
+      "originalFragranceSlug": "montale-arabians",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Arabians",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Cardamom",
+        "Lavender",
+        "Red Thyme"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Patchouli",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Ambergris",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Lavender",
+        "Red Thyme",
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oud",
+        "Leather",
+        "Ambergris",
+        "Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Arabians Not verified Oriental Cardamom Lavender Red Thyme Rose Patchouli Vetiver Oud Leather Ambergris Musk",
+      "createdAt": "2026-05-04T04:41:34.009Z",
+      "sharedNotes": [
+        "Rose",
+        "Cardamom",
+        "Patchouli",
+        "Oud",
+        "Musk"
+      ]
+    },
+    {
+      "id": 226,
+      "fragranceSlug": "clive-christian-blonde-amber-226",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Blonde Amber",
+      "originalFragranceSlug": "clive-christian-blonde-amber",
+      "mistifyProductName": "Amber Luxe",
+      "mistifyProductSlug": "amber-luxe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-luxe",
+      "publicInspiredByLabel": "Inspired by Clive Christian Blonde Amber",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit",
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris",
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-34-30PM-_1.png?v=1773460457",
+      "searchableText": "Clive Christian clive christian Clive Christian Blonde Amber Amber Luxe Oriental unisex Rum Olibanum Bitter Orange Cardamom Pink Pepper Ginger Bergamot Grapefruit Dried Fruits White Tobacco Sandalwood Tuberose Saffron Osmanthus Jasmine Orris Tonka Bean Vanilla Myrrh Labdanum Patchouli Musk Cedar Vetiver",
+      "createdAt": "2026-05-04T04:41:37.756Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Pink Pepper",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Labdanum"
+      ]
+    },
+    {
+      "id": 120,
+      "fragranceSlug": "bond-no-9-new-york-oud-120",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "New York Oud",
+      "originalFragranceSlug": "bond-no-9-new-york-oud",
+      "mistifyProductName": "Urban Oud",
+      "mistifyProductSlug": "urban-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-oud",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 New York Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Plum",
+        "Saffron",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root"
+      ],
+      "baseNotes": [
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Plum",
+        "Saffron",
+        "Orange",
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root",
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_18_40AM.png?v=1774325928",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 New York Oud Urban Oud Oriental unisex Plum Saffron Orange Rose Oud Patchouli Orris Root Musk White Honey Vetiver",
+      "createdAt": "2026-05-04T04:41:31.518Z",
+      "sharedNotes": [
+        "Rose",
+        "Patchouli",
+        "Oud",
+        "Musk"
+      ]
+    },
+    {
+      "id": 257,
+      "fragranceSlug": "narciso-rodriguez-amber-musc-257",
+      "brandName": "Narciso Rodriguez",
+      "brandSlug": "narciso-rodriguez",
+      "originalFragranceName": "Amber Musc",
+      "originalFragranceSlug": "narciso-rodriguez-amber-musc",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Narciso Rodriguez Amber Musc",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Musk",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Oud",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "allNotes": [
+        "Musk",
+        "Orange Blossom",
+        "Patchouli",
+        "Oud",
+        "Leather",
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Narciso Rodriguez narciso rodriguez Narciso Rodriguez Amber Musc Not verified Oriental Musk Orange Blossom Patchouli Oud Leather Amber Vanilla Incense",
+      "createdAt": "2026-05-04T04:41:39.654Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Incense",
+        "Oud",
+        "Musk"
+      ]
+    },
+    {
+      "id": 96,
+      "fragranceSlug": "tom-ford-oud-voyager-96",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Voyager",
+      "originalFragranceSlug": "tom-ford-oud-voyager",
+      "mistifyProductName": "Oud Voyagé",
+      "mistifyProductSlug": "oud-voyage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-voyage",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Voyager",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus"
+      ],
+      "middleNotes": [
+        "Red Peony",
+        "Cardamom",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "allNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus",
+        "Red Peony",
+        "Cardamom",
+        "Saffron",
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec17-2025-09-31-28AM-_1.png?v=1773460197",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Voyager Oud Voyagé Oriental Woody unisex Geranium Pink Pepper Citrus Red Peony Cardamom Saffron Oud Cypriol Patchouli Vetiver Musk",
+      "createdAt": "2026-05-04T04:41:30.090Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Pink Pepper",
+        "Geranium",
+        "Patchouli",
+        "Oud",
+        "Musk"
+      ]
+    },
+    {
+      "id": 66,
+      "fragranceSlug": "kilian-musk-oud-66",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Musk Oud",
+      "originalFragranceSlug": "kilian-musk-oud",
+      "mistifyProductName": "Oud Musk",
+      "mistifyProductSlug": "oud-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-musk",
+      "publicInspiredByLabel": "Inspired by Kilian Musk Oud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Lemon",
+        "Cardamom",
+        "Coriander"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Cypress",
+        "Geranium",
+        "Artemisia"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Musk",
+        "Rum",
+        "Incense",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lemon",
+        "Cardamom",
+        "Coriander",
+        "Bulgarian Rose",
+        "Cypress",
+        "Geranium",
+        "Artemisia",
+        "Oud",
+        "Musk",
+        "Rum",
+        "Incense",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudMusk.png?v=1765422915",
+      "searchableText": "Kilian kilian By Kilian Musk Oud Oud Musk Woody Floral Musk unisex Lemon Cardamom Coriander Bulgarian Rose Cypress Geranium Artemisia Oud Musk Rum Incense Patchouli",
+      "createdAt": "2026-05-04T04:41:28.331Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Geranium",
+        "Patchouli",
+        "Incense",
+        "Oud",
+        "Musk"
+      ]
+    }
+  ]
+}

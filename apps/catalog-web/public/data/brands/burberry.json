@@ -1,0 +1,57 @@
+{
+  "brand": {
+    "brandName": "Burberry",
+    "brandSlug": "burberry",
+    "fragranceCount": 1,
+    "searchableText": "Tudor Rose Tudor Rosé Burberry Tudor Rose Burberry Burberry Tudor Rose Tudor Rosé Floral Rose / Chypre Leather Bulgarian Damask Rose May Rose Centifolia Rose Patchouli Peach Jasmine Fenugreek Ambergris Cashmeran Leather"
+  },
+  "fragrances": [
+    {
+      "id": 326,
+      "fragranceSlug": "burberry-tudor-rose-326",
+      "brandName": "Burberry",
+      "brandSlug": "burberry",
+      "originalFragranceName": "Tudor Rose",
+      "originalFragranceSlug": "burberry-tudor-rose",
+      "mistifyProductName": "Tudor Rosé",
+      "mistifyProductSlug": "tudor-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/tudor-rose",
+      "publicInspiredByLabel": "Burberry Tudor Rose",
+      "audience": null,
+      "classification": "Floral Rose / Chypre Leather",
+      "topNotes": [
+        "Bulgarian Damask Rose",
+        "May Rose"
+      ],
+      "middleNotes": [
+        "Centifolia Rose",
+        "Patchouli",
+        "May Rose",
+        "Peach",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Fenugreek",
+        "Ambergris",
+        "Cashmeran",
+        "Leather"
+      ],
+      "allNotes": [
+        "Bulgarian Damask Rose",
+        "May Rose",
+        "Centifolia Rose",
+        "Patchouli",
+        "Peach",
+        "Jasmine",
+        "Fenugreek",
+        "Ambergris",
+        "Cashmeran",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar25_2026_01_38_24PM.png?v=1774460312",
+      "searchableText": "Burberry Burberry Tudor Rose Tudor Rosé Floral Rose / Chypre Leather Bulgarian Damask Rose May Rose Centifolia Rose Patchouli Peach Jasmine Fenugreek Ambergris Cashmeran Leather",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    }
+  ]
+}

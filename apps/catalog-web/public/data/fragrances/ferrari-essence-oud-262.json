@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 262,
+    "fragranceSlug": "ferrari-essence-oud-262",
+    "brandName": "Ferrari",
+    "brandSlug": "ferrari",
+    "originalFragranceName": "Essence Oud",
+    "originalFragranceSlug": "ferrari-essence-oud",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Ferrari Essence Oud",
+    "audience": null,
+    "classification": "Oriental",
+    "topNotes": [
+      "Oud"
+    ],
+    "middleNotes": [
+      "Rose",
+      "Olibanum",
+      "Elemi Resin",
+      "Saffron",
+      "Caraway"
+    ],
+    "baseNotes": [
+      "Leather",
+      "Labdanum"
+    ],
+    "allNotes": [
+      "Oud",
+      "Rose",
+      "Olibanum",
+      "Elemi Resin",
+      "Saffron",
+      "Caraway",
+      "Leather",
+      "Labdanum"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Ferrari ferrari Ferrari Essence Oud Not verified Oriental Oud Rose Olibanum Elemi Resin Saffron Caraway Leather Labdanum",
+    "createdAt": "2026-05-04T04:41:39.958Z"
+  }
+}

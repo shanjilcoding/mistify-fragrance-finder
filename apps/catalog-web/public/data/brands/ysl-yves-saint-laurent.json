@@ -1,0 +1,539 @@
+{
+  "brand": {
+    "brandName": "YSL (Yves Saint Laurent)",
+    "brandSlug": "ysl-yves-saint-laurent",
+    "fragranceCount": 13,
+    "searchableText": "Babycat Wildcat Inspired by YSL (Yves Saint Laurent) Babycat YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Babycat Wildcat Oriental Spicy unisex Pink Pepper Black Pepper Elemi Olibanum Saffron Bourbon Vanilla Suede Cedar Black Opium Noir Opiate Inspired by YSL (Yves Saint Laurent) Black Opium YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Black Opium Noir Opiate Amber Vanilla womens Pink Pepper Orange Blossom Pear Coffee Jasmine Bitter Almond Licorice Vanilla Patchouli Cedar Cashmere Wood Exquisite Musk Exquis Musk Inspired by YSL (Yves Saint Laurent) Exquisite Musk YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Exquisite Musk Exquis Musk Woody Floral Musk unisex Ginger Angelica Iris Rose Musk Ambergris Benzoin L’Homme Ultimate Hommes Ultimate Inspired by YSL (Yves Saint Laurent) L’Homme Ultimate YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) L’Homme Ultimate Hommes Ultimate Woody Floral Musk mens Ginger Grapefruit Cardamom Bergamot Rose Sage Geranium Apple Cedar Vetiver Cashmere Wood La Nuit de l’Homme The Night of Man Inspired by YSL (Yves Saint Laurent) La Nuit de l’Homme YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) La Nuit de l’Homme The Night of Man Woody Spicy mens Cardamom Lavender Cedar Vetiver Caraway Libre Libre Vanillé Inspired by YSL (Yves Saint Laurent) Libre YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Libre Vanillé Amber Fougere unisex Lavender Mandarin Orange Black Currant Petitgrain Lavender Orange Blossom Jasmine Madagascar Vanilla Musk Cedar Ambergris Libre Berry Crush Libre Berry Inspired by YSL (Yves Saint Laurent) Libre Berry Crush YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Berry Crush Libre Berry Floral Fruity Raspberry Mandarin Orange Blossom Lavender Bourbon Vanilla Musk Coconut Libre Vanille Couture Libre Vanillé Inspired by YSL (Yves Saint Laurent) Libre Vanille Couture YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Vanille Couture Libre Vanillé Gourmand Floral/Warm Boozy unisex Diva Lavender Orange Blossom Bourbon Vanilla Caviar Rum Absolute Bourbon Vanilla Caviar Rum Absolute M7 Oud Absolu Absolute Oud Inspired by YSL (Yves Saint Laurent) M7 Oud Absolu YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) M7 Oud Absolu Absolute Oud Woody Amber mens Mandarin Orange Patchouli Oud Myrrh Labdanum MYSLF MYSELF Inspired by YSL (Yves Saint Laurent) MYSLF YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) MYSLF MYSELF Woody Aromatic mens Bergamot Ginger Lavender Sage Orange Blossom Cedarwood Ambergris Splendid Wood Majestic Timber Inspired by YSL (Yves Saint Laurent) Splendid Wood YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Splendid Wood Majestic Timber Woody Spicy unisex Cardamom Incense Cedar Cypriol Oud Sandalwood Supreme Bouquet Ethereal Bloom Inspired by YSL (Yves Saint Laurent) Supreme Bouquet YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Supreme Bouquet Ethereal Bloom Amber Floral womens Pear Pink Pepper Tuberose Ylang-Ylang Jasmine Amber Patchouli Musk Y Intense Not verified Inspired by YSL (Yves Saint Laurent) Y Intense YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Y Intense Not verified Aromatic Fougere Ginger Bergamot Juniper Berries Sage Geranium Lavender Vetiver Tonka Bean Cedar Olibanum"
+  },
+  "fragrances": [
+    {
+      "id": 142,
+      "fragranceSlug": "ysl-yves-saint-laurent-babycat-142",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Babycat",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-babycat",
+      "mistifyProductName": "Wildcat",
+      "mistifyProductSlug": "wildcat",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/wildcat",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Babycat",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Elemi"
+      ],
+      "middleNotes": [
+        "Olibanum",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Suede",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Elemi",
+        "Olibanum",
+        "Saffron",
+        "Bourbon Vanilla",
+        "Suede",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-18-52PM-_1.png?v=1773460434",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Babycat Wildcat Oriental Spicy unisex Pink Pepper Black Pepper Elemi Olibanum Saffron Bourbon Vanilla Suede Cedar",
+      "createdAt": "2026-05-04T04:41:32.770Z"
+    },
+    {
+      "id": 145,
+      "fragranceSlug": "ysl-yves-saint-laurent-black-opium-145",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Black Opium",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-black-opium",
+      "mistifyProductName": "Noir Opiate",
+      "mistifyProductSlug": "noir-opiate",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/noir-opiate",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Black Opium",
+      "audience": "womens",
+      "classification": "Amber Vanilla",
+      "topNotes": [
+        "Pink Pepper",
+        "Orange Blossom",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Coffee",
+        "Jasmine",
+        "Bitter Almond",
+        "Licorice"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli",
+        "Cedar",
+        "Cashmere Wood"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Orange Blossom",
+        "Pear",
+        "Coffee",
+        "Jasmine",
+        "Bitter Almond",
+        "Licorice",
+        "Vanilla",
+        "Patchouli",
+        "Cedar",
+        "Cashmere Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-34-58PM-_1.png?v=1773460432",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Black Opium Noir Opiate Amber Vanilla womens Pink Pepper Orange Blossom Pear Coffee Jasmine Bitter Almond Licorice Vanilla Patchouli Cedar Cashmere Wood",
+      "createdAt": "2026-05-04T04:41:32.939Z"
+    },
+    {
+      "id": 151,
+      "fragranceSlug": "ysl-yves-saint-laurent-exquisite-musk-151",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Exquisite Musk",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-exquisite-musk",
+      "mistifyProductName": "Exquis Musk",
+      "mistifyProductSlug": "exquis-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/exquis-musk",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Exquisite Musk",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Angelica"
+      ],
+      "middleNotes": [
+        "Iris",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Angelica",
+        "Iris",
+        "Rose",
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar22_2026_09_51_38AM.png?v=1774187508",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Exquisite Musk Exquis Musk Woody Floral Musk unisex Ginger Angelica Iris Rose Musk Ambergris Benzoin",
+      "createdAt": "2026-05-04T04:41:33.307Z"
+    },
+    {
+      "id": 146,
+      "fragranceSlug": "ysl-yves-saint-laurent-l-homme-ultimate-146",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "L’Homme Ultimate",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-l-homme-ultimate",
+      "mistifyProductName": "Hommes Ultimate",
+      "mistifyProductSlug": "hommes-ultimate",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hommes-ultimate",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) L’Homme Ultimate",
+      "audience": "mens",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Sage",
+        "Geranium",
+        "Apple"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Vetiver",
+        "Cashmere Wood"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot",
+        "Rose",
+        "Sage",
+        "Geranium",
+        "Apple",
+        "Cedar",
+        "Vetiver",
+        "Cashmere Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-30PM-_1.png?v=1773460429",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) L’Homme Ultimate Hommes Ultimate Woody Floral Musk mens Ginger Grapefruit Cardamom Bergamot Rose Sage Geranium Apple Cedar Vetiver Cashmere Wood",
+      "createdAt": "2026-05-04T04:41:33.006Z"
+    },
+    {
+      "id": 152,
+      "fragranceSlug": "ysl-yves-saint-laurent-la-nuit-de-l-homme-152",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "La Nuit de l’Homme",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-la-nuit-de-l-homme",
+      "mistifyProductName": "The Night of Man",
+      "mistifyProductSlug": "the-night-of-man",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/the-night-of-man",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) La Nuit de l’Homme",
+      "audience": "mens",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Caraway"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Lavender",
+        "Cedar",
+        "Vetiver",
+        "Caraway"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-41-32AM-_1.png?v=1773460417",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) La Nuit de l’Homme The Night of Man Woody Spicy mens Cardamom Lavender Cedar Vetiver Caraway",
+      "createdAt": "2026-05-04T04:41:33.364Z"
+    },
+    {
+      "id": 143,
+      "fragranceSlug": "ysl-yves-saint-laurent-libre-143",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Libre",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-libre",
+      "mistifyProductName": "Libre Vanillé",
+      "mistifyProductSlug": "libre-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-vanille",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre",
+      "audience": "unisex",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Black Currant",
+        "Petitgrain"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Madagascar Vanilla",
+        "Musk",
+        "Cedar",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Black Currant",
+        "Petitgrain",
+        "Lavender",
+        "Orange Blossom",
+        "Jasmine",
+        "Madagascar Vanilla",
+        "Musk",
+        "Cedar",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb26-2026-12-44-22PM-_1.png?v=1773460127",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Libre Vanillé Amber Fougere unisex Lavender Mandarin Orange Black Currant Petitgrain Lavender Orange Blossom Jasmine Madagascar Vanilla Musk Cedar Ambergris",
+      "createdAt": "2026-05-04T04:41:32.824Z"
+    },
+    {
+      "id": 154,
+      "fragranceSlug": "ysl-yves-saint-laurent-libre-berry-crush-154",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Libre Berry Crush",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-libre-berry-crush",
+      "mistifyProductName": "Libre Berry",
+      "mistifyProductSlug": "libre-berry",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-berry",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre Berry Crush",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Raspberry",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Musk",
+        "Coconut"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Mandarin",
+        "Orange Blossom",
+        "Lavender",
+        "Bourbon Vanilla",
+        "Musk",
+        "Coconut"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_10_01_31AM.png?v=1778594501",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Berry Crush Libre Berry Floral Fruity Raspberry Mandarin Orange Blossom Lavender Bourbon Vanilla Musk Coconut",
+      "createdAt": "2026-05-04T04:41:33.476Z"
+    },
+    {
+      "id": 153,
+      "fragranceSlug": "ysl-yves-saint-laurent-libre-vanille-couture-153",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Libre Vanille Couture",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-libre-vanille-couture",
+      "mistifyProductName": "Libre Vanillé",
+      "mistifyProductSlug": "libre-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-vanille",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre Vanille Couture",
+      "audience": "unisex",
+      "classification": "Gourmand Floral/Warm Boozy",
+      "topNotes": [
+        "Diva Lavender",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Bourbon Vanilla Caviar",
+        "Rum Absolute"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla Caviar",
+        "Rum Absolute"
+      ],
+      "allNotes": [
+        "Diva Lavender",
+        "Orange Blossom",
+        "Bourbon Vanilla Caviar",
+        "Rum Absolute",
+        "Bourbon Vanilla Caviar",
+        "Rum Absolute"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb26-2026-12-44-22PM-_1.png?v=1773460127",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Vanille Couture Libre Vanillé Gourmand Floral/Warm Boozy unisex Diva Lavender Orange Blossom Bourbon Vanilla Caviar Rum Absolute Bourbon Vanilla Caviar Rum Absolute",
+      "createdAt": "2026-05-04T04:41:33.418Z"
+    },
+    {
+      "id": 147,
+      "fragranceSlug": "ysl-yves-saint-laurent-m7-oud-absolu-147",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "M7 Oud Absolu",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-m7-oud-absolu",
+      "mistifyProductName": "Absolute Oud",
+      "mistifyProductSlug": "absolute-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/absolute-oud",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) M7 Oud Absolu",
+      "audience": "mens",
+      "classification": "Woody Amber",
+      "topNotes": [
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Oud"
+      ],
+      "baseNotes": [
+        "Myrrh",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Patchouli",
+        "Oud",
+        "Myrrh",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28-2025-12-37-15AM-_1.png?v=1773460427",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) M7 Oud Absolu Absolute Oud Woody Amber mens Mandarin Orange Patchouli Oud Myrrh Labdanum",
+      "createdAt": "2026-05-04T04:41:33.065Z"
+    },
+    {
+      "id": 148,
+      "fragranceSlug": "ysl-yves-saint-laurent-myslf-148",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "MYSLF",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-myslf",
+      "mistifyProductName": "MYSELF",
+      "mistifyProductSlug": "myself",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/myself",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) MYSLF",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Sage",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Ginger",
+        "Lavender",
+        "Sage",
+        "Orange Blossom",
+        "Cedarwood",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-19-50PM-_1.png?v=1773460424",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) MYSLF MYSELF Woody Aromatic mens Bergamot Ginger Lavender Sage Orange Blossom Cedarwood Ambergris",
+      "createdAt": "2026-05-04T04:41:33.134Z"
+    },
+    {
+      "id": 150,
+      "fragranceSlug": "ysl-yves-saint-laurent-splendid-wood-150",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Splendid Wood",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-splendid-wood",
+      "mistifyProductName": "Majestic Timber",
+      "mistifyProductSlug": "majestic-timber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-timber",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Splendid Wood",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom",
+        "Incense"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Cypriol"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Incense",
+        "Cedar",
+        "Cypriol",
+        "Oud",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MajesticTimber-_1.png?v=1773460419",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Splendid Wood Majestic Timber Woody Spicy unisex Cardamom Incense Cedar Cypriol Oud Sandalwood",
+      "createdAt": "2026-05-04T04:41:33.251Z"
+    },
+    {
+      "id": 149,
+      "fragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet-149",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Supreme Bouquet",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet",
+      "mistifyProductName": "Ethereal Bloom",
+      "mistifyProductSlug": "ethereal-bloom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ethereal-bloom",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Supreme Bouquet",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pear",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pear",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/EtherealBloom-_1.png?v=1773460422",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Supreme Bouquet Ethereal Bloom Amber Floral womens Pear Pink Pepper Tuberose Ylang-Ylang Jasmine Amber Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.197Z"
+    },
+    {
+      "id": 144,
+      "fragranceSlug": "ysl-yves-saint-laurent-y-intense-144",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Y Intense",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-y-intense",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Y Intense",
+      "audience": null,
+      "classification": "Aromatic Fougere",
+      "topNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries"
+      ],
+      "middleNotes": [
+        "Sage",
+        "Geranium",
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries",
+        "Sage",
+        "Geranium",
+        "Lavender",
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Y Intense Not verified Aromatic Fougere Ginger Bergamot Juniper Berries Sage Geranium Lavender Vetiver Tonka Bean Cedar Olibanum",
+      "createdAt": "2026-05-04T04:41:32.882Z"
+    }
+  ]
+}

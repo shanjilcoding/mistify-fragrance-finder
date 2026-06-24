@@ -1,0 +1,268 @@
+{
+  "fragrances": [
+    {
+      "id": 19,
+      "fragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold-19",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Gentle Fluidity Gold",
+      "originalFragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold",
+      "mistifyProductName": "Gently Fluid",
+      "mistifyProductSlug": "gently-fluid",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gently-fluid",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Gentle Fluidity Gold",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Juniper Berries",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Coriander",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Coriander",
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_14_05AM.png?v=1765422980",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Gentle Fluidity Gold Gently Fluid Oriental Vanilla unisex Juniper Berries Nutmeg Coriander Vanilla Amber Musk",
+      "createdAt": "2026-05-04T04:41:25.599Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 199,
+      "fragranceSlug": "maison-mataha-escapade-gourmande-199",
+      "brandName": "Maison Mataha",
+      "brandSlug": "maison-mataha",
+      "originalFragranceName": "Escapade Gourmande",
+      "originalFragranceSlug": "maison-mataha-escapade-gourmande",
+      "mistifyProductName": "Gourmande Évasion",
+      "mistifyProductSlug": "gourmande-evasion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gourmande-evasion",
+      "publicInspiredByLabel": "Inspired by Maison Mataha Escapade Gourmande",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar Cane"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sugar Cane",
+        "Vanilla",
+        "Tonka Bean",
+        "Benzoin",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb24-2026-11-56-42AM-_1.png?v=1773460130",
+      "searchableText": "Maison Mataha maison mataha Maison Mataha Escapade Gourmande Gourmande Évasion Oriental Vanilla unisex Sugar Cane Vanilla Tonka Bean Benzoin Musk",
+      "createdAt": "2026-05-04T04:41:36.157Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 155,
+      "fragranceSlug": "initio-absolute-aphrodisiac-155",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Absolute Aphrodisiac",
+      "originalFragranceSlug": "initio-absolute-aphrodisiac",
+      "mistifyProductName": "Sensual Aphrodite",
+      "mistifyProductSlug": "sensual-aphrodite",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sensual-aphrodite",
+      "publicInspiredByLabel": "Inspired by Initio Absolute Aphrodisiac",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-11-12-10AM-_1.png?v=1773460511",
+      "searchableText": "Initio initio parfums Initio Parfums Absolute Aphrodisiac Sensual Aphrodite Oriental Spicy unisex Vanilla Amber Castoreum Leather Musk White Flowers",
+      "createdAt": "2026-05-04T04:41:33.535Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 171,
+      "fragranceSlug": "montale-intense-cafe-171",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Intense Cafe",
+      "originalFragranceSlug": "montale-intense-cafe",
+      "mistifyProductName": "Café Rose",
+      "mistifyProductSlug": "cafe-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cafe-rose",
+      "publicInspiredByLabel": "Inspired by Montale Intense Cafe",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Floral Notes"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Coffee"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Floral Notes",
+        "Rose",
+        "Coffee",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CafeRose.png?v=1765422956",
+      "searchableText": "Montale montale Montale Intense Cafe Café Rose Oriental Vanilla unisex Floral Notes Rose Coffee Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.468Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 187,
+      "fragranceSlug": "sabrina-carpenter-caramel-dream-187",
+      "brandName": "Sabrina Carpenter",
+      "brandSlug": "sabrina-carpenter",
+      "originalFragranceName": "Caramel Dream",
+      "originalFragranceSlug": "sabrina-carpenter-caramel-dream",
+      "mistifyProductName": "Caramel Rêverie",
+      "mistifyProductSlug": "caramel-reverie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/caramel-reverie",
+      "publicInspiredByLabel": "Inspired by Sabrina Carpenter Caramel Dream",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar",
+        "Almond Milk",
+        "Orange",
+        "Freesia",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Vanilla",
+        "Orange Blossom",
+        "Orchid"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Sugar",
+        "Almond Milk",
+        "Orange",
+        "Freesia",
+        "Lemon",
+        "Dark Chocolate",
+        "Vanilla",
+        "Orange Blossom",
+        "Orchid",
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec29-2025-01-49-19PM-_1.png?v=1773460180",
+      "searchableText": "Sabrina Carpenter sabrina carpenter Sabrina Carpenter Caramel Dream Caramel Rêverie Oriental Vanilla unisex Sugar Almond Milk Orange Freesia Lemon Dark Chocolate Vanilla Orange Blossom Orchid Caramel Patchouli Sandalwood Musk Amber",
+      "createdAt": "2026-05-04T04:41:35.407Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 52,
+      "fragranceSlug": "kilian-amber-oud-52",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Amber Oud",
+      "originalFragranceSlug": "kilian-amber-oud",
+      "mistifyProductName": "Amber Essence",
+      "mistifyProductSlug": "amber-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-essence",
+      "publicInspiredByLabel": "Inspired by Kilian Amber Oud",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Bay Leaf",
+        "Cedar"
+      ],
+      "middleNotes": [
+        "Amber",
+        "Spices"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Benzoin",
+        "Oud"
+      ],
+      "allNotes": [
+        "Bay Leaf",
+        "Cedar",
+        "Amber",
+        "Spices",
+        "Vanilla",
+        "Benzoin",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_10_42AM.png?v=1774325448",
+      "searchableText": "Kilian kilian By Kilian Amber Oud Amber Essence Oriental Woody unisex Bay Leaf Cedar Amber Spices Vanilla Benzoin Oud",
+      "createdAt": "2026-05-04T04:41:27.529Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Spices",
+        "Amber"
+      ]
+    }
+  ]
+}

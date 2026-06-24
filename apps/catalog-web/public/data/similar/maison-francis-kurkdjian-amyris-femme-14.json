@@ -1,0 +1,265 @@
+{
+  "fragrances": [
+    {
+      "id": 200,
+      "fragranceSlug": "xerjoff-accento-200",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Accento",
+      "originalFragranceSlug": "xerjoff-accento",
+      "mistifyProductName": "Accents",
+      "mistifyProductSlug": "accents",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+      "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pineapple",
+        "Hyacinth"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Iris",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Hyacinth",
+        "Jasmine",
+        "Iris",
+        "Pink Pepper",
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+      "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:36.220Z",
+      "sharedNotes": [
+        "Iris",
+        "Musk",
+        "Amber"
+      ]
+    },
+    {
+      "id": 19,
+      "fragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold-19",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Gentle Fluidity Gold",
+      "originalFragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold",
+      "mistifyProductName": "Gently Fluid",
+      "mistifyProductSlug": "gently-fluid",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gently-fluid",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Gentle Fluidity Gold",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Juniper Berries",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Coriander",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Coriander",
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_14_05AM.png?v=1765422980",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Gentle Fluidity Gold Gently Fluid Oriental Vanilla unisex Juniper Berries Nutmeg Coriander Vanilla Amber Musk",
+      "createdAt": "2026-05-04T04:41:25.599Z",
+      "sharedNotes": [
+        "Musk",
+        "Amber"
+      ]
+    },
+    {
+      "id": 149,
+      "fragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet-149",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Supreme Bouquet",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet",
+      "mistifyProductName": "Ethereal Bloom",
+      "mistifyProductSlug": "ethereal-bloom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ethereal-bloom",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Supreme Bouquet",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pear",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pear",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/EtherealBloom-_1.png?v=1773460422",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Supreme Bouquet Ethereal Bloom Amber Floral womens Pear Pink Pepper Tuberose Ylang-Ylang Jasmine Amber Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.197Z",
+      "sharedNotes": [
+        "Musk",
+        "Amber"
+      ]
+    },
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Musk",
+        "Amber"
+      ]
+    },
+    {
+      "id": 2,
+      "fragranceSlug": "guerlain-cherry-oud-2",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Cherry Oud",
+      "originalFragranceSlug": "guerlain-cherry-oud",
+      "mistifyProductName": "Cherry Oudra",
+      "mistifyProductSlug": "cherry-oudra",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cherry-oudra",
+      "publicInspiredByLabel": "Inspired by Guerlain Cherry Oud",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cherry",
+        "Cinnamon"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Agarwood/Oud"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Peru Balsam",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cherry",
+        "Cinnamon",
+        "Rose",
+        "Agarwood/Oud",
+        "Amber",
+        "Peru Balsam",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-23-34PM-_1.png?v=1773460359",
+      "searchableText": "Guerlain guerlain Guerlain Cherry Oud Cherry Oudra Oriental Woody unisex Cherry Cinnamon Rose Agarwood/Oud Amber Peru Balsam Musk",
+      "createdAt": "2026-05-04T04:41:24.605Z",
+      "sharedNotes": [
+        "Musk",
+        "Amber"
+      ]
+    },
+    {
+      "id": 227,
+      "fragranceSlug": "clive-christian-clive-christian-v-227",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Clive Christian V",
+      "originalFragranceSlug": "clive-christian-clive-christian-v",
+      "mistifyProductName": "Vividly Christian V",
+      "mistifyProductSlug": "vividly-christian-v",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vividly-christian-v",
+      "publicInspiredByLabel": "Inspired by Clive Christian Clive Christian V",
+      "audience": "mens",
+      "classification": "Oriental Fougere",
+      "topNotes": [
+        "Black Pepper",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Olibanum"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Smoke",
+        "Amber"
+      ],
+      "allNotes": [
+        "Black Pepper",
+        "Bergamot",
+        "Olibanum",
+        "Vetiver",
+        "Smoke",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-40-13PM-_1.png?v=1773460454",
+      "searchableText": "Clive Christian clive christian Clive Christian Clive Christian V Vividly Christian V Oriental Fougere mens Black Pepper Bergamot Olibanum Vetiver Smoke Amber",
+      "createdAt": "2026-05-04T04:41:37.822Z",
+      "sharedNotes": [
+        "Vetiver",
+        "Amber"
+      ]
+    }
+  ]
+}

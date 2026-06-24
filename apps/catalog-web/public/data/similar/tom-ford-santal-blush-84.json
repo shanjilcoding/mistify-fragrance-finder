@@ -1,0 +1,310 @@
+{
+  "fragrances": [
+    {
+      "id": 232,
+      "fragranceSlug": "tiziana-terenzi-saiph-232",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Saiph",
+      "originalFragranceSlug": "tiziana-terenzi-saiph",
+      "mistifyProductName": "Saipha",
+      "mistifyProductSlug": "saipha",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saipha",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Saiph",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Saipha-_1.png?v=1773460407",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk",
+      "createdAt": "2026-05-04T04:41:38.116Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Ylang-Ylang",
+        "Rose",
+        "Musk"
+      ]
+    },
+    {
+      "id": 178,
+      "fragranceSlug": "mancera-red-tobacco-178",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Red Tobacco",
+      "originalFragranceSlug": "mancera-red-tobacco",
+      "mistifyProductName": "Scarlet Tobacco",
+      "mistifyProductSlug": "scarlet-tobacco",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/scarlet-tobacco",
+      "publicInspiredByLabel": "Inspired by Mancera Red Tobacco",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Oud",
+        "Incense",
+        "Saffron",
+        "Nutmeg",
+        "Green Apple",
+        "White Pear"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Tobacco",
+        "Madagascar Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk",
+        "Haitian Vetiver"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Oud",
+        "Incense",
+        "Saffron",
+        "Nutmeg",
+        "Green Apple",
+        "White Pear",
+        "Patchouli",
+        "Jasmine",
+        "Tobacco",
+        "Madagascar Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk",
+        "Haitian Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ScarletTobacco.png?v=1765423002",
+      "searchableText": "Mancera mancera Mancera Red Tobacco Scarlet Tobacco Woody Spicy unisex Cinnamon Oud Incense Saffron Nutmeg Green Apple White Pear Patchouli Jasmine Tobacco Madagascar Vanilla Amber Sandalwood Guaiac Wood White Musk Haitian Vetiver",
+      "createdAt": "2026-05-04T04:41:34.885Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Jasmine",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 256,
+      "fragranceSlug": "roja-dove-amber-aoud-256",
+      "brandName": "Roja Dove",
+      "brandSlug": "roja-dove",
+      "originalFragranceName": "Amber Aoud",
+      "originalFragranceSlug": "roja-dove-amber-aoud",
+      "mistifyProductName": "Amber Oudh",
+      "mistifyProductSlug": "amber-oudh",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-oudh",
+      "publicInspiredByLabel": "Inspired by Roja Dove Amber Aoud",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime",
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-12-15PM-_1.png?v=1773460351",
+      "searchableText": "Roja Dove roja dove Roja Dove Amber Aoud Amber Oudh Oriental Spicy unisex Bergamot Lemon Lime Rose Fig Ylang-Ylang Jasmine Oud Ambergris Saffron Civet Sandalwood Musk Orris Cinnamon Patchouli Birch Oakmoss",
+      "createdAt": "2026-05-04T04:41:39.587Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Jasmine",
+        "Ylang-Ylang",
+        "Rose",
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 261,
+      "fragranceSlug": "gucci-muschio-de-luce-261",
+      "brandName": "Gucci",
+      "brandSlug": "gucci",
+      "originalFragranceName": "Muschio De Luce",
+      "originalFragranceSlug": "gucci-muschio-de-luce",
+      "mistifyProductName": "Muschio Lumière",
+      "mistifyProductSlug": "muschio-lumiere",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/muschio-lumiere",
+      "publicInspiredByLabel": "Inspired by Gucci Muschio De Luce",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Juniper Berry",
+        "Cardamom",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Australian Sandalwood",
+        "Haitian Vetiver",
+        "Atlas Cedar"
+      ],
+      "baseNotes": [
+        "Ambrox Super",
+        "Benzoin",
+        "Musk"
+      ],
+      "allNotes": [
+        "Juniper Berry",
+        "Cardamom",
+        "Pink Pepper",
+        "Australian Sandalwood",
+        "Haitian Vetiver",
+        "Atlas Cedar",
+        "Ambrox Super",
+        "Benzoin",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec24-2025-11-16-00AM-98f3666d-3180-4081-94a3-77c9dd820d2f-_1.png?v=1773460183",
+      "searchableText": "Gucci gucci Gucci Muschio De Luce Muschio Lumière Woody Spicy unisex Juniper Berry Cardamom Pink Pepper Australian Sandalwood Haitian Vetiver Atlas Cedar Ambrox Super Benzoin Musk",
+      "createdAt": "2026-05-04T04:41:39.893Z",
+      "sharedNotes": [
+        "Benzoin",
+        "Musk"
+      ]
+    },
+    {
+      "id": 135,
+      "fragranceSlug": "creed-white-amber-135",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "White Amber",
+      "originalFragranceSlug": "creed-white-amber",
+      "mistifyProductName": "Whitened Amber",
+      "mistifyProductSlug": "whitened-amber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/whitened-amber",
+      "publicInspiredByLabel": "Inspired by Creed White Amber",
+      "audience": "mens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Amber",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Benzoin"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Amber",
+        "Jasmine",
+        "Benzoin",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-37-49AM-_1.png?v=1773460545",
+      "searchableText": "Creed creed Creed White Amber Whitened Amber Floral Woody Musk mens Amber Jasmine Benzoin Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.365Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Sandalwood",
+        "Benzoin",
+        "Musk"
+      ]
+    },
+    {
+      "id": 29,
+      "fragranceSlug": "louis-vuitton-fleur-du-desert-29",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Fleur du Désert",
+      "originalFragranceSlug": "louis-vuitton-fleur-du-desert",
+      "mistifyProductName": "Floral de Mirage",
+      "mistifyProductSlug": "floral-de-mirage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/floral-de-mirage",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Fleur du Désert",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Jasmine",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Rose"
+      ],
+      "baseNotes": [
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Rose",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_22_06AM.png?v=1774326133",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Fleur du Désert Floral de Mirage Floral unisex Jasmine Orange Blossom Rose Sandalwood",
+      "createdAt": "2026-05-04T04:41:26.180Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Rose",
+        "Sandalwood"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 11,
+    "fragranceSlug": "maison-francis-kurkdjian-724-11",
+    "brandName": "Maison Francis Kurkdjian",
+    "brandSlug": "maison-francis-kurkdjian",
+    "originalFragranceName": "724",
+    "originalFragranceSlug": "maison-francis-kurkdjian-724",
+    "mistifyProductName": "Urban Glow",
+    "mistifyProductSlug": "urban-glow",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-glow",
+    "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian 724",
+    "audience": "unisex",
+    "classification": "Citrus Floral",
+    "topNotes": [
+      "Aldehydes",
+      "Italian Bergamot"
+    ],
+    "middleNotes": [
+      "White Flowers",
+      "Sweet Pea",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Aldehydes",
+      "Italian Bergamot",
+      "White Flowers",
+      "Sweet Pea",
+      "Jasmine",
+      "Musk",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_08_29PM.png?v=1765422970",
+    "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian 724 Urban Glow Citrus Floral unisex Aldehydes Italian Bergamot White Flowers Sweet Pea Jasmine Musk Sandalwood",
+    "createdAt": "2026-05-04T04:41:25.153Z"
+  }
+}

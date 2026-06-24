@@ -1,0 +1,57 @@
+{
+  "fragrance": {
+    "id": 99,
+    "fragranceSlug": "parfums-de-marly-sedley-99",
+    "brandName": "Parfums de Marly",
+    "brandSlug": "parfums-de-marly",
+    "originalFragranceName": "Sedley",
+    "originalFragranceSlug": "parfums-de-marly-sedley",
+    "mistifyProductName": "Sédelle",
+    "mistifyProductSlug": "sedelle",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/sedelle",
+    "publicInspiredByLabel": "Inspired by Parfums de Marly Sedley",
+    "audience": "unisex",
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Mint",
+      "Bergamot",
+      "Grapefruit",
+      "Lemon",
+      "Mandarin Orange"
+    ],
+    "middleNotes": [
+      "Lavender",
+      "Rosemary",
+      "Geranium",
+      "Olibanum"
+    ],
+    "baseNotes": [
+      "Ambroxan",
+      "Sandalwood",
+      "Vetiver",
+      "Cedar",
+      "Cashmeran",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Mint",
+      "Bergamot",
+      "Grapefruit",
+      "Lemon",
+      "Mandarin Orange",
+      "Lavender",
+      "Rosemary",
+      "Geranium",
+      "Olibanum",
+      "Ambroxan",
+      "Sandalwood",
+      "Vetiver",
+      "Cedar",
+      "Cashmeran",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar14_2026_08_56_24PM.png?v=1773536190",
+    "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Sedley Sédelle Woody Aromatic unisex Mint Bergamot Grapefruit Lemon Mandarin Orange Lavender Rosemary Geranium Olibanum Ambroxan Sandalwood Vetiver Cedar Cashmeran Patchouli",
+    "createdAt": "2026-05-04T04:41:30.270Z"
+  }
+}

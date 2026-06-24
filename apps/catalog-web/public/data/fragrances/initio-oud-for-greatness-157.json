@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 157,
+    "fragranceSlug": "initio-oud-for-greatness-157",
+    "brandName": "Initio",
+    "brandSlug": "initio",
+    "originalFragranceName": "Oud for Greatness",
+    "originalFragranceSlug": "initio-oud-for-greatness",
+    "mistifyProductName": "Majestic Oud",
+    "mistifyProductSlug": "majestic-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-oud",
+    "publicInspiredByLabel": "Inspired by Initio Oud for Greatness",
+    "audience": "unisex",
+    "classification": "Woody Spicy",
+    "topNotes": [
+      "Saffron",
+      "Nutmeg",
+      "Lavender"
+    ],
+    "middleNotes": [
+      "Oud"
+    ],
+    "baseNotes": [
+      "Patchouli",
+      "Musk"
+    ],
+    "allNotes": [
+      "Saffron",
+      "Nutmeg",
+      "Lavender",
+      "Oud",
+      "Patchouli",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_56_51PM.png?v=1765422990",
+    "searchableText": "Initio initio parfums Initio Parfums Oud for Greatness Majestic Oud Woody Spicy unisex Saffron Nutmeg Lavender Oud Patchouli Musk",
+    "createdAt": "2026-05-04T04:41:33.651Z"
+  }
+}

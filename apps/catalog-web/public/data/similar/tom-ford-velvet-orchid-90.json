@@ -1,0 +1,298 @@
+{
+  "fragrances": [
+    {
+      "id": 128,
+      "fragranceSlug": "creed-love-in-white-128",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Love in White",
+      "originalFragranceSlug": "creed-love-in-white",
+      "mistifyProductName": "White Love",
+      "mistifyProductSlug": "white-love",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/white-love",
+      "publicInspiredByLabel": "Inspired by Creed Love in White",
+      "audience": "womens",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Orange Zest"
+      ],
+      "middleNotes": [
+        "Rice",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Orange Zest",
+        "Rice",
+        "Jasmine",
+        "Vanilla",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-37-06PM-_1.png?v=1773460555",
+      "searchableText": "Creed creed Creed Love in White White Love Floral Oriental womens Orange Zest Rice Jasmine Vanilla Ambergris",
+      "createdAt": "2026-05-04T04:41:31.974Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 109,
+      "fragranceSlug": "parfums-de-marly-palatine-109",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Palatine",
+      "originalFragranceSlug": "parfums-de-marly-palatine",
+      "mistifyProductName": "Pala‑Majesty",
+      "mistifyProductSlug": "pala-majesty",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pala-majesty",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Palatine",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear",
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes",
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-22-44PM-_1.png?v=1773460298",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Palatine Pala‑Majesty Floral Woody Musk womens Bergamot Mandarin Orange Pear Violet Petals Lavender Floral Notes Sandalwood Musk Patchouli Vanilla",
+      "createdAt": "2026-05-04T04:41:30.859Z",
+      "sharedNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 189,
+      "fragranceSlug": "giorgio-armani-armani-prive-bleu-lazuli-189",
+      "brandName": "Giorgio Armani",
+      "brandSlug": "giorgio-armani",
+      "originalFragranceName": "Armani Privé Bleu Lazuli",
+      "originalFragranceSlug": "giorgio-armani-armani-prive-bleu-lazuli",
+      "mistifyProductName": "Bleu Lazure",
+      "mistifyProductSlug": "bleu-lazure",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-lazure",
+      "publicInspiredByLabel": "Inspired by Giorgio Armani Armani Privé Bleu Lazuli",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Mate",
+        "Cardamom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Plum",
+        "Osmanthus",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Honey",
+        "Tobacco",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mate",
+        "Cardamom",
+        "Bergamot",
+        "Plum",
+        "Osmanthus",
+        "Jasmine",
+        "Honey",
+        "Tobacco",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay16_2026_05_09_17PM.png?v=1778965764",
+      "searchableText": "Giorgio Armani giorgio armani Giorgio Armani Armani Privé Bleu Lazuli Bleu Lazure Oriental Spicy Mate Cardamom Bergamot Plum Osmanthus Jasmine Honey Tobacco Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:35.524Z",
+      "sharedNotes": [
+        "Honey",
+        "Bergamot",
+        "Jasmine",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 170,
+      "fragranceSlug": "montale-dark-cherry-170",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Dark Cherry",
+      "originalFragranceSlug": "montale-dark-cherry",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Dark Cherry",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Black Cherry"
+      ],
+      "middleNotes": [
+        "Rose Petals",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Cherry",
+        "Rose Petals",
+        "Jasmine",
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Dark Cherry Not verified Floral Fruity Bergamot Black Cherry Rose Petals Jasmine Musk Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:34.405Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 215,
+      "fragranceSlug": "viktor-and-rolf-flower-bomb-215",
+      "brandName": "Viktor & Rolf",
+      "brandSlug": "viktor-and-rolf",
+      "originalFragranceName": "Flower Bomb",
+      "originalFragranceSlug": "viktor-and-rolf-flower-bomb",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Viktor & Rolf Flower Bomb",
+      "audience": null,
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Tea",
+        "Bergamot",
+        "Osmanthus"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Freesia",
+        "African Orange Flower"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Tea",
+        "Bergamot",
+        "Osmanthus",
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Freesia",
+        "African Orange Flower",
+        "Patchouli",
+        "Musk",
+        "Vanilla"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Viktor & Rolf viktor and rolf Viktor & Rolf Flower Bomb Not verified Oriental Floral Tea Bergamot Osmanthus Orchid Jasmine Rose Freesia African Orange Flower Patchouli Musk Vanilla",
+      "createdAt": "2026-05-04T04:41:37.102Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 140,
+      "fragranceSlug": "creed-eladaria-140",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Eladaria",
+      "originalFragranceSlug": "creed-eladaria",
+      "mistifyProductName": "Eladarié",
+      "mistifyProductSlug": "eladarie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eladarie",
+      "publicInspiredByLabel": "Inspired by Creed Eladaria",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "Pink Pepper",
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Powdery Notes",
+        "Peony",
+        "Lily-of-the-Valley"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Mandarin Orange",
+        "Bergamot",
+        "Rose",
+        "Powdery Notes",
+        "Peony",
+        "Lily-of-the-Valley",
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay7_2026_04_17_24PM.png?v=1778185051",
+      "searchableText": "Creed creed Creed Eladaria Eladarié Floral womens Pink Pepper Mandarin Orange Bergamot Rose Powdery Notes Peony Lily-of-the-Valley Musk Ambroxan Cashmere Wood Vanilla",
+      "createdAt": "2026-05-04T04:41:32.651Z",
+      "sharedNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Rose",
+        "Vanilla"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 336,
+    "fragranceSlug": "creed-centaurus-336",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Centaurus",
+    "originalFragranceSlug": "creed-centaurus",
+    "mistifyProductName": "Centaur",
+    "mistifyProductSlug": "centaur",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+    "publicInspiredByLabel": "Creed Centaurus",
+    "audience": null,
+    "classification": "Woody Floral Musk",
+    "topNotes": [
+      "Bergamot",
+      "Lemon"
+    ],
+    "middleNotes": [
+      "Jasmine",
+      "Rose"
+    ],
+    "baseNotes": [
+      "Cedarwood",
+      "Amber",
+      "Musk"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Lemon",
+      "Jasmine",
+      "Rose",
+      "Cedarwood",
+      "Amber",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+    "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

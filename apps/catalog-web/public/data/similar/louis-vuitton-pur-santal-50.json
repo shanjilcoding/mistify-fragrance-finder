@@ -1,0 +1,230 @@
+{
+  "fragrances": [
+    {
+      "id": 240,
+      "fragranceSlug": "nasomatto-silver-musk-240",
+      "brandName": "Nasomatto",
+      "brandSlug": "nasomatto",
+      "originalFragranceName": "Silver Musk",
+      "originalFragranceSlug": "nasomatto-silver-musk",
+      "mistifyProductName": "Silver Muskine",
+      "mistifyProductSlug": "silver-muskine",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silver-muskine",
+      "publicInspiredByLabel": "Inspired by Nasomatto Silver Musk",
+      "audience": "unisex",
+      "classification": "Clean Musk/Musky",
+      "topNotes": [],
+      "middleNotes": [
+        "Musk"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_04_16_41PM.png?v=1778617010",
+      "searchableText": "Nasomatto nasomatto Nasomatto Silver Musk Silver Muskine Clean Musk/Musky unisex Musk",
+      "createdAt": "2026-05-04T04:41:38.598Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 138,
+      "fragranceSlug": "creed-green-irish-tweed-138",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Green Irish Tweed",
+      "originalFragranceSlug": "creed-green-irish-tweed",
+      "mistifyProductName": "Verdant Tweed",
+      "mistifyProductSlug": "verdant-tweed",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/verdant-tweed",
+      "publicInspiredByLabel": "Inspired by Creed Green Irish Tweed",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Lemon Verbena",
+        "Iris"
+      ],
+      "middleNotes": [
+        "Violet Leaf"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Lemon Verbena",
+        "Iris",
+        "Violet Leaf",
+        "Ambergris",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-07-49AM-_1.png?v=1773460135",
+      "searchableText": "Creed creed Creed Green Irish Tweed Verdant Tweed Woody Floral Musk unisex Lemon Verbena Iris Violet Leaf Ambergris Sandalwood",
+      "createdAt": "2026-05-04T04:41:32.543Z",
+      "sharedNotes": [
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 135,
+      "fragranceSlug": "creed-white-amber-135",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "White Amber",
+      "originalFragranceSlug": "creed-white-amber",
+      "mistifyProductName": "Whitened Amber",
+      "mistifyProductSlug": "whitened-amber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/whitened-amber",
+      "publicInspiredByLabel": "Inspired by Creed White Amber",
+      "audience": "mens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Amber",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Benzoin"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Amber",
+        "Jasmine",
+        "Benzoin",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-37-49AM-_1.png?v=1773460545",
+      "searchableText": "Creed creed Creed White Amber Whitened Amber Floral Woody Musk mens Amber Jasmine Benzoin Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.365Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 126,
+      "fragranceSlug": "creed-aventus-for-her-126",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus for Her",
+      "originalFragranceSlug": "creed-aventus-for-her",
+      "mistifyProductName": "Ventis For Her",
+      "mistifyProductSlug": "ventis-for-her",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ventis-for-her",
+      "publicInspiredByLabel": "Inspired by Creed Aventus for Her",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Green Apple",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Blackcurrant",
+        "Musk"
+      ],
+      "allNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Rose",
+        "Sandalwood",
+        "Blackcurrant",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Screenshot2025-12-03at3.54.35PM.png?v=1765422843",
+      "searchableText": "Creed creed Creed Aventus for Her Ventis For Her Floral Fruity womens Green Apple Bergamot Rose Sandalwood Blackcurrant Musk",
+      "createdAt": "2026-05-04T04:41:31.860Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 168,
+      "fragranceSlug": "montale-black-aoud-168",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Black Aoud",
+      "originalFragranceSlug": "montale-black-aoud",
+      "mistifyProductName": "Oud Noir",
+      "mistifyProductSlug": "oud-noir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-noir",
+      "publicInspiredByLabel": "Inspired by Montale Black Aoud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudNoir.png?v=1765422952",
+      "searchableText": "Montale montale Montale Black Aoud Oud Noir Woody Floral Musk unisex Rose Oud Patchouli Musk French Labdanum Mandarin Orange",
+      "createdAt": "2026-05-04T04:41:34.288Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    }
+  ]
+}

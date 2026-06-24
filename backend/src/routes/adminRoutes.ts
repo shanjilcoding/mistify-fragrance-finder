@@ -7,6 +7,13 @@ import { z } from 'zod'
 import { db } from '../db/connection'
 import { allowedOrigins } from '../utils/env'
 import {
+  analyzeSyncPlan,
+  applySyncPlan,
+  type ApplyInput,
+  type ImportInput,
+  type SyncScope,
+} from '../services/mistifySyncService'
+import {
   adminAuditLogs,
   adminSessions,
   curatedChipFragrances,
@@ -59,6 +66,16 @@ const adminProductsPatchLimiter = rateLimit({
   legacyHeaders: false,
   message: {
     error: 'Too many admin product updates. Please wait a moment and try again.',
+  },
+})
+
+const adminSyncLimiter = rateLimit({
+  windowMs: 5 * 60 * 1000,
+  limit: 5,
+  standardHeaders: true,
+  legacyHeaders: false,
+  message: {
+    error: 'Too many sync requests. Please wait a few minutes and try again.',
   },
 })
 
@@ -1260,6 +1277,106 @@ adminRouter.delete('/chips/:id/fragrances/:fragranceId', requireAdminToken, asyn
   } catch (error) {
     console.error('[admin] curated chip fragrance remove failed', error)
     res.status(500).json({ error: 'Could not remove fragrance from curated chip. Check that curated chip tables exist.' })
+  }
+})
+
+// ── Mistify Catalog Sync ───────────────────────────────────────────
+
+const syncAnalyzeSchema = z.object({
+  scope: z.enum(['all', 'images', 'products']).optional().default('all'),
+})
+
+const syncApplySchema = z.object({
+  updates: z
+    .array(
+      z.object({
+        fragranceId: z.number().int().positive(),
+        mistifyProductName: z.string().optional(),
+        mistifyProductUrl: z.string().optional(),
+        catalogImageUrl: z.string().optional(),
+      }),
+    )
+    .optional()
+    .default([]),
+  imports: z
+    .array(
+      z.object({
+        shopTitle: z.string(),
+        shopUrl: z.string(),
+        imageUrl: z.string(),
+        originalFragranceName: z.string(),
+        sourceBrandBatch: z.string(),
+        classification: z.string(),
+        inspirationText: z.string(),
+        topNotes: z.array(z.string()),
+        middleNotes: z.array(z.string()),
+        baseNotes: z.array(z.string()),
+        allNotes: z.array(z.string()),
+        brandName: z.string().nullable(),
+        brandSlug: z.string().nullable(),
+        originalFragranceSlug: z.string().nullable(),
+        mistifyProductSlug: z.string().nullable(),
+        publicInspiredByLabel: z.string().nullable(),
+        searchableText: z.string(),
+        isCatalogVisible: z.boolean(),
+      }),
+    )
+    .optional()
+    .default([]),
+})
+
+adminRouter.post('/sync-catalog/analyze', requireAdminToken, adminSyncLimiter, async (req, res) => {
+  try {
+    const parsed = syncAnalyzeSchema.safeParse(req.body)
+    if (!parsed.success) {
+      res.status(400).json({ error: 'Invalid sync analyze request.', details: parsed.error.issues })
+      return
+    }
+
+    const scope = parsed.data.scope as SyncScope
+    const result = await analyzeSyncPlan(scope)
+
+    await writeAdminAuditLog(req, res, {
+      action: 'sync_catalog_analyze',
+      entityType: 'catalog_sync',
+      summary: `Mistify catalog sync analysis: ${result.highConfidenceMatches.length} matches, ${result.manualReviewRows.length} manual review, ${result.skippedRows.length} skipped.`,
+    })
+
+    res.json(result)
+  } catch (error) {
+    console.error('[admin] sync catalog analyze failed', error)
+    res.status(500).json({ error: 'Sync analysis failed. Check server logs.' })
+  }
+})
+
+adminRouter.post('/sync-catalog/apply', requireAdminToken, adminSyncLimiter, async (req, res) => {
+  try {
+    const parsed = syncApplySchema.safeParse(req.body)
+    if (!parsed.success) {
+      res.status(400).json({ error: 'Invalid sync apply request.', details: parsed.error.issues })
+      return
+    }
+
+    const updates = parsed.data.updates as ApplyInput[]
+    const imports = parsed.data.imports as ImportInput[]
+
+    if (!updates.length && !imports.length) {
+      res.status(400).json({ error: 'No updates or imports provided.' })
+      return
+    }
+
+    const result = await applySyncPlan(updates, imports)
+
+    await writeAdminAuditLog(req, res, {
+      action: 'sync_catalog_apply',
+      entityType: 'catalog_sync',
+      summary: `Mistify catalog sync applied: ${result.updatedCount} rows updated, ${result.importedCount} inserted, ${result.catalogFieldsRecomputed} catalog fields recomputed.`,
+    })
+
+    res.json(result)
+  } catch (error) {
+    console.error('[admin] sync catalog apply failed', error)
+    res.status(500).json({ error: 'Sync apply failed. Check server logs.' })
   }
 })
 

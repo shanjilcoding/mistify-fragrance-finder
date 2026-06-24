@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 28,
+    "fragranceSlug": "louis-vuitton-city-of-stars-28",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "City of Stars",
+    "originalFragranceSlug": "louis-vuitton-city-of-stars",
+    "mistifyProductName": "Starry City",
+    "mistifyProductSlug": "starry-city",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/starry-city",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton City of Stars",
+    "audience": "unisex",
+    "classification": "Citrus Aromatic",
+    "topNotes": [
+      "Lime",
+      "Blood Orange",
+      "Blood Mandarin",
+      "Lemon",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Tiare Flower"
+    ],
+    "baseNotes": [
+      "Powdery Notes",
+      "Musk",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Lime",
+      "Blood Orange",
+      "Blood Mandarin",
+      "Lemon",
+      "Bergamot",
+      "Tiare Flower",
+      "Powdery Notes",
+      "Musk",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_26_41PM.png?v=1765422822",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton City of Stars Starry City Citrus Aromatic unisex Lime Blood Orange Blood Mandarin Lemon Bergamot Tiare Flower Powdery Notes Musk Sandalwood",
+    "createdAt": "2026-05-04T04:41:26.125Z"
+  }
+}

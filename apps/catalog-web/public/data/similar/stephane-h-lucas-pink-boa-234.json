@@ -1,0 +1,280 @@
+{
+  "fragrances": [
+    {
+      "id": 230,
+      "fragranceSlug": "tiziana-terenzi-kirke-230",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Kirke",
+      "originalFragranceSlug": "tiziana-terenzi-kirke",
+      "mistifyProductName": "Kirka",
+      "mistifyProductSlug": "kirka",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/kirka",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Kirke",
+      "audience": "unisex",
+      "classification": "Fruity Chypre",
+      "topNotes": [
+        "Passionfruit",
+        "Peach",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Lily of the Valley",
+        "Heliotrope"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Passionfruit",
+        "Peach",
+        "Raspberry",
+        "Lily of the Valley",
+        "Heliotrope",
+        "Musk",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Kirka-_1.png?v=1773460412",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Kirke Kirka Fruity Chypre unisex Passionfruit Peach Raspberry Lily of the Valley Heliotrope Musk Sandalwood Patchouli",
+      "createdAt": "2026-05-04T04:41:38.002Z",
+      "sharedNotes": [
+        "Raspberry",
+        "Lily of the Valley",
+        "Musk",
+        "Sandalwood",
+        "Peach",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 200,
+      "fragranceSlug": "xerjoff-accento-200",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Accento",
+      "originalFragranceSlug": "xerjoff-accento",
+      "mistifyProductName": "Accents",
+      "mistifyProductSlug": "accents",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+      "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pineapple",
+        "Hyacinth"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Iris",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Hyacinth",
+        "Jasmine",
+        "Iris",
+        "Pink Pepper",
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+      "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:36.220Z",
+      "sharedNotes": [
+        "Musk",
+        "Amber",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 297,
+      "fragranceSlug": "balmain-destin-297",
+      "brandName": "Balmain",
+      "brandSlug": "balmain",
+      "originalFragranceName": "Destin",
+      "originalFragranceSlug": "balmain-destin",
+      "mistifyProductName": "Destiné",
+      "mistifyProductSlug": "destine",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/destine",
+      "publicInspiredByLabel": "Inspired by Balmain Destin",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Strawberry",
+        "Peony",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Lily"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Ambrettolide",
+        "Akigalawood"
+      ],
+      "allNotes": [
+        "Strawberry",
+        "Peony",
+        "Pink Pepper",
+        "Lily",
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Ambrettolide",
+        "Akigalawood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay18_2026_06_29_31PM.png?v=1779143379",
+      "searchableText": "Balmain balmain Balmain Destin Destiné Floral Fruity Strawberry Peony Pink Pepper Lily Musk Patchouli Sandalwood Ambrettolide Akigalawood",
+      "createdAt": "2026-05-04T04:41:42.068Z",
+      "sharedNotes": [
+        "Strawberry",
+        "Musk",
+        "Sandalwood",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 170,
+      "fragranceSlug": "montale-dark-cherry-170",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Dark Cherry",
+      "originalFragranceSlug": "montale-dark-cherry",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Dark Cherry",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Black Cherry"
+      ],
+      "middleNotes": [
+        "Rose Petals",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Cherry",
+        "Rose Petals",
+        "Jasmine",
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Dark Cherry Not verified Floral Fruity Bergamot Black Cherry Rose Petals Jasmine Musk Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:34.405Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 126,
+      "fragranceSlug": "creed-aventus-for-her-126",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus for Her",
+      "originalFragranceSlug": "creed-aventus-for-her",
+      "mistifyProductName": "Ventis For Her",
+      "mistifyProductSlug": "ventis-for-her",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ventis-for-her",
+      "publicInspiredByLabel": "Inspired by Creed Aventus for Her",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Green Apple",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Blackcurrant",
+        "Musk"
+      ],
+      "allNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Rose",
+        "Sandalwood",
+        "Blackcurrant",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Screenshot2025-12-03at3.54.35PM.png?v=1765422843",
+      "searchableText": "Creed creed Creed Aventus for Her Ventis For Her Floral Fruity womens Green Apple Bergamot Rose Sandalwood Blackcurrant Musk",
+      "createdAt": "2026-05-04T04:41:31.860Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 9,
+      "fragranceSlug": "guerlain-peche-mirage-9",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Peche Mirage",
+      "originalFragranceSlug": "guerlain-peche-mirage",
+      "mistifyProductName": "Pêche Illusion",
+      "mistifyProductSlug": "peche-illusion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/peche-illusion",
+      "publicInspiredByLabel": "Inspired by Guerlain Peche Mirage",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Peach",
+        "Blackcurrant",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Osmanthus"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Amber",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Peach",
+        "Blackcurrant",
+        "Saffron",
+        "Osmanthus",
+        "Leather",
+        "Amber",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay15_2026_08_43_12AM.png?v=1778848999",
+      "searchableText": "Guerlain guerlain Guerlain Peche Mirage Pêche Illusion Floral Fruity Peach Blackcurrant Saffron Osmanthus Leather Amber Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.032Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Peach",
+        "Amber"
+      ]
+    }
+  ]
+}

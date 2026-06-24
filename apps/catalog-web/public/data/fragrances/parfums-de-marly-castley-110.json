@@ -1,0 +1,53 @@
+{
+  "fragrance": {
+    "id": 110,
+    "fragranceSlug": "parfums-de-marly-castley-110",
+    "brandName": "Parfums de Marly",
+    "brandSlug": "parfums-de-marly",
+    "originalFragranceName": "Castley",
+    "originalFragranceSlug": "parfums-de-marly-castley",
+    "mistifyProductName": "Castellan",
+    "mistifyProductSlug": "castellan",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/castellan",
+    "publicInspiredByLabel": "Inspired by Parfums de Marly Castley",
+    "audience": "mens",
+    "classification": "Citrus Aromatic",
+    "topNotes": [
+      "Bergamot",
+      "Black Pepper",
+      "Ginger",
+      "Grapefruit"
+    ],
+    "middleNotes": [
+      "Pepper",
+      "Neroli",
+      "Petitgrain",
+      "Timur",
+      "Rose"
+    ],
+    "baseNotes": [
+      "Akigalawood",
+      "Labdanum",
+      "Benzoin",
+      "Leather"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Black Pepper",
+      "Ginger",
+      "Grapefruit",
+      "Pepper",
+      "Neroli",
+      "Petitgrain",
+      "Timur",
+      "Rose",
+      "Akigalawood",
+      "Labdanum",
+      "Benzoin",
+      "Leather"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-29-17AM-_1.png?v=1773460238",
+    "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Castley Castellan Citrus Aromatic mens Bergamot Black Pepper Ginger Grapefruit Pepper Neroli Petitgrain Timur Rose Akigalawood Labdanum Benzoin Leather",
+    "createdAt": "2026-05-04T04:41:30.917Z"
+  }
+}

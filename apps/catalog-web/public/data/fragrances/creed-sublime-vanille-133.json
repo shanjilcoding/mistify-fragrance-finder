@@ -1,0 +1,34 @@
+{
+  "fragrance": {
+    "id": 133,
+    "fragranceSlug": "creed-sublime-vanille-133",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Sublime Vanille",
+    "originalFragranceSlug": "creed-sublime-vanille",
+    "mistifyProductName": "Superb Vanilla",
+    "mistifyProductSlug": "superb-vanilla",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/superb-vanilla",
+    "publicInspiredByLabel": "Inspired by Creed Sublime Vanille",
+    "audience": "unisex",
+    "classification": "Oriental Vanilla",
+    "topNotes": [
+      "Bourbon Vanilla",
+      "Lemon"
+    ],
+    "middleNotes": [],
+    "baseNotes": [
+      "Tonka Bean",
+      "Musk"
+    ],
+    "allNotes": [
+      "Bourbon Vanilla",
+      "Lemon",
+      "Tonka Bean",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-35-41AM-_1.png?v=1773460548",
+    "searchableText": "Creed creed Creed Sublime Vanille Superb Vanilla Oriental Vanilla unisex Bourbon Vanilla Lemon Tonka Bean Musk",
+    "createdAt": "2026-05-04T04:41:32.256Z"
+  }
+}

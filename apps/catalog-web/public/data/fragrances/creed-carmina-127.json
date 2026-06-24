@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 127,
+    "fragranceSlug": "creed-carmina-127",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Carmina",
+    "originalFragranceSlug": "creed-carmina",
+    "mistifyProductName": "Karmina",
+    "mistifyProductSlug": "karmina",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/karmina",
+    "publicInspiredByLabel": "Inspired by Creed Carmina",
+    "audience": "womens",
+    "classification": "Amber Floral",
+    "topNotes": [
+      "Pink Pepper",
+      "Black Cherry",
+      "Saffron"
+    ],
+    "middleNotes": [
+      "May Rose",
+      "Peony",
+      "Violet",
+      "Cashmere Wood"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Ambroxan",
+      "Frankincense",
+      "Myrrh"
+    ],
+    "allNotes": [
+      "Pink Pepper",
+      "Black Cherry",
+      "Saffron",
+      "May Rose",
+      "Peony",
+      "Violet",
+      "Cashmere Wood",
+      "Musk",
+      "Ambroxan",
+      "Frankincense",
+      "Myrrh"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_46_39PM.png?v=1765422844",
+    "searchableText": "Creed creed Creed Carmina Karmina Amber Floral womens Pink Pepper Black Cherry Saffron May Rose Peony Violet Cashmere Wood Musk Ambroxan Frankincense Myrrh",
+    "createdAt": "2026-05-04T04:41:31.917Z"
+  }
+}

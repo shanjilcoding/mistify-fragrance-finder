@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 269,
+    "fragranceSlug": "byredo-black-saffron-269",
+    "brandName": "Byredo",
+    "brandSlug": "byredo",
+    "originalFragranceName": "Black Saffron",
+    "originalFragranceSlug": "byredo-black-saffron",
+    "mistifyProductName": "Saffron Noir",
+    "mistifyProductSlug": "saffron-noir",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/saffron-noir",
+    "publicInspiredByLabel": "Inspired by Byredo Black Saffron",
+    "audience": "unisex",
+    "classification": "Amber/Leather",
+    "topNotes": [
+      "Juniper Berries",
+      "Pomelo",
+      "Saffron"
+    ],
+    "middleNotes": [
+      "Black Violet",
+      "Cristal Rose",
+      "Leather Accord"
+    ],
+    "baseNotes": [
+      "Blonde Woods",
+      "Raspberry",
+      "Vetiver"
+    ],
+    "allNotes": [
+      "Juniper Berries",
+      "Pomelo",
+      "Saffron",
+      "Black Violet",
+      "Cristal Rose",
+      "Leather Accord",
+      "Blonde Woods",
+      "Raspberry",
+      "Vetiver"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-04-11PM-_1.png?v=1773460347",
+    "searchableText": "Byredo byredo Byredo Black Saffron Saffron Noir Amber/Leather unisex Juniper Berries Pomelo Saffron Black Violet Cristal Rose Leather Accord Blonde Woods Raspberry Vetiver",
+    "createdAt": "2026-05-04T04:41:40.380Z"
+  }
+}

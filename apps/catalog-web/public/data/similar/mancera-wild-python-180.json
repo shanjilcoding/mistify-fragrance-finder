@@ -1,0 +1,298 @@
+{
+  "fragrances": [
+    {
+      "id": 65,
+      "fragranceSlug": "kilian-love-don-t-be-shy-65",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Love, Don’t Be Shy",
+      "originalFragranceSlug": "kilian-love-don-t-be-shy",
+      "mistifyProductName": "Love, I’m Not Shy",
+      "mistifyProductSlug": "love-i-m-not-shy",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/love-im-not-shy",
+      "publicInspiredByLabel": "Inspired by Kilian Love, Don’t Be Shy",
+      "audience": "unisex",
+      "classification": "Floral Gourmand",
+      "topNotes": [
+        "Neroli",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Bergamot",
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom",
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-33-02PM-_1.png?v=1773460529",
+      "searchableText": "Kilian kilian By Kilian Love, Don’t Be Shy Love, I’m Not Shy Floral Gourmand unisex Neroli Bergamot Jasmine Honeysuckle Orange Blossom Vanilla Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.274Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 108,
+      "fragranceSlug": "parfums-de-marly-valaya-108",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Valaya",
+      "originalFragranceSlug": "parfums-de-marly-valaya",
+      "mistifyProductName": "Valeti",
+      "mistifyProductSlug": "valeti",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/valeti",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Valaya",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Peach",
+        "Petalia"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin",
+        "Orange Blossom",
+        "Peach",
+        "Petalia",
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-15AM-_1.png?v=1773460483",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valaya Valeti Floral Woody Musk womens Bergamot Grapefruit Mandarin Orange Blossom Peach Petalia Ambroxan White Musk Akigalawood",
+      "createdAt": "2026-05-04T04:41:30.796Z",
+      "sharedNotes": [
+        "Peach",
+        "Bergamot",
+        "Orange Blossom",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 188,
+      "fragranceSlug": "giorgio-armani-my-way-188",
+      "brandName": "Giorgio Armani",
+      "brandSlug": "giorgio-armani",
+      "originalFragranceName": "My Way",
+      "originalFragranceSlug": "giorgio-armani-my-way",
+      "mistifyProductName": "My Voie",
+      "mistifyProductSlug": "my-voie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/my-voie",
+      "publicInspiredByLabel": "Inspired by Giorgio Armani My Way",
+      "audience": "unisex",
+      "classification": "Floral White/Soft Woody",
+      "topNotes": [
+        "Orange Blossom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Indian Jasmine"
+      ],
+      "baseNotes": [
+        "Madagascar Vanilla",
+        "White Musk",
+        "Virginian Cedar"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Tuberose",
+        "Indian Jasmine",
+        "Madagascar Vanilla",
+        "White Musk",
+        "Virginian Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec23-2025-12-30-29PM-_1.png?v=1773460185",
+      "searchableText": "Giorgio Armani giorgio armani Giorgio Armani My Way My Voie Floral White/Soft Woody unisex Orange Blossom Bergamot Tuberose Indian Jasmine Madagascar Vanilla White Musk Virginian Cedar",
+      "createdAt": "2026-05-04T04:41:35.467Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Orange Blossom",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 265,
+      "fragranceSlug": "prada-paradoxe-265",
+      "brandName": "Prada",
+      "brandSlug": "prada",
+      "originalFragranceName": "Paradoxe",
+      "originalFragranceSlug": "prada-paradoxe",
+      "mistifyProductName": "Paradiis",
+      "mistifyProductSlug": "paradiis",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradiis",
+      "publicInspiredByLabel": "Inspired by Prada Paradoxe",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear",
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine",
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-38-29PM-_1.png?v=1773460252",
+      "searchableText": "Prada prada Prada Paradoxe Paradiis Amber Floral unisex Calabrian Bergamot Tangerine Pear Neroli Orange Blossom Jasmine Amber White Musk Benzoin Vanilla",
+      "createdAt": "2026-05-04T04:41:40.135Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 86,
+      "fragranceSlug": "tom-ford-soleil-neige-86",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Soleil Neige",
+      "originalFragranceSlug": "tom-ford-soleil-neige",
+      "mistifyProductName": "Soleil Snow",
+      "mistifyProductSlug": "soleil-snow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-snow",
+      "publicInspiredByLabel": "Inspired by Tom Ford Soleil Neige",
+      "audience": "unisex",
+      "classification": "Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Carrot Seeds"
+      ],
+      "middleNotes": [
+        "White Flowers",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Carrot Seeds",
+        "White Flowers",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose",
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_09_07AM.png?v=1774325369",
+      "searchableText": "Tom Ford tom ford Tom Ford Soleil Neige Soleil Snow Floral Musk unisex Bergamot Carrot Seeds White Flowers Jasmine Orange Blossom Turkish Rose Benzoin Vanilla Labdanum",
+      "createdAt": "2026-05-04T04:41:29.512Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 329,
+      "fragranceSlug": "dior-gris-montaigne-329",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Gris Montaigne",
+      "originalFragranceSlug": "dior-gris-montaigne",
+      "mistifyProductName": "Gris Montaire",
+      "mistifyProductSlug": "gris-montaire",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/torino-verde-copy",
+      "publicInspiredByLabel": "Dior Gris Montaigne",
+      "audience": null,
+      "classification": "Floral Chypre / Elegant Fruity Floral",
+      "topNotes": [
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Strawberry",
+        "Jasmine",
+        "Orange Blossom",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Oakmoss",
+        "Sandalwood",
+        "Amber",
+        "Cedar",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Rose",
+        "Strawberry",
+        "Jasmine",
+        "Orange Blossom",
+        "Ylang-Ylang",
+        "Patchouli",
+        "Oakmoss",
+        "Sandalwood",
+        "Amber",
+        "Cedar",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar10-2026-12-10-56PM-_1.png?v=1773460119",
+      "searchableText": "Dior Dior Gris Montaigne Gris Montaire Floral Chypre / Elegant Fruity Floral Bergamot Grapefruit Rose Strawberry Jasmine Orange Blossom Ylang-Ylang Patchouli Oakmoss Sandalwood Amber Cedar White Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Orange Blossom",
+        "White Musk"
+      ]
+    }
+  ]
+}

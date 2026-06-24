@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 197,
+    "fragranceSlug": "sol-de-janeiro-cheirosa-40-197",
+    "brandName": "Sol De Janeiro",
+    "brandSlug": "sol-de-janeiro",
+    "originalFragranceName": "Cheirosa 40",
+    "originalFragranceSlug": "sol-de-janeiro-cheirosa-40",
+    "mistifyProductName": "Carioca 40",
+    "mistifyProductSlug": "carioca-40",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/carioca-40",
+    "publicInspiredByLabel": "Inspired by Sol De Janeiro Cheirosa 40",
+    "audience": "unisex",
+    "classification": "Floral Fruity Gourmand",
+    "topNotes": [
+      "Plum",
+      "Black Amber",
+      "Cassis"
+    ],
+    "middleNotes": [
+      "Orchid",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Woodsy Notes",
+      "Musk"
+    ],
+    "allNotes": [
+      "Plum",
+      "Black Amber",
+      "Cassis",
+      "Orchid",
+      "Jasmine",
+      "Vanilla",
+      "Woodsy Notes",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb11-2026-11-15-33AM-_1.png?v=1773460147",
+    "searchableText": "Sol De Janeiro sol de janeiro Sol de Janeiro Cheirosa 40 Carioca 40 Floral Fruity Gourmand unisex Plum Black Amber Cassis Orchid Jasmine Vanilla Woodsy Notes Musk",
+    "createdAt": "2026-05-04T04:41:36.037Z"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "fragrances": [
+    {
+      "id": 297,
+      "fragranceSlug": "balmain-destin-297",
+      "brandName": "Balmain",
+      "brandSlug": "balmain",
+      "originalFragranceName": "Destin",
+      "originalFragranceSlug": "balmain-destin",
+      "mistifyProductName": "Destiné",
+      "mistifyProductSlug": "destine",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/destine",
+      "publicInspiredByLabel": "Inspired by Balmain Destin",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Strawberry",
+        "Peony",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Lily"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Ambrettolide",
+        "Akigalawood"
+      ],
+      "allNotes": [
+        "Strawberry",
+        "Peony",
+        "Pink Pepper",
+        "Lily",
+        "Musk",
+        "Patchouli",
+        "Sandalwood",
+        "Ambrettolide",
+        "Akigalawood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay18_2026_06_29_31PM.png?v=1779143379",
+      "searchableText": "Balmain balmain Balmain Destin Destiné Floral Fruity Strawberry Peony Pink Pepper Lily Musk Patchouli Sandalwood Ambrettolide Akigalawood",
+      "createdAt": "2026-05-04T04:41:42.068Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Musk",
+        "Ambrettolide"
+      ]
+    },
+    {
+      "id": 200,
+      "fragranceSlug": "xerjoff-accento-200",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Accento",
+      "originalFragranceSlug": "xerjoff-accento",
+      "mistifyProductName": "Accents",
+      "mistifyProductSlug": "accents",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+      "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pineapple",
+        "Hyacinth"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Iris",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Hyacinth",
+        "Jasmine",
+        "Iris",
+        "Pink Pepper",
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+      "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:36.220Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Musk"
+      ]
+    },
+    {
+      "id": 115,
+      "fragranceSlug": "bond-no-9-greenwich-village-115",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Greenwich Village",
+      "originalFragranceSlug": "bond-no-9-greenwich-village",
+      "mistifyProductName": "Green Village",
+      "mistifyProductSlug": "green-village",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/green-village",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Greenwich Village",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Cassis",
+        "Lychee",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Peony",
+        "Jasmine",
+        "Waterlily"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Musk",
+        "Vanilla",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Cassis",
+        "Lychee",
+        "Mandarin",
+        "Peony",
+        "Jasmine",
+        "Waterlily",
+        "Ambroxan",
+        "Musk",
+        "Vanilla",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-14-18PM-_1.png?v=1773460449",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Greenwich Village Green Village Floral Fruity unisex Cassis Lychee Mandarin Peony Jasmine Waterlily Ambroxan Musk Vanilla Oakmoss",
+      "createdAt": "2026-05-04T04:41:31.214Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 232,
+      "fragranceSlug": "tiziana-terenzi-saiph-232",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Saiph",
+      "originalFragranceSlug": "tiziana-terenzi-saiph",
+      "mistifyProductName": "Saipha",
+      "mistifyProductSlug": "saipha",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saipha",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Saiph",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Saipha-_1.png?v=1773460407",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk",
+      "createdAt": "2026-05-04T04:41:38.116Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 126,
+      "fragranceSlug": "creed-aventus-for-her-126",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus for Her",
+      "originalFragranceSlug": "creed-aventus-for-her",
+      "mistifyProductName": "Ventis For Her",
+      "mistifyProductSlug": "ventis-for-her",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ventis-for-her",
+      "publicInspiredByLabel": "Inspired by Creed Aventus for Her",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Green Apple",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Blackcurrant",
+        "Musk"
+      ],
+      "allNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Rose",
+        "Sandalwood",
+        "Blackcurrant",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Screenshot2025-12-03at3.54.35PM.png?v=1765422843",
+      "searchableText": "Creed creed Creed Aventus for Her Ventis For Her Floral Fruity womens Green Apple Bergamot Rose Sandalwood Blackcurrant Musk",
+      "createdAt": "2026-05-04T04:41:31.860Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 277,
+      "fragranceSlug": "amouage-guidance-277",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Guidance",
+      "originalFragranceSlug": "amouage-guidance",
+      "mistifyProductName": "Guidara",
+      "mistifyProductSlug": "guidara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/guidara",
+      "publicInspiredByLabel": "Inspired by Amouage Guidance",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pear",
+        "Hazelnut",
+        "Olibanum"
+      ],
+      "middleNotes": [
+        "Osmanthus",
+        "Rose",
+        "Saffron",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Vanilla",
+        "Akigalawood",
+        "Ambergris",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Pear",
+        "Hazelnut",
+        "Olibanum",
+        "Osmanthus",
+        "Rose",
+        "Saffron",
+        "Jasmine Sambac",
+        "Sandalwood",
+        "Vanilla",
+        "Akigalawood",
+        "Ambergris",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov14-2025-09-56-20AM-_1.png?v=1773460216",
+      "searchableText": "Amouage amouage Amouage Guidance Guidara Floral Fruity unisex Pear Hazelnut Olibanum Osmanthus Rose Saffron Jasmine Sambac Sandalwood Vanilla Akigalawood Ambergris Labdanum",
+      "createdAt": "2026-05-04T04:41:40.883Z",
+      "sharedNotes": [
+        "Jasmine Sambac"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "fragrance": {
+    "id": 295,
+    "fragranceSlug": "bvlgari-le-gemme-onekh-295",
+    "brandName": "Bvlgari",
+    "brandSlug": "bvlgari",
+    "originalFragranceName": "Le Gemme Onekh",
+    "originalFragranceSlug": "bvlgari-le-gemme-onekh",
+    "mistifyProductName": "Onekh Noir",
+    "mistifyProductSlug": "onekh-noir",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/onekh-noir",
+    "publicInspiredByLabel": "Inspired by Bvlgari Le Gemme Onekh",
+    "audience": "unisex",
+    "classification": "Ambery Oud",
+    "topNotes": [],
+    "middleNotes": [
+      "Oud Essence",
+      "Smoked Labdanum Accord"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Oud Essence",
+      "Smoked Labdanum Accord"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr30_2026_03_19_40PM.png?v=1777576789",
+    "searchableText": "Bvlgari bvlgari Bvlgari Le Gemme Onekh Onekh Noir Ambery Oud unisex Oud Essence Smoked Labdanum Accord",
+    "createdAt": "2026-05-04T04:41:41.955Z"
+  }
+}

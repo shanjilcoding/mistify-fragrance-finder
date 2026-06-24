@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 76,
+    "fragranceSlug": "tom-ford-electric-cherry-76",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Electric Cherry",
+    "originalFragranceSlug": "tom-ford-electric-cherry",
+    "mistifyProductName": "Cherry Spark",
+    "mistifyProductSlug": "cherry-spark",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/cherry-spark",
+    "publicInspiredByLabel": "Inspired by Tom Ford Electric Cherry",
+    "audience": "unisex",
+    "classification": "Floral Fruity",
+    "topNotes": [
+      "Cherry",
+      "Ginger"
+    ],
+    "middleNotes": [
+      "Jasmine Sambac"
+    ],
+    "baseNotes": [
+      "Pink Pepper",
+      "Musk",
+      "Ambrettolide"
+    ],
+    "allNotes": [
+      "Cherry",
+      "Ginger",
+      "Jasmine Sambac",
+      "Pink Pepper",
+      "Musk",
+      "Ambrettolide"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_10_56_01AM.png?v=1765422867",
+    "searchableText": "Tom Ford tom ford Tom Ford Electric Cherry Cherry Spark Floral Fruity unisex Cherry Ginger Jasmine Sambac Pink Pepper Musk Ambrettolide",
+    "createdAt": "2026-05-04T04:41:28.924Z"
+  }
+}

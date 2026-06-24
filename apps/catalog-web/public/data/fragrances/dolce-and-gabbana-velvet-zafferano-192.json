@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 192,
+    "fragranceSlug": "dolce-and-gabbana-velvet-zafferano-192",
+    "brandName": "Dolce & Gabbana",
+    "brandSlug": "dolce-and-gabbana",
+    "originalFragranceName": "Velvet Zafferano",
+    "originalFragranceSlug": "dolce-and-gabbana-velvet-zafferano",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Zafferano",
+    "audience": null,
+    "classification": "Oriental Spicy",
+    "topNotes": [
+      "Saffron"
+    ],
+    "middleNotes": [
+      "Tobacco",
+      "Tobacco Leaf"
+    ],
+    "baseNotes": [
+      "Amber",
+      "Vanilla",
+      "Patchouli",
+      "Labdanum"
+    ],
+    "allNotes": [
+      "Saffron",
+      "Tobacco",
+      "Tobacco Leaf",
+      "Amber",
+      "Vanilla",
+      "Patchouli",
+      "Labdanum"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Zafferano Not verified Oriental Spicy Saffron Tobacco Tobacco Leaf Amber Vanilla Patchouli Labdanum",
+    "createdAt": "2026-05-04T04:41:35.717Z"
+  }
+}

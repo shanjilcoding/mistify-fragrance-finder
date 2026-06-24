@@ -1,0 +1,292 @@
+{
+  "fragrances": [
+    {
+      "id": 158,
+      "fragranceSlug": "initio-oud-for-happiness-158",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Happiness",
+      "originalFragranceSlug": "initio-oud-for-happiness",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Initio Oud for Happiness",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Bergamot",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Licorice",
+        "Oud",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Herbal Notes",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Ginger",
+        "Licorice",
+        "Oud",
+        "Cedar",
+        "Vanilla",
+        "Herbal Notes",
+        "Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Happiness Not verified Woody Spicy Bergamot Ginger Licorice Oud Cedar Vanilla Herbal Notes Musk",
+      "createdAt": "2026-05-04T04:41:33.707Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ]
+    },
+    {
+      "id": 150,
+      "fragranceSlug": "ysl-yves-saint-laurent-splendid-wood-150",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Splendid Wood",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-splendid-wood",
+      "mistifyProductName": "Majestic Timber",
+      "mistifyProductSlug": "majestic-timber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-timber",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Splendid Wood",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom",
+        "Incense"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Cypriol"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Incense",
+        "Cedar",
+        "Cypriol",
+        "Oud",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MajesticTimber-_1.png?v=1773460419",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Splendid Wood Majestic Timber Woody Spicy unisex Cardamom Incense Cedar Cypriol Oud Sandalwood",
+      "createdAt": "2026-05-04T04:41:33.251Z",
+      "sharedNotes": [
+        "Incense",
+        "Cedar",
+        "Cypriol"
+      ]
+    },
+    {
+      "id": 77,
+      "fragranceSlug": "tom-ford-grey-vetiver-77",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Grey Vetiver",
+      "originalFragranceSlug": "tom-ford-grey-vetiver",
+      "mistifyProductName": "Silver Vetiver",
+      "mistifyProductSlug": "silver-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silver-vetiver",
+      "publicInspiredByLabel": "Inspired by Tom Ford Grey Vetiver",
+      "audience": "mens",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Grapefruit",
+        "Orange Blossom",
+        "Sage"
+      ],
+      "middleNotes": [
+        "Nutmeg",
+        "Orris Root",
+        "Pimento"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Woodsy Notes",
+        "Oakmoss",
+        "Amber"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Orange Blossom",
+        "Sage",
+        "Nutmeg",
+        "Orris Root",
+        "Pimento",
+        "Vetiver",
+        "Woodsy Notes",
+        "Oakmoss",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_54_08AM.png?v=1765422869",
+      "searchableText": "Tom Ford tom ford Tom Ford Grey Vetiver Silver Vetiver Woody Spicy mens Grapefruit Orange Blossom Sage Nutmeg Orris Root Pimento Vetiver Woodsy Notes Oakmoss Amber",
+      "createdAt": "2026-05-04T04:41:28.987Z",
+      "sharedNotes": [
+        "Vetiver",
+        "Amber"
+      ]
+    },
+    {
+      "id": 248,
+      "fragranceSlug": "penhaligon-s-halfeti-cedar-248",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti Cedar",
+      "originalFragranceSlug": "penhaligon-s-halfeti-cedar",
+      "mistifyProductName": "Halfeti Cedar Rose",
+      "mistifyProductSlug": "halfeti-cedar-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-cedar-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti Cedar",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Rum",
+        "Saffron",
+        "Peach",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Virginia Cedar",
+        "Dried Fruits",
+        "Cinnamon",
+        "Mineral Notes",
+        "Immortelle"
+      ],
+      "baseNotes": [
+        "Atlas Cedar",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Rum",
+        "Saffron",
+        "Peach",
+        "Cardamom",
+        "Virginia Cedar",
+        "Dried Fruits",
+        "Cinnamon",
+        "Mineral Notes",
+        "Immortelle",
+        "Atlas Cedar",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_46_35AM.png?v=1765422935",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Cedar Halfeti Cedar Rose Woody Spicy unisex Rum Saffron Peach Cardamom Virginia Cedar Dried Fruits Cinnamon Mineral Notes Immortelle Atlas Cedar Tonka Bean Vanilla Labdanum Patchouli",
+      "createdAt": "2026-05-04T04:41:39.097Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Labdanum",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 152,
+      "fragranceSlug": "ysl-yves-saint-laurent-la-nuit-de-l-homme-152",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "La Nuit de l’Homme",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-la-nuit-de-l-homme",
+      "mistifyProductName": "The Night of Man",
+      "mistifyProductSlug": "the-night-of-man",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/the-night-of-man",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) La Nuit de l’Homme",
+      "audience": "mens",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Caraway"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Lavender",
+        "Cedar",
+        "Vetiver",
+        "Caraway"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-41-32AM-_1.png?v=1773460417",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) La Nuit de l’Homme The Night of Man Woody Spicy mens Cardamom Lavender Cedar Vetiver Caraway",
+      "createdAt": "2026-05-04T04:41:33.364Z",
+      "sharedNotes": [
+        "Cedar",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 104,
+      "fragranceSlug": "parfums-de-marly-oajan-104",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Oajan",
+      "originalFragranceSlug": "parfums-de-marly-oajan",
+      "mistifyProductName": "Oajour",
+      "mistifyProductSlug": "oajour",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oajour",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Oajan",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Cinnamon",
+        "Honey",
+        "Osmanthus"
+      ],
+      "middleNotes": [
+        "Benzoin",
+        "Labdanum",
+        "Ambergris",
+        "Artemisia"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Honey",
+        "Osmanthus",
+        "Benzoin",
+        "Labdanum",
+        "Ambergris",
+        "Artemisia",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay24_2026_09_19_57AM.png?v=1779628806",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Oajan Oajour Oriental Cinnamon Honey Osmanthus Benzoin Labdanum Ambergris Artemisia Vanilla Tonka Bean Musk Patchouli",
+      "createdAt": "2026-05-04T04:41:30.574Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Osmanthus",
+        "Labdanum",
+        "Vanilla",
+        "Musk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "fragrances": [
+    {
+      "id": 54,
+      "fragranceSlug": "kilian-back-to-black-54",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Back to Black",
+      "originalFragranceSlug": "kilian-back-to-black",
+      "mistifyProductName": "Back 2 Blacky",
+      "mistifyProductSlug": "back-2-blacky",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/back-2-black",
+      "publicInspiredByLabel": "Inspired by Kilian Back to Black",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Almond",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "allNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry",
+        "Tobacco",
+        "Almond",
+        "Vanilla",
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Back2Blacky.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Back to Black Back 2 Blacky Oriental unisex Honey Cherry Raspberry Tobacco Almond Vanilla Cedar Patchouli Amber",
+      "createdAt": "2026-05-04T04:41:27.650Z",
+      "sharedNotes": [
+        "Honey",
+        "Tobacco",
+        "Patchouli",
+        "Amber"
+      ]
+    },
+    {
+      "id": 253,
+      "fragranceSlug": "jo-malone-english-pear-and-freesia-253",
+      "brandName": "Jo Malone",
+      "brandSlug": "jo-malone",
+      "originalFragranceName": "English Pear & Freesia",
+      "originalFragranceSlug": "jo-malone-english-pear-and-freesia",
+      "mistifyProductName": "Pear Fresia",
+      "mistifyProductSlug": "pear-fresia",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pear-fresia",
+      "publicInspiredByLabel": "Inspired by Jo Malone English Pear & Freesia",
+      "audience": "unisex",
+      "classification": "Chypre Fruity",
+      "topNotes": [
+        "Pear",
+        "Melon"
+      ],
+      "middleNotes": [
+        "Freesia",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Patchouli",
+        "Rhubarb",
+        "Amber"
+      ],
+      "allNotes": [
+        "Pear",
+        "Melon",
+        "Freesia",
+        "Rose",
+        "Musk",
+        "Patchouli",
+        "Rhubarb",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-47-41PM-_1.png?v=1773460331",
+      "searchableText": "Jo Malone jo malone Jo Malone English Pear & Freesia Pear Fresia Chypre Fruity unisex Pear Melon Freesia Rose Musk Patchouli Rhubarb Amber",
+      "createdAt": "2026-05-04T04:41:39.407Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 200,
+      "fragranceSlug": "xerjoff-accento-200",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Accento",
+      "originalFragranceSlug": "xerjoff-accento",
+      "mistifyProductName": "Accents",
+      "mistifyProductSlug": "accents",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+      "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pineapple",
+        "Hyacinth"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Iris",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Hyacinth",
+        "Jasmine",
+        "Iris",
+        "Pink Pepper",
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+      "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:36.220Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 236,
+      "fragranceSlug": "stephane-h-lucas-sea-my-love-236",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "Sea My Love",
+      "originalFragranceSlug": "stephane-h-lucas-sea-my-love",
+      "mistifyProductName": "Sea Siren",
+      "mistifyProductSlug": "sea-siren",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sea-siren",
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas Sea My Love",
+      "audience": "unisex",
+      "classification": "Woody Aquatic",
+      "topNotes": [
+        "Salt",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Marine Notes",
+        "Leather",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Benzoin",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Salt",
+        "Mandarin",
+        "Marine Notes",
+        "Leather",
+        "Jasmine",
+        "Amber",
+        "Benzoin",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-53-01PM-_1.png?v=1773460277",
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas Sea My Love Sea Siren Woody Aquatic unisex Salt Mandarin Marine Notes Leather Jasmine Amber Benzoin Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:38.365Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 161,
+      "fragranceSlug": "initio-side-effect-161",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Side Effect",
+      "originalFragranceSlug": "initio-side-effect",
+      "mistifyProductName": "Secondary Effects",
+      "mistifyProductSlug": "secondary-effects",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/secondary-effects",
+      "publicInspiredByLabel": "Inspired by Initio Side Effect",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rum",
+        "Cinnamon"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Leather"
+      ],
+      "allNotes": [
+        "Rum",
+        "Cinnamon",
+        "Tobacco",
+        "Vanilla",
+        "Musk",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_15_23PM.png?v=1765422996",
+      "searchableText": "Initio initio parfums Initio Parfums Side Effect Secondary Effects Oriental unisex Rum Cinnamon Tobacco Vanilla Musk Leather",
+      "createdAt": "2026-05-04T04:41:33.880Z",
+      "sharedNotes": [
+        "Tobacco",
+        "Cinnamon",
+        "Musk"
+      ]
+    },
+    {
+      "id": 149,
+      "fragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet-149",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Supreme Bouquet",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet",
+      "mistifyProductName": "Ethereal Bloom",
+      "mistifyProductSlug": "ethereal-bloom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ethereal-bloom",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Supreme Bouquet",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pear",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pear",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/EtherealBloom-_1.png?v=1773460422",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Supreme Bouquet Ethereal Bloom Amber Floral womens Pear Pink Pepper Tuberose Ylang-Ylang Jasmine Amber Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.197Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Amber",
+        "Musk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "fragrances": [
+    {
+      "id": 23,
+      "fragranceSlug": "maison-francis-kurkdjian-grand-soir-23",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Grand Soir",
+      "originalFragranceSlug": "maison-francis-kurkdjian-grand-soir",
+      "mistifyProductName": "Grand Soirelle",
+      "mistifyProductSlug": "grand-soirelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/grand-soirelle",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Grand Soir",
+      "audience": "unisex",
+      "classification": "Oriental Amber",
+      "topNotes": [
+        "Spanish Labdanum",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Siam Benzoin"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Spanish Labdanum",
+        "Orange",
+        "Lavender",
+        "Siam Benzoin",
+        "Amber",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov20-2025-10-17-02AM-_1.png?v=1773460207",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Grand Soir Grand Soirelle Oriental Amber unisex Spanish Labdanum Orange Lavender Siam Benzoin Amber Vanilla Tonka Bean Musk Cedar",
+      "createdAt": "2026-05-04T04:41:25.837Z",
+      "sharedNotes": [
+        "Lavender",
+        "Vanilla",
+        "Amber",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 79,
+      "fragranceSlug": "tom-ford-lavender-extreme-79",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lavender Extreme",
+      "originalFragranceSlug": "tom-ford-lavender-extreme",
+      "mistifyProductName": "Lavender Extremism",
+      "mistifyProductSlug": "lavender-extremism",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lavender-extremism",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lavender Extreme",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LavenderExtremism.png?v=1765422873",
+      "searchableText": "Tom Ford tom ford Tom Ford Lavender Extreme Lavender Extremism Aromatic unisex Lavender Bergamot Cinnamon Tonka Bean Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:29.108Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Lavender",
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 201,
+      "fragranceSlug": "xerjoff-naxos-201",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Naxos",
+      "originalFragranceSlug": "xerjoff-naxos",
+      "mistifyProductName": "Naxian Gold",
+      "mistifyProductSlug": "naxian-gold",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/naxian-gold",
+      "publicInspiredByLabel": "Inspired by Xerjoff Naxos",
+      "audience": "unisex",
+      "classification": "Citrus Gourmand",
+      "topNotes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Honey",
+        "Cinnamon",
+        "Cashmeran",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Tobacco Leaf",
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon",
+        "Honey",
+        "Cinnamon",
+        "Cashmeran",
+        "Jasmine Sambac",
+        "Tobacco Leaf",
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-29-20PM-_1.png?v=1773460339",
+      "searchableText": "Xerjoff xerjoff Xerjoff Naxos Naxian Gold Citrus Gourmand unisex Lavender Bergamot Lemon Honey Cinnamon Cashmeran Jasmine Sambac Tobacco Leaf Vanilla Tonka Bean",
+      "createdAt": "2026-05-04T04:41:36.283Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Lavender",
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 122,
+      "fragranceSlug": "bond-no-9-bleecker-street-122",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Bleecker Street",
+      "originalFragranceSlug": "bond-no-9-bleecker-street",
+      "mistifyProductName": "Bleek St.",
+      "mistifyProductSlug": "bleek-st",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleek-st",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Bleecker Street",
+      "audience": "unisex",
+      "classification": "Woody Aromatic Gourmand",
+      "topNotes": [
+        "Violet Leaf",
+        "Blueberry",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Cedarwood",
+        "Jasmine",
+        "Cinnamon"
+      ],
+      "baseNotes": [
+        "Oakmoss",
+        "Suede",
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Caramel"
+      ],
+      "allNotes": [
+        "Violet Leaf",
+        "Blueberry",
+        "Thyme",
+        "Cedarwood",
+        "Jasmine",
+        "Cinnamon",
+        "Oakmoss",
+        "Suede",
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Caramel"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-33-00AM-_1.png?v=1773460249",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Bleecker Street Bleek St. Woody Aromatic Gourmand unisex Violet Leaf Blueberry Thyme Cedarwood Jasmine Cinnamon Oakmoss Suede Amber Vanilla Patchouli Caramel",
+      "createdAt": "2026-05-04T04:41:31.629Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Vanilla",
+        "Amber",
+        "Suede"
+      ]
+    },
+    {
+      "id": 182,
+      "fragranceSlug": "mind-games-blockade-182",
+      "brandName": "Mind Games",
+      "brandSlug": "mind-games",
+      "originalFragranceName": "Blockade",
+      "originalFragranceSlug": "mind-games-blockade",
+      "mistifyProductName": "Blocade",
+      "mistifyProductSlug": "blocade",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/blocade",
+      "publicInspiredByLabel": "Inspired by Mind Games Blockade",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Mango",
+        "Bergamot",
+        "Tomato Leaf",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Mango Blossom",
+        "Lavender",
+        "Star Anise",
+        "Watery Cyclamen"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Oud",
+        "Amber",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Mango",
+        "Bergamot",
+        "Tomato Leaf",
+        "Pink Pepper",
+        "Mango Blossom",
+        "Lavender",
+        "Star Anise",
+        "Watery Cyclamen",
+        "Suede",
+        "Oud",
+        "Amber",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov12-2025-07-26-23PM-_1.png?v=1773460230",
+      "searchableText": "Mind Games mind games Mind Games Blockade Blocade Not listed clearly by Fragrantica unisex Mango Bergamot Tomato Leaf Pink Pepper Mango Blossom Lavender Star Anise Watery Cyclamen Suede Oud Amber Patchouli",
+      "createdAt": "2026-05-04T04:41:35.119Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Lavender",
+        "Amber",
+        "Suede"
+      ]
+    },
+    {
+      "id": 83,
+      "fragranceSlug": "tom-ford-oud-wood-83",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Wood",
+      "originalFragranceSlug": "tom-ford-oud-wood",
+      "mistifyProductName": "Woody Oud",
+      "mistifyProductSlug": "woody-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/woody-oud",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Wood",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Rosewood",
+        "Cardamom",
+        "Sichuan Pepper"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Sandalwood",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Amber"
+      ],
+      "allNotes": [
+        "Rosewood",
+        "Cardamom",
+        "Sichuan Pepper",
+        "Oud",
+        "Sandalwood",
+        "Vetiver",
+        "Tonka Bean",
+        "Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_36_27PM.png?v=1765422876",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Wood Woody Oud Oriental Woody unisex Rosewood Cardamom Sichuan Pepper Oud Sandalwood Vetiver Tonka Bean Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:29.342Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber",
+        "Tonka Bean"
+      ]
+    }
+  ]
+}

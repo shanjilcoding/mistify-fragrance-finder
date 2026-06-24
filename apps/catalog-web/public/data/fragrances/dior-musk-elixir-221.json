@@ -1,0 +1,27 @@
+{
+  "fragrance": {
+    "id": 221,
+    "fragranceSlug": "dior-musk-elixir-221",
+    "brandName": "Dior",
+    "brandSlug": "dior",
+    "originalFragranceName": "Musk Elixir",
+    "originalFragranceSlug": "dior-musk-elixir",
+    "mistifyProductName": "Musky Elixer",
+    "mistifyProductSlug": "musky-elixer",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/musky-elixer",
+    "publicInspiredByLabel": "Inspired by Dior Musk Elixir",
+    "audience": "unisex",
+    "classification": "Musky/White Musk Oil",
+    "topNotes": [],
+    "middleNotes": [
+      "White Musk"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "White Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MuskyElixer-_1.png?v=1773460472",
+    "searchableText": "Dior christian dior Christian Dior Musk Elixir Musky Elixer Musky/White Musk Oil unisex White Musk",
+    "createdAt": "2026-05-04T04:41:37.451Z"
+  }
+}

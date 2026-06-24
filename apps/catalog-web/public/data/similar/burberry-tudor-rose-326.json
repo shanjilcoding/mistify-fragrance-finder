@@ -1,0 +1,290 @@
+{
+  "fragrances": [
+    {
+      "id": 10,
+      "fragranceSlug": "guerlain-extra-habit-rouge-prive-10",
+      "brandName": "Guerlain Extra",
+      "brandSlug": "guerlain-extra",
+      "originalFragranceName": "Habit Rouge Privé",
+      "originalFragranceSlug": "guerlain-extra-habit-rouge-prive",
+      "mistifyProductName": "Rogue Privé",
+      "mistifyProductSlug": "rogue-prive",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rogue-prive",
+      "publicInspiredByLabel": "Inspired by Guerlain Extra Habit Rouge Privé",
+      "audience": "mens",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Bergamot",
+        "Lime",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose",
+        "Cinnamon"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lime",
+        "Orange",
+        "Jasmine",
+        "Rose",
+        "Cinnamon",
+        "Leather",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-39-53PM-_1.png?v=1773460367",
+      "searchableText": "Guerlain Extra guerlain extra Guerlain extra Habit Rouge Privé Rogue Privé Oriental Woody mens Bergamot Lime Orange Jasmine Rose Cinnamon Leather Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:25.095Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Jasmine",
+        "Leather"
+      ]
+    },
+    {
+      "id": 163,
+      "fragranceSlug": "montale-arabians-163",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Arabians",
+      "originalFragranceSlug": "montale-arabians",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Arabians",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Cardamom",
+        "Lavender",
+        "Red Thyme"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Patchouli",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Ambergris",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Lavender",
+        "Red Thyme",
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oud",
+        "Leather",
+        "Ambergris",
+        "Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Arabians Not verified Oriental Cardamom Lavender Red Thyme Rose Patchouli Vetiver Oud Leather Ambergris Musk",
+      "createdAt": "2026-05-04T04:41:34.009Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Ambergris",
+        "Leather"
+      ]
+    },
+    {
+      "id": 209,
+      "fragranceSlug": "rabanne-invictus-209",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "Invictus",
+      "originalFragranceSlug": "rabanne-invictus",
+      "mistifyProductName": "Victorious",
+      "mistifyProductSlug": "victorious",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/victorious",
+      "publicInspiredByLabel": "Inspired by Rabanne Invictus",
+      "audience": "mens",
+      "classification": "Woody Aquatic",
+      "topNotes": [
+        "Sea Notes",
+        "Grapefruit",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Bay Leaf",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Guaiac Wood",
+        "Oakmoss",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Sea Notes",
+        "Grapefruit",
+        "Mandarin Orange",
+        "Bay Leaf",
+        "Jasmine",
+        "Ambergris",
+        "Guaiac Wood",
+        "Oakmoss",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Screenshot2025-12-04at12.01.14PM.png?v=1765422965",
+      "searchableText": "Rabanne paco rabanne Paco Rabanne Invictus Victorious Woody Aquatic mens Sea Notes Grapefruit Mandarin Orange Bay Leaf Jasmine Ambergris Guaiac Wood Oakmoss Patchouli",
+      "createdAt": "2026-05-04T04:41:36.760Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Jasmine",
+        "Ambergris"
+      ]
+    },
+    {
+      "id": 244,
+      "fragranceSlug": "le-labo-myrrhe-55-244",
+      "brandName": "Le Labo",
+      "brandSlug": "le-labo",
+      "originalFragranceName": "Myrrhe 55",
+      "originalFragranceSlug": "le-labo-myrrhe-55",
+      "mistifyProductName": "Myrrhique 55",
+      "mistifyProductSlug": "myrrhique-55",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/myrrhique-55",
+      "publicInspiredByLabel": "Inspired by Le Labo Myrrhe 55",
+      "audience": "unisex",
+      "classification": "Not split cleanly",
+      "topNotes": [],
+      "middleNotes": [
+        "Jasmine",
+        "Myrrh",
+        "Patchouli",
+        "Musk",
+        "Ambergris",
+        "Oud"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Jasmine",
+        "Myrrh",
+        "Patchouli",
+        "Musk",
+        "Ambergris",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov13-2025-09-35-43AM-_1.png?v=1773460218",
+      "searchableText": "Le Labo le labo Le Labo Myrrhe 55 Myrrhique 55 Not split cleanly unisex Jasmine Myrrh Patchouli Musk Ambergris Oud",
+      "createdAt": "2026-05-04T04:41:38.851Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Jasmine",
+        "Ambergris"
+      ]
+    },
+    {
+      "id": 213,
+      "fragranceSlug": "maison-crivelli-oud-stallion-213",
+      "brandName": "Maison Crivelli",
+      "brandSlug": "maison-crivelli",
+      "originalFragranceName": "Oud Stallion",
+      "originalFragranceSlug": "maison-crivelli-oud-stallion",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Maison Crivelli Oud Stallion",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Saffron",
+        "Cardamom",
+        "Indonesian Nutmeg"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Osmanthus",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Cedar",
+        "Patchouli",
+        "Tonka"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Cardamom",
+        "Indonesian Nutmeg",
+        "Jasmine",
+        "Osmanthus",
+        "Turkish Rose",
+        "Oud",
+        "Leather",
+        "Cedar",
+        "Patchouli",
+        "Tonka"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Maison Crivelli maison crivelli Maison Crivelli Oud Stallion Not verified Oriental Woody Saffron Cardamom Indonesian Nutmeg Jasmine Osmanthus Turkish Rose Oud Leather Cedar Patchouli Tonka",
+      "createdAt": "2026-05-04T04:41:36.980Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Jasmine",
+        "Leather"
+      ]
+    },
+    {
+      "id": 236,
+      "fragranceSlug": "stephane-h-lucas-sea-my-love-236",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "Sea My Love",
+      "originalFragranceSlug": "stephane-h-lucas-sea-my-love",
+      "mistifyProductName": "Sea Siren",
+      "mistifyProductSlug": "sea-siren",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sea-siren",
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas Sea My Love",
+      "audience": "unisex",
+      "classification": "Woody Aquatic",
+      "topNotes": [
+        "Salt",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Marine Notes",
+        "Leather",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Benzoin",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Salt",
+        "Mandarin",
+        "Marine Notes",
+        "Leather",
+        "Jasmine",
+        "Amber",
+        "Benzoin",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-53-01PM-_1.png?v=1773460277",
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas Sea My Love Sea Siren Woody Aquatic unisex Salt Mandarin Marine Notes Leather Jasmine Amber Benzoin Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:38.365Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Jasmine",
+        "Leather"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "brand": {
+    "brandName": "Montale",
+    "brandSlug": "montale",
+    "fragranceCount": 13,
+    "searchableText": "Aoud Leather Oud Hide Inspired by Montale Aoud Leather Montale montale Montale Aoud Leather Oud Hide Leather unisex Leather Oud Saffron Bergamot Cardamom Pepper Ambergris Aoud Night Midnight Oud Inspired by Montale Aoud Night Montale montale Montale Aoud Night Midnight Oud Oriental Woody unisex Oud Fruity Notes Bergamot Sicilian Lemon Moroccan Rose Indonesian Patchouli Leaf Leather Sandalwood Amber Guaiac Wood White Musk Aoud Safran Saffron Oud Inspired by Montale Aoud Safran Montale montale Montale Aoud Safran Saffron Oud Woody Spicy unisex Saffron Arabian Rose Oud Arabians Not verified Inspired by Montale Arabians Montale montale Montale Arabians Not verified Oriental Cardamom Lavender Red Thyme Rose Patchouli Vetiver Oud Leather Ambergris Musk Arabians Tonka Not verified Inspired by Montale Arabians Tonka Montale montale Montale Arabians Tonka Not verified Oriental Woody Saffron Bergamot Oud Bulgarian Rose Tonka Bean Sugar Cane Amber White Musk Oakmoss Black Aoud Oud Noir Inspired by Montale Black Aoud Montale montale Montale Black Aoud Oud Noir Woody Floral Musk unisex Rose Oud Patchouli Musk French Labdanum Mandarin Orange Crazy In Love Not verified Inspired by Montale Crazy In Love Montale montale Montale Crazy In Love Not verified Oriental Floral Wild Rose Violet Leaves Saffron Brown Sugar Amber Vanilla Bean Crystal Aoud Crystal Oud Inspired by Montale Crystal Aoud Montale montale Montale Crystal Aoud Crystal Oud Woody Aromatic unisex Melon Green Apple Mandarin Orange Oud Teak Wood Patchouli Sandalwood Vanilla Saffron White Musk Dark Cherry Not verified Inspired by Montale Dark Cherry Montale montale Montale Dark Cherry Not verified Floral Fruity Bergamot Black Cherry Rose Petals Jasmine Musk Vanilla Sandalwood Intense Cafe Café Rose Inspired by Montale Intense Cafe Montale montale Montale Intense Cafe Café Rose Oriental Vanilla unisex Floral Notes Rose Coffee Vanilla White Musk Amber Oudmazing / Amazing Oud Amazingly Oud Inspired by Montale Oudmazing / Amazing Oud Montale montale Montale Oudmazing / Amazing Oud Amazingly Oud Woody Floral Musk unisex Oud Fig Pear Sicilian Orange Sicilian Bergamot Patchouli Leaf Orris Egyptian Jasmine Grapes Madagascar Vanilla Leather White Musk Rose Elixir Rose Delight Inspired by Montale Rose Elixir Montale montale Montale Rose Elixir Rose Delight Floral Fruity womens Strawberry Orange Rose Jasmine Musk Vanilla Vanilla Cake Vanilla Dream Inspired by Montale Vanilla Cake Montale montale Montale Vanilla Cake Vanilla Dream Oriental Vanilla womens Meringue Madagascar Vanilla Milk Caramel Almond"
+  },
+  "fragrances": [
+    {
+      "id": 165,
+      "fragranceSlug": "montale-aoud-leather-165",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Leather",
+      "originalFragranceSlug": "montale-aoud-leather",
+      "mistifyProductName": "Oud Hide",
+      "mistifyProductSlug": "oud-hide",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-hide",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Leather",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [],
+      "middleNotes": [
+        "Leather",
+        "Oud",
+        "Saffron",
+        "Bergamot",
+        "Cardamom",
+        "Pepper",
+        "Ambergris"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Leather",
+        "Oud",
+        "Saffron",
+        "Bergamot",
+        "Cardamom",
+        "Pepper",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudHide_ec6fce37-d220-454a-aab8-992c47a67666.png?v=1765422947",
+      "searchableText": "Montale montale Montale Aoud Leather Oud Hide Leather unisex Leather Oud Saffron Bergamot Cardamom Pepper Ambergris",
+      "createdAt": "2026-05-04T04:41:34.121Z"
+    },
+    {
+      "id": 166,
+      "fragranceSlug": "montale-aoud-night-166",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Night",
+      "originalFragranceSlug": "montale-aoud-night",
+      "mistifyProductName": "Midnight Oud",
+      "mistifyProductSlug": "midnight-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/midnight-oud",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Night",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Fruity Notes",
+        "Bergamot",
+        "Sicilian Lemon"
+      ],
+      "middleNotes": [
+        "Moroccan Rose",
+        "Indonesian Patchouli Leaf"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Guaiac Wood",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Fruity Notes",
+        "Bergamot",
+        "Sicilian Lemon",
+        "Moroccan Rose",
+        "Indonesian Patchouli Leaf",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Guaiac Wood",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MidnightOud.png?v=1765422949",
+      "searchableText": "Montale montale Montale Aoud Night Midnight Oud Oriental Woody unisex Oud Fruity Notes Bergamot Sicilian Lemon Moroccan Rose Indonesian Patchouli Leaf Leather Sandalwood Amber Guaiac Wood White Musk",
+      "createdAt": "2026-05-04T04:41:34.175Z"
+    },
+    {
+      "id": 167,
+      "fragranceSlug": "montale-aoud-safran-167",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Safran",
+      "originalFragranceSlug": "montale-aoud-safran",
+      "mistifyProductName": "Saffron Oud",
+      "mistifyProductSlug": "saffron-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saffron-oud",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Safran",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Saffron",
+        "Arabian Rose",
+        "Oud"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Saffron",
+        "Arabian Rose",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/SaffronOud.png?v=1765422951",
+      "searchableText": "Montale montale Montale Aoud Safran Saffron Oud Woody Spicy unisex Saffron Arabian Rose Oud",
+      "createdAt": "2026-05-04T04:41:34.229Z"
+    },
+    {
+      "id": 163,
+      "fragranceSlug": "montale-arabians-163",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Arabians",
+      "originalFragranceSlug": "montale-arabians",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Arabians",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Cardamom",
+        "Lavender",
+        "Red Thyme"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Patchouli",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Ambergris",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Lavender",
+        "Red Thyme",
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oud",
+        "Leather",
+        "Ambergris",
+        "Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Arabians Not verified Oriental Cardamom Lavender Red Thyme Rose Patchouli Vetiver Oud Leather Ambergris Musk",
+      "createdAt": "2026-05-04T04:41:34.009Z"
+    },
+    {
+      "id": 164,
+      "fragranceSlug": "montale-arabians-tonka-164",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Arabians Tonka",
+      "originalFragranceSlug": "montale-arabians-tonka",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Arabians Tonka",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Saffron",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Bulgarian Rose"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Sugar Cane",
+        "Amber",
+        "White Musk",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Bergamot",
+        "Oud",
+        "Bulgarian Rose",
+        "Tonka Bean",
+        "Sugar Cane",
+        "Amber",
+        "White Musk",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Arabians Tonka Not verified Oriental Woody Saffron Bergamot Oud Bulgarian Rose Tonka Bean Sugar Cane Amber White Musk Oakmoss",
+      "createdAt": "2026-05-04T04:41:34.064Z"
+    },
+    {
+      "id": 168,
+      "fragranceSlug": "montale-black-aoud-168",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Black Aoud",
+      "originalFragranceSlug": "montale-black-aoud",
+      "mistifyProductName": "Oud Noir",
+      "mistifyProductSlug": "oud-noir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-noir",
+      "publicInspiredByLabel": "Inspired by Montale Black Aoud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudNoir.png?v=1765422952",
+      "searchableText": "Montale montale Montale Black Aoud Oud Noir Woody Floral Musk unisex Rose Oud Patchouli Musk French Labdanum Mandarin Orange",
+      "createdAt": "2026-05-04T04:41:34.288Z"
+    },
+    {
+      "id": 174,
+      "fragranceSlug": "montale-crazy-in-love-174",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Crazy In Love",
+      "originalFragranceSlug": "montale-crazy-in-love",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Crazy In Love",
+      "audience": null,
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Wild Rose",
+        "Violet Leaves"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Brown Sugar"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla Bean"
+      ],
+      "allNotes": [
+        "Wild Rose",
+        "Violet Leaves",
+        "Saffron",
+        "Brown Sugar",
+        "Amber",
+        "Vanilla Bean"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Crazy In Love Not verified Oriental Floral Wild Rose Violet Leaves Saffron Brown Sugar Amber Vanilla Bean",
+      "createdAt": "2026-05-04T04:41:34.648Z"
+    },
+    {
+      "id": 169,
+      "fragranceSlug": "montale-crystal-aoud-169",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Crystal Aoud",
+      "originalFragranceSlug": "montale-crystal-aoud",
+      "mistifyProductName": "Crystal Oud",
+      "mistifyProductSlug": "crystal-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/crystal-oud",
+      "publicInspiredByLabel": "Inspired by Montale Crystal Aoud",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Melon",
+        "Green Apple",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Teak Wood",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Saffron",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Melon",
+        "Green Apple",
+        "Mandarin Orange",
+        "Oud",
+        "Teak Wood",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla",
+        "Saffron",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CrystalOud.png?v=1765422954",
+      "searchableText": "Montale montale Montale Crystal Aoud Crystal Oud Woody Aromatic unisex Melon Green Apple Mandarin Orange Oud Teak Wood Patchouli Sandalwood Vanilla Saffron White Musk",
+      "createdAt": "2026-05-04T04:41:34.342Z"
+    },
+    {
+      "id": 170,
+      "fragranceSlug": "montale-dark-cherry-170",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Dark Cherry",
+      "originalFragranceSlug": "montale-dark-cherry",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Dark Cherry",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Black Cherry"
+      ],
+      "middleNotes": [
+        "Rose Petals",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Cherry",
+        "Rose Petals",
+        "Jasmine",
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Dark Cherry Not verified Floral Fruity Bergamot Black Cherry Rose Petals Jasmine Musk Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:34.405Z"
+    },
+    {
+      "id": 171,
+      "fragranceSlug": "montale-intense-cafe-171",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Intense Cafe",
+      "originalFragranceSlug": "montale-intense-cafe",
+      "mistifyProductName": "Café Rose",
+      "mistifyProductSlug": "cafe-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cafe-rose",
+      "publicInspiredByLabel": "Inspired by Montale Intense Cafe",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Floral Notes"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Coffee"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Floral Notes",
+        "Rose",
+        "Coffee",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CafeRose.png?v=1765422956",
+      "searchableText": "Montale montale Montale Intense Cafe Café Rose Oriental Vanilla unisex Floral Notes Rose Coffee Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.468Z"
+    },
+    {
+      "id": 162,
+      "fragranceSlug": "montale-oudmazing-amazing-oud-162",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Oudmazing / Amazing Oud",
+      "originalFragranceSlug": "montale-oudmazing-amazing-oud",
+      "mistifyProductName": "Amazingly Oud",
+      "mistifyProductSlug": "amazingly-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amazingly-oud",
+      "publicInspiredByLabel": "Inspired by Montale Oudmazing / Amazing Oud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Oud",
+        "Fig",
+        "Pear",
+        "Sicilian Orange",
+        "Sicilian Bergamot"
+      ],
+      "middleNotes": [
+        "Patchouli Leaf",
+        "Orris",
+        "Egyptian Jasmine"
+      ],
+      "baseNotes": [
+        "Grapes",
+        "Madagascar Vanilla",
+        "Leather",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Fig",
+        "Pear",
+        "Sicilian Orange",
+        "Sicilian Bergamot",
+        "Patchouli Leaf",
+        "Orris",
+        "Egyptian Jasmine",
+        "Grapes",
+        "Madagascar Vanilla",
+        "Leather",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/AmazinglyOud.png?v=1765422945",
+      "searchableText": "Montale montale Montale Oudmazing / Amazing Oud Amazingly Oud Woody Floral Musk unisex Oud Fig Pear Sicilian Orange Sicilian Bergamot Patchouli Leaf Orris Egyptian Jasmine Grapes Madagascar Vanilla Leather White Musk",
+      "createdAt": "2026-05-04T04:41:33.944Z"
+    },
+    {
+      "id": 172,
+      "fragranceSlug": "montale-rose-elixir-172",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Rose Elixir",
+      "originalFragranceSlug": "montale-rose-elixir",
+      "mistifyProductName": "Rose Delight",
+      "mistifyProductSlug": "rose-delight",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-delight",
+      "publicInspiredByLabel": "Inspired by Montale Rose Elixir",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Strawberry",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Strawberry",
+        "Orange",
+        "Rose",
+        "Jasmine",
+        "Musk",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseDelight.png?v=1765422958",
+      "searchableText": "Montale montale Montale Rose Elixir Rose Delight Floral Fruity womens Strawberry Orange Rose Jasmine Musk Vanilla",
+      "createdAt": "2026-05-04T04:41:34.530Z"
+    },
+    {
+      "id": 173,
+      "fragranceSlug": "montale-vanilla-cake-173",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Vanilla Cake",
+      "originalFragranceSlug": "montale-vanilla-cake",
+      "mistifyProductName": "Vanilla Dream",
+      "mistifyProductSlug": "vanilla-dream",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vanilla-dream",
+      "publicInspiredByLabel": "Inspired by Montale Vanilla Cake",
+      "audience": "womens",
+      "classification": "Oriental Vanilla",
+      "topNotes": [],
+      "middleNotes": [
+        "Meringue",
+        "Madagascar Vanilla",
+        "Milk",
+        "Caramel",
+        "Almond"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Meringue",
+        "Madagascar Vanilla",
+        "Milk",
+        "Caramel",
+        "Almond"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-30-52PM-_1.png?v=1773460524",
+      "searchableText": "Montale montale Montale Vanilla Cake Vanilla Dream Oriental Vanilla womens Meringue Madagascar Vanilla Milk Caramel Almond",
+      "createdAt": "2026-05-04T04:41:34.590Z"
+    }
+  ]
+}

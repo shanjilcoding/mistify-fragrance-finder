@@ -1,0 +1,35 @@
+{
+  "fragrance": {
+    "id": 60,
+    "fragranceSlug": "kilian-extreme-oud-60",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Extreme Oud",
+    "originalFragranceSlug": "kilian-extreme-oud",
+    "mistifyProductName": "Not verified on Mistify",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Kilian Extreme Oud",
+    "audience": null,
+    "classification": "Oriental Woody",
+    "topNotes": [],
+    "middleNotes": [
+      "Agarwood/Oud",
+      "Guaiac Wood",
+      "Cypriol",
+      "Saffron",
+      "Copahu Balm"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Agarwood/Oud",
+      "Guaiac Wood",
+      "Cypriol",
+      "Saffron",
+      "Copahu Balm"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Kilian kilian By Kilian Extreme Oud Not verified on Mistify Oriental Woody Agarwood/Oud Guaiac Wood Cypriol Saffron Copahu Balm",
+    "createdAt": "2026-05-04T04:41:27.988Z"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "brandName": "Prada",
+    "brandSlug": "prada",
+    "fragranceCount": 2,
+    "searchableText": "Luna Rossa Carbon Carbon Luna Prada Luna Rossa Carbon Prada Prada Luna Rossa Carbon Carbon Luna Aromatic Woody / Modern Amber Lavender Bergamot Licorice Incense Cappuccino Cypress Tonka Bean Ambrofix™ Musk Fir Paradoxe Paradiis Inspired by Prada Paradoxe Prada prada Prada Paradoxe Paradiis Amber Floral unisex Calabrian Bergamot Tangerine Pear Neroli Orange Blossom Jasmine Amber White Musk Benzoin Vanilla"
+  },
+  "fragrances": [
+    {
+      "id": 308,
+      "fragranceSlug": "prada-luna-rossa-carbon-308",
+      "brandName": "Prada",
+      "brandSlug": "prada",
+      "originalFragranceName": "Luna Rossa Carbon",
+      "originalFragranceSlug": "prada-luna-rossa-carbon",
+      "mistifyProductName": "Carbon Luna",
+      "mistifyProductSlug": "carbon-luna",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/carbon-luna",
+      "publicInspiredByLabel": "Prada Luna Rossa Carbon",
+      "audience": null,
+      "classification": "Aromatic Woody / Modern Amber",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Licorice",
+        "Incense",
+        "Cappuccino"
+      ],
+      "baseNotes": [
+        "Cypress",
+        "Tonka Bean",
+        "Ambrofix™",
+        "Musk",
+        "Fir"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Licorice",
+        "Incense",
+        "Cappuccino",
+        "Cypress",
+        "Tonka Bean",
+        "Ambrofix™",
+        "Musk",
+        "Fir"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_57_19AM.png?v=1781711850",
+      "searchableText": "Prada Prada Luna Rossa Carbon Carbon Luna Aromatic Woody / Modern Amber Lavender Bergamot Licorice Incense Cappuccino Cypress Tonka Bean Ambrofix™ Musk Fir",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 265,
+      "fragranceSlug": "prada-paradoxe-265",
+      "brandName": "Prada",
+      "brandSlug": "prada",
+      "originalFragranceName": "Paradoxe",
+      "originalFragranceSlug": "prada-paradoxe",
+      "mistifyProductName": "Paradiis",
+      "mistifyProductSlug": "paradiis",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradiis",
+      "publicInspiredByLabel": "Inspired by Prada Paradoxe",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear",
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine",
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-38-29PM-_1.png?v=1773460252",
+      "searchableText": "Prada prada Prada Paradoxe Paradiis Amber Floral unisex Calabrian Bergamot Tangerine Pear Neroli Orange Blossom Jasmine Amber White Musk Benzoin Vanilla",
+      "createdAt": "2026-05-04T04:41:40.135Z"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 286,
+    "fragranceSlug": "jean-paul-gaultier-le-beau-paradise-garden-286",
+    "brandName": "Jean Paul Gaultier",
+    "brandSlug": "jean-paul-gaultier",
+    "originalFragranceName": "Le Beau Paradise Garden",
+    "originalFragranceSlug": "jean-paul-gaultier-le-beau-paradise-garden",
+    "mistifyProductName": "Paradise Jardin",
+    "mistifyProductSlug": "paradise-jardin",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradise-jardin",
+    "publicInspiredByLabel": "Inspired by Jean Paul Gaultier Le Beau Paradise Garden",
+    "audience": "unisex",
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Green Notes",
+      "Watery Notes",
+      "Mint",
+      "Ginger"
+    ],
+    "middleNotes": [
+      "Coconut",
+      "Fig",
+      "Salt"
+    ],
+    "baseNotes": [
+      "Tonka Bean",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Green Notes",
+      "Watery Notes",
+      "Mint",
+      "Ginger",
+      "Coconut",
+      "Fig",
+      "Salt",
+      "Tonka Bean",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar23_2026_03_22_46PM.png?v=1774293864",
+    "searchableText": "Jean Paul Gaultier jean paul gaultier Jean Paul Gaultier Le Beau Paradise Garden Paradise Jardin Woody Aromatic unisex Green Notes Watery Notes Mint Ginger Coconut Fig Salt Tonka Bean Sandalwood",
+    "createdAt": "2026-05-04T04:41:41.421Z"
+  }
+}

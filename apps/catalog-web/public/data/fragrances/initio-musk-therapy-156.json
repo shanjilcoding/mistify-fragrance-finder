@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 156,
+    "fragranceSlug": "initio-musk-therapy-156",
+    "brandName": "Initio",
+    "brandSlug": "initio",
+    "originalFragranceName": "Musk Therapy",
+    "originalFragranceSlug": "initio-musk-therapy",
+    "mistifyProductName": "Therapeutic Musk",
+    "mistifyProductSlug": "therapeutic-musk",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/therapeutic-musk",
+    "publicInspiredByLabel": "Inspired by Initio Musk Therapy",
+    "audience": "unisex",
+    "classification": "Woody Floral Musk",
+    "topNotes": [],
+    "middleNotes": [
+      "White Musk",
+      "Musk",
+      "Black Currant",
+      "Bergamot",
+      "Mandarin Orange",
+      "Magnolia",
+      "White Sandalwood",
+      "Hedione"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "White Musk",
+      "Musk",
+      "Black Currant",
+      "Bergamot",
+      "Mandarin Orange",
+      "Magnolia",
+      "White Sandalwood",
+      "Hedione"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-25-54PM-_1.png?v=1773460508",
+    "searchableText": "Initio initio parfums Initio Parfums Musk Therapy Therapeutic Musk Woody Floral Musk unisex White Musk Musk Black Currant Bergamot Mandarin Orange Magnolia White Sandalwood Hedione",
+    "createdAt": "2026-05-04T04:41:33.598Z"
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "fragrances": [
+    {
+      "id": 65,
+      "fragranceSlug": "kilian-love-don-t-be-shy-65",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Love, Don’t Be Shy",
+      "originalFragranceSlug": "kilian-love-don-t-be-shy",
+      "mistifyProductName": "Love, I’m Not Shy",
+      "mistifyProductSlug": "love-i-m-not-shy",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/love-im-not-shy",
+      "publicInspiredByLabel": "Inspired by Kilian Love, Don’t Be Shy",
+      "audience": "unisex",
+      "classification": "Floral Gourmand",
+      "topNotes": [
+        "Neroli",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Bergamot",
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom",
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-33-02PM-_1.png?v=1773460529",
+      "searchableText": "Kilian kilian By Kilian Love, Don’t Be Shy Love, I’m Not Shy Floral Gourmand unisex Neroli Bergamot Jasmine Honeysuckle Orange Blossom Vanilla Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.274Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Orange Blossom",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 179,
+      "fragranceSlug": "mancera-tonka-cola-179",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Tonka Cola",
+      "originalFragranceSlug": "mancera-tonka-cola",
+      "mistifyProductName": "Cola Spice",
+      "mistifyProductSlug": "cola-spice",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cola-spice",
+      "publicInspiredByLabel": "Inspired by Mancera Tonka Cola",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Cherry",
+        "Sicilian Lemon",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Coca-Cola",
+        "Indonesian Patchouli Leaf",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Cherry",
+        "Sicilian Lemon",
+        "Nutmeg",
+        "Coca-Cola",
+        "Indonesian Patchouli Leaf",
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_50_16PM_10d11dd4-fe8b-44fa-8349-483f0da6c265.png?v=1774407032",
+      "searchableText": "Mancera mancera Mancera Tonka Cola Cola Spice Oriental Spicy unisex Cinnamon Cherry Sicilian Lemon Nutmeg Coca-Cola Indonesian Patchouli Leaf Orange Blossom Tonka Bean Vanilla Benzoin Labdanum",
+      "createdAt": "2026-05-04T04:41:34.939Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ]
+    },
+    {
+      "id": 265,
+      "fragranceSlug": "prada-paradoxe-265",
+      "brandName": "Prada",
+      "brandSlug": "prada",
+      "originalFragranceName": "Paradoxe",
+      "originalFragranceSlug": "prada-paradoxe",
+      "mistifyProductName": "Paradiis",
+      "mistifyProductSlug": "paradiis",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradiis",
+      "publicInspiredByLabel": "Inspired by Prada Paradoxe",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear",
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine",
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-38-29PM-_1.png?v=1773460252",
+      "searchableText": "Prada prada Prada Paradoxe Paradiis Amber Floral unisex Calabrian Bergamot Tangerine Pear Neroli Orange Blossom Jasmine Amber White Musk Benzoin Vanilla",
+      "createdAt": "2026-05-04T04:41:40.135Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Benzoin",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 305,
+      "fragranceSlug": "chanel-coco-mademoiselle-305",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Coco Mademoiselle",
+      "originalFragranceSlug": "chanel-coco-mademoiselle",
+      "mistifyProductName": "Cocoiselle",
+      "mistifyProductSlug": "cocoiselle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cocoiselle",
+      "publicInspiredByLabel": "Chanel Coco Mademoiselle",
+      "audience": null,
+      "classification": "Citrus Floral / Patchouli Amber",
+      "topNotes": [
+        "Orange",
+        "Mandarin Orange",
+        "Bergamot",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Jasmine",
+        "Mimosa",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "White Musk",
+        "Vanilla",
+        "Vetiver",
+        "Tonka Bean",
+        "Opoponax"
+      ],
+      "allNotes": [
+        "Orange",
+        "Mandarin Orange",
+        "Bergamot",
+        "Orange Blossom",
+        "Turkish Rose",
+        "Jasmine",
+        "Mimosa",
+        "Ylang-Ylang",
+        "Patchouli",
+        "White Musk",
+        "Vanilla",
+        "Vetiver",
+        "Tonka Bean",
+        "Opoponax"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_10_27PM.png?v=1781712637",
+      "searchableText": "Chanel Chanel Coco Mademoiselle Cocoiselle Citrus Floral / Patchouli Amber Orange Mandarin Orange Bergamot Orange Blossom Turkish Rose Jasmine Mimosa Ylang-Ylang Patchouli White Musk Vanilla Vetiver Tonka Bean Opoponax",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 232,
+      "fragranceSlug": "tiziana-terenzi-saiph-232",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Saiph",
+      "originalFragranceSlug": "tiziana-terenzi-saiph",
+      "mistifyProductName": "Saipha",
+      "mistifyProductSlug": "saipha",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saipha",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Saiph",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Saipha-_1.png?v=1773460407",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk",
+      "createdAt": "2026-05-04T04:41:38.116Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 190,
+      "fragranceSlug": "giorgio-armani-armani-prive-musc-shamal-190",
+      "brandName": "Giorgio Armani",
+      "brandSlug": "giorgio-armani",
+      "originalFragranceName": "Armani Privé Musc Shamal",
+      "originalFragranceSlug": "giorgio-armani-armani-prive-musc-shamal",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Giorgio Armani Armani Privé Musc Shamal",
+      "audience": null,
+      "classification": "Oriental/Musky",
+      "topNotes": [
+        "Aldehydes",
+        "Elemi Oil"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musks",
+        "Vanilla",
+        "Ambery Woods"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Elemi Oil",
+        "Turkish Rose",
+        "Jasmine",
+        "Musks",
+        "Vanilla",
+        "Ambery Woods"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Giorgio Armani giorgio armani Giorgio Armani Armani Privé Musc Shamal Not verified Oriental/Musky Aldehydes Elemi Oil Turkish Rose Jasmine Musks Vanilla Ambery Woods",
+      "createdAt": "2026-05-04T04:41:35.587Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Turkish Rose",
+        "Vanilla"
+      ]
+    }
+  ]
+}

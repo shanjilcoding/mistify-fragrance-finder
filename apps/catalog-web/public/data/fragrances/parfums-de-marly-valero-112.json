@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 112,
+    "fragranceSlug": "parfums-de-marly-valero-112",
+    "brandName": "Parfums de Marly",
+    "brandSlug": "parfums-de-marly",
+    "originalFragranceName": "Valero",
+    "originalFragranceSlug": "parfums-de-marly-valero",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Parfums de Marly Valero",
+    "audience": null,
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Bergamot",
+      "Citron",
+      "Juniper"
+    ],
+    "middleNotes": [
+      "Geranium",
+      "Lavender",
+      "Cypress",
+      "Nutmeg"
+    ],
+    "baseNotes": [
+      "Ambrox Super",
+      "Patchouli",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Citron",
+      "Juniper",
+      "Geranium",
+      "Lavender",
+      "Cypress",
+      "Nutmeg",
+      "Ambrox Super",
+      "Patchouli",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valero Not verified Woody Aromatic Bergamot Citron Juniper Geranium Lavender Cypress Nutmeg Ambrox Super Patchouli Sandalwood",
+    "createdAt": "2026-05-04T04:41:31.034Z"
+  }
+}

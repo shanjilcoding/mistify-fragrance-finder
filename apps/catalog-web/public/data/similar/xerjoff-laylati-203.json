@@ -1,0 +1,291 @@
+{
+  "fragrances": [
+    {
+      "id": 232,
+      "fragranceSlug": "tiziana-terenzi-saiph-232",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Saiph",
+      "originalFragranceSlug": "tiziana-terenzi-saiph",
+      "mistifyProductName": "Saipha",
+      "mistifyProductSlug": "saipha",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saipha",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Saiph",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Saipha-_1.png?v=1773460407",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk",
+      "createdAt": "2026-05-04T04:41:38.116Z",
+      "sharedNotes": [
+        "Green Notes",
+        "Cedar",
+        "Musk",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 271,
+      "fragranceSlug": "diptyque-eau-rihla-271",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Eau Rihla",
+      "originalFragranceSlug": "diptyque-eau-rihla",
+      "mistifyProductName": "Eau Relia",
+      "mistifyProductSlug": "eau-relia",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eau-relia",
+      "publicInspiredByLabel": "Inspired by Diptyque Eau Rihla",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Iris",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper",
+        "Leather",
+        "Iris",
+        "Cedar",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-50-51AM-_1.png?v=1773460377",
+      "searchableText": "Diptyque diptyque Diptyque Eau Rihla Eau Relia Oriental Woody unisex Raspberry Saffron Pink Pepper Leather Iris Cedar Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:40.507Z",
+      "sharedNotes": [
+        "Cedar",
+        "Musk",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z",
+      "sharedNotes": [
+        "Cedar",
+        "Musk",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 160,
+      "fragranceSlug": "initio-rehab-160",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Rehab",
+      "originalFragranceSlug": "initio-rehab",
+      "mistifyProductName": "Rehabilitee",
+      "mistifyProductSlug": "rehabilitee",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rehabilitee",
+      "publicInspiredByLabel": "Inspired by Initio Rehab",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Rehabilitee.png?v=1765422993",
+      "searchableText": "Initio initio parfums Initio Parfums Rehab Rehabilitee Woody Aromatic unisex Lavender Bergamot Cedar Vetiver Patchouli Sandalwood Musk Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:33.822Z",
+      "sharedNotes": [
+        "Cedar",
+        "Patchouli",
+        "Musk"
+      ]
+    },
+    {
+      "id": 161,
+      "fragranceSlug": "initio-side-effect-161",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Side Effect",
+      "originalFragranceSlug": "initio-side-effect",
+      "mistifyProductName": "Secondary Effects",
+      "mistifyProductSlug": "secondary-effects",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/secondary-effects",
+      "publicInspiredByLabel": "Inspired by Initio Side Effect",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rum",
+        "Cinnamon"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Leather"
+      ],
+      "allNotes": [
+        "Rum",
+        "Cinnamon",
+        "Tobacco",
+        "Vanilla",
+        "Musk",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_15_23PM.png?v=1765422996",
+      "searchableText": "Initio initio parfums Initio Parfums Side Effect Secondary Effects Oriental unisex Rum Cinnamon Tobacco Vanilla Musk Leather",
+      "createdAt": "2026-05-04T04:41:33.880Z",
+      "sharedNotes": [
+        "Musk",
+        "Tobacco",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 306,
+      "fragranceSlug": "nishane-ani-306",
+      "brandName": "Nishane",
+      "brandSlug": "nishane",
+      "originalFragranceName": "Ani",
+      "originalFragranceSlug": "nishane-ani",
+      "mistifyProductName": "Anique",
+      "mistifyProductSlug": "anique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/anique",
+      "publicInspiredByLabel": "Nishane Ani",
+      "audience": null,
+      "classification": "Spicy Vanilla / Woody Amber",
+      "topNotes": [
+        "Ginger",
+        "Bergamot",
+        "Pink Pepper",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Cardamom",
+        "Black Currant",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Benzoin",
+        "Sandalwood",
+        "Cedar",
+        "Patchouli",
+        "Ambergris",
+        "Musk"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Bergamot",
+        "Pink Pepper",
+        "Green Notes",
+        "Cardamom",
+        "Black Currant",
+        "Turkish Rose",
+        "Vanilla",
+        "Benzoin",
+        "Sandalwood",
+        "Cedar",
+        "Patchouli",
+        "Ambergris",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_05_01PM_b09c0367-8ac0-482e-8c49-bb95010362c5.png?v=1781712317",
+      "searchableText": "Nishane Nishane Ani Anique Spicy Vanilla / Woody Amber Ginger Bergamot Pink Pepper Green Notes Cardamom Black Currant Turkish Rose Vanilla Benzoin Sandalwood Cedar Patchouli Ambergris Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Green Notes",
+        "Cedar",
+        "Patchouli",
+        "Musk",
+        "Vanilla"
+      ]
+    }
+  ]
+}

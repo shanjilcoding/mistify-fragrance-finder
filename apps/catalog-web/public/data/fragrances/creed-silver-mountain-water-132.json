@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 132,
+    "fragranceSlug": "creed-silver-mountain-water-132",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Silver Mountain Water",
+    "originalFragranceSlug": "creed-silver-mountain-water",
+    "mistifyProductName": "Mountain Heights",
+    "mistifyProductSlug": "mountain-heights",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/mountain-heights",
+    "publicInspiredByLabel": "Inspired by Creed Silver Mountain Water",
+    "audience": "unisex",
+    "classification": "Aromatic",
+    "topNotes": [
+      "Bergamot",
+      "Mandarin Orange"
+    ],
+    "middleNotes": [
+      "Green Tea",
+      "Black Currant"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Petitgrain",
+      "Sandalwood",
+      "Galbanum"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Mandarin Orange",
+      "Green Tea",
+      "Black Currant",
+      "Musk",
+      "Petitgrain",
+      "Sandalwood",
+      "Galbanum"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_04_03_06PM.png?v=1765422855",
+    "searchableText": "Creed creed Creed Silver Mountain Water Mountain Heights Aromatic unisex Bergamot Mandarin Orange Green Tea Black Currant Musk Petitgrain Sandalwood Galbanum",
+    "createdAt": "2026-05-04T04:41:32.199Z"
+  }
+}

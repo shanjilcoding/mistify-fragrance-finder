@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 85,
+    "fragranceSlug": "tom-ford-soleil-blanc-85",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Soleil Blanc",
+    "originalFragranceSlug": "tom-ford-soleil-blanc",
+    "mistifyProductName": "Soleil Sun",
+    "mistifyProductSlug": "soleil-sun",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-sun",
+    "publicInspiredByLabel": "Inspired by Tom Ford Soleil Blanc",
+    "audience": "unisex",
+    "classification": "Amber Floral",
+    "topNotes": [
+      "Pistachio",
+      "Bergamot",
+      "Cardamom",
+      "Pink Pepper"
+    ],
+    "middleNotes": [
+      "Tuberose",
+      "Ylang-Ylang",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Coconut",
+      "Amber",
+      "Tonka Bean",
+      "Benzoin"
+    ],
+    "allNotes": [
+      "Pistachio",
+      "Bergamot",
+      "Cardamom",
+      "Pink Pepper",
+      "Tuberose",
+      "Ylang-Ylang",
+      "Jasmine",
+      "Coconut",
+      "Amber",
+      "Tonka Bean",
+      "Benzoin"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-41-35AM-_1.png?v=1773460537",
+    "searchableText": "Tom Ford tom ford Tom Ford Soleil Blanc Soleil Sun Amber Floral unisex Pistachio Bergamot Cardamom Pink Pepper Tuberose Ylang-Ylang Jasmine Coconut Amber Tonka Bean Benzoin",
+    "createdAt": "2026-05-04T04:41:29.454Z"
+  }
+}

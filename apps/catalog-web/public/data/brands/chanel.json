@@ -1,0 +1,161 @@
+{
+  "brand": {
+    "brandName": "Chanel",
+    "brandSlug": "chanel",
+    "fragranceCount": 3,
+    "searchableText": "Allure Homme Sport Superleggera Sport Legato Chanel Allure Homme Sport Superleggera Chanel Chanel Allure Homme Sport Superleggera Sport Legato Citrus Woody / Fresh Musky Citrus Mandarin Grapefruit Woody Notes Cedarwood White Musk Amber Patchouli Sandalwood Bleu de Chanel Bleu Élan Inspired by Chanel Bleu de Chanel Chanel chanel Chanel Bleu de Chanel Bleu Élan Woody Aromatic mens Grapefruit Lemon Mint Pink Pepper Ginger Nutmeg Jasmine Iso E Super Incense Cedar Vetiver Sandalwood Patchouli Labdanum White Musk Coco Mademoiselle Cocoiselle Chanel Coco Mademoiselle Chanel Chanel Coco Mademoiselle Cocoiselle Citrus Floral / Patchouli Amber Orange Mandarin Orange Bergamot Orange Blossom Turkish Rose Jasmine Mimosa Ylang-Ylang Patchouli White Musk Vanilla Vetiver Tonka Bean Opoponax"
+  },
+  "fragrances": [
+    {
+      "id": 316,
+      "fragranceSlug": "chanel-allure-homme-sport-superleggera-316",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Allure Homme Sport Superleggera",
+      "originalFragranceSlug": "chanel-allure-homme-sport-superleggera",
+      "mistifyProductName": "Sport Legato",
+      "mistifyProductSlug": "sport-legato",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sport-legato",
+      "publicInspiredByLabel": "Chanel Allure Homme Sport Superleggera",
+      "audience": null,
+      "classification": "Citrus Woody / Fresh Musky",
+      "topNotes": [
+        "Citrus",
+        "Mandarin",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Woody Notes",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "White Musk",
+        "Amber",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Citrus",
+        "Mandarin",
+        "Grapefruit",
+        "Woody Notes",
+        "Cedarwood",
+        "White Musk",
+        "Amber",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun16_2026_08_19_28AM.png?v=1781612481",
+      "searchableText": "Chanel Chanel Allure Homme Sport Superleggera Sport Legato Citrus Woody / Fresh Musky Citrus Mandarin Grapefruit Woody Notes Cedarwood White Musk Amber Patchouli Sandalwood",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 301,
+      "fragranceSlug": "chanel-bleu-de-chanel-301",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Bleu de Chanel",
+      "originalFragranceSlug": "chanel-bleu-de-chanel",
+      "mistifyProductName": "Bleu Élan",
+      "mistifyProductSlug": "bleu-elan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-elan",
+      "publicInspiredByLabel": "Inspired by Chanel Bleu de Chanel",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper",
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super",
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Chanel chanel Chanel Bleu de Chanel Bleu Élan Woody Aromatic mens Grapefruit Lemon Mint Pink Pepper Ginger Nutmeg Jasmine Iso E Super Incense Cedar Vetiver Sandalwood Patchouli Labdanum White Musk",
+      "createdAt": "2026-05-04T04:41:42.307Z"
+    },
+    {
+      "id": 305,
+      "fragranceSlug": "chanel-coco-mademoiselle-305",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Coco Mademoiselle",
+      "originalFragranceSlug": "chanel-coco-mademoiselle",
+      "mistifyProductName": "Cocoiselle",
+      "mistifyProductSlug": "cocoiselle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cocoiselle",
+      "publicInspiredByLabel": "Chanel Coco Mademoiselle",
+      "audience": null,
+      "classification": "Citrus Floral / Patchouli Amber",
+      "topNotes": [
+        "Orange",
+        "Mandarin Orange",
+        "Bergamot",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Jasmine",
+        "Mimosa",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "White Musk",
+        "Vanilla",
+        "Vetiver",
+        "Tonka Bean",
+        "Opoponax"
+      ],
+      "allNotes": [
+        "Orange",
+        "Mandarin Orange",
+        "Bergamot",
+        "Orange Blossom",
+        "Turkish Rose",
+        "Jasmine",
+        "Mimosa",
+        "Ylang-Ylang",
+        "Patchouli",
+        "White Musk",
+        "Vanilla",
+        "Vetiver",
+        "Tonka Bean",
+        "Opoponax"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_10_27PM.png?v=1781712637",
+      "searchableText": "Chanel Chanel Coco Mademoiselle Cocoiselle Citrus Floral / Patchouli Amber Orange Mandarin Orange Bergamot Orange Blossom Turkish Rose Jasmine Mimosa Ylang-Ylang Patchouli White Musk Vanilla Vetiver Tonka Bean Opoponax",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    }
+  ]
+}

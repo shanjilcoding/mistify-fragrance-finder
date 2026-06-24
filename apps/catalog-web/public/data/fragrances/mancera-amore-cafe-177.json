@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 177,
+    "fragranceSlug": "mancera-amore-cafe-177",
+    "brandName": "Mancera",
+    "brandSlug": "mancera",
+    "originalFragranceName": "Amore Cafe",
+    "originalFragranceSlug": "mancera-amore-cafe",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Mancera Amore Cafe",
+    "audience": null,
+    "classification": "Oriental Vanilla",
+    "topNotes": [
+      "Coffee",
+      "Amaretto"
+    ],
+    "middleNotes": [
+      "Ice Cream",
+      "Speculoos"
+    ],
+    "baseNotes": [
+      "Brown Sugar",
+      "Vanilla",
+      "Ambergris"
+    ],
+    "allNotes": [
+      "Coffee",
+      "Amaretto",
+      "Ice Cream",
+      "Speculoos",
+      "Brown Sugar",
+      "Vanilla",
+      "Ambergris"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Mancera mancera Mancera Amore Cafe Not verified Oriental Vanilla Coffee Amaretto Ice Cream Speculoos Brown Sugar Vanilla Ambergris",
+    "createdAt": "2026-05-04T04:41:34.823Z"
+  }
+}

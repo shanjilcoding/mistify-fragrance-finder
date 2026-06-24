@@ -1,0 +1,229 @@
+{
+  "fragrances": [
+    {
+      "id": 157,
+      "fragranceSlug": "initio-oud-for-greatness-157",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Greatness",
+      "originalFragranceSlug": "initio-oud-for-greatness",
+      "mistifyProductName": "Majestic Oud",
+      "mistifyProductSlug": "majestic-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-oud",
+      "publicInspiredByLabel": "Inspired by Initio Oud for Greatness",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Oud"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_56_51PM.png?v=1765422990",
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Greatness Majestic Oud Woody Spicy unisex Saffron Nutmeg Lavender Oud Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.651Z",
+      "sharedNotes": [
+        "Saffron",
+        "Oud"
+      ]
+    },
+    {
+      "id": 26,
+      "fragranceSlug": "maison-francis-kurkdjian-oud-velvet-mood-26",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Oud Velvet Mood",
+      "originalFragranceSlug": "maison-francis-kurkdjian-oud-velvet-mood",
+      "mistifyProductName": "Velour Oud",
+      "mistifyProductSlug": "velour-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/velour-oud",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud Velvet Mood",
+      "audience": "unisex",
+      "classification": "Oud/Woody Leather",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Cinnamon",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Copahu Balm"
+      ],
+      "allNotes": [
+        "Oud",
+        "Cinnamon",
+        "Saffron",
+        "Copahu Balm"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr24_2026_12_23_01PM.png?v=1777047799",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Velvet Mood Velour Oud Oud/Woody Leather unisex Oud Cinnamon Saffron Copahu Balm",
+      "createdAt": "2026-05-04T04:41:26.015Z",
+      "sharedNotes": [
+        "Saffron",
+        "Oud"
+      ]
+    },
+    {
+      "id": 223,
+      "fragranceSlug": "dior-purple-oud-223",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Purple Oud",
+      "originalFragranceSlug": "dior-purple-oud",
+      "mistifyProductName": "Violaceous Oud",
+      "mistifyProductSlug": "violaceous-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/violaceous-oud",
+      "publicInspiredByLabel": "Inspired by Dior Purple Oud",
+      "audience": "unisex",
+      "classification": "Woody/Oud",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Orange",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Oud",
+        "Orange",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_54_47PM.png?v=1774407295",
+      "searchableText": "Dior christian dior Christian Dior Purple Oud Violaceous Oud Woody/Oud unisex Oud Orange Saffron Pink Pepper",
+      "createdAt": "2026-05-04T04:41:37.571Z",
+      "sharedNotes": [
+        "Saffron",
+        "Oud"
+      ]
+    },
+    {
+      "id": 35,
+      "fragranceSlug": "louis-vuitton-pur-oud-35",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Pur Oud",
+      "originalFragranceSlug": "louis-vuitton-pur-oud",
+      "mistifyProductName": "Oud Essence",
+      "mistifyProductSlug": "oud-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-essence",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Pur Oud",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Ambrettolide",
+        "Helvetolide"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Oud",
+        "Ambrettolide",
+        "Helvetolide"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_58_54PM.png?v=1765422834",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Pur Oud Oud Essence Woody Spicy unisex Oud Ambrettolide Helvetolide",
+      "createdAt": "2026-05-04T04:41:26.533Z",
+      "sharedNotes": [
+        "Oud"
+      ]
+    },
+    {
+      "id": 150,
+      "fragranceSlug": "ysl-yves-saint-laurent-splendid-wood-150",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Splendid Wood",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-splendid-wood",
+      "mistifyProductName": "Majestic Timber",
+      "mistifyProductSlug": "majestic-timber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-timber",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Splendid Wood",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom",
+        "Incense"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Cypriol"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Incense",
+        "Cedar",
+        "Cypriol",
+        "Oud",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MajesticTimber-_1.png?v=1773460419",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Splendid Wood Majestic Timber Woody Spicy unisex Cardamom Incense Cedar Cypriol Oud Sandalwood",
+      "createdAt": "2026-05-04T04:41:33.251Z",
+      "sharedNotes": [
+        "Oud"
+      ]
+    },
+    {
+      "id": 41,
+      "fragranceSlug": "louis-vuitton-les-sables-roses-41",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Les Sables Roses",
+      "originalFragranceSlug": "louis-vuitton-les-sables-roses",
+      "mistifyProductName": "Sable Roseux",
+      "mistifyProductSlug": "sable-roseux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sable-roseux",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Les Sables Roses",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Bulgarian Rose"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Black Pepper"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Rose",
+        "Bulgarian Rose",
+        "Saffron",
+        "Black Pepper",
+        "Oud",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-21-03PM-_1.png?v=1773460255",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Les Sables Roses Sable Roseux Oriental Floral unisex Rose Bulgarian Rose Saffron Black Pepper Oud Ambergris",
+      "createdAt": "2026-05-04T04:41:26.886Z",
+      "sharedNotes": [
+        "Saffron",
+        "Oud"
+      ]
+    }
+  ]
+}

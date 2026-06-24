@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 57,
+    "fragranceSlug": "kilian-blue-moon-ginger-dash-57",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Blue Moon Ginger Dash",
+    "originalFragranceSlug": "kilian-blue-moon-ginger-dash",
+    "mistifyProductName": "Blue Mooned Dashing Ginger",
+    "mistifyProductSlug": "blue-mooned-dashing-ginger",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/blue-mooned-dashing-ginger",
+    "publicInspiredByLabel": "Inspired by Kilian Blue Moon Ginger Dash",
+    "audience": "unisex",
+    "classification": "Fresh Citrus/Aromatic",
+    "topNotes": [
+      "Lemon",
+      "Calone",
+      "Mint",
+      "Aldehydes"
+    ],
+    "middleNotes": [
+      "Vodka",
+      "Ginger"
+    ],
+    "baseNotes": [
+      "Ambroxan",
+      "White Musk"
+    ],
+    "allNotes": [
+      "Lemon",
+      "Calone",
+      "Mint",
+      "Aldehydes",
+      "Vodka",
+      "Ginger",
+      "Ambroxan",
+      "White Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_04_04_03PM.png?v=1774382652",
+    "searchableText": "Kilian kilian By Kilian Blue Moon Ginger Dash Blue Mooned Dashing Ginger Fresh Citrus/Aromatic unisex Lemon Calone Mint Aldehydes Vodka Ginger Ambroxan White Musk",
+    "createdAt": "2026-05-04T04:41:27.820Z"
+  }
+}

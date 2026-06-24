@@ -1,0 +1,286 @@
+{
+  "fragrances": [
+    {
+      "id": 81,
+      "fragranceSlug": "tom-ford-metallique-81",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Metallique",
+      "originalFragranceSlug": "tom-ford-metallique",
+      "mistifyProductName": "Metallic",
+      "mistifyProductSlug": "metallic",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/metallic",
+      "publicInspiredByLabel": "Inspired by Tom Ford Metallique",
+      "audience": "unisex",
+      "classification": "Aldehydic Floral",
+      "topNotes": [
+        "Aldehydes",
+        "Pink Pepper",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Lily-of-the-Valley",
+        "Heliotrope",
+        "Hawthorn"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Peru Balsam",
+        "Sandalwood",
+        "Ambrette"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Pink Pepper",
+        "Bergamot",
+        "Lily-of-the-Valley",
+        "Heliotrope",
+        "Hawthorn",
+        "Vanilla",
+        "Peru Balsam",
+        "Sandalwood",
+        "Ambrette"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Metallic.png?v=1765422895",
+      "searchableText": "Tom Ford tom ford Tom Ford Metallique Metallic Aldehydic Floral unisex Aldehydes Pink Pepper Bergamot Lily-of-the-Valley Heliotrope Hawthorn Vanilla Peru Balsam Sandalwood Ambrette",
+      "createdAt": "2026-05-04T04:41:29.225Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Vanilla",
+        "Peru Balsam"
+      ]
+    },
+    {
+      "id": 145,
+      "fragranceSlug": "ysl-yves-saint-laurent-black-opium-145",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Black Opium",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-black-opium",
+      "mistifyProductName": "Noir Opiate",
+      "mistifyProductSlug": "noir-opiate",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/noir-opiate",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Black Opium",
+      "audience": "womens",
+      "classification": "Amber Vanilla",
+      "topNotes": [
+        "Pink Pepper",
+        "Orange Blossom",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Coffee",
+        "Jasmine",
+        "Bitter Almond",
+        "Licorice"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli",
+        "Cedar",
+        "Cashmere Wood"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Orange Blossom",
+        "Pear",
+        "Coffee",
+        "Jasmine",
+        "Bitter Almond",
+        "Licorice",
+        "Vanilla",
+        "Patchouli",
+        "Cedar",
+        "Cashmere Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-34-58PM-_1.png?v=1773460432",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Black Opium Noir Opiate Amber Vanilla womens Pink Pepper Orange Blossom Pear Coffee Jasmine Bitter Almond Licorice Vanilla Patchouli Cedar Cashmere Wood",
+      "createdAt": "2026-05-04T04:41:32.939Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Orange Blossom",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 303,
+      "fragranceSlug": "obvious-parfums-milk-and-matcha-303",
+      "brandName": "Obvious Parfums",
+      "brandSlug": "obvious-parfums",
+      "originalFragranceName": "Milk & Matcha",
+      "originalFragranceSlug": "obvious-parfums-milk-and-matcha",
+      "mistifyProductName": "Matcha Milk",
+      "mistifyProductSlug": "matcha-milk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/matcha-milk",
+      "publicInspiredByLabel": "Obvious Parfums Milk & Matcha",
+      "audience": null,
+      "classification": "Gourmand Tea / Creamy Citrus",
+      "topNotes": [
+        "Tangerine",
+        "Ginger",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Matcha Tea",
+        "Mate",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Peru Balsam"
+      ],
+      "allNotes": [
+        "Tangerine",
+        "Ginger",
+        "Mandarin",
+        "Matcha Tea",
+        "Mate",
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla",
+        "Peru Balsam"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_17_11PM.png?v=1781713040",
+      "searchableText": "Obvious Parfums Obvious Parfums Milk & Matcha Matcha Milk Gourmand Tea / Creamy Citrus Tangerine Ginger Mandarin Matcha Tea Mate Orange Blossom Tonka Bean Vanilla Peru Balsam",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Vanilla",
+        "Peru Balsam"
+      ]
+    },
+    {
+      "id": 12,
+      "fragranceSlug": "maison-francis-kurkdjian-a-p-o-m-12",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "A.P.O.M",
+      "originalFragranceSlug": "maison-francis-kurkdjian-a-p-o-m",
+      "mistifyProductName": "A Part of Aura",
+      "mistifyProductSlug": "a-part-of-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/a-part-of-aura",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian A.P.O.M",
+      "audience": "unisex",
+      "classification": "Amber Floral Fougere",
+      "topNotes": [
+        "Sweet Florals",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "allNotes": [
+        "Sweet Florals",
+        "Orange Blossom",
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom",
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-08-30AM-_1.png?v=1773460306",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian A.P.O.M A Part of Aura Amber Floral Fougere unisex Sweet Florals Orange Blossom Lavender Ylang-Ylang Orange Blossom Vanilla White Musk Light Amber",
+      "createdAt": "2026-05-04T04:41:25.206Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 271,
+      "fragranceSlug": "diptyque-eau-rihla-271",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Eau Rihla",
+      "originalFragranceSlug": "diptyque-eau-rihla",
+      "mistifyProductName": "Eau Relia",
+      "mistifyProductSlug": "eau-relia",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eau-relia",
+      "publicInspiredByLabel": "Inspired by Diptyque Eau Rihla",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Iris",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper",
+        "Leather",
+        "Iris",
+        "Cedar",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-50-51AM-_1.png?v=1773460377",
+      "searchableText": "Diptyque diptyque Diptyque Eau Rihla Eau Relia Oriental Woody unisex Raspberry Saffron Pink Pepper Leather Iris Cedar Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:40.507Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 333,
+      "fragranceSlug": "armani-stronger-with-you-tobacco-333",
+      "brandName": "Armani",
+      "brandSlug": "armani",
+      "originalFragranceName": "Stronger With You Tobacco",
+      "originalFragranceSlug": "armani-stronger-with-you-tobacco",
+      "mistifyProductName": "Tobacco Strength",
+      "mistifyProductSlug": "tobacco-strength",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/tobacco-strength",
+      "publicInspiredByLabel": "Armani Stronger With You Tobacco",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Spicy Notes",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Chestnut",
+        "Amberwood"
+      ],
+      "allNotes": [
+        "Spicy Notes",
+        "Pink Pepper",
+        "Tobacco",
+        "Vanilla",
+        "Chestnut",
+        "Amberwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-16-39PM-_1.png?v=1773460354",
+      "searchableText": "Armani Armani Stronger With You Tobacco Tobacco Strength Oriental Spicy Spicy Notes Pink Pepper Tobacco Vanilla Chestnut Amberwood",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Chestnut",
+        "Vanilla"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "fragrances": [
+    {
+      "id": 231,
+      "fragranceSlug": "tiziana-terenzi-orion-231",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Orion",
+      "originalFragranceSlug": "tiziana-terenzi-orion",
+      "mistifyProductName": "Orien",
+      "mistifyProductSlug": "orien",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orien",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Orion",
+      "audience": "unisex",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant"
+      ],
+      "middleNotes": [
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant",
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine",
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Orien-_1.png?v=1773460410",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Orion Orien Floral Woody Musk unisex Pineapple Apple Bergamot Red Currant Birch Thyme Patchouli Jasmine Cedar Incense Oud Musk Amber",
+      "createdAt": "2026-05-04T04:41:38.057Z",
+      "sharedNotes": [
+        "Pineapple",
+        "Bergamot",
+        "Amber",
+        "Jasmine",
+        "Musk",
+        "Birch",
+        "Oud"
+      ]
+    },
+    {
+      "id": 16,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte-16",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Vitae Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte",
+      "mistifyProductName": "Vitae Essence",
+      "mistifyProductSlug": "vitae-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vitae-essence",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Vitae Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Floral Notes",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Floral Notes",
+        "Solar Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/VitaeEssence.png?v=1765422978",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Vitae Cologne Forte Vitae Essence Citrus unisex Mandarin Orange Bergamot Floral Notes Solar Notes Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.428Z",
+      "sharedNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 256,
+      "fragranceSlug": "roja-dove-amber-aoud-256",
+      "brandName": "Roja Dove",
+      "brandSlug": "roja-dove",
+      "originalFragranceName": "Amber Aoud",
+      "originalFragranceSlug": "roja-dove-amber-aoud",
+      "mistifyProductName": "Amber Oudh",
+      "mistifyProductSlug": "amber-oudh",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-oudh",
+      "publicInspiredByLabel": "Inspired by Roja Dove Amber Aoud",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime",
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-12-15PM-_1.png?v=1773460351",
+      "searchableText": "Roja Dove roja dove Roja Dove Amber Aoud Amber Oudh Oriental Spicy unisex Bergamot Lemon Lime Rose Fig Ylang-Ylang Jasmine Oud Ambergris Saffron Civet Sandalwood Musk Orris Cinnamon Patchouli Birch Oakmoss",
+      "createdAt": "2026-05-04T04:41:39.587Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Rose",
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ]
+    },
+    {
+      "id": 232,
+      "fragranceSlug": "tiziana-terenzi-saiph-232",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Saiph",
+      "originalFragranceSlug": "tiziana-terenzi-saiph",
+      "mistifyProductName": "Saipha",
+      "mistifyProductSlug": "saipha",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saipha",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Saiph",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Saipha-_1.png?v=1773460407",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk",
+      "createdAt": "2026-05-04T04:41:38.116Z",
+      "sharedNotes": [
+        "Orange",
+        "Bergamot",
+        "Jasmine",
+        "Rose",
+        "Musk"
+      ]
+    },
+    {
+      "id": 182,
+      "fragranceSlug": "mind-games-blockade-182",
+      "brandName": "Mind Games",
+      "brandSlug": "mind-games",
+      "originalFragranceName": "Blockade",
+      "originalFragranceSlug": "mind-games-blockade",
+      "mistifyProductName": "Blocade",
+      "mistifyProductSlug": "blocade",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/blocade",
+      "publicInspiredByLabel": "Inspired by Mind Games Blockade",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Mango",
+        "Bergamot",
+        "Tomato Leaf",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Mango Blossom",
+        "Lavender",
+        "Star Anise",
+        "Watery Cyclamen"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Oud",
+        "Amber",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Mango",
+        "Bergamot",
+        "Tomato Leaf",
+        "Pink Pepper",
+        "Mango Blossom",
+        "Lavender",
+        "Star Anise",
+        "Watery Cyclamen",
+        "Suede",
+        "Oud",
+        "Amber",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov12-2025-07-26-23PM-_1.png?v=1773460230",
+      "searchableText": "Mind Games mind games Mind Games Blockade Blocade Not listed clearly by Fragrantica unisex Mango Bergamot Tomato Leaf Pink Pepper Mango Blossom Lavender Star Anise Watery Cyclamen Suede Oud Amber Patchouli",
+      "createdAt": "2026-05-04T04:41:35.119Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Amber",
+        "Oud"
+      ]
+    },
+    {
+      "id": 131,
+      "fragranceSlug": "creed-royal-oud-131",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Royal Oud",
+      "originalFragranceSlug": "creed-royal-oud",
+      "mistifyProductName": "Regal Oud",
+      "mistifyProductSlug": "regal-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/regal-oud",
+      "publicInspiredByLabel": "Inspired by Creed Royal Oud",
+      "audience": "unisex",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Galbanum",
+        "Angelica"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot",
+        "Cedar",
+        "Galbanum",
+        "Angelica",
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-35-06PM-_1.png?v=1773460550",
+      "searchableText": "Creed creed Creed Royal Oud Regal Oud Amber Fougere unisex Pink Pepper Lemon Bergamot Cedar Galbanum Angelica Oud Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.140Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk",
+        "Sandalwood",
+        "Oud"
+      ]
+    }
+  ]
+}

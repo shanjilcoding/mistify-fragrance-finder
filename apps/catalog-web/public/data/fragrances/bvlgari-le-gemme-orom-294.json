@@ -1,0 +1,33 @@
+{
+  "fragrance": {
+    "id": 294,
+    "fragranceSlug": "bvlgari-le-gemme-orom-294",
+    "brandName": "Bvlgari",
+    "brandSlug": "bvlgari",
+    "originalFragranceName": "Le Gemme Orom",
+    "originalFragranceSlug": "bvlgari-le-gemme-orom",
+    "mistifyProductName": "Orom Vanillé",
+    "mistifyProductSlug": "orom-vanille",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/orom-vanille",
+    "publicInspiredByLabel": "Inspired by Bvlgari Le Gemme Orom",
+    "audience": "unisex",
+    "classification": "Oriental Vanilla",
+    "topNotes": [
+      "Bourbon Vanilla"
+    ],
+    "middleNotes": [
+      "Siam Benzoin"
+    ],
+    "baseNotes": [
+      "Oud"
+    ],
+    "allNotes": [
+      "Bourbon Vanilla",
+      "Siam Benzoin",
+      "Oud"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr30_2026_03_16_07PM.png?v=1777576576",
+    "searchableText": "Bvlgari bvlgari Bvlgari Le Gemme Orom Orom Vanillé Oriental Vanilla unisex Bourbon Vanilla Siam Benzoin Oud",
+    "createdAt": "2026-05-04T04:41:41.897Z"
+  }
+}

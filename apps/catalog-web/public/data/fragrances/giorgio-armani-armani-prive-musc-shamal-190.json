@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 190,
+    "fragranceSlug": "giorgio-armani-armani-prive-musc-shamal-190",
+    "brandName": "Giorgio Armani",
+    "brandSlug": "giorgio-armani",
+    "originalFragranceName": "Armani Privé Musc Shamal",
+    "originalFragranceSlug": "giorgio-armani-armani-prive-musc-shamal",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Giorgio Armani Armani Privé Musc Shamal",
+    "audience": null,
+    "classification": "Oriental/Musky",
+    "topNotes": [
+      "Aldehydes",
+      "Elemi Oil"
+    ],
+    "middleNotes": [
+      "Turkish Rose",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Musks",
+      "Vanilla",
+      "Ambery Woods"
+    ],
+    "allNotes": [
+      "Aldehydes",
+      "Elemi Oil",
+      "Turkish Rose",
+      "Jasmine",
+      "Musks",
+      "Vanilla",
+      "Ambery Woods"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Giorgio Armani giorgio armani Giorgio Armani Armani Privé Musc Shamal Not verified Oriental/Musky Aldehydes Elemi Oil Turkish Rose Jasmine Musks Vanilla Ambery Woods",
+    "createdAt": "2026-05-04T04:41:35.587Z"
+  }
+}

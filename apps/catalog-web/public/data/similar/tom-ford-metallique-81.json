@@ -1,0 +1,283 @@
+{
+  "fragrances": [
+    {
+      "id": 198,
+      "fragranceSlug": "sol-de-janeiro-brazilian-crush-cheirosa-62-198",
+      "brandName": "Sol De Janeiro",
+      "brandSlug": "sol-de-janeiro",
+      "originalFragranceName": "Brazilian Crush Cheirosa 62",
+      "originalFragranceSlug": "sol-de-janeiro-brazilian-crush-cheirosa-62",
+      "mistifyProductName": "Carioca 62",
+      "mistifyProductSlug": "carioca-62",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/carioca-62",
+      "publicInspiredByLabel": "Inspired by Sol De Janeiro Brazilian Crush Cheirosa 62",
+      "audience": "unisex",
+      "classification": "Warm Gourmand",
+      "topNotes": [
+        "Pistachio",
+        "Almond"
+      ],
+      "middleNotes": [
+        "Heliotrope",
+        "Jasmine Petals"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Salted Caramel",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Pistachio",
+        "Almond",
+        "Heliotrope",
+        "Jasmine Petals",
+        "Vanilla",
+        "Salted Caramel",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb11-2026-11-17-46AM-_1.png?v=1773460150",
+      "searchableText": "Sol De Janeiro sol de janeiro Sol de Janeiro Brazilian Crush Cheirosa 62 Carioca 62 Warm Gourmand unisex Pistachio Almond Heliotrope Jasmine Petals Vanilla Salted Caramel Sandalwood",
+      "createdAt": "2026-05-04T04:41:36.099Z",
+      "sharedNotes": [
+        "Heliotrope",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 230,
+      "fragranceSlug": "tiziana-terenzi-kirke-230",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Kirke",
+      "originalFragranceSlug": "tiziana-terenzi-kirke",
+      "mistifyProductName": "Kirka",
+      "mistifyProductSlug": "kirka",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/kirka",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Kirke",
+      "audience": "unisex",
+      "classification": "Fruity Chypre",
+      "topNotes": [
+        "Passionfruit",
+        "Peach",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Lily of the Valley",
+        "Heliotrope"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Passionfruit",
+        "Peach",
+        "Raspberry",
+        "Lily of the Valley",
+        "Heliotrope",
+        "Musk",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Kirka-_1.png?v=1773460412",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Kirke Kirka Fruity Chypre unisex Passionfruit Peach Raspberry Lily of the Valley Heliotrope Musk Sandalwood Patchouli",
+      "createdAt": "2026-05-04T04:41:38.002Z",
+      "sharedNotes": [
+        "Lily of the Valley",
+        "Heliotrope",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 106,
+      "fragranceSlug": "parfums-de-marly-pegasus-106",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Pegasus",
+      "originalFragranceSlug": "parfums-de-marly-pegasus",
+      "mistifyProductName": "Pegasi",
+      "mistifyProductSlug": "pegasi",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pegasi",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Pegasus",
+      "audience": "mens",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Heliotrope",
+        "Cumin",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Bitter Almond",
+        "Lavender",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Amber"
+      ],
+      "allNotes": [
+        "Heliotrope",
+        "Cumin",
+        "Bergamot",
+        "Bitter Almond",
+        "Lavender",
+        "Jasmine",
+        "Vanilla",
+        "Sandalwood",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-26-24PM-_1.png?v=1773460487",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Pegasus Pegasi Amber Fougere mens Heliotrope Cumin Bergamot Bitter Almond Lavender Jasmine Vanilla Sandalwood Amber",
+      "createdAt": "2026-05-04T04:41:30.688Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Heliotrope",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 159,
+      "fragranceSlug": "initio-psychedelic-love-159",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Psychedelic Love",
+      "originalFragranceSlug": "initio-psychedelic-love",
+      "mistifyProductName": "Hypnotic Love",
+      "mistifyProductSlug": "hypnotic-love",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hypnotic-love",
+      "publicInspiredByLabel": "Inspired by Initio Psychedelic Love",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Ylang-Ylang",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Heliotrope",
+        "Hedione",
+        "Bulgarian Rose"
+      ],
+      "baseNotes": [
+        "Myrrh",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Ylang-Ylang",
+        "Bergamot",
+        "Heliotrope",
+        "Hedione",
+        "Bulgarian Rose",
+        "Myrrh",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-30-34AM-_1.png?v=1773460506",
+      "searchableText": "Initio initio parfums Initio Parfums Psychedelic Love Hypnotic Love Floral unisex Ylang-Ylang Bergamot Heliotrope Hedione Bulgarian Rose Myrrh Sandalwood",
+      "createdAt": "2026-05-04T04:41:33.764Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Heliotrope",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 245,
+      "fragranceSlug": "maison-martin-margiela-replica-by-the-fireplace-245",
+      "brandName": "Maison Martin Margiela 'REPLICA'",
+      "brandSlug": "maison-martin-margiela-replica",
+      "originalFragranceName": "By The Fireplace",
+      "originalFragranceSlug": "maison-martin-margiela-replica-by-the-fireplace",
+      "mistifyProductName": "Fireplace Glow",
+      "mistifyProductSlug": "fireplace-glow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fireplace-glow",
+      "publicInspiredByLabel": "Inspired by Maison Martin Margiela 'REPLICA' By The Fireplace",
+      "audience": "unisex",
+      "classification": "Woody",
+      "topNotes": [
+        "Cloves",
+        "Pink Pepper",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Chestnut",
+        "Guaiac Wood",
+        "Juniper"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Peru Balsam",
+        "Cashmeran"
+      ],
+      "allNotes": [
+        "Cloves",
+        "Pink Pepper",
+        "Orange Blossom",
+        "Chestnut",
+        "Guaiac Wood",
+        "Juniper",
+        "Vanilla",
+        "Peru Balsam",
+        "Cashmeran"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-32-03PM-_1.png?v=1773460390",
+      "searchableText": "Maison Martin Margiela 'REPLICA' maison martin margiela replica Maison Martin Margiela 'REPLICA' By The Fireplace Fireplace Glow Woody unisex Cloves Pink Pepper Orange Blossom Chestnut Guaiac Wood Juniper Vanilla Peru Balsam Cashmeran",
+      "createdAt": "2026-05-04T04:41:38.913Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Vanilla",
+        "Peru Balsam"
+      ]
+    },
+    {
+      "id": 281,
+      "fragranceSlug": "amouage-decision-281",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Decision",
+      "originalFragranceSlug": "amouage-decision",
+      "mistifyProductName": "Final Say",
+      "mistifyProductSlug": "final-say",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/final-say",
+      "publicInspiredByLabel": "Inspired by Amouage Decision",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper",
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh",
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb10-2026-01-48-07PM-_1.png?v=1773460152",
+      "searchableText": "Amouage amouage Amouage Decision Final Say Woody Aromatic unisex Cardamom Bergamot Pink Pepper Frankincense Juniper Berries Myrrh Vanilla Cedarwood Patchouli",
+      "createdAt": "2026-05-04T04:41:41.123Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Bergamot",
+        "Vanilla"
+      ]
+    }
+  ]
+}

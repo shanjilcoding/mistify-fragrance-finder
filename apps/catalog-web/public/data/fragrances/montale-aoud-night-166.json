@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 166,
+    "fragranceSlug": "montale-aoud-night-166",
+    "brandName": "Montale",
+    "brandSlug": "montale",
+    "originalFragranceName": "Aoud Night",
+    "originalFragranceSlug": "montale-aoud-night",
+    "mistifyProductName": "Midnight Oud",
+    "mistifyProductSlug": "midnight-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/midnight-oud",
+    "publicInspiredByLabel": "Inspired by Montale Aoud Night",
+    "audience": "unisex",
+    "classification": "Oriental Woody",
+    "topNotes": [
+      "Oud",
+      "Fruity Notes",
+      "Bergamot",
+      "Sicilian Lemon"
+    ],
+    "middleNotes": [
+      "Moroccan Rose",
+      "Indonesian Patchouli Leaf"
+    ],
+    "baseNotes": [
+      "Leather",
+      "Sandalwood",
+      "Amber",
+      "Guaiac Wood",
+      "White Musk"
+    ],
+    "allNotes": [
+      "Oud",
+      "Fruity Notes",
+      "Bergamot",
+      "Sicilian Lemon",
+      "Moroccan Rose",
+      "Indonesian Patchouli Leaf",
+      "Leather",
+      "Sandalwood",
+      "Amber",
+      "Guaiac Wood",
+      "White Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MidnightOud.png?v=1765422949",
+    "searchableText": "Montale montale Montale Aoud Night Midnight Oud Oriental Woody unisex Oud Fruity Notes Bergamot Sicilian Lemon Moroccan Rose Indonesian Patchouli Leaf Leather Sandalwood Amber Guaiac Wood White Musk",
+    "createdAt": "2026-05-04T04:41:34.175Z"
+  }
+}

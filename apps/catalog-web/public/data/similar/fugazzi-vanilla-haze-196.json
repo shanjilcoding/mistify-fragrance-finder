@@ -1,0 +1,298 @@
+{
+  "fragrances": [
+    {
+      "id": 115,
+      "fragranceSlug": "bond-no-9-greenwich-village-115",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Greenwich Village",
+      "originalFragranceSlug": "bond-no-9-greenwich-village",
+      "mistifyProductName": "Green Village",
+      "mistifyProductSlug": "green-village",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/green-village",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Greenwich Village",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Cassis",
+        "Lychee",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Peony",
+        "Jasmine",
+        "Waterlily"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Musk",
+        "Vanilla",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Cassis",
+        "Lychee",
+        "Mandarin",
+        "Peony",
+        "Jasmine",
+        "Waterlily",
+        "Ambroxan",
+        "Musk",
+        "Vanilla",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-14-18PM-_1.png?v=1773460449",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Greenwich Village Green Village Floral Fruity unisex Cassis Lychee Mandarin Peony Jasmine Waterlily Ambroxan Musk Vanilla Oakmoss",
+      "createdAt": "2026-05-04T04:41:31.214Z",
+      "sharedNotes": [
+        "Mandarin",
+        "Jasmine"
+      ]
+    },
+    {
+      "id": 236,
+      "fragranceSlug": "stephane-h-lucas-sea-my-love-236",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "Sea My Love",
+      "originalFragranceSlug": "stephane-h-lucas-sea-my-love",
+      "mistifyProductName": "Sea Siren",
+      "mistifyProductSlug": "sea-siren",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sea-siren",
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas Sea My Love",
+      "audience": "unisex",
+      "classification": "Woody Aquatic",
+      "topNotes": [
+        "Salt",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Marine Notes",
+        "Leather",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Benzoin",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Salt",
+        "Mandarin",
+        "Marine Notes",
+        "Leather",
+        "Jasmine",
+        "Amber",
+        "Benzoin",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-53-01PM-_1.png?v=1773460277",
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas Sea My Love Sea Siren Woody Aquatic unisex Salt Mandarin Marine Notes Leather Jasmine Amber Benzoin Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:38.365Z",
+      "sharedNotes": [
+        "Mandarin",
+        "Jasmine"
+      ]
+    },
+    {
+      "id": 111,
+      "fragranceSlug": "parfums-de-marly-eragon-111",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Eragon",
+      "originalFragranceSlug": "parfums-de-marly-eragon",
+      "mistifyProductName": "Eragone",
+      "mistifyProductSlug": "eragone",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eragone",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Eragon",
+      "audience": "unisex",
+      "classification": "Spicy Oriental/Warm Gourmand",
+      "topNotes": [
+        "Cardamom",
+        "Mandarin",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Cypriol",
+        "Davana"
+      ],
+      "baseNotes": [
+        "Vanilla Bean",
+        "Tonka Bean",
+        "Leather",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Mandarin",
+        "Bergamot",
+        "Cinnamon",
+        "Cypriol",
+        "Davana",
+        "Vanilla Bean",
+        "Tonka Bean",
+        "Leather",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec19-2025-10-34-44AM-_1.png?v=1773460191",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Eragon Eragone Spicy Oriental/Warm Gourmand unisex Cardamom Mandarin Bergamot Cinnamon Cypriol Davana Vanilla Bean Tonka Bean Leather Patchouli",
+      "createdAt": "2026-05-04T04:41:30.975Z",
+      "sharedNotes": [
+        "Mandarin",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 136,
+      "fragranceSlug": "creed-delphinus-136",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Delphinus",
+      "originalFragranceSlug": "creed-delphinus",
+      "mistifyProductName": "Starphinus",
+      "mistifyProductSlug": "starphinus",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/starphinus",
+      "publicInspiredByLabel": "Inspired by Creed Delphinus",
+      "audience": "unisex",
+      "classification": "Amber Spicy",
+      "topNotes": [
+        "Almond",
+        "Pink Pepper",
+        "Black Pepper"
+      ],
+      "middleNotes": [
+        "Orris",
+        "Heliotrope",
+        "Orchid"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Tonka Bean",
+        "Leather",
+        "Amberwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Almond",
+        "Pink Pepper",
+        "Black Pepper",
+        "Orris",
+        "Heliotrope",
+        "Orchid",
+        "Bourbon Vanilla",
+        "Tonka Bean",
+        "Leather",
+        "Amberwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-13-03AM-_1.png?v=1773460303",
+      "searchableText": "Creed creed Creed Delphinus Starphinus Amber Spicy unisex Almond Pink Pepper Black Pepper Orris Heliotrope Orchid Bourbon Vanilla Tonka Bean Leather Amberwood Patchouli",
+      "createdAt": "2026-05-04T04:41:32.427Z",
+      "sharedNotes": [
+        "Almond",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 85,
+      "fragranceSlug": "tom-ford-soleil-blanc-85",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Soleil Blanc",
+      "originalFragranceSlug": "tom-ford-soleil-blanc",
+      "mistifyProductName": "Soleil Sun",
+      "mistifyProductSlug": "soleil-sun",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-sun",
+      "publicInspiredByLabel": "Inspired by Tom Ford Soleil Blanc",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pistachio",
+        "Bergamot",
+        "Cardamom",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Coconut",
+        "Amber",
+        "Tonka Bean",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Pistachio",
+        "Bergamot",
+        "Cardamom",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Coconut",
+        "Amber",
+        "Tonka Bean",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-41-35AM-_1.png?v=1773460537",
+      "searchableText": "Tom Ford tom ford Tom Ford Soleil Blanc Soleil Sun Amber Floral unisex Pistachio Bergamot Cardamom Pink Pepper Tuberose Ylang-Ylang Jasmine Coconut Amber Tonka Bean Benzoin",
+      "createdAt": "2026-05-04T04:41:29.454Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Jasmine"
+      ]
+    },
+    {
+      "id": 180,
+      "fragranceSlug": "mancera-wild-python-180",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Wild Python",
+      "originalFragranceSlug": "mancera-wild-python",
+      "mistifyProductName": "Wild Venom",
+      "mistifyProductSlug": "wild-venom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/wild-venom",
+      "publicInspiredByLabel": "Inspired by Mancera Wild Python",
+      "audience": "unisex",
+      "classification": "Chypre Floral",
+      "topNotes": [
+        "Indian Tuberose",
+        "Osmanthus",
+        "Peach",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Patchouli Leaf"
+      ],
+      "baseNotes": [
+        "White Musk",
+        "Vanilla Pod"
+      ],
+      "allNotes": [
+        "Indian Tuberose",
+        "Osmanthus",
+        "Peach",
+        "Bergamot",
+        "Jasmine",
+        "Orange Blossom",
+        "Patchouli Leaf",
+        "White Musk",
+        "Vanilla Pod"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/WildVenom.png?v=1765423004",
+      "searchableText": "Mancera mancera Mancera Wild Python Wild Venom Chypre Floral unisex Indian Tuberose Osmanthus Peach Bergamot Jasmine Orange Blossom Patchouli Leaf White Musk Vanilla Pod",
+      "createdAt": "2026-05-04T04:41:34.994Z",
+      "sharedNotes": [
+        "Vanilla Pod",
+        "Jasmine"
+      ]
+    }
+  ]
+}

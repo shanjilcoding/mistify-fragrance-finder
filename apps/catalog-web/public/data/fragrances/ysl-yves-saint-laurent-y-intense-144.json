@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 144,
+    "fragranceSlug": "ysl-yves-saint-laurent-y-intense-144",
+    "brandName": "YSL (Yves Saint Laurent)",
+    "brandSlug": "ysl-yves-saint-laurent",
+    "originalFragranceName": "Y Intense",
+    "originalFragranceSlug": "ysl-yves-saint-laurent-y-intense",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Y Intense",
+    "audience": null,
+    "classification": "Aromatic Fougere",
+    "topNotes": [
+      "Ginger",
+      "Bergamot",
+      "Juniper Berries"
+    ],
+    "middleNotes": [
+      "Sage",
+      "Geranium",
+      "Lavender"
+    ],
+    "baseNotes": [
+      "Vetiver",
+      "Tonka Bean",
+      "Cedar",
+      "Olibanum"
+    ],
+    "allNotes": [
+      "Ginger",
+      "Bergamot",
+      "Juniper Berries",
+      "Sage",
+      "Geranium",
+      "Lavender",
+      "Vetiver",
+      "Tonka Bean",
+      "Cedar",
+      "Olibanum"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Y Intense Not verified Aromatic Fougere Ginger Bergamot Juniper Berries Sage Geranium Lavender Vetiver Tonka Bean Cedar Olibanum",
+    "createdAt": "2026-05-04T04:41:32.882Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 174,
+    "fragranceSlug": "montale-crazy-in-love-174",
+    "brandName": "Montale",
+    "brandSlug": "montale",
+    "originalFragranceName": "Crazy In Love",
+    "originalFragranceSlug": "montale-crazy-in-love",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Montale Crazy In Love",
+    "audience": null,
+    "classification": "Oriental Floral",
+    "topNotes": [
+      "Wild Rose",
+      "Violet Leaves"
+    ],
+    "middleNotes": [
+      "Saffron",
+      "Brown Sugar"
+    ],
+    "baseNotes": [
+      "Amber",
+      "Vanilla Bean"
+    ],
+    "allNotes": [
+      "Wild Rose",
+      "Violet Leaves",
+      "Saffron",
+      "Brown Sugar",
+      "Amber",
+      "Vanilla Bean"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Montale montale Montale Crazy In Love Not verified Oriental Floral Wild Rose Violet Leaves Saffron Brown Sugar Amber Vanilla Bean",
+    "createdAt": "2026-05-04T04:41:34.648Z"
+  }
+}

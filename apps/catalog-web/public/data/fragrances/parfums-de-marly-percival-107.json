@@ -1,0 +1,55 @@
+{
+  "fragrance": {
+    "id": 107,
+    "fragranceSlug": "parfums-de-marly-percival-107",
+    "brandName": "Parfums de Marly",
+    "brandSlug": "parfums-de-marly",
+    "originalFragranceName": "Percival",
+    "originalFragranceSlug": "parfums-de-marly-percival",
+    "mistifyProductName": "Perception",
+    "mistifyProductSlug": "perception",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/perception",
+    "publicInspiredByLabel": "Inspired by Parfums de Marly Percival",
+    "audience": "mens",
+    "classification": "Citrus Aromatic",
+    "topNotes": [
+      "Lavender",
+      "Mandarin Orange",
+      "Bergamot",
+      "Geranium"
+    ],
+    "middleNotes": [
+      "Hedione",
+      "Violet",
+      "Jasmine",
+      "Coriander",
+      "Cinnamon"
+    ],
+    "baseNotes": [
+      "Ambroxan",
+      "Amberwood",
+      "Musk",
+      "Balsam Fir",
+      "Clearwood"
+    ],
+    "allNotes": [
+      "Lavender",
+      "Mandarin Orange",
+      "Bergamot",
+      "Geranium",
+      "Hedione",
+      "Violet",
+      "Jasmine",
+      "Coriander",
+      "Cinnamon",
+      "Ambroxan",
+      "Amberwood",
+      "Musk",
+      "Balsam Fir",
+      "Clearwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-17-46PM-_1.png?v=1773460485",
+    "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Percival Perception Citrus Aromatic mens Lavender Mandarin Orange Bergamot Geranium Hedione Violet Jasmine Coriander Cinnamon Ambroxan Amberwood Musk Balsam Fir Clearwood",
+    "createdAt": "2026-05-04T04:41:30.742Z"
+  }
+}

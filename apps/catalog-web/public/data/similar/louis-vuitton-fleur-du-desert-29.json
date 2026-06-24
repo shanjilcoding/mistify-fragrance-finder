@@ -1,0 +1,259 @@
+{
+  "fragrances": [
+    {
+      "id": 137,
+      "fragranceSlug": "creed-wind-flowers-137",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Wind Flowers",
+      "originalFragranceSlug": "creed-wind-flowers",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Creed Wind Flowers",
+      "audience": null,
+      "classification": "Floral",
+      "topNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Peach"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac",
+        "Tuberose",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Orange Blossom",
+        "Praline",
+        "Sandalwood",
+        "Iris"
+      ],
+      "allNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Peach",
+        "Jasmine Sambac",
+        "Tuberose",
+        "Rose",
+        "Musk",
+        "Orange Blossom",
+        "Praline",
+        "Sandalwood",
+        "Iris"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Creed creed Creed Wind Flowers Not verified Floral Jasmine Orange Blossom Peach Jasmine Sambac Tuberose Rose Musk Orange Blossom Praline Sandalwood Iris",
+      "createdAt": "2026-05-04T04:41:32.485Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Rose",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 3,
+      "fragranceSlug": "guerlain-santal-royal-3",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Santal Royal",
+      "originalFragranceSlug": "guerlain-santal-royal",
+      "mistifyProductName": "Royal Santal",
+      "mistifyProductSlug": "royal-santal",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/royal-santal",
+      "publicInspiredByLabel": "Inspired by Guerlain Santal Royal",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Neroli",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Sandalwood",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Jasmine",
+        "Sandalwood",
+        "Rose",
+        "Leather",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-20-14PM-_1.png?v=1773460356",
+      "searchableText": "Guerlain guerlain Guerlain Santal Royal Royal Santal Oriental Woody unisex Neroli Jasmine Sandalwood Rose Leather Amber Musk",
+      "createdAt": "2026-05-04T04:41:24.668Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Rose",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 159,
+      "fragranceSlug": "initio-psychedelic-love-159",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Psychedelic Love",
+      "originalFragranceSlug": "initio-psychedelic-love",
+      "mistifyProductName": "Hypnotic Love",
+      "mistifyProductSlug": "hypnotic-love",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hypnotic-love",
+      "publicInspiredByLabel": "Inspired by Initio Psychedelic Love",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Ylang-Ylang",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Heliotrope",
+        "Hedione",
+        "Bulgarian Rose"
+      ],
+      "baseNotes": [
+        "Myrrh",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Ylang-Ylang",
+        "Bergamot",
+        "Heliotrope",
+        "Hedione",
+        "Bulgarian Rose",
+        "Myrrh",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-30-34AM-_1.png?v=1773460506",
+      "searchableText": "Initio initio parfums Initio Parfums Psychedelic Love Hypnotic Love Floral unisex Ylang-Ylang Bergamot Heliotrope Hedione Bulgarian Rose Myrrh Sandalwood",
+      "createdAt": "2026-05-04T04:41:33.764Z",
+      "sharedNotes": [
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 260,
+      "fragranceSlug": "gucci-gucci-bloom-260",
+      "brandName": "Gucci",
+      "brandSlug": "gucci",
+      "originalFragranceName": "Gucci Bloom",
+      "originalFragranceSlug": "gucci-gucci-bloom",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Gucci Gucci Bloom",
+      "audience": null,
+      "classification": "Floral",
+      "topNotes": [
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Tuberose"
+      ],
+      "baseNotes": [
+        "Rangoon Creeper"
+      ],
+      "allNotes": [
+        "Jasmine",
+        "Tuberose",
+        "Rangoon Creeper"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Gucci gucci Gucci Gucci Bloom Not verified Floral Jasmine Tuberose Rangoon Creeper",
+      "createdAt": "2026-05-04T04:41:39.836Z",
+      "sharedNotes": [
+        "Jasmine"
+      ]
+    },
+    {
+      "id": 135,
+      "fragranceSlug": "creed-white-amber-135",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "White Amber",
+      "originalFragranceSlug": "creed-white-amber",
+      "mistifyProductName": "Whitened Amber",
+      "mistifyProductSlug": "whitened-amber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/whitened-amber",
+      "publicInspiredByLabel": "Inspired by Creed White Amber",
+      "audience": "mens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Amber",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Benzoin"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Amber",
+        "Jasmine",
+        "Benzoin",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-37-49AM-_1.png?v=1773460545",
+      "searchableText": "Creed creed Creed White Amber Whitened Amber Floral Woody Musk mens Amber Jasmine Benzoin Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.365Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z",
+      "sharedNotes": [
+        "Rose",
+        "Sandalwood"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "fragrances": [
+    {
+      "id": 54,
+      "fragranceSlug": "kilian-back-to-black-54",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Back to Black",
+      "originalFragranceSlug": "kilian-back-to-black",
+      "mistifyProductName": "Back 2 Blacky",
+      "mistifyProductSlug": "back-2-blacky",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/back-2-black",
+      "publicInspiredByLabel": "Inspired by Kilian Back to Black",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Almond",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "allNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry",
+        "Tobacco",
+        "Almond",
+        "Vanilla",
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Back2Blacky.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Back to Black Back 2 Blacky Oriental unisex Honey Cherry Raspberry Tobacco Almond Vanilla Cedar Patchouli Amber",
+      "createdAt": "2026-05-04T04:41:27.650Z",
+      "sharedNotes": [
+        "Amber"
+      ]
+    },
+    {
+      "id": 265,
+      "fragranceSlug": "prada-paradoxe-265",
+      "brandName": "Prada",
+      "brandSlug": "prada",
+      "originalFragranceName": "Paradoxe",
+      "originalFragranceSlug": "prada-paradoxe",
+      "mistifyProductName": "Paradiis",
+      "mistifyProductSlug": "paradiis",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradiis",
+      "publicInspiredByLabel": "Inspired by Prada Paradoxe",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear",
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine",
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-38-29PM-_1.png?v=1773460252",
+      "searchableText": "Prada prada Prada Paradoxe Paradiis Amber Floral unisex Calabrian Bergamot Tangerine Pear Neroli Orange Blossom Jasmine Amber White Musk Benzoin Vanilla",
+      "createdAt": "2026-05-04T04:41:40.135Z",
+      "sharedNotes": [
+        "Calabrian Bergamot",
+        "White Musk",
+        "Amber"
+      ]
+    },
+    {
+      "id": 193,
+      "fragranceSlug": "dolce-and-gabbana-velvet-desert-oud-193",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Velvet Desert Oud",
+      "originalFragranceSlug": "dolce-and-gabbana-velvet-desert-oud",
+      "mistifyProductName": "Desert Velvet",
+      "mistifyProductSlug": "desert-velvet",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/desert-velvet",
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Desert Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [],
+      "middleNotes": [
+        "Incense",
+        "Agarwood/Oud",
+        "Amber",
+        "Musk"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Incense",
+        "Agarwood/Oud",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/DesertVelvet.png?v=1765422932",
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Desert Oud Desert Velvet Oriental unisex Incense Agarwood/Oud Amber Musk",
+      "createdAt": "2026-05-04T04:41:35.780Z",
+      "sharedNotes": [
+        "Amber"
+      ]
+    },
+    {
+      "id": 166,
+      "fragranceSlug": "montale-aoud-night-166",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Night",
+      "originalFragranceSlug": "montale-aoud-night",
+      "mistifyProductName": "Midnight Oud",
+      "mistifyProductSlug": "midnight-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/midnight-oud",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Night",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Fruity Notes",
+        "Bergamot",
+        "Sicilian Lemon"
+      ],
+      "middleNotes": [
+        "Moroccan Rose",
+        "Indonesian Patchouli Leaf"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Guaiac Wood",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Fruity Notes",
+        "Bergamot",
+        "Sicilian Lemon",
+        "Moroccan Rose",
+        "Indonesian Patchouli Leaf",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Guaiac Wood",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MidnightOud.png?v=1765422949",
+      "searchableText": "Montale montale Montale Aoud Night Midnight Oud Oriental Woody unisex Oud Fruity Notes Bergamot Sicilian Lemon Moroccan Rose Indonesian Patchouli Leaf Leather Sandalwood Amber Guaiac Wood White Musk",
+      "createdAt": "2026-05-04T04:41:34.175Z",
+      "sharedNotes": [
+        "Sicilian Lemon",
+        "White Musk",
+        "Amber"
+      ]
+    },
+    {
+      "id": 162,
+      "fragranceSlug": "montale-oudmazing-amazing-oud-162",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Oudmazing / Amazing Oud",
+      "originalFragranceSlug": "montale-oudmazing-amazing-oud",
+      "mistifyProductName": "Amazingly Oud",
+      "mistifyProductSlug": "amazingly-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amazingly-oud",
+      "publicInspiredByLabel": "Inspired by Montale Oudmazing / Amazing Oud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Oud",
+        "Fig",
+        "Pear",
+        "Sicilian Orange",
+        "Sicilian Bergamot"
+      ],
+      "middleNotes": [
+        "Patchouli Leaf",
+        "Orris",
+        "Egyptian Jasmine"
+      ],
+      "baseNotes": [
+        "Grapes",
+        "Madagascar Vanilla",
+        "Leather",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Fig",
+        "Pear",
+        "Sicilian Orange",
+        "Sicilian Bergamot",
+        "Patchouli Leaf",
+        "Orris",
+        "Egyptian Jasmine",
+        "Grapes",
+        "Madagascar Vanilla",
+        "Leather",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/AmazinglyOud.png?v=1765422945",
+      "searchableText": "Montale montale Montale Oudmazing / Amazing Oud Amazingly Oud Woody Floral Musk unisex Oud Fig Pear Sicilian Orange Sicilian Bergamot Patchouli Leaf Orris Egyptian Jasmine Grapes Madagascar Vanilla Leather White Musk",
+      "createdAt": "2026-05-04T04:41:33.944Z",
+      "sharedNotes": [
+        "Sicilian Orange",
+        "White Musk",
+        "Madagascar Vanilla"
+      ]
+    },
+    {
+      "id": 171,
+      "fragranceSlug": "montale-intense-cafe-171",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Intense Cafe",
+      "originalFragranceSlug": "montale-intense-cafe",
+      "mistifyProductName": "Café Rose",
+      "mistifyProductSlug": "cafe-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cafe-rose",
+      "publicInspiredByLabel": "Inspired by Montale Intense Cafe",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Floral Notes"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Coffee"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Floral Notes",
+        "Rose",
+        "Coffee",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CafeRose.png?v=1765422956",
+      "searchableText": "Montale montale Montale Intense Cafe Café Rose Oriental Vanilla unisex Floral Notes Rose Coffee Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.468Z",
+      "sharedNotes": [
+        "White Musk",
+        "Amber"
+      ]
+    }
+  ]
+}

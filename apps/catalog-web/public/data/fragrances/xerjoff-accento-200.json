@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 200,
+    "fragranceSlug": "xerjoff-accento-200",
+    "brandName": "Xerjoff",
+    "brandSlug": "xerjoff",
+    "originalFragranceName": "Accento",
+    "originalFragranceSlug": "xerjoff-accento",
+    "mistifyProductName": "Accents",
+    "mistifyProductSlug": "accents",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+    "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+    "audience": "unisex",
+    "classification": "Floral Fruity",
+    "topNotes": [
+      "Pineapple",
+      "Hyacinth"
+    ],
+    "middleNotes": [
+      "Jasmine",
+      "Iris",
+      "Pink Pepper"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Amber",
+      "Vanilla",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Pineapple",
+      "Hyacinth",
+      "Jasmine",
+      "Iris",
+      "Pink Pepper",
+      "Musk",
+      "Amber",
+      "Vanilla",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+    "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+    "createdAt": "2026-05-04T04:41:36.220Z"
+  }
+}

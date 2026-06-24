@@ -1,0 +1,304 @@
+{
+  "fragrances": [
+    {
+      "id": 157,
+      "fragranceSlug": "initio-oud-for-greatness-157",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Greatness",
+      "originalFragranceSlug": "initio-oud-for-greatness",
+      "mistifyProductName": "Majestic Oud",
+      "mistifyProductSlug": "majestic-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-oud",
+      "publicInspiredByLabel": "Inspired by Initio Oud for Greatness",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Oud"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_56_51PM.png?v=1765422990",
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Greatness Majestic Oud Woody Spicy unisex Saffron Nutmeg Lavender Oud Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.651Z",
+      "sharedNotes": [
+        "Oud",
+        "Saffron",
+        "Nutmeg",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 84,
+      "fragranceSlug": "tom-ford-santal-blush-84",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Santal Blush",
+      "originalFragranceSlug": "tom-ford-santal-blush",
+      "mistifyProductName": "Santal Veil",
+      "mistifyProductSlug": "santal-veil",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/santal-veil",
+      "publicInspiredByLabel": "Inspired by Tom Ford Santal Blush",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Fenugreek",
+        "Carrot Seeds"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Ylang-Ylang",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Benzoin",
+        "Agarwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Fenugreek",
+        "Carrot Seeds",
+        "Jasmine",
+        "Ylang-Ylang",
+        "Rose",
+        "Sandalwood",
+        "Benzoin",
+        "Agarwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_29_23AM.png?v=1774326570",
+      "searchableText": "Tom Ford tom ford Tom Ford Santal Blush Santal Veil Woody Spicy unisex Cinnamon Fenugreek Carrot Seeds Jasmine Ylang-Ylang Rose Sandalwood Benzoin Agarwood Musk",
+      "createdAt": "2026-05-04T04:41:29.400Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Jasmine",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 150,
+      "fragranceSlug": "ysl-yves-saint-laurent-splendid-wood-150",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Splendid Wood",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-splendid-wood",
+      "mistifyProductName": "Majestic Timber",
+      "mistifyProductSlug": "majestic-timber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-timber",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Splendid Wood",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom",
+        "Incense"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Cypriol"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Incense",
+        "Cedar",
+        "Cypriol",
+        "Oud",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MajesticTimber-_1.png?v=1773460419",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Splendid Wood Majestic Timber Woody Spicy unisex Cardamom Incense Cedar Cypriol Oud Sandalwood",
+      "createdAt": "2026-05-04T04:41:33.251Z",
+      "sharedNotes": [
+        "Oud",
+        "Incense",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 169,
+      "fragranceSlug": "montale-crystal-aoud-169",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Crystal Aoud",
+      "originalFragranceSlug": "montale-crystal-aoud",
+      "mistifyProductName": "Crystal Oud",
+      "mistifyProductSlug": "crystal-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/crystal-oud",
+      "publicInspiredByLabel": "Inspired by Montale Crystal Aoud",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Melon",
+        "Green Apple",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Teak Wood",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Saffron",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Melon",
+        "Green Apple",
+        "Mandarin Orange",
+        "Oud",
+        "Teak Wood",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla",
+        "Saffron",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CrystalOud.png?v=1765422954",
+      "searchableText": "Montale montale Montale Crystal Aoud Crystal Oud Woody Aromatic unisex Melon Green Apple Mandarin Orange Oud Teak Wood Patchouli Sandalwood Vanilla Saffron White Musk",
+      "createdAt": "2026-05-04T04:41:34.342Z",
+      "sharedNotes": [
+        "Oud",
+        "Saffron",
+        "Green Apple",
+        "Patchouli",
+        "Sandalwood",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 166,
+      "fragranceSlug": "montale-aoud-night-166",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Night",
+      "originalFragranceSlug": "montale-aoud-night",
+      "mistifyProductName": "Midnight Oud",
+      "mistifyProductSlug": "midnight-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/midnight-oud",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Night",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Fruity Notes",
+        "Bergamot",
+        "Sicilian Lemon"
+      ],
+      "middleNotes": [
+        "Moroccan Rose",
+        "Indonesian Patchouli Leaf"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Guaiac Wood",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Fruity Notes",
+        "Bergamot",
+        "Sicilian Lemon",
+        "Moroccan Rose",
+        "Indonesian Patchouli Leaf",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Guaiac Wood",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MidnightOud.png?v=1765422949",
+      "searchableText": "Montale montale Montale Aoud Night Midnight Oud Oriental Woody unisex Oud Fruity Notes Bergamot Sicilian Lemon Moroccan Rose Indonesian Patchouli Leaf Leather Sandalwood Amber Guaiac Wood White Musk",
+      "createdAt": "2026-05-04T04:41:34.175Z",
+      "sharedNotes": [
+        "Oud",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 248,
+      "fragranceSlug": "penhaligon-s-halfeti-cedar-248",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti Cedar",
+      "originalFragranceSlug": "penhaligon-s-halfeti-cedar",
+      "mistifyProductName": "Halfeti Cedar Rose",
+      "mistifyProductSlug": "halfeti-cedar-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-cedar-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti Cedar",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Rum",
+        "Saffron",
+        "Peach",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Virginia Cedar",
+        "Dried Fruits",
+        "Cinnamon",
+        "Mineral Notes",
+        "Immortelle"
+      ],
+      "baseNotes": [
+        "Atlas Cedar",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Rum",
+        "Saffron",
+        "Peach",
+        "Cardamom",
+        "Virginia Cedar",
+        "Dried Fruits",
+        "Cinnamon",
+        "Mineral Notes",
+        "Immortelle",
+        "Atlas Cedar",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_46_35AM.png?v=1765422935",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Cedar Halfeti Cedar Rose Woody Spicy unisex Rum Saffron Peach Cardamom Virginia Cedar Dried Fruits Cinnamon Mineral Notes Immortelle Atlas Cedar Tonka Bean Vanilla Labdanum Patchouli",
+      "createdAt": "2026-05-04T04:41:39.097Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Saffron",
+        "Patchouli"
+      ]
+    }
+  ]
+}

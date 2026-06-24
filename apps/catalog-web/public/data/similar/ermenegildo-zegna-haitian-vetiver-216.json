@@ -1,0 +1,262 @@
+{
+  "fragrances": [
+    {
+      "id": 242,
+      "fragranceSlug": "le-labo-santal-33-242",
+      "brandName": "Le Labo",
+      "brandSlug": "le-labo",
+      "originalFragranceName": "Santal 33",
+      "originalFragranceSlug": "le-labo-santal-33",
+      "mistifyProductName": "Santana 33",
+      "mistifyProductSlug": "santana-33",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/santana-33",
+      "publicInspiredByLabel": "Inspired by Le Labo Santal 33",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [],
+      "middleNotes": [
+        "Sandalwood",
+        "Leather",
+        "Papyrus",
+        "Virginia Cedar",
+        "Cardamom",
+        "Violet",
+        "Iris",
+        "Amber"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Sandalwood",
+        "Leather",
+        "Papyrus",
+        "Virginia Cedar",
+        "Cardamom",
+        "Violet",
+        "Iris",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-10-57PM-_1.png?v=1773460392",
+      "searchableText": "Le Labo le labo Le Labo Santal 33 Santana 33 Woody Aromatic unisex Sandalwood Leather Papyrus Virginia Cedar Cardamom Violet Iris Amber",
+      "createdAt": "2026-05-04T04:41:38.731Z",
+      "sharedNotes": [
+        "Iris"
+      ]
+    },
+    {
+      "id": 301,
+      "fragranceSlug": "chanel-bleu-de-chanel-301",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Bleu de Chanel",
+      "originalFragranceSlug": "chanel-bleu-de-chanel",
+      "mistifyProductName": "Bleu Élan",
+      "mistifyProductSlug": "bleu-elan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-elan",
+      "publicInspiredByLabel": "Inspired by Chanel Bleu de Chanel",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper",
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super",
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Chanel chanel Chanel Bleu de Chanel Bleu Élan Woody Aromatic mens Grapefruit Lemon Mint Pink Pepper Ginger Nutmeg Jasmine Iso E Super Incense Cedar Vetiver Sandalwood Patchouli Labdanum White Musk",
+      "createdAt": "2026-05-04T04:41:42.307Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 102,
+      "fragranceSlug": "parfums-de-marly-haltane-102",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Haltane",
+      "originalFragranceSlug": "parfums-de-marly-haltane",
+      "mistifyProductName": "Heltene",
+      "mistifyProductSlug": "heltene",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/heltene",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Haltane",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Praline"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Bergamot",
+        "Saffron",
+        "Praline",
+        "Oud",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-23-10PM-_1.png?v=1773460495",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Haltane Heltene Woody Aromatic mens Lavender Clary Sage Bergamot Saffron Praline Oud Cedar",
+      "createdAt": "2026-05-04T04:41:30.462Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 148,
+      "fragranceSlug": "ysl-yves-saint-laurent-myslf-148",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "MYSLF",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-myslf",
+      "mistifyProductName": "MYSELF",
+      "mistifyProductSlug": "myself",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/myself",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) MYSLF",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Sage",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Ginger",
+        "Lavender",
+        "Sage",
+        "Orange Blossom",
+        "Cedarwood",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-19-50PM-_1.png?v=1773460424",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) MYSLF MYSELF Woody Aromatic mens Bergamot Ginger Lavender Sage Orange Blossom Cedarwood Ambergris",
+      "createdAt": "2026-05-04T04:41:33.134Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 134,
+      "fragranceSlug": "creed-viking-134",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Viking",
+      "originalFragranceSlug": "creed-viking",
+      "mistifyProductName": "Voyager",
+      "mistifyProductSlug": "voyager",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/voyager",
+      "publicInspiredByLabel": "Inspired by Creed Viking",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Pink Pepper",
+        "Bulgarian Rose",
+        "Peppermint"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Lemon",
+        "Pink Pepper",
+        "Bulgarian Rose",
+        "Peppermint",
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_32_22PM.png?v=1765422858",
+      "searchableText": "Creed creed Creed Viking Voyager Woody Aromatic mens Pink Pepper Calabrian Bergamot Lemon Pink Pepper Bulgarian Rose Peppermint Sandalwood Vetiver Patchouli Lavender",
+      "createdAt": "2026-05-04T04:41:32.311Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 211,
+      "fragranceSlug": "rabanne-after-club-211",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "After Club",
+      "originalFragranceSlug": "rabanne-after-club",
+      "mistifyProductName": "Club Afterglow",
+      "mistifyProductSlug": "club-afterglow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/club-afterglow",
+      "publicInspiredByLabel": "Inspired by Rabanne After Club",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Vanilla",
+        "Labdanum",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-33-34PM-_1.png?v=1773460311",
+      "searchableText": "Rabanne rabanne Rabanne After Club Club Afterglow Woody Aromatic unisex Lavender Vanilla Labdanum Amber",
+      "createdAt": "2026-05-04T04:41:36.872Z",
+      "sharedNotes": []
+    }
+  ]
+}

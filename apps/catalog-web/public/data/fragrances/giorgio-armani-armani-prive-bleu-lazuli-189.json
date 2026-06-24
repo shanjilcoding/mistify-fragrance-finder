@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 189,
+    "fragranceSlug": "giorgio-armani-armani-prive-bleu-lazuli-189",
+    "brandName": "Giorgio Armani",
+    "brandSlug": "giorgio-armani",
+    "originalFragranceName": "Armani Privé Bleu Lazuli",
+    "originalFragranceSlug": "giorgio-armani-armani-prive-bleu-lazuli",
+    "mistifyProductName": "Bleu Lazure",
+    "mistifyProductSlug": "bleu-lazure",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-lazure",
+    "publicInspiredByLabel": "Inspired by Giorgio Armani Armani Privé Bleu Lazuli",
+    "audience": null,
+    "classification": "Oriental Spicy",
+    "topNotes": [
+      "Mate",
+      "Cardamom",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Plum",
+      "Osmanthus",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Honey",
+      "Tobacco",
+      "Vanilla",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Mate",
+      "Cardamom",
+      "Bergamot",
+      "Plum",
+      "Osmanthus",
+      "Jasmine",
+      "Honey",
+      "Tobacco",
+      "Vanilla",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay16_2026_05_09_17PM.png?v=1778965764",
+    "searchableText": "Giorgio Armani giorgio armani Giorgio Armani Armani Privé Bleu Lazuli Bleu Lazure Oriental Spicy Mate Cardamom Bergamot Plum Osmanthus Jasmine Honey Tobacco Vanilla Sandalwood",
+    "createdAt": "2026-05-04T04:41:35.524Z"
+  }
+}

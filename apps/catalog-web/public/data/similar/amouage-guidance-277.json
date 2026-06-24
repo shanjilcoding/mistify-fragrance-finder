@@ -1,0 +1,275 @@
+{
+  "fragrances": [
+    {
+      "id": 9,
+      "fragranceSlug": "guerlain-peche-mirage-9",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Peche Mirage",
+      "originalFragranceSlug": "guerlain-peche-mirage",
+      "mistifyProductName": "Pêche Illusion",
+      "mistifyProductSlug": "peche-illusion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/peche-illusion",
+      "publicInspiredByLabel": "Inspired by Guerlain Peche Mirage",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Peach",
+        "Blackcurrant",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Osmanthus"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Amber",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Peach",
+        "Blackcurrant",
+        "Saffron",
+        "Osmanthus",
+        "Leather",
+        "Amber",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay15_2026_08_43_12AM.png?v=1778848999",
+      "searchableText": "Guerlain guerlain Guerlain Peche Mirage Pêche Illusion Floral Fruity Peach Blackcurrant Saffron Osmanthus Leather Amber Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.032Z",
+      "sharedNotes": [
+        "Osmanthus",
+        "Saffron",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z",
+      "sharedNotes": [
+        "Rose",
+        "Saffron",
+        "Sandalwood",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 232,
+      "fragranceSlug": "tiziana-terenzi-saiph-232",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Saiph",
+      "originalFragranceSlug": "tiziana-terenzi-saiph",
+      "mistifyProductName": "Saipha",
+      "mistifyProductSlug": "saipha",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saipha",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Saiph",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Saipha-_1.png?v=1773460407",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk",
+      "createdAt": "2026-05-04T04:41:38.116Z",
+      "sharedNotes": [
+        "Rose",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 170,
+      "fragranceSlug": "montale-dark-cherry-170",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Dark Cherry",
+      "originalFragranceSlug": "montale-dark-cherry",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Dark Cherry",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Black Cherry"
+      ],
+      "middleNotes": [
+        "Rose Petals",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Cherry",
+        "Rose Petals",
+        "Jasmine",
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Dark Cherry Not verified Floral Fruity Bergamot Black Cherry Rose Petals Jasmine Musk Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:34.405Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 123,
+      "fragranceSlug": "bond-no-9-nomad-123",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Nomad",
+      "originalFragranceSlug": "bond-no-9-nomad",
+      "mistifyProductName": "Nomadique",
+      "mistifyProductSlug": "nomadique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/nomadique",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Nomad",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Black Currant",
+        "Pear",
+        "Quince"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Orris",
+        "Violet Leaves"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Black Currant",
+        "Pear",
+        "Quince",
+        "Rose",
+        "Oud",
+        "Orris",
+        "Violet Leaves",
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay7_2026_04_20_29PM.png?v=1778185236",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Nomad Nomadique Oriental Floral unisex Black Currant Pear Quince Rose Oud Orris Violet Leaves Amber Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:31.683Z",
+      "sharedNotes": [
+        "Pear",
+        "Rose",
+        "Sandalwood",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 172,
+      "fragranceSlug": "montale-rose-elixir-172",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Rose Elixir",
+      "originalFragranceSlug": "montale-rose-elixir",
+      "mistifyProductName": "Rose Delight",
+      "mistifyProductSlug": "rose-delight",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-delight",
+      "publicInspiredByLabel": "Inspired by Montale Rose Elixir",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Strawberry",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Strawberry",
+        "Orange",
+        "Rose",
+        "Jasmine",
+        "Musk",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseDelight.png?v=1765422958",
+      "searchableText": "Montale montale Montale Rose Elixir Rose Delight Floral Fruity womens Strawberry Orange Rose Jasmine Musk Vanilla",
+      "createdAt": "2026-05-04T04:41:34.530Z",
+      "sharedNotes": [
+        "Rose",
+        "Vanilla"
+      ]
+    }
+  ]
+}

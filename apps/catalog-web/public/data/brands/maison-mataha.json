@@ -1,0 +1,45 @@
+{
+  "brand": {
+    "brandName": "Maison Mataha",
+    "brandSlug": "maison-mataha",
+    "fragranceCount": 1,
+    "searchableText": "Escapade Gourmande Gourmande Évasion Inspired by Maison Mataha Escapade Gourmande Maison Mataha maison mataha Maison Mataha Escapade Gourmande Gourmande Évasion Oriental Vanilla unisex Sugar Cane Vanilla Tonka Bean Benzoin Musk"
+  },
+  "fragrances": [
+    {
+      "id": 199,
+      "fragranceSlug": "maison-mataha-escapade-gourmande-199",
+      "brandName": "Maison Mataha",
+      "brandSlug": "maison-mataha",
+      "originalFragranceName": "Escapade Gourmande",
+      "originalFragranceSlug": "maison-mataha-escapade-gourmande",
+      "mistifyProductName": "Gourmande Évasion",
+      "mistifyProductSlug": "gourmande-evasion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gourmande-evasion",
+      "publicInspiredByLabel": "Inspired by Maison Mataha Escapade Gourmande",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar Cane"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sugar Cane",
+        "Vanilla",
+        "Tonka Bean",
+        "Benzoin",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb24-2026-11-56-42AM-_1.png?v=1773460130",
+      "searchableText": "Maison Mataha maison mataha Maison Mataha Escapade Gourmande Gourmande Évasion Oriental Vanilla unisex Sugar Cane Vanilla Tonka Bean Benzoin Musk",
+      "createdAt": "2026-05-04T04:41:36.157Z"
+    }
+  ]
+}

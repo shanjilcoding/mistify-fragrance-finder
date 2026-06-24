@@ -1,0 +1,268 @@
+{
+  "fragrances": [
+    {
+      "id": 171,
+      "fragranceSlug": "montale-intense-cafe-171",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Intense Cafe",
+      "originalFragranceSlug": "montale-intense-cafe",
+      "mistifyProductName": "Café Rose",
+      "mistifyProductSlug": "cafe-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cafe-rose",
+      "publicInspiredByLabel": "Inspired by Montale Intense Cafe",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Floral Notes"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Coffee"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Floral Notes",
+        "Rose",
+        "Coffee",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CafeRose.png?v=1765422956",
+      "searchableText": "Montale montale Montale Intense Cafe Café Rose Oriental Vanilla unisex Floral Notes Rose Coffee Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.468Z",
+      "sharedNotes": [
+        "Rose",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 108,
+      "fragranceSlug": "parfums-de-marly-valaya-108",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Valaya",
+      "originalFragranceSlug": "parfums-de-marly-valaya",
+      "mistifyProductName": "Valeti",
+      "mistifyProductSlug": "valeti",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/valeti",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Valaya",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Peach",
+        "Petalia"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin",
+        "Orange Blossom",
+        "Peach",
+        "Petalia",
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-15AM-_1.png?v=1773460483",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valaya Valeti Floral Woody Musk womens Bergamot Grapefruit Mandarin Orange Blossom Peach Petalia Ambroxan White Musk Akigalawood",
+      "createdAt": "2026-05-04T04:41:30.796Z",
+      "sharedNotes": [
+        "White Musk",
+        "Peach"
+      ]
+    },
+    {
+      "id": 273,
+      "fragranceSlug": "roberto-cavalli-divine-oud-273",
+      "brandName": "Roberto Cavalli",
+      "brandSlug": "roberto-cavalli",
+      "originalFragranceName": "Divine Oud",
+      "originalFragranceSlug": "roberto-cavalli-divine-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Roberto Cavalli Divine Oud",
+      "audience": null,
+      "classification": "Oud/Floral Oud",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Rose",
+        "Raspberry",
+        "Violet"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Oud",
+        "Rose",
+        "Raspberry",
+        "Violet"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Roberto Cavalli roberto cavalli Roberto Cavalli Divine Oud Not verified Oud/Floral Oud Oud Rose Raspberry Violet",
+      "createdAt": "2026-05-04T04:41:40.636Z",
+      "sharedNotes": [
+        "Violet",
+        "Rose"
+      ]
+    },
+    {
+      "id": 232,
+      "fragranceSlug": "tiziana-terenzi-saiph-232",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Saiph",
+      "originalFragranceSlug": "tiziana-terenzi-saiph",
+      "mistifyProductName": "Saipha",
+      "mistifyProductSlug": "saipha",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saipha",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Saiph",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Saipha-_1.png?v=1773460407",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk",
+      "createdAt": "2026-05-04T04:41:38.116Z",
+      "sharedNotes": [
+        "Green Notes",
+        "Rose"
+      ]
+    },
+    {
+      "id": 180,
+      "fragranceSlug": "mancera-wild-python-180",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Wild Python",
+      "originalFragranceSlug": "mancera-wild-python",
+      "mistifyProductName": "Wild Venom",
+      "mistifyProductSlug": "wild-venom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/wild-venom",
+      "publicInspiredByLabel": "Inspired by Mancera Wild Python",
+      "audience": "unisex",
+      "classification": "Chypre Floral",
+      "topNotes": [
+        "Indian Tuberose",
+        "Osmanthus",
+        "Peach",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Patchouli Leaf"
+      ],
+      "baseNotes": [
+        "White Musk",
+        "Vanilla Pod"
+      ],
+      "allNotes": [
+        "Indian Tuberose",
+        "Osmanthus",
+        "Peach",
+        "Bergamot",
+        "Jasmine",
+        "Orange Blossom",
+        "Patchouli Leaf",
+        "White Musk",
+        "Vanilla Pod"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/WildVenom.png?v=1765423004",
+      "searchableText": "Mancera mancera Mancera Wild Python Wild Venom Chypre Floral unisex Indian Tuberose Osmanthus Peach Bergamot Jasmine Orange Blossom Patchouli Leaf White Musk Vanilla Pod",
+      "createdAt": "2026-05-04T04:41:34.994Z",
+      "sharedNotes": [
+        "White Musk",
+        "Peach"
+      ]
+    },
+    {
+      "id": 175,
+      "fragranceSlug": "mancera-aoud-orchid-175",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Aoud Orchid",
+      "originalFragranceSlug": "mancera-aoud-orchid",
+      "mistifyProductName": "Orchid Essence",
+      "mistifyProductSlug": "orchid-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orchid-essence",
+      "publicInspiredByLabel": "Inspired by Mancera Aoud Orchid",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange",
+        "Orchid",
+        "Patchouli",
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OrchidEssence.png?v=1765422998",
+      "searchableText": "Mancera mancera Mancera Aoud Orchid Orchid Essence Oriental Floral unisex Coconut Peach Mandarin Orange Orchid Patchouli Woody Notes Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.708Z",
+      "sharedNotes": [
+        "White Musk",
+        "Peach"
+      ]
+    }
+  ]
+}

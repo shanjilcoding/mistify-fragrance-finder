@@ -1,0 +1,53 @@
+{
+  "fragrance": {
+    "id": 310,
+    "fragranceSlug": "versace-dylan-blue-310",
+    "brandName": "Versace",
+    "brandSlug": "versace",
+    "originalFragranceName": "Dylan Blue",
+    "originalFragranceSlug": "versace-dylan-blue",
+    "mistifyProductName": "Blu Dylane",
+    "mistifyProductSlug": "blu-dylane",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/blu-dylane",
+    "publicInspiredByLabel": "Versace Dylan Blue",
+    "audience": null,
+    "classification": "Fresh Aromatic / Woody Amber",
+    "topNotes": [
+      "Calabrian Bergamot",
+      "Water Notes",
+      "Grapefruit",
+      "Fig Leaf"
+    ],
+    "middleNotes": [
+      "Ambroxan",
+      "Black Pepper",
+      "Patchouli",
+      "Violet Leaf",
+      "Papyrus"
+    ],
+    "baseNotes": [
+      "Incense",
+      "Musk",
+      "Tonka Bean",
+      "Saffron"
+    ],
+    "allNotes": [
+      "Calabrian Bergamot",
+      "Water Notes",
+      "Grapefruit",
+      "Fig Leaf",
+      "Ambroxan",
+      "Black Pepper",
+      "Patchouli",
+      "Violet Leaf",
+      "Papyrus",
+      "Incense",
+      "Musk",
+      "Tonka Bean",
+      "Saffron"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_50_00AM.png?v=1781711413",
+    "searchableText": "Versace Versace Dylan Blue Blu Dylane Fresh Aromatic / Woody Amber Calabrian Bergamot Water Notes Grapefruit Fig Leaf Ambroxan Black Pepper Patchouli Violet Leaf Papyrus Incense Musk Tonka Bean Saffron",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

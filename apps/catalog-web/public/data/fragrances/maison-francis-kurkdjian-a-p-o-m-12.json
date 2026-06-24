@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 12,
+    "fragranceSlug": "maison-francis-kurkdjian-a-p-o-m-12",
+    "brandName": "Maison Francis Kurkdjian",
+    "brandSlug": "maison-francis-kurkdjian",
+    "originalFragranceName": "A.P.O.M",
+    "originalFragranceSlug": "maison-francis-kurkdjian-a-p-o-m",
+    "mistifyProductName": "A Part of Aura",
+    "mistifyProductSlug": "a-part-of-aura",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/a-part-of-aura",
+    "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian A.P.O.M",
+    "audience": "unisex",
+    "classification": "Amber Floral Fougere",
+    "topNotes": [
+      "Sweet Florals",
+      "Orange Blossom"
+    ],
+    "middleNotes": [
+      "Lavender",
+      "Ylang-Ylang",
+      "Orange Blossom"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "White Musk",
+      "Light Amber"
+    ],
+    "allNotes": [
+      "Sweet Florals",
+      "Orange Blossom",
+      "Lavender",
+      "Ylang-Ylang",
+      "Orange Blossom",
+      "Vanilla",
+      "White Musk",
+      "Light Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-08-30AM-_1.png?v=1773460306",
+    "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian A.P.O.M A Part of Aura Amber Floral Fougere unisex Sweet Florals Orange Blossom Lavender Ylang-Ylang Orange Blossom Vanilla White Musk Light Amber",
+    "createdAt": "2026-05-04T04:41:25.206Z"
+  }
+}

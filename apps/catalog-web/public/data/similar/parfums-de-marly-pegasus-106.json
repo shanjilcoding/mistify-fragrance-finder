@@ -1,0 +1,300 @@
+{
+  "fragrances": [
+    {
+      "id": 94,
+      "fragranceSlug": "tom-ford-noir-extreme-94",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Noir Extreme",
+      "originalFragranceSlug": "tom-ford-noir-extreme",
+      "mistifyProductName": "Night Extreme",
+      "mistifyProductSlug": "night-extreme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/night-extreme",
+      "publicInspiredByLabel": "Inspired by Tom Ford Noir Extreme",
+      "audience": "mens",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Mandarin",
+        "Neroli",
+        "Saffron",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Kulfi",
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin",
+        "Neroli",
+        "Saffron",
+        "Nutmeg",
+        "Kulfi",
+        "Rose",
+        "Jasmine",
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_51_27PM.png?v=1765422879",
+      "searchableText": "Tom Ford tom ford Tom Ford Noir Extreme Night Extreme Oriental Spicy mens Mandarin Neroli Saffron Nutmeg Kulfi Rose Jasmine Vanilla Amber Sandalwood",
+      "createdAt": "2026-05-04T04:41:29.974Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Vanilla",
+        "Sandalwood",
+        "Amber"
+      ]
+    },
+    {
+      "id": 170,
+      "fragranceSlug": "montale-dark-cherry-170",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Dark Cherry",
+      "originalFragranceSlug": "montale-dark-cherry",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Dark Cherry",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Black Cherry"
+      ],
+      "middleNotes": [
+        "Rose Petals",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Cherry",
+        "Rose Petals",
+        "Jasmine",
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Dark Cherry Not verified Floral Fruity Bergamot Black Cherry Rose Petals Jasmine Musk Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:34.405Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 189,
+      "fragranceSlug": "giorgio-armani-armani-prive-bleu-lazuli-189",
+      "brandName": "Giorgio Armani",
+      "brandSlug": "giorgio-armani",
+      "originalFragranceName": "Armani Privé Bleu Lazuli",
+      "originalFragranceSlug": "giorgio-armani-armani-prive-bleu-lazuli",
+      "mistifyProductName": "Bleu Lazure",
+      "mistifyProductSlug": "bleu-lazure",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-lazure",
+      "publicInspiredByLabel": "Inspired by Giorgio Armani Armani Privé Bleu Lazuli",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Mate",
+        "Cardamom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Plum",
+        "Osmanthus",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Honey",
+        "Tobacco",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mate",
+        "Cardamom",
+        "Bergamot",
+        "Plum",
+        "Osmanthus",
+        "Jasmine",
+        "Honey",
+        "Tobacco",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay16_2026_05_09_17PM.png?v=1778965764",
+      "searchableText": "Giorgio Armani giorgio armani Giorgio Armani Armani Privé Bleu Lazuli Bleu Lazure Oriental Spicy Mate Cardamom Bergamot Plum Osmanthus Jasmine Honey Tobacco Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:35.524Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 143,
+      "fragranceSlug": "ysl-yves-saint-laurent-libre-143",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Libre",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-libre",
+      "mistifyProductName": "Libre Vanillé",
+      "mistifyProductSlug": "libre-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-vanille",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre",
+      "audience": "unisex",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Black Currant",
+        "Petitgrain"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Madagascar Vanilla",
+        "Musk",
+        "Cedar",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Black Currant",
+        "Petitgrain",
+        "Lavender",
+        "Orange Blossom",
+        "Jasmine",
+        "Madagascar Vanilla",
+        "Musk",
+        "Cedar",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb26-2026-12-44-22PM-_1.png?v=1773460127",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Libre Vanillé Amber Fougere unisex Lavender Mandarin Orange Black Currant Petitgrain Lavender Orange Blossom Jasmine Madagascar Vanilla Musk Cedar Ambergris",
+      "createdAt": "2026-05-04T04:41:32.824Z",
+      "sharedNotes": [
+        "Lavender",
+        "Jasmine"
+      ]
+    },
+    {
+      "id": 109,
+      "fragranceSlug": "parfums-de-marly-palatine-109",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Palatine",
+      "originalFragranceSlug": "parfums-de-marly-palatine",
+      "mistifyProductName": "Pala‑Majesty",
+      "mistifyProductSlug": "pala-majesty",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pala-majesty",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Palatine",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear",
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes",
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-22-44PM-_1.png?v=1773460298",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Palatine Pala‑Majesty Floral Woody Musk womens Bergamot Mandarin Orange Pear Violet Petals Lavender Floral Notes Sandalwood Musk Patchouli Vanilla",
+      "createdAt": "2026-05-04T04:41:30.859Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lavender",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 131,
+      "fragranceSlug": "creed-royal-oud-131",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Royal Oud",
+      "originalFragranceSlug": "creed-royal-oud",
+      "mistifyProductName": "Regal Oud",
+      "mistifyProductSlug": "regal-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/regal-oud",
+      "publicInspiredByLabel": "Inspired by Creed Royal Oud",
+      "audience": "unisex",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Galbanum",
+        "Angelica"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot",
+        "Cedar",
+        "Galbanum",
+        "Angelica",
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-35-06PM-_1.png?v=1773460550",
+      "searchableText": "Creed creed Creed Royal Oud Regal Oud Amber Fougere unisex Pink Pepper Lemon Bergamot Cedar Galbanum Angelica Oud Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.140Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Sandalwood"
+      ]
+    }
+  ]
+}

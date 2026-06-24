@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 34,
+    "fragranceSlug": "louis-vuitton-pacific-chill-34",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Pacific Chill",
+    "originalFragranceSlug": "louis-vuitton-pacific-chill",
+    "mistifyProductName": "Atlantic Chill",
+    "mistifyProductSlug": "atlantic-chill",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/oceanic-escape",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Pacific Chill",
+    "audience": "unisex",
+    "classification": "Citrus Aromatic",
+    "topNotes": [
+      "Blackcurrant",
+      "Cedrat",
+      "Lemon"
+    ],
+    "middleNotes": [
+      "Carrot Seed",
+      "Coriander",
+      "Basil",
+      "Peppermint",
+      "Orange Essence"
+    ],
+    "baseNotes": [
+      "May Rose",
+      "Ambrette Seeds"
+    ],
+    "allNotes": [
+      "Blackcurrant",
+      "Cedrat",
+      "Lemon",
+      "Carrot Seed",
+      "Coriander",
+      "Basil",
+      "Peppermint",
+      "Orange Essence",
+      "May Rose",
+      "Ambrette Seeds"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_35_03PM.png?v=1765422832",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Pacific Chill Atlantic Chill Citrus Aromatic unisex Blackcurrant Cedrat Lemon Carrot Seed Coriander Basil Peppermint Orange Essence May Rose Ambrette Seeds",
+    "createdAt": "2026-05-04T04:41:26.479Z"
+  }
+}

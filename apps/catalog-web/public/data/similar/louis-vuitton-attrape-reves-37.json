@@ -1,0 +1,268 @@
+{
+  "fragrances": [
+    {
+      "id": 268,
+      "fragranceSlug": "byredo-animalique-268",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Animalique",
+      "originalFragranceSlug": "byredo-animalique",
+      "mistifyProductName": "Animal Instincts",
+      "mistifyProductSlug": "animal-instincts",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/animal-instincts",
+      "publicInspiredByLabel": "Inspired by Byredo Animalique",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Violet",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Tobacco Leaf",
+        "Amber"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Violet",
+        "Mimosa",
+        "Suede",
+        "Tobacco Leaf",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-19-10PM-_1.png?v=1773460283",
+      "searchableText": "Byredo byredo Byredo Animalique Animal Instincts Oriental Floral unisex Bergamot Lemon Violet Mimosa Suede Tobacco Leaf Amber",
+      "createdAt": "2026-05-04T04:41:40.321Z",
+      "sharedNotes": [
+        "Bergamot"
+      ]
+    },
+    {
+      "id": 176,
+      "fragranceSlug": "mancera-instant-crush-176",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Instant Crush",
+      "originalFragranceSlug": "mancera-instant-crush",
+      "mistifyProductName": "Instant Love",
+      "mistifyProductSlug": "instant-love",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/instant-love",
+      "publicInspiredByLabel": "Inspired by Mancera Instant Crush",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Saffron",
+        "Ginger",
+        "Sicilian Mandarin",
+        "Sicilian Bergamot"
+      ],
+      "middleNotes": [
+        "Amberwood",
+        "Moroccan Rose",
+        "Egyptian Jasmine",
+        "Indonesian Patchouli Leaf"
+      ],
+      "baseNotes": [
+        "Madagascar Vanilla",
+        "White Musk",
+        "Sandalwood",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Ginger",
+        "Sicilian Mandarin",
+        "Sicilian Bergamot",
+        "Amberwood",
+        "Moroccan Rose",
+        "Egyptian Jasmine",
+        "Indonesian Patchouli Leaf",
+        "Madagascar Vanilla",
+        "White Musk",
+        "Sandalwood",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_15_53AM.png?v=1774325760",
+      "searchableText": "Mancera mancera Mancera Instant Crush Instant Love Oriental Floral unisex Saffron Ginger Sicilian Mandarin Sicilian Bergamot Amberwood Moroccan Rose Egyptian Jasmine Indonesian Patchouli Leaf Madagascar Vanilla White Musk Sandalwood Oakmoss",
+      "createdAt": "2026-05-04T04:41:34.765Z",
+      "sharedNotes": [
+        "Ginger"
+      ]
+    },
+    {
+      "id": 103,
+      "fragranceSlug": "parfums-de-marly-layton-103",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Layton",
+      "originalFragranceSlug": "parfums-de-marly-layton",
+      "mistifyProductName": "Laytonington",
+      "mistifyProductSlug": "laytonington",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/laytonington",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Layton",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Geranium",
+        "Violet",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender",
+        "Geranium",
+        "Violet",
+        "Jasmine",
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-32-05AM-_1.png?v=1773460493",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Layton Laytonington Oriental Floral unisex Apple Bergamot Lavender Geranium Violet Jasmine Vanilla Pepper Patchouli Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:30.521Z",
+      "sharedNotes": [
+        "Bergamot"
+      ]
+    },
+    {
+      "id": 27,
+      "fragranceSlug": "louis-vuitton-afternoon-swim-27",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Afternoon Swim",
+      "originalFragranceSlug": "louis-vuitton-afternoon-swim",
+      "mistifyProductName": "Afterdawn Swim",
+      "mistifyProductSlug": "afterdawn-swim",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/afterdawn-swim",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Afternoon Swim",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Ginger"
+      ],
+      "baseNotes": [
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange",
+        "Ginger",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_12_16_25PM.png?v=1765422821",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Afternoon Swim Afterdawn Swim Citrus unisex Bergamot Mandarin Orange Ginger Ambergris",
+      "createdAt": "2026-05-04T04:41:26.069Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Ginger"
+      ]
+    },
+    {
+      "id": 215,
+      "fragranceSlug": "viktor-and-rolf-flower-bomb-215",
+      "brandName": "Viktor & Rolf",
+      "brandSlug": "viktor-and-rolf",
+      "originalFragranceName": "Flower Bomb",
+      "originalFragranceSlug": "viktor-and-rolf-flower-bomb",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Viktor & Rolf Flower Bomb",
+      "audience": null,
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Tea",
+        "Bergamot",
+        "Osmanthus"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Freesia",
+        "African Orange Flower"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Tea",
+        "Bergamot",
+        "Osmanthus",
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Freesia",
+        "African Orange Flower",
+        "Patchouli",
+        "Musk",
+        "Vanilla"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Viktor & Rolf viktor and rolf Viktor & Rolf Flower Bomb Not verified Oriental Floral Tea Bergamot Osmanthus Orchid Jasmine Rose Freesia African Orange Flower Patchouli Musk Vanilla",
+      "createdAt": "2026-05-04T04:41:37.102Z",
+      "sharedNotes": [
+        "Bergamot"
+      ]
+    },
+    {
+      "id": 44,
+      "fragranceSlug": "louis-vuitton-symphony-44",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Symphony",
+      "originalFragranceSlug": "louis-vuitton-symphony",
+      "mistifyProductName": "Synchrony",
+      "mistifyProductSlug": "synchrony",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/synchrony",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Symphony",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [],
+      "middleNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Ginger"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Ginger"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_44_42PM.png?v=1765422838",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Symphony Synchrony Citrus unisex Grapefruit Bergamot Ginger",
+      "createdAt": "2026-05-04T04:41:27.061Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Ginger"
+      ]
+    }
+  ]
+}

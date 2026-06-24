@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 134,
+    "fragranceSlug": "creed-viking-134",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Viking",
+    "originalFragranceSlug": "creed-viking",
+    "mistifyProductName": "Voyager",
+    "mistifyProductSlug": "voyager",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/voyager",
+    "publicInspiredByLabel": "Inspired by Creed Viking",
+    "audience": "mens",
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Pink Pepper",
+      "Calabrian Bergamot",
+      "Lemon"
+    ],
+    "middleNotes": [
+      "Pink Pepper",
+      "Bulgarian Rose",
+      "Peppermint"
+    ],
+    "baseNotes": [
+      "Sandalwood",
+      "Vetiver",
+      "Patchouli",
+      "Lavender"
+    ],
+    "allNotes": [
+      "Pink Pepper",
+      "Calabrian Bergamot",
+      "Lemon",
+      "Pink Pepper",
+      "Bulgarian Rose",
+      "Peppermint",
+      "Sandalwood",
+      "Vetiver",
+      "Patchouli",
+      "Lavender"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_32_22PM.png?v=1765422858",
+    "searchableText": "Creed creed Creed Viking Voyager Woody Aromatic mens Pink Pepper Calabrian Bergamot Lemon Pink Pepper Bulgarian Rose Peppermint Sandalwood Vetiver Patchouli Lavender",
+    "createdAt": "2026-05-04T04:41:32.311Z"
+  }
+}

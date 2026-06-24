@@ -1,0 +1,280 @@
+{
+  "fragrances": [
+    {
+      "id": 76,
+      "fragranceSlug": "tom-ford-electric-cherry-76",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Electric Cherry",
+      "originalFragranceSlug": "tom-ford-electric-cherry",
+      "mistifyProductName": "Cherry Spark",
+      "mistifyProductSlug": "cherry-spark",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cherry-spark",
+      "publicInspiredByLabel": "Inspired by Tom Ford Electric Cherry",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Cherry",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Pink Pepper",
+        "Musk",
+        "Ambrettolide"
+      ],
+      "allNotes": [
+        "Cherry",
+        "Ginger",
+        "Jasmine Sambac",
+        "Pink Pepper",
+        "Musk",
+        "Ambrettolide"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_10_56_01AM.png?v=1765422867",
+      "searchableText": "Tom Ford tom ford Tom Ford Electric Cherry Cherry Spark Floral Fruity unisex Cherry Ginger Jasmine Sambac Pink Pepper Musk Ambrettolide",
+      "createdAt": "2026-05-04T04:41:28.924Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Musk",
+        "Ambrettolide"
+      ]
+    },
+    {
+      "id": 200,
+      "fragranceSlug": "xerjoff-accento-200",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Accento",
+      "originalFragranceSlug": "xerjoff-accento",
+      "mistifyProductName": "Accents",
+      "mistifyProductSlug": "accents",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+      "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pineapple",
+        "Hyacinth"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Iris",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Hyacinth",
+        "Jasmine",
+        "Iris",
+        "Pink Pepper",
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+      "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:36.220Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Musk",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 234,
+      "fragranceSlug": "stephane-h-lucas-pink-boa-234",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "Pink Boa",
+      "originalFragranceSlug": "stephane-h-lucas-pink-boa",
+      "mistifyProductName": "Rose Boa",
+      "mistifyProductSlug": "rose-boa",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-boa",
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas Pink Boa",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Black Currant",
+        "Rosemary",
+        "Blackberry",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Raspberry",
+        "Vodka",
+        "Basil",
+        "Lily of the Valley"
+      ],
+      "baseNotes": [
+        "Strawberry",
+        "Musk",
+        "Sandalwood",
+        "Peach",
+        "Amber",
+        "Incense",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Black Currant",
+        "Rosemary",
+        "Blackberry",
+        "Bergamot",
+        "Raspberry",
+        "Vodka",
+        "Basil",
+        "Lily of the Valley",
+        "Strawberry",
+        "Musk",
+        "Sandalwood",
+        "Peach",
+        "Amber",
+        "Incense",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseBoa-_1.png?v=1773460402",
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas Pink Boa Rose Boa Floral Fruity unisex Black Currant Rosemary Blackberry Bergamot Raspberry Vodka Basil Lily of the Valley Strawberry Musk Sandalwood Peach Amber Incense Patchouli",
+      "createdAt": "2026-05-04T04:41:38.242Z",
+      "sharedNotes": [
+        "Strawberry",
+        "Musk",
+        "Patchouli",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 172,
+      "fragranceSlug": "montale-rose-elixir-172",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Rose Elixir",
+      "originalFragranceSlug": "montale-rose-elixir",
+      "mistifyProductName": "Rose Delight",
+      "mistifyProductSlug": "rose-delight",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-delight",
+      "publicInspiredByLabel": "Inspired by Montale Rose Elixir",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Strawberry",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Strawberry",
+        "Orange",
+        "Rose",
+        "Jasmine",
+        "Musk",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseDelight.png?v=1765422958",
+      "searchableText": "Montale montale Montale Rose Elixir Rose Delight Floral Fruity womens Strawberry Orange Rose Jasmine Musk Vanilla",
+      "createdAt": "2026-05-04T04:41:34.530Z",
+      "sharedNotes": [
+        "Strawberry",
+        "Musk"
+      ]
+    },
+    {
+      "id": 170,
+      "fragranceSlug": "montale-dark-cherry-170",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Dark Cherry",
+      "originalFragranceSlug": "montale-dark-cherry",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Dark Cherry",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Black Cherry"
+      ],
+      "middleNotes": [
+        "Rose Petals",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Cherry",
+        "Rose Petals",
+        "Jasmine",
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Dark Cherry Not verified Floral Fruity Bergamot Black Cherry Rose Petals Jasmine Musk Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:34.405Z",
+      "sharedNotes": [
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 126,
+      "fragranceSlug": "creed-aventus-for-her-126",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus for Her",
+      "originalFragranceSlug": "creed-aventus-for-her",
+      "mistifyProductName": "Ventis For Her",
+      "mistifyProductSlug": "ventis-for-her",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ventis-for-her",
+      "publicInspiredByLabel": "Inspired by Creed Aventus for Her",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Green Apple",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Blackcurrant",
+        "Musk"
+      ],
+      "allNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Rose",
+        "Sandalwood",
+        "Blackcurrant",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Screenshot2025-12-03at3.54.35PM.png?v=1765422843",
+      "searchableText": "Creed creed Creed Aventus for Her Ventis For Her Floral Fruity womens Green Apple Bergamot Rose Sandalwood Blackcurrant Musk",
+      "createdAt": "2026-05-04T04:41:31.860Z",
+      "sharedNotes": [
+        "Musk",
+        "Sandalwood"
+      ]
+    }
+  ]
+}

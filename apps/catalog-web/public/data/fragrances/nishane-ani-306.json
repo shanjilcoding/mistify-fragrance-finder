@@ -1,0 +1,55 @@
+{
+  "fragrance": {
+    "id": 306,
+    "fragranceSlug": "nishane-ani-306",
+    "brandName": "Nishane",
+    "brandSlug": "nishane",
+    "originalFragranceName": "Ani",
+    "originalFragranceSlug": "nishane-ani",
+    "mistifyProductName": "Anique",
+    "mistifyProductSlug": "anique",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/anique",
+    "publicInspiredByLabel": "Nishane Ani",
+    "audience": null,
+    "classification": "Spicy Vanilla / Woody Amber",
+    "topNotes": [
+      "Ginger",
+      "Bergamot",
+      "Pink Pepper",
+      "Green Notes"
+    ],
+    "middleNotes": [
+      "Cardamom",
+      "Black Currant",
+      "Turkish Rose"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Benzoin",
+      "Sandalwood",
+      "Cedar",
+      "Patchouli",
+      "Ambergris",
+      "Musk"
+    ],
+    "allNotes": [
+      "Ginger",
+      "Bergamot",
+      "Pink Pepper",
+      "Green Notes",
+      "Cardamom",
+      "Black Currant",
+      "Turkish Rose",
+      "Vanilla",
+      "Benzoin",
+      "Sandalwood",
+      "Cedar",
+      "Patchouli",
+      "Ambergris",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_05_01PM_b09c0367-8ac0-482e-8c49-bb95010362c5.png?v=1781712317",
+    "searchableText": "Nishane Nishane Ani Anique Spicy Vanilla / Woody Amber Ginger Bergamot Pink Pepper Green Notes Cardamom Black Currant Turkish Rose Vanilla Benzoin Sandalwood Cedar Patchouli Ambergris Musk",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

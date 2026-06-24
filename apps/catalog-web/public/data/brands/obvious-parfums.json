@@ -1,0 +1,53 @@
+{
+  "brand": {
+    "brandName": "Obvious Parfums",
+    "brandSlug": "obvious-parfums",
+    "fragranceCount": 1,
+    "searchableText": "Milk & Matcha Matcha Milk Obvious Parfums Milk & Matcha Obvious Parfums Obvious Parfums Milk & Matcha Matcha Milk Gourmand Tea / Creamy Citrus Tangerine Ginger Mandarin Matcha Tea Mate Orange Blossom Tonka Bean Vanilla Peru Balsam"
+  },
+  "fragrances": [
+    {
+      "id": 303,
+      "fragranceSlug": "obvious-parfums-milk-and-matcha-303",
+      "brandName": "Obvious Parfums",
+      "brandSlug": "obvious-parfums",
+      "originalFragranceName": "Milk & Matcha",
+      "originalFragranceSlug": "obvious-parfums-milk-and-matcha",
+      "mistifyProductName": "Matcha Milk",
+      "mistifyProductSlug": "matcha-milk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/matcha-milk",
+      "publicInspiredByLabel": "Obvious Parfums Milk & Matcha",
+      "audience": null,
+      "classification": "Gourmand Tea / Creamy Citrus",
+      "topNotes": [
+        "Tangerine",
+        "Ginger",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Matcha Tea",
+        "Mate",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Peru Balsam"
+      ],
+      "allNotes": [
+        "Tangerine",
+        "Ginger",
+        "Mandarin",
+        "Matcha Tea",
+        "Mate",
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla",
+        "Peru Balsam"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_17_11PM.png?v=1781713040",
+      "searchableText": "Obvious Parfums Obvious Parfums Milk & Matcha Matcha Milk Gourmand Tea / Creamy Citrus Tangerine Ginger Mandarin Matcha Tea Mate Orange Blossom Tonka Bean Vanilla Peru Balsam",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    }
+  ]
+}

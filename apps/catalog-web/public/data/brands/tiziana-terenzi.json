@@ -1,0 +1,196 @@
+{
+  "brand": {
+    "brandName": "Tiziana Terenzi",
+    "brandSlug": "tiziana-terenzi",
+    "fragranceCount": 4,
+    "searchableText": "Gumin Gemine Inspired by Tiziana Terenzi Gumin Tiziana Terenzi tiziana terenzi Tiziana Terenzi Gumin Gemine Not listed clearly by Fragrantica unisex Mandarin Orange Orange Pineapple Bergamot Ozonic Notes Amber Violet Jasmine Rose Musk Sandalwood Birch Oud Kirke Kirka Inspired by Tiziana Terenzi Kirke Tiziana Terenzi tiziana terenzi Tiziana Terenzi Kirke Kirka Fruity Chypre unisex Passionfruit Peach Raspberry Lily of the Valley Heliotrope Musk Sandalwood Patchouli Orion Orien Inspired by Tiziana Terenzi Orion Tiziana Terenzi tiziana terenzi Tiziana Terenzi Orion Orien Floral Woody Musk unisex Pineapple Apple Bergamot Red Currant Birch Thyme Patchouli Jasmine Cedar Incense Oud Musk Amber Saiph Saipha Inspired by Tiziana Terenzi Saiph Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk"
+  },
+  "fragrances": [
+    {
+      "id": 229,
+      "fragranceSlug": "tiziana-terenzi-gumin-229",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Gumin",
+      "originalFragranceSlug": "tiziana-terenzi-gumin",
+      "mistifyProductName": "Gemine",
+      "mistifyProductSlug": "gemine",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gemine",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Gumin",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Mandarin Orange",
+        "Orange",
+        "Pineapple",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Ozonic Notes",
+        "Amber",
+        "Violet",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Orange",
+        "Pineapple",
+        "Bergamot",
+        "Ozonic Notes",
+        "Amber",
+        "Violet",
+        "Jasmine",
+        "Rose",
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Gemine-_1.png?v=1773460415",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Gumin Gemine Not listed clearly by Fragrantica unisex Mandarin Orange Orange Pineapple Bergamot Ozonic Notes Amber Violet Jasmine Rose Musk Sandalwood Birch Oud",
+      "createdAt": "2026-05-04T04:41:37.940Z"
+    },
+    {
+      "id": 230,
+      "fragranceSlug": "tiziana-terenzi-kirke-230",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Kirke",
+      "originalFragranceSlug": "tiziana-terenzi-kirke",
+      "mistifyProductName": "Kirka",
+      "mistifyProductSlug": "kirka",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/kirka",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Kirke",
+      "audience": "unisex",
+      "classification": "Fruity Chypre",
+      "topNotes": [
+        "Passionfruit",
+        "Peach",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Lily of the Valley",
+        "Heliotrope"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Passionfruit",
+        "Peach",
+        "Raspberry",
+        "Lily of the Valley",
+        "Heliotrope",
+        "Musk",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Kirka-_1.png?v=1773460412",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Kirke Kirka Fruity Chypre unisex Passionfruit Peach Raspberry Lily of the Valley Heliotrope Musk Sandalwood Patchouli",
+      "createdAt": "2026-05-04T04:41:38.002Z"
+    },
+    {
+      "id": 231,
+      "fragranceSlug": "tiziana-terenzi-orion-231",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Orion",
+      "originalFragranceSlug": "tiziana-terenzi-orion",
+      "mistifyProductName": "Orien",
+      "mistifyProductSlug": "orien",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orien",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Orion",
+      "audience": "unisex",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant"
+      ],
+      "middleNotes": [
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant",
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine",
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Orien-_1.png?v=1773460410",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Orion Orien Floral Woody Musk unisex Pineapple Apple Bergamot Red Currant Birch Thyme Patchouli Jasmine Cedar Incense Oud Musk Amber",
+      "createdAt": "2026-05-04T04:41:38.057Z"
+    },
+    {
+      "id": 232,
+      "fragranceSlug": "tiziana-terenzi-saiph-232",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Saiph",
+      "originalFragranceSlug": "tiziana-terenzi-saiph",
+      "mistifyProductName": "Saipha",
+      "mistifyProductSlug": "saipha",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saipha",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Saiph",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Saipha-_1.png?v=1773460407",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk",
+      "createdAt": "2026-05-04T04:41:38.116Z"
+    }
+  ]
+}

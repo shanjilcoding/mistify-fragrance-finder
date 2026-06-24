@@ -1,0 +1,288 @@
+{
+  "fragrances": [
+    {
+      "id": 101,
+      "fragranceSlug": "parfums-de-marly-greenley-101",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Greenley",
+      "originalFragranceSlug": "parfums-de-marly-greenley",
+      "mistifyProductName": "Greenery",
+      "mistifyProductSlug": "greenery",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/greenery",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Greenley",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Cashmeran",
+        "Cedar",
+        "Petitgrain"
+      ],
+      "baseNotes": [
+        "Oakmoss",
+        "Musk",
+        "Amberwood"
+      ],
+      "allNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Mandarin Orange",
+        "Cashmeran",
+        "Cedar",
+        "Petitgrain",
+        "Oakmoss",
+        "Musk",
+        "Amberwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-18-13AM-_1.png?v=1773460498",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Greenley Greenery Citrus Aromatic unisex Green Apple Bergamot Mandarin Orange Cashmeran Cedar Petitgrain Oakmoss Musk Amberwood",
+      "createdAt": "2026-05-04T04:41:30.400Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk"
+      ]
+    },
+    {
+      "id": 28,
+      "fragranceSlug": "louis-vuitton-city-of-stars-28",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "City of Stars",
+      "originalFragranceSlug": "louis-vuitton-city-of-stars",
+      "mistifyProductName": "Starry City",
+      "mistifyProductSlug": "starry-city",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/starry-city",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton City of Stars",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Lime",
+        "Blood Orange",
+        "Blood Mandarin",
+        "Lemon",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Tiare Flower"
+      ],
+      "baseNotes": [
+        "Powdery Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Lime",
+        "Blood Orange",
+        "Blood Mandarin",
+        "Lemon",
+        "Bergamot",
+        "Tiare Flower",
+        "Powdery Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_26_41PM.png?v=1765422822",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton City of Stars Starry City Citrus Aromatic unisex Lime Blood Orange Blood Mandarin Lemon Bergamot Tiare Flower Powdery Notes Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:26.125Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk"
+      ]
+    },
+    {
+      "id": 191,
+      "fragranceSlug": "dolce-and-gabbana-light-blue-191",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Light Blue",
+      "originalFragranceSlug": "dolce-and-gabbana-light-blue",
+      "mistifyProductName": "Lumine Bleu",
+      "mistifyProductSlug": "lumine-bleu",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lumine-bleu",
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Light Blue",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper",
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood",
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-04-05AM-_1.png?v=1773460205",
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Light Blue Lumine Bleu Citrus Aromatic unisex Grapefruit Bergamot Sicilian Mandarin Juniper Pepper Rosemary Brazilian Rosewood Musk Incense Oakmoss",
+      "createdAt": "2026-05-04T04:41:35.651Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk"
+      ]
+    },
+    {
+      "id": 65,
+      "fragranceSlug": "kilian-love-don-t-be-shy-65",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Love, Don’t Be Shy",
+      "originalFragranceSlug": "kilian-love-don-t-be-shy",
+      "mistifyProductName": "Love, I’m Not Shy",
+      "mistifyProductSlug": "love-i-m-not-shy",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/love-im-not-shy",
+      "publicInspiredByLabel": "Inspired by Kilian Love, Don’t Be Shy",
+      "audience": "unisex",
+      "classification": "Floral Gourmand",
+      "topNotes": [
+        "Neroli",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Bergamot",
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom",
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-33-02PM-_1.png?v=1773460529",
+      "searchableText": "Kilian kilian By Kilian Love, Don’t Be Shy Love, I’m Not Shy Floral Gourmand unisex Neroli Bergamot Jasmine Honeysuckle Orange Blossom Vanilla Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.274Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Musk"
+      ]
+    },
+    {
+      "id": 55,
+      "fragranceSlug": "kilian-bamboo-harmony-55",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Bamboo Harmony",
+      "originalFragranceSlug": "kilian-bamboo-harmony",
+      "mistifyProductName": "Harmony Bamboo",
+      "mistifyProductSlug": "harmony-bamboo",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/harmony-bamboo",
+      "publicInspiredByLabel": "Inspired by Kilian Bamboo Harmony",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Neroli",
+        "Bitter Orange"
+      ],
+      "middleNotes": [
+        "Tea",
+        "Bamboo",
+        "Mate",
+        "Mimosa",
+        "Spices"
+      ],
+      "baseNotes": [
+        "Fig Leaf",
+        "Holly",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Neroli",
+        "Bitter Orange",
+        "Tea",
+        "Bamboo",
+        "Mate",
+        "Mimosa",
+        "Spices",
+        "Fig Leaf",
+        "Holly",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/HarmonyBamboo.png?v=1765422902",
+      "searchableText": "Kilian kilian By Kilian Bamboo Harmony Harmony Bamboo Citrus Aromatic unisex Bergamot Neroli Bitter Orange Tea Bamboo Mate Mimosa Spices Fig Leaf Holly Oakmoss",
+      "createdAt": "2026-05-04T04:41:27.703Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Mimosa"
+      ]
+    },
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Musk"
+      ]
+    }
+  ]
+}

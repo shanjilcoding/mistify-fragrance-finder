@@ -1,0 +1,35 @@
+{
+  "fragrance": {
+    "id": 29,
+    "fragranceSlug": "louis-vuitton-fleur-du-desert-29",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Fleur du Désert",
+    "originalFragranceSlug": "louis-vuitton-fleur-du-desert",
+    "mistifyProductName": "Floral de Mirage",
+    "mistifyProductSlug": "floral-de-mirage",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/floral-de-mirage",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Fleur du Désert",
+    "audience": "unisex",
+    "classification": "Floral",
+    "topNotes": [
+      "Jasmine",
+      "Orange Blossom"
+    ],
+    "middleNotes": [
+      "Rose"
+    ],
+    "baseNotes": [
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Jasmine",
+      "Orange Blossom",
+      "Rose",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_22_06AM.png?v=1774326133",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Fleur du Désert Floral de Mirage Floral unisex Jasmine Orange Blossom Rose Sandalwood",
+    "createdAt": "2026-05-04T04:41:26.180Z"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "fragrance": {
+    "id": 178,
+    "fragranceSlug": "mancera-red-tobacco-178",
+    "brandName": "Mancera",
+    "brandSlug": "mancera",
+    "originalFragranceName": "Red Tobacco",
+    "originalFragranceSlug": "mancera-red-tobacco",
+    "mistifyProductName": "Scarlet Tobacco",
+    "mistifyProductSlug": "scarlet-tobacco",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/scarlet-tobacco",
+    "publicInspiredByLabel": "Inspired by Mancera Red Tobacco",
+    "audience": "unisex",
+    "classification": "Woody Spicy",
+    "topNotes": [
+      "Cinnamon",
+      "Oud",
+      "Incense",
+      "Saffron",
+      "Nutmeg",
+      "Green Apple",
+      "White Pear"
+    ],
+    "middleNotes": [
+      "Patchouli",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Tobacco",
+      "Madagascar Vanilla",
+      "Amber",
+      "Sandalwood",
+      "Guaiac Wood",
+      "White Musk",
+      "Haitian Vetiver"
+    ],
+    "allNotes": [
+      "Cinnamon",
+      "Oud",
+      "Incense",
+      "Saffron",
+      "Nutmeg",
+      "Green Apple",
+      "White Pear",
+      "Patchouli",
+      "Jasmine",
+      "Tobacco",
+      "Madagascar Vanilla",
+      "Amber",
+      "Sandalwood",
+      "Guaiac Wood",
+      "White Musk",
+      "Haitian Vetiver"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ScarletTobacco.png?v=1765423002",
+    "searchableText": "Mancera mancera Mancera Red Tobacco Scarlet Tobacco Woody Spicy unisex Cinnamon Oud Incense Saffron Nutmeg Green Apple White Pear Patchouli Jasmine Tobacco Madagascar Vanilla Amber Sandalwood Guaiac Wood White Musk Haitian Vetiver",
+    "createdAt": "2026-05-04T04:41:34.885Z"
+  }
+}

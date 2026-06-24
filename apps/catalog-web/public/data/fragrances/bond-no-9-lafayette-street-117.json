@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 117,
+    "fragranceSlug": "bond-no-9-lafayette-street-117",
+    "brandName": "Bond No. 9",
+    "brandSlug": "bond-no-9",
+    "originalFragranceName": "Lafayette Street",
+    "originalFragranceSlug": "bond-no-9-lafayette-street",
+    "mistifyProductName": "Lafayette Avenue",
+    "mistifyProductSlug": "lafayette-avenue",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/lafayette-avenue",
+    "publicInspiredByLabel": "Inspired by Bond No. 9 Lafayette Street",
+    "audience": "unisex",
+    "classification": "Oriental Fougere",
+    "topNotes": [
+      "Bergamot",
+      "Coriander"
+    ],
+    "middleNotes": [
+      "Vanilla",
+      "Apple",
+      "Amber"
+    ],
+    "baseNotes": [
+      "Tonka Bean",
+      "Cedarwood",
+      "Dry Wood Accord"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Coriander",
+      "Vanilla",
+      "Apple",
+      "Amber",
+      "Tonka Bean",
+      "Cedarwood",
+      "Dry Wood Accord"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-46-19AM-_1.png?v=1773460444",
+    "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Lafayette Street Lafayette Avenue Oriental Fougere unisex Bergamot Coriander Vanilla Apple Amber Tonka Bean Cedarwood Dry Wood Accord",
+    "createdAt": "2026-05-04T04:41:31.335Z"
+  }
+}

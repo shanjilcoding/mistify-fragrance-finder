@@ -1,0 +1,33 @@
+{
+  "fragrance": {
+    "id": 260,
+    "fragranceSlug": "gucci-gucci-bloom-260",
+    "brandName": "Gucci",
+    "brandSlug": "gucci",
+    "originalFragranceName": "Gucci Bloom",
+    "originalFragranceSlug": "gucci-gucci-bloom",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Gucci Gucci Bloom",
+    "audience": null,
+    "classification": "Floral",
+    "topNotes": [
+      "Jasmine"
+    ],
+    "middleNotes": [
+      "Tuberose"
+    ],
+    "baseNotes": [
+      "Rangoon Creeper"
+    ],
+    "allNotes": [
+      "Jasmine",
+      "Tuberose",
+      "Rangoon Creeper"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Gucci gucci Gucci Gucci Bloom Not verified Floral Jasmine Tuberose Rangoon Creeper",
+    "createdAt": "2026-05-04T04:41:39.836Z"
+  }
+}

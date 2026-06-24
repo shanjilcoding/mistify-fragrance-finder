@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 73,
+    "fragranceSlug": "kilian-sweet-redemption-73",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Sweet Redemption",
+    "originalFragranceSlug": "kilian-sweet-redemption",
+    "mistifyProductName": "Sweetly Redeeming",
+    "mistifyProductSlug": "sweetly-redeeming",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/sweetly-redeeming",
+    "publicInspiredByLabel": "Inspired by Kilian Sweet Redemption",
+    "audience": "unisex",
+    "classification": "Oriental Floral",
+    "topNotes": [],
+    "middleNotes": [
+      "African Orange Flower",
+      "Vanilla",
+      "Benzoin",
+      "Opoponax",
+      "Myrrh",
+      "Incense"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "African Orange Flower",
+      "Vanilla",
+      "Benzoin",
+      "Opoponax",
+      "Myrrh",
+      "Incense"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/SweetlyRedeeming_ffcf336a-a710-4599-9e35-201eb0e1b9e6.png?v=1765422927",
+    "searchableText": "Kilian kilian By Kilian Sweet Redemption Sweetly Redeeming Oriental Floral unisex African Orange Flower Vanilla Benzoin Opoponax Myrrh Incense",
+    "createdAt": "2026-05-04T04:41:28.756Z"
+  }
+}

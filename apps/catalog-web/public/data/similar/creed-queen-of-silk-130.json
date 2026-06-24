@@ -1,0 +1,281 @@
+{
+  "fragrances": [
+    {
+      "id": 127,
+      "fragranceSlug": "creed-carmina-127",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Carmina",
+      "originalFragranceSlug": "creed-carmina",
+      "mistifyProductName": "Karmina",
+      "mistifyProductSlug": "karmina",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/karmina",
+      "publicInspiredByLabel": "Inspired by Creed Carmina",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pink Pepper",
+        "Black Cherry",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "May Rose",
+        "Peony",
+        "Violet",
+        "Cashmere Wood"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambroxan",
+        "Frankincense",
+        "Myrrh"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Black Cherry",
+        "Saffron",
+        "May Rose",
+        "Peony",
+        "Violet",
+        "Cashmere Wood",
+        "Musk",
+        "Ambroxan",
+        "Frankincense",
+        "Myrrh"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_46_39PM.png?v=1765422844",
+      "searchableText": "Creed creed Creed Carmina Karmina Amber Floral womens Pink Pepper Black Cherry Saffron May Rose Peony Violet Cashmere Wood Musk Ambroxan Frankincense Myrrh",
+      "createdAt": "2026-05-04T04:41:31.917Z",
+      "sharedNotes": [
+        "Saffron",
+        "Myrrh",
+        "Ambroxan",
+        "Musk"
+      ]
+    },
+    {
+      "id": 149,
+      "fragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet-149",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Supreme Bouquet",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet",
+      "mistifyProductName": "Ethereal Bloom",
+      "mistifyProductSlug": "ethereal-bloom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ethereal-bloom",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Supreme Bouquet",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pear",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pear",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/EtherealBloom-_1.png?v=1773460422",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Supreme Bouquet Ethereal Bloom Amber Floral womens Pear Pink Pepper Tuberose Ylang-Ylang Jasmine Amber Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.197Z",
+      "sharedNotes": [
+        "Tuberose",
+        "Patchouli",
+        "Musk"
+      ]
+    },
+    {
+      "id": 69,
+      "fragranceSlug": "kilian-rose-oud-69",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rose Oud",
+      "originalFragranceSlug": "kilian-rose-oud",
+      "mistifyProductName": "Rosy Oud",
+      "mistifyProductSlug": "rosy-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rosy-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Rose Oud",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Rose",
+        "Saffron",
+        "Oud",
+        "Cedarwood",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RosyOud_9a080a3b-9ff3-481e-8ecc-190466f11560.png?v=1765422921",
+      "searchableText": "Kilian kilian By Kilian Rose Oud Rosy Oud Oriental Floral unisex Rose Saffron Oud Cedarwood Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:28.526Z",
+      "sharedNotes": [
+        "Saffron",
+        "Oud",
+        "Patchouli",
+        "Cedarwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 257,
+      "fragranceSlug": "narciso-rodriguez-amber-musc-257",
+      "brandName": "Narciso Rodriguez",
+      "brandSlug": "narciso-rodriguez",
+      "originalFragranceName": "Amber Musc",
+      "originalFragranceSlug": "narciso-rodriguez-amber-musc",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Narciso Rodriguez Amber Musc",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Musk",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Oud",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "allNotes": [
+        "Musk",
+        "Orange Blossom",
+        "Patchouli",
+        "Oud",
+        "Leather",
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Narciso Rodriguez narciso rodriguez Narciso Rodriguez Amber Musc Not verified Oriental Musk Orange Blossom Patchouli Oud Leather Amber Vanilla Incense",
+      "createdAt": "2026-05-04T04:41:39.654Z",
+      "sharedNotes": [
+        "Oud",
+        "Patchouli",
+        "Vanilla",
+        "Incense",
+        "Musk"
+      ]
+    },
+    {
+      "id": 18,
+      "fragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum-18",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Baccarat Rouge 540 Extrait de Parfum",
+      "originalFragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum",
+      "mistifyProductName": "Baccarata Intense 440",
+      "mistifyProductSlug": "baccarata-intense-440",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baccarata-intense-440?variant=49907830686015",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum",
+      "audience": null,
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Bitter Almond",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Egyptian Jasmine",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Woody Notes",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bitter Almond",
+        "Saffron",
+        "Egyptian Jasmine",
+        "Cedar",
+        "Ambergris",
+        "Woody Notes",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-58-36PM-_1.png?v=1773460513",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum Baccarata Intense 440 Amber Floral Bitter Almond Saffron Egyptian Jasmine Cedar Ambergris Woody Notes Musk",
+      "createdAt": "2026-05-04T04:41:25.544Z",
+      "sharedNotes": [
+        "Saffron",
+        "Musk"
+      ]
+    },
+    {
+      "id": 157,
+      "fragranceSlug": "initio-oud-for-greatness-157",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Greatness",
+      "originalFragranceSlug": "initio-oud-for-greatness",
+      "mistifyProductName": "Majestic Oud",
+      "mistifyProductSlug": "majestic-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-oud",
+      "publicInspiredByLabel": "Inspired by Initio Oud for Greatness",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Oud"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_56_51PM.png?v=1765422990",
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Greatness Majestic Oud Woody Spicy unisex Saffron Nutmeg Lavender Oud Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.651Z",
+      "sharedNotes": [
+        "Saffron",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ]
+    }
+  ]
+}

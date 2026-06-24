@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 80,
+    "fragranceSlug": "tom-ford-lost-cherry-80",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Lost Cherry",
+    "originalFragranceSlug": "tom-ford-lost-cherry",
+    "mistifyProductName": "Cherry Reverie",
+    "mistifyProductSlug": "cherry-reverie",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/cherry-reverie",
+    "publicInspiredByLabel": "Inspired by Tom Ford Lost Cherry",
+    "audience": "unisex",
+    "classification": "Floral Gourmand",
+    "topNotes": [
+      "Black Cherry",
+      "Bitter Almond",
+      "Cherry Liqueur"
+    ],
+    "middleNotes": [
+      "Griotte Syrup",
+      "Jasmine Sambac"
+    ],
+    "baseNotes": [
+      "Peru Balsam",
+      "Roasted Tonka Bean",
+      "Sandalwood",
+      "Vetiver",
+      "Cedar"
+    ],
+    "allNotes": [
+      "Black Cherry",
+      "Bitter Almond",
+      "Cherry Liqueur",
+      "Griotte Syrup",
+      "Jasmine Sambac",
+      "Peru Balsam",
+      "Roasted Tonka Bean",
+      "Sandalwood",
+      "Vetiver",
+      "Cedar"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-25-11AM-_1.png?v=1773460540",
+    "searchableText": "Tom Ford tom ford Tom Ford Lost Cherry Cherry Reverie Floral Gourmand unisex Black Cherry Bitter Almond Cherry Liqueur Griotte Syrup Jasmine Sambac Peru Balsam Roasted Tonka Bean Sandalwood Vetiver Cedar",
+    "createdAt": "2026-05-04T04:41:29.166Z"
+  }
+}

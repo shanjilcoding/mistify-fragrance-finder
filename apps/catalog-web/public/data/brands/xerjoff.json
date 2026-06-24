@@ -1,0 +1,266 @@
+{
+  "brand": {
+    "brandName": "Xerjoff",
+    "brandSlug": "xerjoff",
+    "fragranceCount": 6,
+    "searchableText": "Accento Accents Inspired by Xerjoff Accento Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli Erba Pura Herb Pura Inspired by Xerjoff Erba Pura Xerjoff xerjoff Xerjoff Erba Pura Herb Pura Oriental unisex Sicilian Orange Calabrian Bergamot Sicilian Lemon Fruits White Musk Madagascar Vanilla Amber Laylati Laylatal Inspired by Xerjoff Laylati Xerjoff xerjoff Xerjoff Laylati Laylatal Woody Oriental unisex Green Notes Cedar Patchouli Musk Tobacco Vanilla Naxos Naxian Gold Inspired by Xerjoff Naxos Xerjoff xerjoff Xerjoff Naxos Naxian Gold Citrus Gourmand unisex Lavender Bergamot Lemon Honey Cinnamon Cashmeran Jasmine Sambac Tobacco Leaf Vanilla Tonka Bean Torino 21 Torino Verde Inspired by Xerjoff Torino 21 Xerjoff xerjoff Xerjoff Torino 21 Torino Verde Aromatic Green unisex Mint Lemon Basil Thyme Black Currant Rosemary Lavender Jasmine Musk Vervain Uden Udin Inspired by Xerjoff Uden Xerjoff xerjoff Xerjoff Uden Udin Aromatic Spicy unisex Citruses Lemon Grapefruit Rum Guaiac Wood Sandalwood Rose Vanilla Coffee Musk Ambergris"
+  },
+  "fragrances": [
+    {
+      "id": 200,
+      "fragranceSlug": "xerjoff-accento-200",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Accento",
+      "originalFragranceSlug": "xerjoff-accento",
+      "mistifyProductName": "Accents",
+      "mistifyProductSlug": "accents",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+      "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pineapple",
+        "Hyacinth"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Iris",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Hyacinth",
+        "Jasmine",
+        "Iris",
+        "Pink Pepper",
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+      "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:36.220Z"
+    },
+    {
+      "id": 202,
+      "fragranceSlug": "xerjoff-erba-pura-202",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Erba Pura",
+      "originalFragranceSlug": "xerjoff-erba-pura",
+      "mistifyProductName": "Herb Pura",
+      "mistifyProductSlug": "herb-pura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/herb-pura",
+      "publicInspiredByLabel": "Inspired by Xerjoff Erba Pura",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Sicilian Orange",
+        "Calabrian Bergamot",
+        "Sicilian Lemon"
+      ],
+      "middleNotes": [
+        "Fruits"
+      ],
+      "baseNotes": [
+        "White Musk",
+        "Madagascar Vanilla",
+        "Amber"
+      ],
+      "allNotes": [
+        "Sicilian Orange",
+        "Calabrian Bergamot",
+        "Sicilian Lemon",
+        "Fruits",
+        "White Musk",
+        "Madagascar Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-47-48AM-_1.png?v=1773460527",
+      "searchableText": "Xerjoff xerjoff Xerjoff Erba Pura Herb Pura Oriental unisex Sicilian Orange Calabrian Bergamot Sicilian Lemon Fruits White Musk Madagascar Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:36.343Z"
+    },
+    {
+      "id": 203,
+      "fragranceSlug": "xerjoff-laylati-203",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Laylati",
+      "originalFragranceSlug": "xerjoff-laylati",
+      "mistifyProductName": "Laylatal",
+      "mistifyProductSlug": "laylatal",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/laylatal",
+      "publicInspiredByLabel": "Inspired by Xerjoff Laylati",
+      "audience": "unisex",
+      "classification": "Woody Oriental",
+      "topNotes": [
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Tobacco",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Green Notes",
+        "Cedar",
+        "Patchouli",
+        "Musk",
+        "Tobacco",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Laylatal.png?v=1765422944",
+      "searchableText": "Xerjoff xerjoff Xerjoff Laylati Laylatal Woody Oriental unisex Green Notes Cedar Patchouli Musk Tobacco Vanilla",
+      "createdAt": "2026-05-04T04:41:36.401Z"
+    },
+    {
+      "id": 201,
+      "fragranceSlug": "xerjoff-naxos-201",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Naxos",
+      "originalFragranceSlug": "xerjoff-naxos",
+      "mistifyProductName": "Naxian Gold",
+      "mistifyProductSlug": "naxian-gold",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/naxian-gold",
+      "publicInspiredByLabel": "Inspired by Xerjoff Naxos",
+      "audience": "unisex",
+      "classification": "Citrus Gourmand",
+      "topNotes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Honey",
+        "Cinnamon",
+        "Cashmeran",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Tobacco Leaf",
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon",
+        "Honey",
+        "Cinnamon",
+        "Cashmeran",
+        "Jasmine Sambac",
+        "Tobacco Leaf",
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-29-20PM-_1.png?v=1773460339",
+      "searchableText": "Xerjoff xerjoff Xerjoff Naxos Naxian Gold Citrus Gourmand unisex Lavender Bergamot Lemon Honey Cinnamon Cashmeran Jasmine Sambac Tobacco Leaf Vanilla Tonka Bean",
+      "createdAt": "2026-05-04T04:41:36.283Z"
+    },
+    {
+      "id": 205,
+      "fragranceSlug": "xerjoff-torino-21-205",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Torino 21",
+      "originalFragranceSlug": "xerjoff-torino-21",
+      "mistifyProductName": "Torino Verde",
+      "mistifyProductSlug": "torino-verde",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vanilla-veil-copy",
+      "publicInspiredByLabel": "Inspired by Xerjoff Torino 21",
+      "audience": "unisex",
+      "classification": "Aromatic Green",
+      "topNotes": [
+        "Mint",
+        "Lemon",
+        "Basil",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Black Currant",
+        "Rosemary",
+        "Lavender",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vervain"
+      ],
+      "allNotes": [
+        "Mint",
+        "Lemon",
+        "Basil",
+        "Thyme",
+        "Black Currant",
+        "Rosemary",
+        "Lavender",
+        "Jasmine",
+        "Musk",
+        "Vervain"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar3-2026-01-09-45PM-_1.png?v=1773460122",
+      "searchableText": "Xerjoff xerjoff Xerjoff Torino 21 Torino Verde Aromatic Green unisex Mint Lemon Basil Thyme Black Currant Rosemary Lavender Jasmine Musk Vervain",
+      "createdAt": "2026-05-04T04:41:36.517Z"
+    },
+    {
+      "id": 204,
+      "fragranceSlug": "xerjoff-uden-204",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Uden",
+      "originalFragranceSlug": "xerjoff-uden",
+      "mistifyProductName": "Udin",
+      "mistifyProductSlug": "udin",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/udin",
+      "publicInspiredByLabel": "Inspired by Xerjoff Uden",
+      "audience": "unisex",
+      "classification": "Aromatic Spicy",
+      "topNotes": [
+        "Citruses",
+        "Lemon",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Rum",
+        "Guaiac Wood",
+        "Sandalwood",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Coffee",
+        "Musk",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Citruses",
+        "Lemon",
+        "Grapefruit",
+        "Rum",
+        "Guaiac Wood",
+        "Sandalwood",
+        "Rose",
+        "Vanilla",
+        "Coffee",
+        "Musk",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-59-07PM-_1.png?v=1773460341",
+      "searchableText": "Xerjoff xerjoff Xerjoff Uden Udin Aromatic Spicy unisex Citruses Lemon Grapefruit Rum Guaiac Wood Sandalwood Rose Vanilla Coffee Musk Ambergris",
+      "createdAt": "2026-05-04T04:41:36.455Z"
+    }
+  ]
+}

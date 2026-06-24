@@ -1,0 +1,265 @@
+{
+  "fragrances": [
+    {
+      "id": 108,
+      "fragranceSlug": "parfums-de-marly-valaya-108",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Valaya",
+      "originalFragranceSlug": "parfums-de-marly-valaya",
+      "mistifyProductName": "Valeti",
+      "mistifyProductSlug": "valeti",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/valeti",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Valaya",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Peach",
+        "Petalia"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin",
+        "Orange Blossom",
+        "Peach",
+        "Petalia",
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-15AM-_1.png?v=1773460483",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valaya Valeti Floral Woody Musk womens Bergamot Grapefruit Mandarin Orange Blossom Peach Petalia Ambroxan White Musk Akigalawood",
+      "createdAt": "2026-05-04T04:41:30.796Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange Blossom",
+        "Akigalawood"
+      ]
+    },
+    {
+      "id": 27,
+      "fragranceSlug": "louis-vuitton-afternoon-swim-27",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Afternoon Swim",
+      "originalFragranceSlug": "louis-vuitton-afternoon-swim",
+      "mistifyProductName": "Afterdawn Swim",
+      "mistifyProductSlug": "afterdawn-swim",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/afterdawn-swim",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Afternoon Swim",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Ginger"
+      ],
+      "baseNotes": [
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange",
+        "Ginger",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_12_16_25PM.png?v=1765422821",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Afternoon Swim Afterdawn Swim Citrus unisex Bergamot Mandarin Orange Ginger Ambergris",
+      "createdAt": "2026-05-04T04:41:26.069Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Ginger"
+      ]
+    },
+    {
+      "id": 65,
+      "fragranceSlug": "kilian-love-don-t-be-shy-65",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Love, Don’t Be Shy",
+      "originalFragranceSlug": "kilian-love-don-t-be-shy",
+      "mistifyProductName": "Love, I’m Not Shy",
+      "mistifyProductSlug": "love-i-m-not-shy",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/love-im-not-shy",
+      "publicInspiredByLabel": "Inspired by Kilian Love, Don’t Be Shy",
+      "audience": "unisex",
+      "classification": "Floral Gourmand",
+      "topNotes": [
+        "Neroli",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Bergamot",
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom",
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-33-02PM-_1.png?v=1773460529",
+      "searchableText": "Kilian kilian By Kilian Love, Don’t Be Shy Love, I’m Not Shy Floral Gourmand unisex Neroli Bergamot Jasmine Honeysuckle Orange Blossom Vanilla Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.274Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Orange Blossom",
+        "Musk"
+      ]
+    },
+    {
+      "id": 40,
+      "fragranceSlug": "louis-vuitton-sun-song-40",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Sun Song",
+      "originalFragranceSlug": "louis-vuitton-sun-song",
+      "mistifyProductName": "Solar Aura",
+      "mistifyProductSlug": "solar-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/solar-aura",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Sun Song",
+      "audience": "mens",
+      "classification": "Citrus Floral",
+      "topNotes": [
+        "Orange Blossom",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Bergamot"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Lemon",
+        "Bergamot",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-49-28PM-_1.png?v=1773460275",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Sun Song Solar Aura Citrus Floral mens Orange Blossom Lemon Bergamot Musk",
+      "createdAt": "2026-05-04T04:41:26.827Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Orange Blossom",
+        "Musk"
+      ]
+    },
+    {
+      "id": 154,
+      "fragranceSlug": "ysl-yves-saint-laurent-libre-berry-crush-154",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Libre Berry Crush",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-libre-berry-crush",
+      "mistifyProductName": "Libre Berry",
+      "mistifyProductSlug": "libre-berry",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-berry",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre Berry Crush",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Raspberry",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Musk",
+        "Coconut"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Mandarin",
+        "Orange Blossom",
+        "Lavender",
+        "Bourbon Vanilla",
+        "Musk",
+        "Coconut"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_10_01_31AM.png?v=1778594501",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Berry Crush Libre Berry Floral Fruity Raspberry Mandarin Orange Blossom Lavender Bourbon Vanilla Musk Coconut",
+      "createdAt": "2026-05-04T04:41:33.476Z",
+      "sharedNotes": [
+        "Mandarin",
+        "Orange Blossom",
+        "Musk"
+      ]
+    },
+    {
+      "id": 148,
+      "fragranceSlug": "ysl-yves-saint-laurent-myslf-148",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "MYSLF",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-myslf",
+      "mistifyProductName": "MYSELF",
+      "mistifyProductSlug": "myself",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/myself",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) MYSLF",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Sage",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Ginger",
+        "Lavender",
+        "Sage",
+        "Orange Blossom",
+        "Cedarwood",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-19-50PM-_1.png?v=1773460424",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) MYSLF MYSELF Woody Aromatic mens Bergamot Ginger Lavender Sage Orange Blossom Cedarwood Ambergris",
+      "createdAt": "2026-05-04T04:41:33.134Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Ginger",
+        "Orange Blossom"
+      ]
+    }
+  ]
+}

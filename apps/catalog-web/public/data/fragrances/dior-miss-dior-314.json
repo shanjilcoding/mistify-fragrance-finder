@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 314,
+    "fragranceSlug": "dior-miss-dior-314",
+    "brandName": "Dior",
+    "brandSlug": "dior",
+    "originalFragranceName": "Miss Dior",
+    "originalFragranceSlug": "dior-miss-dior",
+    "mistifyProductName": "Mademoiselle Dioré",
+    "mistifyProductSlug": "mademoiselle-diore",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/mademoiselle-diore",
+    "publicInspiredByLabel": "Dior Miss Dior",
+    "audience": null,
+    "classification": "Floral Fruity / Soft Gourmand",
+    "topNotes": [
+      "Iris",
+      "Peony",
+      "Lily-of-the-Valley"
+    ],
+    "middleNotes": [
+      "Rose",
+      "Apricot",
+      "Peach"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Musk",
+      "Tonka Bean",
+      "Sandalwood",
+      "Benzoin"
+    ],
+    "allNotes": [
+      "Iris",
+      "Peony",
+      "Lily-of-the-Valley",
+      "Rose",
+      "Apricot",
+      "Peach",
+      "Vanilla",
+      "Musk",
+      "Tonka Bean",
+      "Sandalwood",
+      "Benzoin"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_33_13AM.png?v=1781710406",
+    "searchableText": "Dior Christian Dior Miss Dior Mademoiselle Dioré Floral Fruity / Soft Gourmand Iris Peony Lily-of-the-Valley Rose Apricot Peach Vanilla Musk Tonka Bean Sandalwood Benzoin",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

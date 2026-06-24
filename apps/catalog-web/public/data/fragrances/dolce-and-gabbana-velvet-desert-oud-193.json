@@ -1,0 +1,33 @@
+{
+  "fragrance": {
+    "id": 193,
+    "fragranceSlug": "dolce-and-gabbana-velvet-desert-oud-193",
+    "brandName": "Dolce & Gabbana",
+    "brandSlug": "dolce-and-gabbana",
+    "originalFragranceName": "Velvet Desert Oud",
+    "originalFragranceSlug": "dolce-and-gabbana-velvet-desert-oud",
+    "mistifyProductName": "Desert Velvet",
+    "mistifyProductSlug": "desert-velvet",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/desert-velvet",
+    "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Desert Oud",
+    "audience": "unisex",
+    "classification": "Oriental",
+    "topNotes": [],
+    "middleNotes": [
+      "Incense",
+      "Agarwood/Oud",
+      "Amber",
+      "Musk"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Incense",
+      "Agarwood/Oud",
+      "Amber",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/DesertVelvet.png?v=1765422932",
+    "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Desert Oud Desert Velvet Oriental unisex Incense Agarwood/Oud Amber Musk",
+    "createdAt": "2026-05-04T04:41:35.780Z"
+  }
+}

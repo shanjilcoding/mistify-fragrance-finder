@@ -1,0 +1,314 @@
+{
+  "fragrances": [
+    {
+      "id": 214,
+      "fragranceSlug": "viktor-and-rolf-spice-bomb-214",
+      "brandName": "Viktor & Rolf",
+      "brandSlug": "viktor-and-rolf",
+      "originalFragranceName": "Spice Bomb",
+      "originalFragranceSlug": "viktor-and-rolf-spice-bomb",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Viktor & Rolf Spice Bomb",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Pink Pepper",
+        "Elemi",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Paprika",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Tobacco",
+        "Leather",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Elemi",
+        "Bergamot",
+        "Grapefruit",
+        "Cinnamon",
+        "Paprika",
+        "Saffron",
+        "Tobacco",
+        "Leather",
+        "Vetiver"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Viktor & Rolf viktor and rolf Viktor & Rolf Spice Bomb Not verified Woody Spicy Pink Pepper Elemi Bergamot Grapefruit Cinnamon Paprika Saffron Tobacco Leather Vetiver",
+      "createdAt": "2026-05-04T04:41:37.047Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Bergamot",
+        "Vetiver",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 298,
+      "fragranceSlug": "marc-antoine-barrois-ganymede-298",
+      "brandName": "Marc-Antoine Barrois",
+      "brandSlug": "marc-antoine-barrois",
+      "originalFragranceName": "Ganymede",
+      "originalFragranceSlug": "marc-antoine-barrois-ganymede",
+      "mistifyProductName": "Mineral Suede",
+      "mistifyProductSlug": "mineral-suede",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mineral-suede",
+      "publicInspiredByLabel": "Inspired by Marc-Antoine Barrois Ganymede",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Italian Mandarin"
+      ],
+      "middleNotes": [
+        "Chinese Osmanthus",
+        "Immortelle",
+        "Violet Leaf"
+      ],
+      "baseNotes": [
+        "Mineral Notes",
+        "Suede",
+        "Akigalawood",
+        "Cedar",
+        "Musk",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Italian Mandarin",
+        "Chinese Osmanthus",
+        "Immortelle",
+        "Violet Leaf",
+        "Mineral Notes",
+        "Suede",
+        "Akigalawood",
+        "Cedar",
+        "Musk",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay20_2026_02_13_18PM.png?v=1779300809",
+      "searchableText": "Marc-Antoine Barrois marc antoine barrois Marc-Antoine Barrois Ganymede Mineral Suede Woody Spicy Saffron Italian Mandarin Chinese Osmanthus Immortelle Violet Leaf Mineral Notes Suede Akigalawood Cedar Musk Patchouli",
+      "createdAt": "2026-05-04T04:41:42.126Z",
+      "sharedNotes": [
+        "Akigalawood",
+        "Suede",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 281,
+      "fragranceSlug": "amouage-decision-281",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Decision",
+      "originalFragranceSlug": "amouage-decision",
+      "mistifyProductName": "Final Say",
+      "mistifyProductSlug": "final-say",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/final-say",
+      "publicInspiredByLabel": "Inspired by Amouage Decision",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper",
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh",
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb10-2026-01-48-07PM-_1.png?v=1773460152",
+      "searchableText": "Amouage amouage Amouage Decision Final Say Woody Aromatic unisex Cardamom Bergamot Pink Pepper Frankincense Juniper Berries Myrrh Vanilla Cedarwood Patchouli",
+      "createdAt": "2026-05-04T04:41:41.123Z",
+      "sharedNotes": [
+        "Frankincense",
+        "Pink Pepper",
+        "Bergamot",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 277,
+      "fragranceSlug": "amouage-guidance-277",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Guidance",
+      "originalFragranceSlug": "amouage-guidance",
+      "mistifyProductName": "Guidara",
+      "mistifyProductSlug": "guidara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/guidara",
+      "publicInspiredByLabel": "Inspired by Amouage Guidance",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pear",
+        "Hazelnut",
+        "Olibanum"
+      ],
+      "middleNotes": [
+        "Osmanthus",
+        "Rose",
+        "Saffron",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Vanilla",
+        "Akigalawood",
+        "Ambergris",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Pear",
+        "Hazelnut",
+        "Olibanum",
+        "Osmanthus",
+        "Rose",
+        "Saffron",
+        "Jasmine Sambac",
+        "Sandalwood",
+        "Vanilla",
+        "Akigalawood",
+        "Ambergris",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov14-2025-09-56-20AM-_1.png?v=1773460216",
+      "searchableText": "Amouage amouage Amouage Guidance Guidara Floral Fruity unisex Pear Hazelnut Olibanum Osmanthus Rose Saffron Jasmine Sambac Sandalwood Vanilla Akigalawood Ambergris Labdanum",
+      "createdAt": "2026-05-04T04:41:40.883Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Rose",
+        "Akigalawood",
+        "Vanilla",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 248,
+      "fragranceSlug": "penhaligon-s-halfeti-cedar-248",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti Cedar",
+      "originalFragranceSlug": "penhaligon-s-halfeti-cedar",
+      "mistifyProductName": "Halfeti Cedar Rose",
+      "mistifyProductSlug": "halfeti-cedar-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-cedar-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti Cedar",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Rum",
+        "Saffron",
+        "Peach",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Virginia Cedar",
+        "Dried Fruits",
+        "Cinnamon",
+        "Mineral Notes",
+        "Immortelle"
+      ],
+      "baseNotes": [
+        "Atlas Cedar",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Rum",
+        "Saffron",
+        "Peach",
+        "Cardamom",
+        "Virginia Cedar",
+        "Dried Fruits",
+        "Cinnamon",
+        "Mineral Notes",
+        "Immortelle",
+        "Atlas Cedar",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_46_35AM.png?v=1765422935",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Cedar Halfeti Cedar Rose Woody Spicy unisex Rum Saffron Peach Cardamom Virginia Cedar Dried Fruits Cinnamon Mineral Notes Immortelle Atlas Cedar Tonka Bean Vanilla Labdanum Patchouli",
+      "createdAt": "2026-05-04T04:41:39.097Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 158,
+      "fragranceSlug": "initio-oud-for-happiness-158",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Happiness",
+      "originalFragranceSlug": "initio-oud-for-happiness",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Initio Oud for Happiness",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Bergamot",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Licorice",
+        "Oud",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Herbal Notes",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Ginger",
+        "Licorice",
+        "Oud",
+        "Cedar",
+        "Vanilla",
+        "Herbal Notes",
+        "Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Happiness Not verified Woody Spicy Bergamot Ginger Licorice Oud Cedar Vanilla Herbal Notes Musk",
+      "createdAt": "2026-05-04T04:41:33.707Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla"
+      ]
+    }
+  ]
+}

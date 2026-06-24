@@ -1,0 +1,287 @@
+{
+  "fragrances": [
+    {
+      "id": 145,
+      "fragranceSlug": "ysl-yves-saint-laurent-black-opium-145",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Black Opium",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-black-opium",
+      "mistifyProductName": "Noir Opiate",
+      "mistifyProductSlug": "noir-opiate",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/noir-opiate",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Black Opium",
+      "audience": "womens",
+      "classification": "Amber Vanilla",
+      "topNotes": [
+        "Pink Pepper",
+        "Orange Blossom",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Coffee",
+        "Jasmine",
+        "Bitter Almond",
+        "Licorice"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli",
+        "Cedar",
+        "Cashmere Wood"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Orange Blossom",
+        "Pear",
+        "Coffee",
+        "Jasmine",
+        "Bitter Almond",
+        "Licorice",
+        "Vanilla",
+        "Patchouli",
+        "Cedar",
+        "Cashmere Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-34-58PM-_1.png?v=1773460432",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Black Opium Noir Opiate Amber Vanilla womens Pink Pepper Orange Blossom Pear Coffee Jasmine Bitter Almond Licorice Vanilla Patchouli Cedar Cashmere Wood",
+      "createdAt": "2026-05-04T04:41:32.939Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Patchouli",
+        "Coffee"
+      ]
+    },
+    {
+      "id": 29,
+      "fragranceSlug": "louis-vuitton-fleur-du-desert-29",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Fleur du Désert",
+      "originalFragranceSlug": "louis-vuitton-fleur-du-desert",
+      "mistifyProductName": "Floral de Mirage",
+      "mistifyProductSlug": "floral-de-mirage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/floral-de-mirage",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Fleur du Désert",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Jasmine",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Rose"
+      ],
+      "baseNotes": [
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Rose",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_22_06AM.png?v=1774326133",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Fleur du Désert Floral de Mirage Floral unisex Jasmine Orange Blossom Rose Sandalwood",
+      "createdAt": "2026-05-04T04:41:26.180Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 3,
+      "fragranceSlug": "guerlain-santal-royal-3",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Santal Royal",
+      "originalFragranceSlug": "guerlain-santal-royal",
+      "mistifyProductName": "Royal Santal",
+      "mistifyProductSlug": "royal-santal",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/royal-santal",
+      "publicInspiredByLabel": "Inspired by Guerlain Santal Royal",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Neroli",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Sandalwood",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Jasmine",
+        "Sandalwood",
+        "Rose",
+        "Leather",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-20-14PM-_1.png?v=1773460356",
+      "searchableText": "Guerlain guerlain Guerlain Santal Royal Royal Santal Oriental Woody unisex Neroli Jasmine Sandalwood Rose Leather Amber Musk",
+      "createdAt": "2026-05-04T04:41:24.668Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 56,
+      "fragranceSlug": "kilian-black-phantom-56",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Black Phantom",
+      "originalFragranceSlug": "kilian-black-phantom",
+      "mistifyProductName": "Dark Phantom",
+      "mistifyProductSlug": "dark-phantom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/dark-phantom",
+      "publicInspiredByLabel": "Inspired by Kilian Black Phantom",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Rum"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope",
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-42-32AM-_1.png?v=1773460532",
+      "searchableText": "Kilian kilian By Kilian Black Phantom Dark Phantom Oriental Vanilla unisex Rum Dark Chocolate Coffee Almond Heliotrope Caramel Sugar Cane Sandalwood Vanilla Tonka Vetiver",
+      "createdAt": "2026-05-04T04:41:27.757Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Coffee",
+        "Caramel"
+      ]
+    },
+    {
+      "id": 122,
+      "fragranceSlug": "bond-no-9-bleecker-street-122",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Bleecker Street",
+      "originalFragranceSlug": "bond-no-9-bleecker-street",
+      "mistifyProductName": "Bleek St.",
+      "mistifyProductSlug": "bleek-st",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleek-st",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Bleecker Street",
+      "audience": "unisex",
+      "classification": "Woody Aromatic Gourmand",
+      "topNotes": [
+        "Violet Leaf",
+        "Blueberry",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Cedarwood",
+        "Jasmine",
+        "Cinnamon"
+      ],
+      "baseNotes": [
+        "Oakmoss",
+        "Suede",
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Caramel"
+      ],
+      "allNotes": [
+        "Violet Leaf",
+        "Blueberry",
+        "Thyme",
+        "Cedarwood",
+        "Jasmine",
+        "Cinnamon",
+        "Oakmoss",
+        "Suede",
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Caramel"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-33-00AM-_1.png?v=1773460249",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Bleecker Street Bleek St. Woody Aromatic Gourmand unisex Violet Leaf Blueberry Thyme Cedarwood Jasmine Cinnamon Oakmoss Suede Amber Vanilla Patchouli Caramel",
+      "createdAt": "2026-05-04T04:41:31.629Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Patchouli",
+        "Caramel"
+      ]
+    },
+    {
+      "id": 65,
+      "fragranceSlug": "kilian-love-don-t-be-shy-65",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Love, Don’t Be Shy",
+      "originalFragranceSlug": "kilian-love-don-t-be-shy",
+      "mistifyProductName": "Love, I’m Not Shy",
+      "mistifyProductSlug": "love-i-m-not-shy",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/love-im-not-shy",
+      "publicInspiredByLabel": "Inspired by Kilian Love, Don’t Be Shy",
+      "audience": "unisex",
+      "classification": "Floral Gourmand",
+      "topNotes": [
+        "Neroli",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Bergamot",
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom",
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-33-02PM-_1.png?v=1773460529",
+      "searchableText": "Kilian kilian By Kilian Love, Don’t Be Shy Love, I’m Not Shy Floral Gourmand unisex Neroli Bergamot Jasmine Honeysuckle Orange Blossom Vanilla Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.274Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Caramel"
+      ]
+    }
+  ]
+}

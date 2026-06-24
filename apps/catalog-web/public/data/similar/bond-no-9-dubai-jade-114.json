@@ -1,0 +1,331 @@
+{
+  "fragrances": [
+    {
+      "id": 289,
+      "fragranceSlug": "frederic-malle-portrait-of-a-lady-289",
+      "brandName": "Frederic Malle",
+      "brandSlug": "frederic-malle",
+      "originalFragranceName": "Portrait of a Lady",
+      "originalFragranceSlug": "frederic-malle-portrait-of-a-lady",
+      "mistifyProductName": "Portrait Femme",
+      "mistifyProductSlug": "portrait-femme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/portrait-femme",
+      "publicInspiredByLabel": "Inspired by Frederic Malle Portrait of a Lady",
+      "audience": "womens",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Clove",
+        "Raspberry",
+        "Black Currant",
+        "Cinnamon",
+        "Red Berries"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Patchouli",
+        "Incense",
+        "Sandalwood",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Sandalwood",
+        "Musk",
+        "Benzoin",
+        "Amber",
+        "Ambergris",
+        "Cedar",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Rose",
+        "Clove",
+        "Raspberry",
+        "Black Currant",
+        "Cinnamon",
+        "Red Berries",
+        "Turkish Rose",
+        "Patchouli",
+        "Incense",
+        "Sandalwood",
+        "Ylang-Ylang",
+        "Incense",
+        "Sandalwood",
+        "Musk",
+        "Benzoin",
+        "Amber",
+        "Ambergris",
+        "Cedar",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-55-16PM-_1.png?v=1773460336",
+      "searchableText": "Frederic Malle frederic malle Frederic Malle Portrait of a Lady Portrait Femme Oriental Floral womens Rose Clove Raspberry Black Currant Cinnamon Red Berries Turkish Rose Patchouli Incense Sandalwood Ylang-Ylang Incense Sandalwood Musk Benzoin Amber Ambergris Cedar Vanilla",
+      "createdAt": "2026-05-04T04:41:41.596Z",
+      "sharedNotes": [
+        "Raspberry",
+        "Rose",
+        "Cedar",
+        "Musk",
+        "Amber"
+      ]
+    },
+    {
+      "id": 229,
+      "fragranceSlug": "tiziana-terenzi-gumin-229",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Gumin",
+      "originalFragranceSlug": "tiziana-terenzi-gumin",
+      "mistifyProductName": "Gemine",
+      "mistifyProductSlug": "gemine",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gemine",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Gumin",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Mandarin Orange",
+        "Orange",
+        "Pineapple",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Ozonic Notes",
+        "Amber",
+        "Violet",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Orange",
+        "Pineapple",
+        "Bergamot",
+        "Ozonic Notes",
+        "Amber",
+        "Violet",
+        "Jasmine",
+        "Rose",
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Gemine-_1.png?v=1773460415",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Gumin Gemine Not listed clearly by Fragrantica unisex Mandarin Orange Orange Pineapple Bergamot Ozonic Notes Amber Violet Jasmine Rose Musk Sandalwood Birch Oud",
+      "createdAt": "2026-05-04T04:41:37.940Z",
+      "sharedNotes": [
+        "Rose",
+        "Jasmine",
+        "Oud",
+        "Musk",
+        "Birch",
+        "Amber"
+      ]
+    },
+    {
+      "id": 69,
+      "fragranceSlug": "kilian-rose-oud-69",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rose Oud",
+      "originalFragranceSlug": "kilian-rose-oud",
+      "mistifyProductName": "Rosy Oud",
+      "mistifyProductSlug": "rosy-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rosy-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Rose Oud",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Rose",
+        "Saffron",
+        "Oud",
+        "Cedarwood",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RosyOud_9a080a3b-9ff3-481e-8ecc-190466f11560.png?v=1765422921",
+      "searchableText": "Kilian kilian By Kilian Rose Oud Rosy Oud Oriental Floral unisex Rose Saffron Oud Cedarwood Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:28.526Z",
+      "sharedNotes": [
+        "Rose",
+        "Oud",
+        "Musk"
+      ]
+    },
+    {
+      "id": 215,
+      "fragranceSlug": "viktor-and-rolf-flower-bomb-215",
+      "brandName": "Viktor & Rolf",
+      "brandSlug": "viktor-and-rolf",
+      "originalFragranceName": "Flower Bomb",
+      "originalFragranceSlug": "viktor-and-rolf-flower-bomb",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Viktor & Rolf Flower Bomb",
+      "audience": null,
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Tea",
+        "Bergamot",
+        "Osmanthus"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Freesia",
+        "African Orange Flower"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Tea",
+        "Bergamot",
+        "Osmanthus",
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Freesia",
+        "African Orange Flower",
+        "Patchouli",
+        "Musk",
+        "Vanilla"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Viktor & Rolf viktor and rolf Viktor & Rolf Flower Bomb Not verified Oriental Floral Tea Bergamot Osmanthus Orchid Jasmine Rose Freesia African Orange Flower Patchouli Musk Vanilla",
+      "createdAt": "2026-05-04T04:41:37.102Z",
+      "sharedNotes": [
+        "Rose",
+        "Jasmine",
+        "Musk"
+      ]
+    },
+    {
+      "id": 233,
+      "fragranceSlug": "stephane-h-lucas-god-of-fire-233",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "God of Fire",
+      "originalFragranceSlug": "stephane-h-lucas-god-of-fire",
+      "mistifyProductName": "Divine Flame",
+      "mistifyProductSlug": "divine-flame",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/divine-flame",
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas God of Fire",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Mango",
+        "Lemon",
+        "Ginger",
+        "Red Berries"
+      ],
+      "middleNotes": [
+        "Coumarin",
+        "Jasmine",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Oud",
+        "Amber",
+        "Cypriol/Nagarmotha"
+      ],
+      "allNotes": [
+        "Mango",
+        "Lemon",
+        "Ginger",
+        "Red Berries",
+        "Coumarin",
+        "Jasmine",
+        "Cedar",
+        "Musk",
+        "Oud",
+        "Amber",
+        "Cypriol/Nagarmotha"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-11-17-20PM-_1.png?v=1773460404",
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas God of Fire Divine Flame Oriental Woody unisex Mango Lemon Ginger Red Berries Coumarin Jasmine Cedar Musk Oud Amber Cypriol/Nagarmotha",
+      "createdAt": "2026-05-04T04:41:38.179Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Cedar",
+        "Oud",
+        "Musk",
+        "Amber"
+      ]
+    },
+    {
+      "id": 123,
+      "fragranceSlug": "bond-no-9-nomad-123",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Nomad",
+      "originalFragranceSlug": "bond-no-9-nomad",
+      "mistifyProductName": "Nomadique",
+      "mistifyProductSlug": "nomadique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/nomadique",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Nomad",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Black Currant",
+        "Pear",
+        "Quince"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Orris",
+        "Violet Leaves"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Black Currant",
+        "Pear",
+        "Quince",
+        "Rose",
+        "Oud",
+        "Orris",
+        "Violet Leaves",
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay7_2026_04_20_29PM.png?v=1778185236",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Nomad Nomadique Oriental Floral unisex Black Currant Pear Quince Rose Oud Orris Violet Leaves Amber Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:31.683Z",
+      "sharedNotes": [
+        "Rose",
+        "Oud",
+        "Amber"
+      ]
+    }
+  ]
+}

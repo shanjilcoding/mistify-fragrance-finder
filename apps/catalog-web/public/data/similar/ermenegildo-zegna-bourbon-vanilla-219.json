@@ -1,0 +1,287 @@
+{
+  "fragrances": [
+    {
+      "id": 155,
+      "fragranceSlug": "initio-absolute-aphrodisiac-155",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Absolute Aphrodisiac",
+      "originalFragranceSlug": "initio-absolute-aphrodisiac",
+      "mistifyProductName": "Sensual Aphrodite",
+      "mistifyProductSlug": "sensual-aphrodite",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sensual-aphrodite",
+      "publicInspiredByLabel": "Inspired by Initio Absolute Aphrodisiac",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-11-12-10AM-_1.png?v=1773460511",
+      "searchableText": "Initio initio parfums Initio Parfums Absolute Aphrodisiac Sensual Aphrodite Oriental Spicy unisex Vanilla Amber Castoreum Leather Musk White Flowers",
+      "createdAt": "2026-05-04T04:41:33.535Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 87,
+      "fragranceSlug": "tom-ford-tobacco-vanille-87",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Tobacco Vanille",
+      "originalFragranceSlug": "tom-ford-tobacco-vanille",
+      "mistifyProductName": "Tobacco Vanilla",
+      "mistifyProductSlug": "tobacco-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/tobacco-vanilla",
+      "publicInspiredByLabel": "Inspired by Tom Ford Tobacco Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Tobacco Leaf",
+        "Spicy Notes"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Tobacco Blossom"
+      ],
+      "baseNotes": [
+        "Dried Fruits",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Tobacco Leaf",
+        "Spicy Notes",
+        "Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Tobacco Blossom",
+        "Dried Fruits",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_23_29PM.png?v=1765422884",
+      "searchableText": "Tom Ford tom ford Tom Ford Tobacco Vanille Tobacco Vanilla Oriental Spicy unisex Tobacco Leaf Spicy Notes Vanilla Cacao Tonka Bean Tobacco Blossom Dried Fruits Woody Notes",
+      "createdAt": "2026-05-04T04:41:29.570Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 113,
+      "fragranceSlug": "bond-no-9-b9-113",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "B9",
+      "originalFragranceSlug": "bond-no-9-b9",
+      "mistifyProductName": "Bonded 9",
+      "mistifyProductSlug": "bonded-9",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bonded-9",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 B9",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Gardenia",
+        "Saffron",
+        "Musk",
+        "Amber",
+        "Jasmine",
+        "Orchid",
+        "Citruses",
+        "Sandalwood",
+        "Oakmoss",
+        "Vetiver",
+        "Oud"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Gardenia",
+        "Saffron",
+        "Musk",
+        "Amber",
+        "Jasmine",
+        "Orchid",
+        "Citruses",
+        "Sandalwood",
+        "Oakmoss",
+        "Vetiver",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_56_50PM.png?v=1774407417",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 B9 Bonded 9 Oriental Spicy unisex Gardenia Saffron Musk Amber Jasmine Orchid Citruses Sandalwood Oakmoss Vetiver Oud",
+      "createdAt": "2026-05-04T04:41:31.088Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 179,
+      "fragranceSlug": "mancera-tonka-cola-179",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Tonka Cola",
+      "originalFragranceSlug": "mancera-tonka-cola",
+      "mistifyProductName": "Cola Spice",
+      "mistifyProductSlug": "cola-spice",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cola-spice",
+      "publicInspiredByLabel": "Inspired by Mancera Tonka Cola",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Cherry",
+        "Sicilian Lemon",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Coca-Cola",
+        "Indonesian Patchouli Leaf",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Cherry",
+        "Sicilian Lemon",
+        "Nutmeg",
+        "Coca-Cola",
+        "Indonesian Patchouli Leaf",
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_50_16PM_10d11dd4-fe8b-44fa-8349-483f0da6c265.png?v=1774407032",
+      "searchableText": "Mancera mancera Mancera Tonka Cola Cola Spice Oriental Spicy unisex Cinnamon Cherry Sicilian Lemon Nutmeg Coca-Cola Indonesian Patchouli Leaf Orange Blossom Tonka Bean Vanilla Benzoin Labdanum",
+      "createdAt": "2026-05-04T04:41:34.939Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 63,
+      "fragranceSlug": "kilian-intoxicated-63",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Intoxicated",
+      "originalFragranceSlug": "kilian-intoxicated",
+      "mistifyProductName": "Not verified on Mistify",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Kilian Intoxicated",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Cardamom",
+        "Coffee",
+        "Bergamot",
+        "Aldehydes"
+      ],
+      "middleNotes": [
+        "Nutmeg",
+        "Cinnamon",
+        "Tobacco",
+        "Ginger",
+        "Geranium"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Mocha",
+        "Vanilla",
+        "Balsam Fir",
+        "Patchouli",
+        "Coumarin",
+        "Sugar",
+        "Marshmallow"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Coffee",
+        "Bergamot",
+        "Aldehydes",
+        "Nutmeg",
+        "Cinnamon",
+        "Tobacco",
+        "Ginger",
+        "Geranium",
+        "Caramel",
+        "Mocha",
+        "Vanilla",
+        "Balsam Fir",
+        "Patchouli",
+        "Coumarin",
+        "Sugar",
+        "Marshmallow"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Kilian kilian By Kilian Intoxicated Not verified on Mistify Oriental Spicy Cardamom Coffee Bergamot Aldehydes Nutmeg Cinnamon Tobacco Ginger Geranium Caramel Mocha Vanilla Balsam Fir Patchouli Coumarin Sugar Marshmallow",
+      "createdAt": "2026-05-04T04:41:28.158Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Ginger"
+      ]
+    },
+    {
+      "id": 333,
+      "fragranceSlug": "armani-stronger-with-you-tobacco-333",
+      "brandName": "Armani",
+      "brandSlug": "armani",
+      "originalFragranceName": "Stronger With You Tobacco",
+      "originalFragranceSlug": "armani-stronger-with-you-tobacco",
+      "mistifyProductName": "Tobacco Strength",
+      "mistifyProductSlug": "tobacco-strength",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/tobacco-strength",
+      "publicInspiredByLabel": "Armani Stronger With You Tobacco",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Spicy Notes",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Chestnut",
+        "Amberwood"
+      ],
+      "allNotes": [
+        "Spicy Notes",
+        "Pink Pepper",
+        "Tobacco",
+        "Vanilla",
+        "Chestnut",
+        "Amberwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-16-39PM-_1.png?v=1773460354",
+      "searchableText": "Armani Armani Stronger With You Tobacco Tobacco Strength Oriental Spicy Spicy Notes Pink Pepper Tobacco Vanilla Chestnut Amberwood",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    }
+  ]
+}

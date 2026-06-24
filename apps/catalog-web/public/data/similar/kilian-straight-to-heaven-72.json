@@ -1,0 +1,268 @@
+{
+  "fragrances": [
+    {
+      "id": 248,
+      "fragranceSlug": "penhaligon-s-halfeti-cedar-248",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti Cedar",
+      "originalFragranceSlug": "penhaligon-s-halfeti-cedar",
+      "mistifyProductName": "Halfeti Cedar Rose",
+      "mistifyProductSlug": "halfeti-cedar-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-cedar-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti Cedar",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Rum",
+        "Saffron",
+        "Peach",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Virginia Cedar",
+        "Dried Fruits",
+        "Cinnamon",
+        "Mineral Notes",
+        "Immortelle"
+      ],
+      "baseNotes": [
+        "Atlas Cedar",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Rum",
+        "Saffron",
+        "Peach",
+        "Cardamom",
+        "Virginia Cedar",
+        "Dried Fruits",
+        "Cinnamon",
+        "Mineral Notes",
+        "Immortelle",
+        "Atlas Cedar",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_46_35AM.png?v=1765422935",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Cedar Halfeti Cedar Rose Woody Spicy unisex Rum Saffron Peach Cardamom Virginia Cedar Dried Fruits Cinnamon Mineral Notes Immortelle Atlas Cedar Tonka Bean Vanilla Labdanum Patchouli",
+      "createdAt": "2026-05-04T04:41:39.097Z",
+      "sharedNotes": [
+        "Rum",
+        "Dried Fruits",
+        "Patchouli",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 157,
+      "fragranceSlug": "initio-oud-for-greatness-157",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Greatness",
+      "originalFragranceSlug": "initio-oud-for-greatness",
+      "mistifyProductName": "Majestic Oud",
+      "mistifyProductSlug": "majestic-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-oud",
+      "publicInspiredByLabel": "Inspired by Initio Oud for Greatness",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Oud"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_56_51PM.png?v=1765422990",
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Greatness Majestic Oud Woody Spicy unisex Saffron Nutmeg Lavender Oud Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.651Z",
+      "sharedNotes": [
+        "Nutmeg",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 79,
+      "fragranceSlug": "tom-ford-lavender-extreme-79",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lavender Extreme",
+      "originalFragranceSlug": "tom-ford-lavender-extreme",
+      "mistifyProductName": "Lavender Extremism",
+      "mistifyProductSlug": "lavender-extremism",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lavender-extremism",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lavender Extreme",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LavenderExtremism.png?v=1765422873",
+      "searchableText": "Tom Ford tom ford Tom Ford Lavender Extreme Lavender Extremism Aromatic unisex Lavender Bergamot Cinnamon Tonka Bean Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:29.108Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 281,
+      "fragranceSlug": "amouage-decision-281",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Decision",
+      "originalFragranceSlug": "amouage-decision",
+      "mistifyProductName": "Final Say",
+      "mistifyProductSlug": "final-say",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/final-say",
+      "publicInspiredByLabel": "Inspired by Amouage Decision",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper",
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh",
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb10-2026-01-48-07PM-_1.png?v=1773460152",
+      "searchableText": "Amouage amouage Amouage Decision Final Say Woody Aromatic unisex Cardamom Bergamot Pink Pepper Frankincense Juniper Berries Myrrh Vanilla Cedarwood Patchouli",
+      "createdAt": "2026-05-04T04:41:41.123Z",
+      "sharedNotes": [
+        "Cedarwood",
+        "Patchouli",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 58,
+      "fragranceSlug": "kilian-gold-knight-58",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Knight",
+      "originalFragranceSlug": "kilian-gold-knight",
+      "mistifyProductName": "Knight in Gold",
+      "mistifyProductSlug": "knight-in-gold",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/knight-in-gold",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Knight",
+      "audience": "unisex",
+      "classification": "Amber/Sweet Spicy",
+      "topNotes": [
+        "Anise",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Honey",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Anise",
+        "Bergamot",
+        "Honey",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_39_10AM.png?v=1774327156",
+      "searchableText": "Kilian kilian By Kilian Gold Knight Knight in Gold Amber/Sweet Spicy unisex Anise Bergamot Honey Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:27.879Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 218,
+      "fragranceSlug": "ermenegildo-zegna-javanese-patchouli-218",
+      "brandName": "Ermenegildo Zegna",
+      "brandSlug": "ermenegildo-zegna",
+      "originalFragranceName": "Javanese Patchouli",
+      "originalFragranceSlug": "ermenegildo-zegna-javanese-patchouli",
+      "mistifyProductName": "Mystic Pathouli",
+      "mistifyProductSlug": "mystic-pathouli",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mystic-pathouli",
+      "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Javanese Patchouli",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Patchouli",
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Cedar",
+        "Tonka Bean"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Patchouli",
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Cedar",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-31-15PM-_1.png?v=1773460478",
+      "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Javanese Patchouli Mystic Pathouli Woody Spicy unisex Patchouli Pink Pepper Calabrian Bergamot Cedar Tonka Bean",
+      "createdAt": "2026-05-04T04:41:37.272Z",
+      "sharedNotes": [
+        "Patchouli"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "fragrances": [
+    {
+      "id": 292,
+      "fragranceSlug": "bvlgari-eau-parfumee-au-the-blanc-292",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Eau Parfumée Au Thé Blanc",
+      "originalFragranceSlug": "bvlgari-eau-parfumee-au-the-blanc",
+      "mistifyProductName": "Blanc Théique",
+      "mistifyProductSlug": "blanc-theique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/blanc-theique",
+      "publicInspiredByLabel": "Inspired by Bvlgari Eau Parfumée Au Thé Blanc",
+      "audience": "unisex",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Tea",
+        "Artemisia",
+        "Bergamot",
+        "Orange Blossom",
+        "Bitter Orange"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Cardamom",
+        "Coriander"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Woody Notes",
+        "Jasmine",
+        "Amber",
+        "Rose"
+      ],
+      "allNotes": [
+        "Tea",
+        "Artemisia",
+        "Bergamot",
+        "Orange Blossom",
+        "Bitter Orange",
+        "Pepper",
+        "Cardamom",
+        "Coriander",
+        "Musk",
+        "Woody Notes",
+        "Jasmine",
+        "Amber",
+        "Rose"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov14-2025-10-23-42AM-_1.png?v=1773460213",
+      "searchableText": "Bvlgari bvlgari Bvlgari Eau Parfumée Au Thé Blanc Blanc Théique Floral Woody Musk unisex Tea Artemisia Bergamot Orange Blossom Bitter Orange Pepper Cardamom Coriander Musk Woody Notes Jasmine Amber Rose",
+      "createdAt": "2026-05-04T04:41:41.776Z",
+      "sharedNotes": [
+        "Tea",
+        "Woody Notes",
+        "Rose"
+      ]
+    },
+    {
+      "id": 29,
+      "fragranceSlug": "louis-vuitton-fleur-du-desert-29",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Fleur du Désert",
+      "originalFragranceSlug": "louis-vuitton-fleur-du-desert",
+      "mistifyProductName": "Floral de Mirage",
+      "mistifyProductSlug": "floral-de-mirage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/floral-de-mirage",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Fleur du Désert",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Jasmine",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Rose"
+      ],
+      "baseNotes": [
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Rose",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_22_06AM.png?v=1774326133",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Fleur du Désert Floral de Mirage Floral unisex Jasmine Orange Blossom Rose Sandalwood",
+      "createdAt": "2026-05-04T04:41:26.180Z",
+      "sharedNotes": [
+        "Rose"
+      ]
+    },
+    {
+      "id": 171,
+      "fragranceSlug": "montale-intense-cafe-171",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Intense Cafe",
+      "originalFragranceSlug": "montale-intense-cafe",
+      "mistifyProductName": "Café Rose",
+      "mistifyProductSlug": "cafe-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cafe-rose",
+      "publicInspiredByLabel": "Inspired by Montale Intense Cafe",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Floral Notes"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Coffee"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Floral Notes",
+        "Rose",
+        "Coffee",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CafeRose.png?v=1765422956",
+      "searchableText": "Montale montale Montale Intense Cafe Café Rose Oriental Vanilla unisex Floral Notes Rose Coffee Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.468Z",
+      "sharedNotes": [
+        "Rose"
+      ]
+    },
+    {
+      "id": 275,
+      "fragranceSlug": "roberto-cavalli-tiger-oud-275",
+      "brandName": "Roberto Cavalli",
+      "brandSlug": "roberto-cavalli",
+      "originalFragranceName": "Tiger Oud",
+      "originalFragranceSlug": "roberto-cavalli-tiger-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Roberto Cavalli Tiger Oud",
+      "audience": null,
+      "classification": "Oriental Floral",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Rose"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Oud",
+        "Rose"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Roberto Cavalli roberto cavalli Roberto Cavalli Tiger Oud Not verified Oriental Floral Oud Rose",
+      "createdAt": "2026-05-04T04:41:40.757Z",
+      "sharedNotes": [
+        "Rose"
+      ]
+    },
+    {
+      "id": 206,
+      "fragranceSlug": "rabanne-1-million-206",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "1 Million",
+      "originalFragranceSlug": "rabanne-1-million",
+      "mistifyProductName": "Golden Luxe",
+      "mistifyProductSlug": "golden-luxe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-luxe?_pos=2&_sid=cb998cf94&_ss=r",
+      "publicInspiredByLabel": "Inspired by Rabanne 1 Million",
+      "audience": "mens",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Blood Mandarin",
+        "Grapefruit",
+        "Mint"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Spicy Notes",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Leather",
+        "Woody Notes",
+        "Indian Patchouli"
+      ],
+      "allNotes": [
+        "Blood Mandarin",
+        "Grapefruit",
+        "Mint",
+        "Cinnamon",
+        "Spicy Notes",
+        "Rose",
+        "Amber",
+        "Leather",
+        "Woody Notes",
+        "Indian Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_45_20PM_eda64bdf-de46-4f14-8adf-b3a151fd82f8.png?v=1774406735",
+      "searchableText": "Rabanne paco rabanne Paco Rabanne 1 Million Golden Luxe Woody Spicy mens Blood Mandarin Grapefruit Mint Cinnamon Spicy Notes Rose Amber Leather Woody Notes Indian Patchouli",
+      "createdAt": "2026-05-04T04:41:36.571Z",
+      "sharedNotes": [
+        "Woody Notes",
+        "Rose"
+      ]
+    },
+    {
+      "id": 168,
+      "fragranceSlug": "montale-black-aoud-168",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Black Aoud",
+      "originalFragranceSlug": "montale-black-aoud",
+      "mistifyProductName": "Oud Noir",
+      "mistifyProductSlug": "oud-noir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-noir",
+      "publicInspiredByLabel": "Inspired by Montale Black Aoud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudNoir.png?v=1765422952",
+      "searchableText": "Montale montale Montale Black Aoud Oud Noir Woody Floral Musk unisex Rose Oud Patchouli Musk French Labdanum Mandarin Orange",
+      "createdAt": "2026-05-04T04:41:34.288Z",
+      "sharedNotes": [
+        "Rose"
+      ]
+    }
+  ]
+}

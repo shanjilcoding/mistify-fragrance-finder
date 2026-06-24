@@ -1,0 +1,360 @@
+{
+  "fragrances": [
+    {
+      "id": 56,
+      "fragranceSlug": "kilian-black-phantom-56",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Black Phantom",
+      "originalFragranceSlug": "kilian-black-phantom",
+      "mistifyProductName": "Dark Phantom",
+      "mistifyProductSlug": "dark-phantom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/dark-phantom",
+      "publicInspiredByLabel": "Inspired by Kilian Black Phantom",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Rum"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope",
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-42-32AM-_1.png?v=1773460532",
+      "searchableText": "Kilian kilian By Kilian Black Phantom Dark Phantom Oriental Vanilla unisex Rum Dark Chocolate Coffee Almond Heliotrope Caramel Sugar Cane Sandalwood Vanilla Tonka Vetiver",
+      "createdAt": "2026-05-04T04:41:27.757Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Rum",
+        "Caramel",
+        "Tonka",
+        "Sandalwood",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 321,
+      "fragranceSlug": "amouage-reflection-man-321",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Reflection Man",
+      "originalFragranceSlug": "amouage-reflection-man",
+      "mistifyProductName": "Reflexion",
+      "mistifyProductSlug": "reflexion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/reflexion",
+      "publicInspiredByLabel": "Amouage Reflection Man",
+      "audience": null,
+      "classification": "Floral Woody / Fresh Aromatic",
+      "topNotes": [
+        "Rosemary",
+        "Pink Pepper",
+        "Petitgrain"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Neroli",
+        "Orris Root",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Rosemary",
+        "Pink Pepper",
+        "Petitgrain",
+        "Jasmine",
+        "Neroli",
+        "Orris Root",
+        "Ylang-Ylang",
+        "Sandalwood",
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun9_2026_07_43_40AM.png?v=1781005432",
+      "searchableText": "Amouage Amouage Reflection Man Reflexion Floral Woody / Fresh Aromatic Rosemary Pink Pepper Petitgrain Jasmine Neroli Orris Root Ylang-Ylang Sandalwood Cedar Vetiver Patchouli",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Ylang-Ylang",
+        "Jasmine",
+        "Patchouli",
+        "Sandalwood",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 145,
+      "fragranceSlug": "ysl-yves-saint-laurent-black-opium-145",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Black Opium",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-black-opium",
+      "mistifyProductName": "Noir Opiate",
+      "mistifyProductSlug": "noir-opiate",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/noir-opiate",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Black Opium",
+      "audience": "womens",
+      "classification": "Amber Vanilla",
+      "topNotes": [
+        "Pink Pepper",
+        "Orange Blossom",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Coffee",
+        "Jasmine",
+        "Bitter Almond",
+        "Licorice"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli",
+        "Cedar",
+        "Cashmere Wood"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Orange Blossom",
+        "Pear",
+        "Coffee",
+        "Jasmine",
+        "Bitter Almond",
+        "Licorice",
+        "Vanilla",
+        "Patchouli",
+        "Cedar",
+        "Cashmere Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-34-58PM-_1.png?v=1773460432",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Black Opium Noir Opiate Amber Vanilla womens Pink Pepper Orange Blossom Pear Coffee Jasmine Bitter Almond Licorice Vanilla Patchouli Cedar Cashmere Wood",
+      "createdAt": "2026-05-04T04:41:32.939Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Pear",
+        "Jasmine",
+        "Patchouli",
+        "Cashmere Wood"
+      ]
+    },
+    {
+      "id": 75,
+      "fragranceSlug": "tom-ford-black-orchid-75",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Black Orchid",
+      "originalFragranceSlug": "tom-ford-black-orchid",
+      "mistifyProductName": "Black Orchard",
+      "mistifyProductSlug": "black-orchard",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/black-orchard",
+      "publicInspiredByLabel": "Inspired by Tom Ford Black Orchid",
+      "audience": "unisex",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Black Orchid",
+        "Lotus Wood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vanilla",
+        "Vetiver",
+        "Incense"
+      ],
+      "allNotes": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Bergamot",
+        "Black Orchid",
+        "Lotus Wood",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver",
+        "Incense"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-39-28AM-_1.png?v=1773460543",
+      "searchableText": "Tom Ford tom ford Tom Ford Black Orchid Black Orchard Floral Oriental unisex Black Truffle Ylang-Ylang Bergamot Black Orchid Lotus Wood Patchouli Vanilla Vetiver Incense",
+      "createdAt": "2026-05-04T04:41:28.869Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Ylang-Ylang",
+        "Patchouli",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 301,
+      "fragranceSlug": "chanel-bleu-de-chanel-301",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Bleu de Chanel",
+      "originalFragranceSlug": "chanel-bleu-de-chanel",
+      "mistifyProductName": "Bleu Élan",
+      "mistifyProductSlug": "bleu-elan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-elan",
+      "publicInspiredByLabel": "Inspired by Chanel Bleu de Chanel",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper",
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super",
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Chanel chanel Chanel Bleu de Chanel Bleu Élan Woody Aromatic mens Grapefruit Lemon Mint Pink Pepper Ginger Nutmeg Jasmine Iso E Super Incense Cedar Vetiver Sandalwood Patchouli Labdanum White Musk",
+      "createdAt": "2026-05-04T04:41:42.307Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Labdanum",
+        "Patchouli",
+        "Sandalwood",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 226,
+      "fragranceSlug": "clive-christian-blonde-amber-226",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Blonde Amber",
+      "originalFragranceSlug": "clive-christian-blonde-amber",
+      "mistifyProductName": "Amber Luxe",
+      "mistifyProductSlug": "amber-luxe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-luxe",
+      "publicInspiredByLabel": "Inspired by Clive Christian Blonde Amber",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit",
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris",
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-34-30PM-_1.png?v=1773460457",
+      "searchableText": "Clive Christian clive christian Clive Christian Blonde Amber Amber Luxe Oriental unisex Rum Olibanum Bitter Orange Cardamom Pink Pepper Ginger Bergamot Grapefruit Dried Fruits White Tobacco Sandalwood Tuberose Saffron Osmanthus Jasmine Orris Tonka Bean Vanilla Myrrh Labdanum Patchouli Musk Cedar Vetiver",
+      "createdAt": "2026-05-04T04:41:37.756Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Rum",
+        "Jasmine",
+        "Labdanum",
+        "Patchouli",
+        "Sandalwood",
+        "Vetiver"
+      ]
+    }
+  ]
+}

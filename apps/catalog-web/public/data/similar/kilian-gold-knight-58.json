@@ -1,0 +1,283 @@
+{
+  "fragrances": [
+    {
+      "id": 79,
+      "fragranceSlug": "tom-ford-lavender-extreme-79",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lavender Extreme",
+      "originalFragranceSlug": "tom-ford-lavender-extreme",
+      "mistifyProductName": "Lavender Extremism",
+      "mistifyProductSlug": "lavender-extremism",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lavender-extremism",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lavender Extreme",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LavenderExtremism.png?v=1765422873",
+      "searchableText": "Tom Ford tom ford Tom Ford Lavender Extreme Lavender Extremism Aromatic unisex Lavender Bergamot Cinnamon Tonka Bean Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:29.108Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 281,
+      "fragranceSlug": "amouage-decision-281",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Decision",
+      "originalFragranceSlug": "amouage-decision",
+      "mistifyProductName": "Final Say",
+      "mistifyProductSlug": "final-say",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/final-say",
+      "publicInspiredByLabel": "Inspired by Amouage Decision",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper",
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh",
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb10-2026-01-48-07PM-_1.png?v=1773460152",
+      "searchableText": "Amouage amouage Amouage Decision Final Say Woody Aromatic unisex Cardamom Bergamot Pink Pepper Frankincense Juniper Berries Myrrh Vanilla Cedarwood Patchouli",
+      "createdAt": "2026-05-04T04:41:41.123Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 54,
+      "fragranceSlug": "kilian-back-to-black-54",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Back to Black",
+      "originalFragranceSlug": "kilian-back-to-black",
+      "mistifyProductName": "Back 2 Blacky",
+      "mistifyProductSlug": "back-2-blacky",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/back-2-black",
+      "publicInspiredByLabel": "Inspired by Kilian Back to Black",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Almond",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "allNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry",
+        "Tobacco",
+        "Almond",
+        "Vanilla",
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Back2Blacky.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Back to Black Back 2 Blacky Oriental unisex Honey Cherry Raspberry Tobacco Almond Vanilla Cedar Patchouli Amber",
+      "createdAt": "2026-05-04T04:41:27.650Z",
+      "sharedNotes": [
+        "Honey",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 75,
+      "fragranceSlug": "tom-ford-black-orchid-75",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Black Orchid",
+      "originalFragranceSlug": "tom-ford-black-orchid",
+      "mistifyProductName": "Black Orchard",
+      "mistifyProductSlug": "black-orchard",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/black-orchard",
+      "publicInspiredByLabel": "Inspired by Tom Ford Black Orchid",
+      "audience": "unisex",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Black Orchid",
+        "Lotus Wood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vanilla",
+        "Vetiver",
+        "Incense"
+      ],
+      "allNotes": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Bergamot",
+        "Black Orchid",
+        "Lotus Wood",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver",
+        "Incense"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-39-28AM-_1.png?v=1773460543",
+      "searchableText": "Tom Ford tom ford Tom Ford Black Orchid Black Orchard Floral Oriental unisex Black Truffle Ylang-Ylang Bergamot Black Orchid Lotus Wood Patchouli Vanilla Vetiver Incense",
+      "createdAt": "2026-05-04T04:41:28.869Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 103,
+      "fragranceSlug": "parfums-de-marly-layton-103",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Layton",
+      "originalFragranceSlug": "parfums-de-marly-layton",
+      "mistifyProductName": "Laytonington",
+      "mistifyProductSlug": "laytonington",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/laytonington",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Layton",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Geranium",
+        "Violet",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender",
+        "Geranium",
+        "Violet",
+        "Jasmine",
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-32-05AM-_1.png?v=1773460493",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Layton Laytonington Oriental Floral unisex Apple Bergamot Lavender Geranium Violet Jasmine Vanilla Pepper Patchouli Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:30.521Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 220,
+      "fragranceSlug": "dior-feve-delicieuse-220",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Feve Delicieuse",
+      "originalFragranceSlug": "dior-feve-delicieuse",
+      "mistifyProductName": "Fave Deliciosa",
+      "mistifyProductSlug": "fave-deliciosa",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fave-deliciosa",
+      "publicInspiredByLabel": "Inspired by Dior Feve Delicieuse",
+      "audience": "unisex",
+      "classification": "Oriental Gourmand",
+      "topNotes": [
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Caramel"
+      ],
+      "baseNotes": [
+        "Praline",
+        "Cocoa",
+        "Woods"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Tonka Bean",
+        "Vanilla",
+        "Caramel",
+        "Praline",
+        "Cocoa",
+        "Woods"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_52_44PM.png?v=1774407173",
+      "searchableText": "Dior christian dior Christian Dior Feve Delicieuse Fave Deliciosa Oriental Gourmand unisex Bergamot Tonka Bean Vanilla Caramel Praline Cocoa Woods",
+      "createdAt": "2026-05-04T04:41:37.391Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla"
+      ]
+    }
+  ]
+}

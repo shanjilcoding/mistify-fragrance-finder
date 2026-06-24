@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 9,
+    "fragranceSlug": "guerlain-peche-mirage-9",
+    "brandName": "Guerlain",
+    "brandSlug": "guerlain",
+    "originalFragranceName": "Peche Mirage",
+    "originalFragranceSlug": "guerlain-peche-mirage",
+    "mistifyProductName": "Pêche Illusion",
+    "mistifyProductSlug": "peche-illusion",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/peche-illusion",
+    "publicInspiredByLabel": "Inspired by Guerlain Peche Mirage",
+    "audience": null,
+    "classification": "Floral Fruity",
+    "topNotes": [
+      "Peach",
+      "Blackcurrant",
+      "Saffron"
+    ],
+    "middleNotes": [
+      "Osmanthus"
+    ],
+    "baseNotes": [
+      "Leather",
+      "Amber",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Peach",
+      "Blackcurrant",
+      "Saffron",
+      "Osmanthus",
+      "Leather",
+      "Amber",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay15_2026_08_43_12AM.png?v=1778848999",
+    "searchableText": "Guerlain guerlain Guerlain Peche Mirage Pêche Illusion Floral Fruity Peach Blackcurrant Saffron Osmanthus Leather Amber Sandalwood",
+    "createdAt": "2026-05-04T04:41:25.032Z"
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "fragrances": [
+    {
+      "id": 79,
+      "fragranceSlug": "tom-ford-lavender-extreme-79",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lavender Extreme",
+      "originalFragranceSlug": "tom-ford-lavender-extreme",
+      "mistifyProductName": "Lavender Extremism",
+      "mistifyProductSlug": "lavender-extremism",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lavender-extremism",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lavender Extreme",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LavenderExtremism.png?v=1765422873",
+      "searchableText": "Tom Ford tom ford Tom Ford Lavender Extreme Lavender Extremism Aromatic unisex Lavender Bergamot Cinnamon Tonka Bean Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:29.108Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 251,
+      "fragranceSlug": "kayali-yum-pistachio-gelato-33-251",
+      "brandName": "Kayali",
+      "brandSlug": "kayali",
+      "originalFragranceName": "Yum Pistachio Gelato 33",
+      "originalFragranceSlug": "kayali-yum-pistachio-gelato-33",
+      "mistifyProductName": "Yummy Pistachio & Gelato 34",
+      "mistifyProductSlug": "yummy-pistachio-and-gelato-34",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/yummy-pistachio-gelato-34",
+      "publicInspiredByLabel": "Inspired by Kayali Yum Pistachio Gelato 33",
+      "audience": "womens",
+      "classification": "Gourmand",
+      "topNotes": [
+        "Pistachio",
+        "Hazelnut",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Gelato Accord",
+        "Jasmine",
+        "White Peony"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Whipped Cream",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Pistachio",
+        "Hazelnut",
+        "Cardamom",
+        "Gelato Accord",
+        "Jasmine",
+        "White Peony",
+        "Vanilla",
+        "Whipped Cream",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-11-22-00PM-_1.png?v=1773460382",
+      "searchableText": "Kayali kayali Kayali Yum Pistachio Gelato 33 Yummy Pistachio & Gelato 34 Gourmand womens Pistachio Hazelnut Cardamom Gelato Accord Jasmine White Peony Vanilla Whipped Cream Sandalwood",
+      "createdAt": "2026-05-04T04:41:39.281Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 220,
+      "fragranceSlug": "dior-feve-delicieuse-220",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Feve Delicieuse",
+      "originalFragranceSlug": "dior-feve-delicieuse",
+      "mistifyProductName": "Fave Deliciosa",
+      "mistifyProductSlug": "fave-deliciosa",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fave-deliciosa",
+      "publicInspiredByLabel": "Inspired by Dior Feve Delicieuse",
+      "audience": "unisex",
+      "classification": "Oriental Gourmand",
+      "topNotes": [
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Caramel"
+      ],
+      "baseNotes": [
+        "Praline",
+        "Cocoa",
+        "Woods"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Tonka Bean",
+        "Vanilla",
+        "Caramel",
+        "Praline",
+        "Cocoa",
+        "Woods"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_52_44PM.png?v=1774407173",
+      "searchableText": "Dior christian dior Christian Dior Feve Delicieuse Fave Deliciosa Oriental Gourmand unisex Bergamot Tonka Bean Vanilla Caramel Praline Cocoa Woods",
+      "createdAt": "2026-05-04T04:41:37.391Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Praline",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 198,
+      "fragranceSlug": "sol-de-janeiro-brazilian-crush-cheirosa-62-198",
+      "brandName": "Sol De Janeiro",
+      "brandSlug": "sol-de-janeiro",
+      "originalFragranceName": "Brazilian Crush Cheirosa 62",
+      "originalFragranceSlug": "sol-de-janeiro-brazilian-crush-cheirosa-62",
+      "mistifyProductName": "Carioca 62",
+      "mistifyProductSlug": "carioca-62",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/carioca-62",
+      "publicInspiredByLabel": "Inspired by Sol De Janeiro Brazilian Crush Cheirosa 62",
+      "audience": "unisex",
+      "classification": "Warm Gourmand",
+      "topNotes": [
+        "Pistachio",
+        "Almond"
+      ],
+      "middleNotes": [
+        "Heliotrope",
+        "Jasmine Petals"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Salted Caramel",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Pistachio",
+        "Almond",
+        "Heliotrope",
+        "Jasmine Petals",
+        "Vanilla",
+        "Salted Caramel",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb11-2026-11-17-46AM-_1.png?v=1773460150",
+      "searchableText": "Sol De Janeiro sol de janeiro Sol de Janeiro Brazilian Crush Cheirosa 62 Carioca 62 Warm Gourmand unisex Pistachio Almond Heliotrope Jasmine Petals Vanilla Salted Caramel Sandalwood",
+      "createdAt": "2026-05-04T04:41:36.099Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 201,
+      "fragranceSlug": "xerjoff-naxos-201",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Naxos",
+      "originalFragranceSlug": "xerjoff-naxos",
+      "mistifyProductName": "Naxian Gold",
+      "mistifyProductSlug": "naxian-gold",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/naxian-gold",
+      "publicInspiredByLabel": "Inspired by Xerjoff Naxos",
+      "audience": "unisex",
+      "classification": "Citrus Gourmand",
+      "topNotes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Honey",
+        "Cinnamon",
+        "Cashmeran",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Tobacco Leaf",
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon",
+        "Honey",
+        "Cinnamon",
+        "Cashmeran",
+        "Jasmine Sambac",
+        "Tobacco Leaf",
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-29-20PM-_1.png?v=1773460339",
+      "searchableText": "Xerjoff xerjoff Xerjoff Naxos Naxian Gold Citrus Gourmand unisex Lavender Bergamot Lemon Honey Cinnamon Cashmeran Jasmine Sambac Tobacco Leaf Vanilla Tonka Bean",
+      "createdAt": "2026-05-04T04:41:36.283Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla"
+      ]
+    }
+  ]
+}

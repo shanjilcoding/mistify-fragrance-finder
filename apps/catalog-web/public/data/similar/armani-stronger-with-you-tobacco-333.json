@@ -1,0 +1,264 @@
+{
+  "fragrances": [
+    {
+      "id": 87,
+      "fragranceSlug": "tom-ford-tobacco-vanille-87",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Tobacco Vanille",
+      "originalFragranceSlug": "tom-ford-tobacco-vanille",
+      "mistifyProductName": "Tobacco Vanilla",
+      "mistifyProductSlug": "tobacco-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/tobacco-vanilla",
+      "publicInspiredByLabel": "Inspired by Tom Ford Tobacco Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Tobacco Leaf",
+        "Spicy Notes"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Tobacco Blossom"
+      ],
+      "baseNotes": [
+        "Dried Fruits",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Tobacco Leaf",
+        "Spicy Notes",
+        "Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Tobacco Blossom",
+        "Dried Fruits",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_23_29PM.png?v=1765422884",
+      "searchableText": "Tom Ford tom ford Tom Ford Tobacco Vanille Tobacco Vanilla Oriental Spicy unisex Tobacco Leaf Spicy Notes Vanilla Cacao Tonka Bean Tobacco Blossom Dried Fruits Woody Notes",
+      "createdAt": "2026-05-04T04:41:29.570Z",
+      "sharedNotes": [
+        "Spicy Notes",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 192,
+      "fragranceSlug": "dolce-and-gabbana-velvet-zafferano-192",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Velvet Zafferano",
+      "originalFragranceSlug": "dolce-and-gabbana-velvet-zafferano",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Zafferano",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Tobacco Leaf"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Tobacco",
+        "Tobacco Leaf",
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Labdanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Zafferano Not verified Oriental Spicy Saffron Tobacco Tobacco Leaf Amber Vanilla Patchouli Labdanum",
+      "createdAt": "2026-05-04T04:41:35.717Z",
+      "sharedNotes": [
+        "Tobacco",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 189,
+      "fragranceSlug": "giorgio-armani-armani-prive-bleu-lazuli-189",
+      "brandName": "Giorgio Armani",
+      "brandSlug": "giorgio-armani",
+      "originalFragranceName": "Armani Privé Bleu Lazuli",
+      "originalFragranceSlug": "giorgio-armani-armani-prive-bleu-lazuli",
+      "mistifyProductName": "Bleu Lazure",
+      "mistifyProductSlug": "bleu-lazure",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-lazure",
+      "publicInspiredByLabel": "Inspired by Giorgio Armani Armani Privé Bleu Lazuli",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Mate",
+        "Cardamom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Plum",
+        "Osmanthus",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Honey",
+        "Tobacco",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mate",
+        "Cardamom",
+        "Bergamot",
+        "Plum",
+        "Osmanthus",
+        "Jasmine",
+        "Honey",
+        "Tobacco",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay16_2026_05_09_17PM.png?v=1778965764",
+      "searchableText": "Giorgio Armani giorgio armani Giorgio Armani Armani Privé Bleu Lazuli Bleu Lazure Oriental Spicy Mate Cardamom Bergamot Plum Osmanthus Jasmine Honey Tobacco Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:35.524Z",
+      "sharedNotes": [
+        "Tobacco",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 161,
+      "fragranceSlug": "initio-side-effect-161",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Side Effect",
+      "originalFragranceSlug": "initio-side-effect",
+      "mistifyProductName": "Secondary Effects",
+      "mistifyProductSlug": "secondary-effects",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/secondary-effects",
+      "publicInspiredByLabel": "Inspired by Initio Side Effect",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rum",
+        "Cinnamon"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Leather"
+      ],
+      "allNotes": [
+        "Rum",
+        "Cinnamon",
+        "Tobacco",
+        "Vanilla",
+        "Musk",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_15_23PM.png?v=1765422996",
+      "searchableText": "Initio initio parfums Initio Parfums Side Effect Secondary Effects Oriental unisex Rum Cinnamon Tobacco Vanilla Musk Leather",
+      "createdAt": "2026-05-04T04:41:33.880Z",
+      "sharedNotes": [
+        "Tobacco",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 155,
+      "fragranceSlug": "initio-absolute-aphrodisiac-155",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Absolute Aphrodisiac",
+      "originalFragranceSlug": "initio-absolute-aphrodisiac",
+      "mistifyProductName": "Sensual Aphrodite",
+      "mistifyProductSlug": "sensual-aphrodite",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sensual-aphrodite",
+      "publicInspiredByLabel": "Inspired by Initio Absolute Aphrodisiac",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-11-12-10AM-_1.png?v=1773460511",
+      "searchableText": "Initio initio parfums Initio Parfums Absolute Aphrodisiac Sensual Aphrodite Oriental Spicy unisex Vanilla Amber Castoreum Leather Musk White Flowers",
+      "createdAt": "2026-05-04T04:41:33.535Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 142,
+      "fragranceSlug": "ysl-yves-saint-laurent-babycat-142",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Babycat",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-babycat",
+      "mistifyProductName": "Wildcat",
+      "mistifyProductSlug": "wildcat",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/wildcat",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Babycat",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Elemi"
+      ],
+      "middleNotes": [
+        "Olibanum",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Suede",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Elemi",
+        "Olibanum",
+        "Saffron",
+        "Bourbon Vanilla",
+        "Suede",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-18-52PM-_1.png?v=1773460434",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Babycat Wildcat Oriental Spicy unisex Pink Pepper Black Pepper Elemi Olibanum Saffron Bourbon Vanilla Suede Cedar",
+      "createdAt": "2026-05-04T04:41:32.770Z",
+      "sharedNotes": [
+        "Pink Pepper"
+      ]
+    }
+  ]
+}

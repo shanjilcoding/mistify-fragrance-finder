@@ -1,0 +1,53 @@
+{
+  "fragrance": {
+    "id": 98,
+    "fragranceSlug": "parfums-de-marly-herod-98",
+    "brandName": "Parfums de Marly",
+    "brandSlug": "parfums-de-marly",
+    "originalFragranceName": "Herod",
+    "originalFragranceSlug": "parfums-de-marly-herod",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Parfums de Marly Herod",
+    "audience": null,
+    "classification": "Woody Spicy",
+    "topNotes": [
+      "Cinnamon",
+      "Pepperwood"
+    ],
+    "middleNotes": [
+      "Tobacco Leaf",
+      "Incense",
+      "Osmanthus",
+      "Labdanum"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Cedar",
+      "Musk",
+      "Cypriol",
+      "Vetiver",
+      "Amber",
+      "Iso E Super"
+    ],
+    "allNotes": [
+      "Cinnamon",
+      "Pepperwood",
+      "Tobacco Leaf",
+      "Incense",
+      "Osmanthus",
+      "Labdanum",
+      "Vanilla",
+      "Cedar",
+      "Musk",
+      "Cypriol",
+      "Vetiver",
+      "Amber",
+      "Iso E Super"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Herod Not verified Woody Spicy Cinnamon Pepperwood Tobacco Leaf Incense Osmanthus Labdanum Vanilla Cedar Musk Cypriol Vetiver Amber Iso E Super",
+    "createdAt": "2026-05-04T04:41:30.212Z"
+  }
+}

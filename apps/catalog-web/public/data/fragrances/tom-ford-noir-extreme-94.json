@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 94,
+    "fragranceSlug": "tom-ford-noir-extreme-94",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Noir Extreme",
+    "originalFragranceSlug": "tom-ford-noir-extreme",
+    "mistifyProductName": "Night Extreme",
+    "mistifyProductSlug": "night-extreme",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/night-extreme",
+    "publicInspiredByLabel": "Inspired by Tom Ford Noir Extreme",
+    "audience": "mens",
+    "classification": "Oriental Spicy",
+    "topNotes": [
+      "Mandarin",
+      "Neroli",
+      "Saffron",
+      "Nutmeg"
+    ],
+    "middleNotes": [
+      "Kulfi",
+      "Rose",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Amber",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Mandarin",
+      "Neroli",
+      "Saffron",
+      "Nutmeg",
+      "Kulfi",
+      "Rose",
+      "Jasmine",
+      "Vanilla",
+      "Amber",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_51_27PM.png?v=1765422879",
+    "searchableText": "Tom Ford tom ford Tom Ford Noir Extreme Night Extreme Oriental Spicy mens Mandarin Neroli Saffron Nutmeg Kulfi Rose Jasmine Vanilla Amber Sandalwood",
+    "createdAt": "2026-05-04T04:41:29.974Z"
+  }
+}

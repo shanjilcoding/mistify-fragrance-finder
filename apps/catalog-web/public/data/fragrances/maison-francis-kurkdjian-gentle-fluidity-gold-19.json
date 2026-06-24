@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 19,
+    "fragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold-19",
+    "brandName": "Maison Francis Kurkdjian",
+    "brandSlug": "maison-francis-kurkdjian",
+    "originalFragranceName": "Gentle Fluidity Gold",
+    "originalFragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold",
+    "mistifyProductName": "Gently Fluid",
+    "mistifyProductSlug": "gently-fluid",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/gently-fluid",
+    "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Gentle Fluidity Gold",
+    "audience": "unisex",
+    "classification": "Oriental Vanilla",
+    "topNotes": [
+      "Juniper Berries",
+      "Nutmeg"
+    ],
+    "middleNotes": [
+      "Coriander",
+      "Vanilla"
+    ],
+    "baseNotes": [
+      "Amber",
+      "Musk"
+    ],
+    "allNotes": [
+      "Juniper Berries",
+      "Nutmeg",
+      "Coriander",
+      "Vanilla",
+      "Amber",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_14_05AM.png?v=1765422980",
+    "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Gentle Fluidity Gold Gently Fluid Oriental Vanilla unisex Juniper Berries Nutmeg Coriander Vanilla Amber Musk",
+    "createdAt": "2026-05-04T04:41:25.599Z"
+  }
+}

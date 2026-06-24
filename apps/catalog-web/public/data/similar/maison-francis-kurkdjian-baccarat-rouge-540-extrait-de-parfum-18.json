@@ -1,0 +1,286 @@
+{
+  "fragrances": [
+    {
+      "id": 17,
+      "fragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-17",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Baccarat Rouge 540",
+      "originalFragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540",
+      "mistifyProductName": "Baccarata 440",
+      "mistifyProductSlug": "baccarata-440",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baccarata-440",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Baccarat Rouge 540",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Saffron",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Ambergris"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Fir Resin"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Jasmine",
+        "Ambergris",
+        "Cedar",
+        "Fir Resin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_10_54_14PM.png?v=1765422979",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Baccarat Rouge 540 Baccarata 440 Amber Floral unisex Saffron Jasmine Ambergris Cedar Fir Resin",
+      "createdAt": "2026-05-04T04:41:25.486Z",
+      "sharedNotes": [
+        "Saffron",
+        "Cedar",
+        "Ambergris"
+      ]
+    },
+    {
+      "id": 127,
+      "fragranceSlug": "creed-carmina-127",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Carmina",
+      "originalFragranceSlug": "creed-carmina",
+      "mistifyProductName": "Karmina",
+      "mistifyProductSlug": "karmina",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/karmina",
+      "publicInspiredByLabel": "Inspired by Creed Carmina",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pink Pepper",
+        "Black Cherry",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "May Rose",
+        "Peony",
+        "Violet",
+        "Cashmere Wood"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambroxan",
+        "Frankincense",
+        "Myrrh"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Black Cherry",
+        "Saffron",
+        "May Rose",
+        "Peony",
+        "Violet",
+        "Cashmere Wood",
+        "Musk",
+        "Ambroxan",
+        "Frankincense",
+        "Myrrh"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_46_39PM.png?v=1765422844",
+      "searchableText": "Creed creed Creed Carmina Karmina Amber Floral womens Pink Pepper Black Cherry Saffron May Rose Peony Violet Cashmere Wood Musk Ambroxan Frankincense Myrrh",
+      "createdAt": "2026-05-04T04:41:31.917Z",
+      "sharedNotes": [
+        "Saffron",
+        "Musk"
+      ]
+    },
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z",
+      "sharedNotes": [
+        "Saffron",
+        "Cedar",
+        "Musk"
+      ]
+    },
+    {
+      "id": 271,
+      "fragranceSlug": "diptyque-eau-rihla-271",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Eau Rihla",
+      "originalFragranceSlug": "diptyque-eau-rihla",
+      "mistifyProductName": "Eau Relia",
+      "mistifyProductSlug": "eau-relia",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eau-relia",
+      "publicInspiredByLabel": "Inspired by Diptyque Eau Rihla",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Iris",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper",
+        "Leather",
+        "Iris",
+        "Cedar",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-50-51AM-_1.png?v=1773460377",
+      "searchableText": "Diptyque diptyque Diptyque Eau Rihla Eau Relia Oriental Woody unisex Raspberry Saffron Pink Pepper Leather Iris Cedar Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:40.507Z",
+      "sharedNotes": [
+        "Saffron",
+        "Cedar",
+        "Musk"
+      ]
+    },
+    {
+      "id": 130,
+      "fragranceSlug": "creed-queen-of-silk-130",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Queen of Silk",
+      "originalFragranceSlug": "creed-queen-of-silk",
+      "mistifyProductName": "Silken Queen",
+      "mistifyProductSlug": "silken-queen",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silken-queen",
+      "publicInspiredByLabel": "Inspired by Creed Queen of Silk",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Osmanthus",
+        "Magnolia",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Passionfruit",
+        "Oud",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Incense",
+        "Myrrh",
+        "Ambroxan",
+        "Cedarwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Magnolia",
+        "Saffron",
+        "Tuberose",
+        "Passionfruit",
+        "Oud",
+        "Patchouli",
+        "Vanilla",
+        "Incense",
+        "Myrrh",
+        "Ambroxan",
+        "Cedarwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-33-41AM-_1.png?v=1773460553",
+      "searchableText": "Creed creed Creed Queen of Silk Silken Queen Amber Floral womens Osmanthus Magnolia Saffron Tuberose Passionfruit Oud Patchouli Vanilla Incense Myrrh Ambroxan Cedarwood Musk",
+      "createdAt": "2026-05-04T04:41:32.081Z",
+      "sharedNotes": [
+        "Saffron",
+        "Musk"
+      ]
+    },
+    {
+      "id": 266,
+      "fragranceSlug": "byredo-mojave-ghost-266",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Mojave Ghost",
+      "originalFragranceSlug": "byredo-mojave-ghost",
+      "mistifyProductName": "Mojava Mist",
+      "mistifyProductSlug": "mojava-mist",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mojava-mist",
+      "publicInspiredByLabel": "Inspired by Byredo Mojave Ghost",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Sapodilla",
+        "Ambrette"
+      ],
+      "middleNotes": [
+        "Magnolia",
+        "Violet",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sapodilla",
+        "Ambrette",
+        "Magnolia",
+        "Violet",
+        "Sandalwood",
+        "Ambergris",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-07-35PM-_1.png?v=1773460344",
+      "searchableText": "Byredo byredo Byredo Mojave Ghost Mojava Mist Oriental Floral unisex Sapodilla Ambrette Magnolia Violet Sandalwood Ambergris Cedar Musk",
+      "createdAt": "2026-05-04T04:41:40.202Z",
+      "sharedNotes": [
+        "Cedar",
+        "Ambergris",
+        "Musk"
+      ]
+    }
+  ]
+}

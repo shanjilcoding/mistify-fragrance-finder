@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 113,
+    "fragranceSlug": "bond-no-9-b9-113",
+    "brandName": "Bond No. 9",
+    "brandSlug": "bond-no-9",
+    "originalFragranceName": "B9",
+    "originalFragranceSlug": "bond-no-9-b9",
+    "mistifyProductName": "Bonded 9",
+    "mistifyProductSlug": "bonded-9",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/bonded-9",
+    "publicInspiredByLabel": "Inspired by Bond No. 9 B9",
+    "audience": "unisex",
+    "classification": "Oriental Spicy",
+    "topNotes": [],
+    "middleNotes": [
+      "Gardenia",
+      "Saffron",
+      "Musk",
+      "Amber",
+      "Jasmine",
+      "Orchid",
+      "Citruses",
+      "Sandalwood",
+      "Oakmoss",
+      "Vetiver",
+      "Oud"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Gardenia",
+      "Saffron",
+      "Musk",
+      "Amber",
+      "Jasmine",
+      "Orchid",
+      "Citruses",
+      "Sandalwood",
+      "Oakmoss",
+      "Vetiver",
+      "Oud"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_56_50PM.png?v=1774407417",
+    "searchableText": "Bond No. 9 bond no 9 Bond No. 9 B9 Bonded 9 Oriental Spicy unisex Gardenia Saffron Musk Amber Jasmine Orchid Citruses Sandalwood Oakmoss Vetiver Oud",
+    "createdAt": "2026-05-04T04:41:31.088Z"
+  }
+}

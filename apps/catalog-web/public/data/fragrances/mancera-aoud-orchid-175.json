@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 175,
+    "fragranceSlug": "mancera-aoud-orchid-175",
+    "brandName": "Mancera",
+    "brandSlug": "mancera",
+    "originalFragranceName": "Aoud Orchid",
+    "originalFragranceSlug": "mancera-aoud-orchid",
+    "mistifyProductName": "Orchid Essence",
+    "mistifyProductSlug": "orchid-essence",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/orchid-essence",
+    "publicInspiredByLabel": "Inspired by Mancera Aoud Orchid",
+    "audience": "unisex",
+    "classification": "Oriental Floral",
+    "topNotes": [
+      "Coconut",
+      "Peach",
+      "Mandarin Orange"
+    ],
+    "middleNotes": [
+      "Orchid",
+      "Patchouli"
+    ],
+    "baseNotes": [
+      "Woody Notes",
+      "Vanilla",
+      "White Musk",
+      "Amber"
+    ],
+    "allNotes": [
+      "Coconut",
+      "Peach",
+      "Mandarin Orange",
+      "Orchid",
+      "Patchouli",
+      "Woody Notes",
+      "Vanilla",
+      "White Musk",
+      "Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OrchidEssence.png?v=1765422998",
+    "searchableText": "Mancera mancera Mancera Aoud Orchid Orchid Essence Oriental Floral unisex Coconut Peach Mandarin Orange Orchid Patchouli Woody Notes Vanilla White Musk Amber",
+    "createdAt": "2026-05-04T04:41:34.708Z"
+  }
+}

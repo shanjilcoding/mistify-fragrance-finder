@@ -1,0 +1,346 @@
+{
+  "fragrances": [
+    {
+      "id": 125,
+      "fragranceSlug": "creed-aventus-absolute-125",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus Absolute",
+      "originalFragranceSlug": "creed-aventus-absolute",
+      "mistifyProductName": "Absolu Crestus",
+      "mistifyProductSlug": "absolu-crestus",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/absolu-crestus",
+      "publicInspiredByLabel": "Inspired by Creed Aventus Absolute",
+      "audience": "mens",
+      "classification": "Chypre Fruity",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Nutmeg",
+        "Cloves"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Cinnamon",
+        "Citron",
+        "Cardamom",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vetiver",
+        "Oakmoss",
+        "Ambroxan",
+        "Sandalwood",
+        "Musk",
+        "Tonka",
+        "Evernyl"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Nutmeg",
+        "Cloves",
+        "Ginger",
+        "Cinnamon",
+        "Citron",
+        "Cardamom",
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oakmoss",
+        "Ambroxan",
+        "Sandalwood",
+        "Musk",
+        "Tonka",
+        "Evernyl"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_34_56AM.png?v=1765422817",
+      "searchableText": "Creed creed Creed Aventus Absolute Absolu Crestus Chypre Fruity mens Grapefruit Bergamot Pink Pepper Black Currant Pineapple Nutmeg Cloves Ginger Cinnamon Citron Cardamom Rose Patchouli Vetiver Oakmoss Ambroxan Sandalwood Musk Tonka Evernyl",
+      "createdAt": "2026-05-04T04:41:31.801Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Pink Pepper",
+        "Pineapple",
+        "Patchouli",
+        "Musk",
+        "Oakmoss",
+        "Ambroxan"
+      ]
+    },
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lemon",
+        "Musk",
+        "Cedarwood"
+      ]
+    },
+    {
+      "id": 231,
+      "fragranceSlug": "tiziana-terenzi-orion-231",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Orion",
+      "originalFragranceSlug": "tiziana-terenzi-orion",
+      "mistifyProductName": "Orien",
+      "mistifyProductSlug": "orien",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orien",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Orion",
+      "audience": "unisex",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant"
+      ],
+      "middleNotes": [
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant",
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine",
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Orien-_1.png?v=1773460410",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Orion Orien Floral Woody Musk unisex Pineapple Apple Bergamot Red Currant Birch Thyme Patchouli Jasmine Cedar Incense Oud Musk Amber",
+      "createdAt": "2026-05-04T04:41:38.057Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Apple",
+        "Pineapple",
+        "Patchouli",
+        "Birch",
+        "Musk"
+      ]
+    },
+    {
+      "id": 256,
+      "fragranceSlug": "roja-dove-amber-aoud-256",
+      "brandName": "Roja Dove",
+      "brandSlug": "roja-dove",
+      "originalFragranceName": "Amber Aoud",
+      "originalFragranceSlug": "roja-dove-amber-aoud",
+      "mistifyProductName": "Amber Oudh",
+      "mistifyProductSlug": "amber-oudh",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-oudh",
+      "publicInspiredByLabel": "Inspired by Roja Dove Amber Aoud",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime",
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-12-15PM-_1.png?v=1773460351",
+      "searchableText": "Roja Dove roja dove Roja Dove Amber Aoud Amber Oudh Oriental Spicy unisex Bergamot Lemon Lime Rose Fig Ylang-Ylang Jasmine Oud Ambergris Saffron Civet Sandalwood Musk Orris Cinnamon Patchouli Birch Oakmoss",
+      "createdAt": "2026-05-04T04:41:39.587Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lemon",
+        "Patchouli",
+        "Birch",
+        "Musk",
+        "Oakmoss"
+      ]
+    },
+    {
+      "id": 253,
+      "fragranceSlug": "jo-malone-english-pear-and-freesia-253",
+      "brandName": "Jo Malone",
+      "brandSlug": "jo-malone",
+      "originalFragranceName": "English Pear & Freesia",
+      "originalFragranceSlug": "jo-malone-english-pear-and-freesia",
+      "mistifyProductName": "Pear Fresia",
+      "mistifyProductSlug": "pear-fresia",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pear-fresia",
+      "publicInspiredByLabel": "Inspired by Jo Malone English Pear & Freesia",
+      "audience": "unisex",
+      "classification": "Chypre Fruity",
+      "topNotes": [
+        "Pear",
+        "Melon"
+      ],
+      "middleNotes": [
+        "Freesia",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Patchouli",
+        "Rhubarb",
+        "Amber"
+      ],
+      "allNotes": [
+        "Pear",
+        "Melon",
+        "Freesia",
+        "Rose",
+        "Musk",
+        "Patchouli",
+        "Rhubarb",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-47-41PM-_1.png?v=1773460331",
+      "searchableText": "Jo Malone jo malone Jo Malone English Pear & Freesia Pear Fresia Chypre Fruity unisex Pear Melon Freesia Rose Musk Patchouli Rhubarb Amber",
+      "createdAt": "2026-05-04T04:41:39.407Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Musk"
+      ]
+    },
+    {
+      "id": 131,
+      "fragranceSlug": "creed-royal-oud-131",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Royal Oud",
+      "originalFragranceSlug": "creed-royal-oud",
+      "mistifyProductName": "Regal Oud",
+      "mistifyProductSlug": "regal-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/regal-oud",
+      "publicInspiredByLabel": "Inspired by Creed Royal Oud",
+      "audience": "unisex",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Galbanum",
+        "Angelica"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot",
+        "Cedar",
+        "Galbanum",
+        "Angelica",
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-35-06PM-_1.png?v=1773460550",
+      "searchableText": "Creed creed Creed Royal Oud Regal Oud Amber Fougere unisex Pink Pepper Lemon Bergamot Cedar Galbanum Angelica Oud Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.140Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lemon",
+        "Pink Pepper",
+        "Musk"
+      ]
+    }
+  ]
+}

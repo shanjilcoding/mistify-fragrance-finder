@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 159,
+    "fragranceSlug": "initio-psychedelic-love-159",
+    "brandName": "Initio",
+    "brandSlug": "initio",
+    "originalFragranceName": "Psychedelic Love",
+    "originalFragranceSlug": "initio-psychedelic-love",
+    "mistifyProductName": "Hypnotic Love",
+    "mistifyProductSlug": "hypnotic-love",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/hypnotic-love",
+    "publicInspiredByLabel": "Inspired by Initio Psychedelic Love",
+    "audience": "unisex",
+    "classification": "Floral",
+    "topNotes": [
+      "Ylang-Ylang",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Heliotrope",
+      "Hedione",
+      "Bulgarian Rose"
+    ],
+    "baseNotes": [
+      "Myrrh",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Ylang-Ylang",
+      "Bergamot",
+      "Heliotrope",
+      "Hedione",
+      "Bulgarian Rose",
+      "Myrrh",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-30-34AM-_1.png?v=1773460506",
+    "searchableText": "Initio initio parfums Initio Parfums Psychedelic Love Hypnotic Love Floral unisex Ylang-Ylang Bergamot Heliotrope Hedione Bulgarian Rose Myrrh Sandalwood",
+    "createdAt": "2026-05-04T04:41:33.764Z"
+  }
+}

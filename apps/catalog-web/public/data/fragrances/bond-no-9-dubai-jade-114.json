@@ -1,0 +1,51 @@
+{
+  "fragrance": {
+    "id": 114,
+    "fragranceSlug": "bond-no-9-dubai-jade-114",
+    "brandName": "Bond No. 9",
+    "brandSlug": "bond-no-9",
+    "originalFragranceName": "Dubai Jade",
+    "originalFragranceSlug": "bond-no-9-dubai-jade",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Bond No. 9 Dubai Jade",
+    "audience": null,
+    "classification": "Oriental Floral",
+    "topNotes": [
+      "Violet Leaf",
+      "Raspberry",
+      "Cumin"
+    ],
+    "middleNotes": [
+      "Rose",
+      "Jasmine",
+      "Lily",
+      "Cedar"
+    ],
+    "baseNotes": [
+      "Oud",
+      "Musk",
+      "Birch",
+      "Amber",
+      "Ambrette"
+    ],
+    "allNotes": [
+      "Violet Leaf",
+      "Raspberry",
+      "Cumin",
+      "Rose",
+      "Jasmine",
+      "Lily",
+      "Cedar",
+      "Oud",
+      "Musk",
+      "Birch",
+      "Amber",
+      "Ambrette"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Dubai Jade Not verified Oriental Floral Violet Leaf Raspberry Cumin Rose Jasmine Lily Cedar Oud Musk Birch Amber Ambrette",
+    "createdAt": "2026-05-04T04:41:31.156Z"
+  }
+}

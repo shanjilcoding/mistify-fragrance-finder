@@ -1,0 +1,255 @@
+{
+  "fragrances": [
+    {
+      "id": 293,
+      "fragranceSlug": "bvlgari-baciami-293",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Baciami",
+      "originalFragranceSlug": "bvlgari-baciami",
+      "mistifyProductName": "Baciâme",
+      "mistifyProductSlug": "baciame",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baciame",
+      "publicInspiredByLabel": "Inspired by Bvlgari Baciami",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Gardenia"
+      ],
+      "middleNotes": [
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Gardenia",
+        "Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan1-2026-06-46-55AM-_1.png?v=1773460177",
+      "searchableText": "Bvlgari bvlgari Bvlgari Baciami Baciâme Oriental Floral unisex Gardenia Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:41.838Z",
+      "sharedNotes": [
+        "Amber"
+      ]
+    },
+    {
+      "id": 123,
+      "fragranceSlug": "bond-no-9-nomad-123",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Nomad",
+      "originalFragranceSlug": "bond-no-9-nomad",
+      "mistifyProductName": "Nomadique",
+      "mistifyProductSlug": "nomadique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/nomadique",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Nomad",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Black Currant",
+        "Pear",
+        "Quince"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Orris",
+        "Violet Leaves"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Black Currant",
+        "Pear",
+        "Quince",
+        "Rose",
+        "Oud",
+        "Orris",
+        "Violet Leaves",
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay7_2026_04_20_29PM.png?v=1778185236",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Nomad Nomadique Oriental Floral unisex Black Currant Pear Quince Rose Oud Orris Violet Leaves Amber Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:31.683Z",
+      "sharedNotes": [
+        "Violet Leaves",
+        "Amber"
+      ]
+    },
+    {
+      "id": 268,
+      "fragranceSlug": "byredo-animalique-268",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Animalique",
+      "originalFragranceSlug": "byredo-animalique",
+      "mistifyProductName": "Animal Instincts",
+      "mistifyProductSlug": "animal-instincts",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/animal-instincts",
+      "publicInspiredByLabel": "Inspired by Byredo Animalique",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Violet",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Tobacco Leaf",
+        "Amber"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Violet",
+        "Mimosa",
+        "Suede",
+        "Tobacco Leaf",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-19-10PM-_1.png?v=1773460283",
+      "searchableText": "Byredo byredo Byredo Animalique Animal Instincts Oriental Floral unisex Bergamot Lemon Violet Mimosa Suede Tobacco Leaf Amber",
+      "createdAt": "2026-05-04T04:41:40.321Z",
+      "sharedNotes": [
+        "Amber"
+      ]
+    },
+    {
+      "id": 41,
+      "fragranceSlug": "louis-vuitton-les-sables-roses-41",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Les Sables Roses",
+      "originalFragranceSlug": "louis-vuitton-les-sables-roses",
+      "mistifyProductName": "Sable Roseux",
+      "mistifyProductSlug": "sable-roseux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sable-roseux",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Les Sables Roses",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Bulgarian Rose"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Black Pepper"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Rose",
+        "Bulgarian Rose",
+        "Saffron",
+        "Black Pepper",
+        "Oud",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-21-03PM-_1.png?v=1773460255",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Les Sables Roses Sable Roseux Oriental Floral unisex Rose Bulgarian Rose Saffron Black Pepper Oud Ambergris",
+      "createdAt": "2026-05-04T04:41:26.886Z",
+      "sharedNotes": [
+        "Saffron"
+      ]
+    },
+    {
+      "id": 175,
+      "fragranceSlug": "mancera-aoud-orchid-175",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Aoud Orchid",
+      "originalFragranceSlug": "mancera-aoud-orchid",
+      "mistifyProductName": "Orchid Essence",
+      "mistifyProductSlug": "orchid-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orchid-essence",
+      "publicInspiredByLabel": "Inspired by Mancera Aoud Orchid",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange",
+        "Orchid",
+        "Patchouli",
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OrchidEssence.png?v=1765422998",
+      "searchableText": "Mancera mancera Mancera Aoud Orchid Orchid Essence Oriental Floral unisex Coconut Peach Mandarin Orange Orchid Patchouli Woody Notes Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.708Z",
+      "sharedNotes": [
+        "Amber"
+      ]
+    },
+    {
+      "id": 222,
+      "fragranceSlug": "dior-oud-ispahan-222",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Oud Ispahan",
+      "originalFragranceSlug": "dior-oud-ispahan",
+      "mistifyProductName": "Rosé Ispahan",
+      "mistifyProductSlug": "rose-ispahan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-ispahan",
+      "publicInspiredByLabel": "Inspired by Dior Oud Ispahan",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [],
+      "middleNotes": [
+        "Labdanum",
+        "Rose",
+        "Patchouli",
+        "Saffron",
+        "Oud",
+        "Sandalwood",
+        "Cedar"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Labdanum",
+        "Rose",
+        "Patchouli",
+        "Saffron",
+        "Oud",
+        "Sandalwood",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseIspahan-_1.png?v=1773460470",
+      "searchableText": "Dior christian dior Christian Dior Oud Ispahan Rosé Ispahan Oriental Floral unisex Labdanum Rose Patchouli Saffron Oud Sandalwood Cedar",
+      "createdAt": "2026-05-04T04:41:37.508Z",
+      "sharedNotes": [
+        "Saffron"
+      ]
+    }
+  ]
+}

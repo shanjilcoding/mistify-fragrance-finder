@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 24,
+    "fragranceSlug": "maison-francis-kurkdjian-aqua-media-cologne-forte-24",
+    "brandName": "Maison Francis Kurkdjian",
+    "brandSlug": "maison-francis-kurkdjian",
+    "originalFragranceName": "Aqua Media Cologne Forte",
+    "originalFragranceSlug": "maison-francis-kurkdjian-aqua-media-cologne-forte",
+    "mistifyProductName": "Aqua Médié",
+    "mistifyProductSlug": "aqua-medie",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/aqua-medie",
+    "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Media Cologne Forte",
+    "audience": "unisex",
+    "classification": "Green Citrus/Aromatic Fresh",
+    "topNotes": [
+      "Bergamot",
+      "Vervain"
+    ],
+    "middleNotes": [
+      "Fennel",
+      "Hedione"
+    ],
+    "baseNotes": [
+      "Matcha Tea",
+      "Musk",
+      "Woodsy Notes"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Vervain",
+      "Fennel",
+      "Hedione",
+      "Matcha Tea",
+      "Musk",
+      "Woodsy Notes"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan13-2026-07-36-12AM-_1.png?v=1773460175",
+    "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Media Cologne Forte Aqua Médié Green Citrus/Aromatic Fresh unisex Bergamot Vervain Fennel Hedione Matcha Tea Musk Woodsy Notes",
+    "createdAt": "2026-05-04T04:41:25.899Z"
+  }
+}

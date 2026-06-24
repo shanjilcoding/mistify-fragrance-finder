@@ -1,0 +1,262 @@
+{
+  "fragrances": [
+    {
+      "id": 257,
+      "fragranceSlug": "narciso-rodriguez-amber-musc-257",
+      "brandName": "Narciso Rodriguez",
+      "brandSlug": "narciso-rodriguez",
+      "originalFragranceName": "Amber Musc",
+      "originalFragranceSlug": "narciso-rodriguez-amber-musc",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Narciso Rodriguez Amber Musc",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Musk",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Oud",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "allNotes": [
+        "Musk",
+        "Orange Blossom",
+        "Patchouli",
+        "Oud",
+        "Leather",
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Narciso Rodriguez narciso rodriguez Narciso Rodriguez Amber Musc Not verified Oriental Musk Orange Blossom Patchouli Oud Leather Amber Vanilla Incense",
+      "createdAt": "2026-05-04T04:41:39.654Z",
+      "sharedNotes": [
+        "Leather",
+        "Orange Blossom",
+        "Incense",
+        "Oud",
+        "Amber",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 255,
+      "fragranceSlug": "mugler-alien-oud-majestueux-255",
+      "brandName": "Mugler",
+      "brandSlug": "mugler",
+      "originalFragranceName": "Alien Oud Majestueux",
+      "originalFragranceSlug": "mugler-alien-oud-majestueux",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mugler Alien Oud Majestueux",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cardamom",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Cashmeran"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Amber"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Saffron",
+        "Jasmine",
+        "Cashmeran",
+        "Oud",
+        "Amber"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mugler mugler Mugler Alien Oud Majestueux Not verified Oriental Woody Cardamom Saffron Jasmine Cashmeran Oud Amber",
+      "createdAt": "2026-05-04T04:41:39.525Z",
+      "sharedNotes": [
+        "Saffron",
+        "Oud",
+        "Amber"
+      ]
+    },
+    {
+      "id": 262,
+      "fragranceSlug": "ferrari-essence-oud-262",
+      "brandName": "Ferrari",
+      "brandSlug": "ferrari",
+      "originalFragranceName": "Essence Oud",
+      "originalFragranceSlug": "ferrari-essence-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Ferrari Essence Oud",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Oud"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Olibanum",
+        "Elemi Resin",
+        "Saffron",
+        "Caraway"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Oud",
+        "Rose",
+        "Olibanum",
+        "Elemi Resin",
+        "Saffron",
+        "Caraway",
+        "Leather",
+        "Labdanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Ferrari ferrari Ferrari Essence Oud Not verified Oriental Oud Rose Olibanum Elemi Resin Saffron Caraway Leather Labdanum",
+      "createdAt": "2026-05-04T04:41:39.958Z",
+      "sharedNotes": [
+        "Saffron",
+        "Leather",
+        "Oud"
+      ]
+    },
+    {
+      "id": 290,
+      "fragranceSlug": "frederic-malle-the-night-290",
+      "brandName": "Frederic Malle",
+      "brandSlug": "frederic-malle",
+      "originalFragranceName": "The Night",
+      "originalFragranceSlug": "frederic-malle-the-night",
+      "mistifyProductName": "Nightfall",
+      "mistifyProductSlug": "nightfall",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/nightfall",
+      "publicInspiredByLabel": "Inspired by Frederic Malle The Night",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Turkish Rose",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Indian Oud"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Incense",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Turkish Rose",
+        "Saffron",
+        "Indian Oud",
+        "Amber",
+        "Incense",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Screenshot2025-12-03at9-51-45PM-_1.png?v=1773460333",
+      "searchableText": "Frederic Malle frederic malle Frederic Malle The Night Nightfall Oriental Woody unisex Turkish Rose Saffron Indian Oud Amber Incense Sandalwood",
+      "createdAt": "2026-05-04T04:41:41.660Z",
+      "sharedNotes": [
+        "Saffron",
+        "Incense",
+        "Amber"
+      ]
+    },
+    {
+      "id": 193,
+      "fragranceSlug": "dolce-and-gabbana-velvet-desert-oud-193",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Velvet Desert Oud",
+      "originalFragranceSlug": "dolce-and-gabbana-velvet-desert-oud",
+      "mistifyProductName": "Desert Velvet",
+      "mistifyProductSlug": "desert-velvet",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/desert-velvet",
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Desert Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [],
+      "middleNotes": [
+        "Incense",
+        "Agarwood/Oud",
+        "Amber",
+        "Musk"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Incense",
+        "Agarwood/Oud",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/DesertVelvet.png?v=1765422932",
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Desert Oud Desert Velvet Oriental unisex Incense Agarwood/Oud Amber Musk",
+      "createdAt": "2026-05-04T04:41:35.780Z",
+      "sharedNotes": [
+        "Incense",
+        "Amber"
+      ]
+    },
+    {
+      "id": 192,
+      "fragranceSlug": "dolce-and-gabbana-velvet-zafferano-192",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Velvet Zafferano",
+      "originalFragranceSlug": "dolce-and-gabbana-velvet-zafferano",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Zafferano",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Tobacco Leaf"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Tobacco",
+        "Tobacco Leaf",
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Labdanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Zafferano Not verified Oriental Spicy Saffron Tobacco Tobacco Leaf Amber Vanilla Patchouli Labdanum",
+      "createdAt": "2026-05-04T04:41:35.717Z",
+      "sharedNotes": [
+        "Saffron",
+        "Amber",
+        "Vanilla"
+      ]
+    }
+  ]
+}

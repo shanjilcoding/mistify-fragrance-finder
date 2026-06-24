@@ -1,0 +1,318 @@
+{
+  "fragrances": [
+    {
+      "id": 3,
+      "fragranceSlug": "guerlain-santal-royal-3",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Santal Royal",
+      "originalFragranceSlug": "guerlain-santal-royal",
+      "mistifyProductName": "Royal Santal",
+      "mistifyProductSlug": "royal-santal",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/royal-santal",
+      "publicInspiredByLabel": "Inspired by Guerlain Santal Royal",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Neroli",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Sandalwood",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Jasmine",
+        "Sandalwood",
+        "Rose",
+        "Leather",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-20-14PM-_1.png?v=1773460356",
+      "searchableText": "Guerlain guerlain Guerlain Santal Royal Royal Santal Oriental Woody unisex Neroli Jasmine Sandalwood Rose Leather Amber Musk",
+      "createdAt": "2026-05-04T04:41:24.668Z",
+      "sharedNotes": [
+        "Neroli"
+      ]
+    },
+    {
+      "id": 271,
+      "fragranceSlug": "diptyque-eau-rihla-271",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Eau Rihla",
+      "originalFragranceSlug": "diptyque-eau-rihla",
+      "mistifyProductName": "Eau Relia",
+      "mistifyProductSlug": "eau-relia",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eau-relia",
+      "publicInspiredByLabel": "Inspired by Diptyque Eau Rihla",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Iris",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper",
+        "Leather",
+        "Iris",
+        "Cedar",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-50-51AM-_1.png?v=1773460377",
+      "searchableText": "Diptyque diptyque Diptyque Eau Rihla Eau Relia Oriental Woody unisex Raspberry Saffron Pink Pepper Leather Iris Cedar Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:40.507Z",
+      "sharedNotes": [
+        "Pink Pepper"
+      ]
+    },
+    {
+      "id": 233,
+      "fragranceSlug": "stephane-h-lucas-god-of-fire-233",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "God of Fire",
+      "originalFragranceSlug": "stephane-h-lucas-god-of-fire",
+      "mistifyProductName": "Divine Flame",
+      "mistifyProductSlug": "divine-flame",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/divine-flame",
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas God of Fire",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Mango",
+        "Lemon",
+        "Ginger",
+        "Red Berries"
+      ],
+      "middleNotes": [
+        "Coumarin",
+        "Jasmine",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Oud",
+        "Amber",
+        "Cypriol/Nagarmotha"
+      ],
+      "allNotes": [
+        "Mango",
+        "Lemon",
+        "Ginger",
+        "Red Berries",
+        "Coumarin",
+        "Jasmine",
+        "Cedar",
+        "Musk",
+        "Oud",
+        "Amber",
+        "Cypriol/Nagarmotha"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-11-17-20PM-_1.png?v=1773460404",
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas God of Fire Divine Flame Oriental Woody unisex Mango Lemon Ginger Red Berries Coumarin Jasmine Cedar Musk Oud Amber Cypriol/Nagarmotha",
+      "createdAt": "2026-05-04T04:41:38.179Z",
+      "sharedNotes": [
+        "Lemon"
+      ]
+    },
+    {
+      "id": 96,
+      "fragranceSlug": "tom-ford-oud-voyager-96",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Voyager",
+      "originalFragranceSlug": "tom-ford-oud-voyager",
+      "mistifyProductName": "Oud Voyagé",
+      "mistifyProductSlug": "oud-voyage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-voyage",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Voyager",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus"
+      ],
+      "middleNotes": [
+        "Red Peony",
+        "Cardamom",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "allNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus",
+        "Red Peony",
+        "Cardamom",
+        "Saffron",
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec17-2025-09-31-28AM-_1.png?v=1773460197",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Voyager Oud Voyagé Oriental Woody unisex Geranium Pink Pepper Citrus Red Peony Cardamom Saffron Oud Cypriol Patchouli Vetiver Musk",
+      "createdAt": "2026-05-04T04:41:30.090Z",
+      "sharedNotes": [
+        "Pink Pepper"
+      ]
+    },
+    {
+      "id": 278,
+      "fragranceSlug": "amouage-outlands-278",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Outlands",
+      "originalFragranceSlug": "amouage-outlands",
+      "mistifyProductName": "Outland Aura",
+      "mistifyProductSlug": "outland-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/outland-aura",
+      "publicInspiredByLabel": "Inspired by Amouage Outlands",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Frankincense",
+        "Cardamom",
+        "Elemi",
+        "Lemon",
+        "Bergamot",
+        "Sichuan Pepper"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Anise",
+        "Coriander",
+        "Cumin",
+        "Saffron",
+        "Orange Blossom",
+        "Wormwood",
+        "Geranium",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Frankincense",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Oud",
+        "Opoponax",
+        "Birch",
+        "Ambergris",
+        "Labdanum",
+        "Maltol",
+        "Musk"
+      ],
+      "allNotes": [
+        "Frankincense",
+        "Cardamom",
+        "Elemi",
+        "Lemon",
+        "Bergamot",
+        "Sichuan Pepper",
+        "Patchouli",
+        "Anise",
+        "Coriander",
+        "Cumin",
+        "Saffron",
+        "Orange Blossom",
+        "Wormwood",
+        "Geranium",
+        "Rose",
+        "Frankincense",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Oud",
+        "Opoponax",
+        "Birch",
+        "Ambergris",
+        "Labdanum",
+        "Maltol",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb3-2026-06-02-40PM-_1.png?v=1773460158",
+      "searchableText": "Amouage amouage Amouage Outlands Outland Aura Oriental Woody unisex Frankincense Cardamom Elemi Lemon Bergamot Sichuan Pepper Patchouli Anise Coriander Cumin Saffron Orange Blossom Wormwood Geranium Rose Frankincense Vanilla Amber Benzoin Oud Opoponax Birch Ambergris Labdanum Maltol Musk",
+      "createdAt": "2026-05-04T04:41:40.947Z",
+      "sharedNotes": [
+        "Lemon"
+      ]
+    },
+    {
+      "id": 224,
+      "fragranceSlug": "dior-vanilla-diorama-224",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Vanilla Diorama",
+      "originalFragranceSlug": "dior-vanilla-diorama",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Dior Vanilla Diorama",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Orange",
+        "Pink Pepper",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Rum",
+        "Cacao",
+        "Cardamom"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Orange",
+        "Pink Pepper",
+        "Lemon",
+        "Rum",
+        "Cacao",
+        "Cardamom",
+        "Bourbon Vanilla",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Dior christian dior Christian Dior Vanilla Diorama Not verified Oriental Vanilla Orange Pink Pepper Lemon Rum Cacao Cardamom Bourbon Vanilla Sandalwood Patchouli",
+      "createdAt": "2026-05-04T04:41:37.634Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Rum"
+      ]
+    }
+  ]
+}

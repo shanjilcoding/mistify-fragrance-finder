@@ -1,0 +1,257 @@
+{
+  "fragrances": [
+    {
+      "id": 27,
+      "fragranceSlug": "louis-vuitton-afternoon-swim-27",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Afternoon Swim",
+      "originalFragranceSlug": "louis-vuitton-afternoon-swim",
+      "mistifyProductName": "Afterdawn Swim",
+      "mistifyProductSlug": "afterdawn-swim",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/afterdawn-swim",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Afternoon Swim",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Ginger"
+      ],
+      "baseNotes": [
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange",
+        "Ginger",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_12_16_25PM.png?v=1765422821",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Afternoon Swim Afterdawn Swim Citrus unisex Bergamot Mandarin Orange Ginger Ambergris",
+      "createdAt": "2026-05-04T04:41:26.069Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Ginger"
+      ]
+    },
+    {
+      "id": 16,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte-16",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Vitae Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte",
+      "mistifyProductName": "Vitae Essence",
+      "mistifyProductSlug": "vitae-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vitae-essence",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Vitae Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Floral Notes",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Floral Notes",
+        "Solar Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/VitaeEssence.png?v=1765422978",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Vitae Cologne Forte Vitae Essence Citrus unisex Mandarin Orange Bergamot Floral Notes Solar Notes Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.428Z",
+      "sharedNotes": [
+        "Bergamot"
+      ]
+    },
+    {
+      "id": 42,
+      "fragranceSlug": "louis-vuitton-lvers-lovers-42",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "LVERS / Lovers",
+      "originalFragranceSlug": "louis-vuitton-lvers-lovers",
+      "mistifyProductName": "LOVERS",
+      "mistifyProductSlug": "lovers",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/solar-essence",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton LVERS / Lovers",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Galbanum",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Cedarwood"
+      ],
+      "allNotes": [
+        "Galbanum",
+        "Bergamot",
+        "Ginger",
+        "Solar Notes",
+        "Sandalwood",
+        "Cedarwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton LVERS / Lovers LOVERS Woody Aromatic unisex Galbanum Bergamot Ginger Solar Notes Sandalwood Cedarwood",
+      "createdAt": "2026-05-04T04:41:26.948Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Ginger"
+      ]
+    },
+    {
+      "id": 37,
+      "fragranceSlug": "louis-vuitton-attrape-reves-37",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Attrape-Rêves",
+      "originalFragranceSlug": "louis-vuitton-attrape-reves",
+      "mistifyProductName": "Mystic Dream",
+      "mistifyProductSlug": "mystic-dream",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mystic-dream",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Attrape-Rêves",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Bergamot",
+        "Ginger",
+        "Lychee"
+      ],
+      "middleNotes": [
+        "Peony",
+        "Cocoa Flower",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Patchouli Essence"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Ginger",
+        "Lychee",
+        "Peony",
+        "Cocoa Flower",
+        "Turkish Rose",
+        "Patchouli Essence"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-40-04PM-_1.png?v=1773460325",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Attrape-Rêves Mystic Dream Oriental Floral unisex Bergamot Ginger Lychee Peony Cocoa Flower Turkish Rose Patchouli Essence",
+      "createdAt": "2026-05-04T04:41:26.650Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Ginger"
+      ]
+    },
+    {
+      "id": 291,
+      "fragranceSlug": "bvlgari-le-gemme-tygar-291",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Le Gemme Tygar",
+      "originalFragranceSlug": "bvlgari-le-gemme-tygar",
+      "mistifyProductName": "Tygara",
+      "mistifyProductSlug": "tygara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/castellan-copy",
+      "publicInspiredByLabel": "Inspired by Bvlgari Le Gemme Tygar",
+      "audience": "mens",
+      "classification": "Citrus Woody/Musky Amber",
+      "topNotes": [
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Ambrette"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Musk",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Ginger",
+        "Ambrette",
+        "Ambroxan",
+        "Musk",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-20-42AM-_1.png?v=1773460236",
+      "searchableText": "Bvlgari bvlgari Bvlgari Le Gemme Tygar Tygara Citrus Woody/Musky Amber mens Grapefruit Ginger Ambrette Ambroxan Musk Vetiver Patchouli",
+      "createdAt": "2026-05-04T04:41:41.717Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Ginger"
+      ]
+    },
+    {
+      "id": 186,
+      "fragranceSlug": "ex-nihilo-blue-talisman-186",
+      "brandName": "Ex Nihilo",
+      "brandSlug": "ex-nihilo",
+      "originalFragranceName": "Blue Talisman",
+      "originalFragranceSlug": "ex-nihilo-blue-talisman",
+      "mistifyProductName": "Azure Talisman",
+      "mistifyProductSlug": "azure-talisman",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/azure-talisman",
+      "publicInspiredByLabel": "Inspired by Ex Nihilo Blue Talisman",
+      "audience": "unisex",
+      "classification": "Woody/Ambery Oriental",
+      "topNotes": [
+        "Pear",
+        "Bergamot",
+        "Mandarin",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Georgywood"
+      ],
+      "baseNotes": [
+        "Akigalawood",
+        "Musk",
+        "Ambrofix"
+      ],
+      "allNotes": [
+        "Pear",
+        "Bergamot",
+        "Mandarin",
+        "Ginger",
+        "Orange Blossom",
+        "Georgywood",
+        "Akigalawood",
+        "Musk",
+        "Ambrofix"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-25-00PM-_1.png?v=1773460308",
+      "searchableText": "Ex Nihilo ex nihilo Ex Nihilo Blue Talisman Azure Talisman Woody/Ambery Oriental unisex Pear Bergamot Mandarin Ginger Orange Blossom Georgywood Akigalawood Musk Ambrofix",
+      "createdAt": "2026-05-04T04:41:35.349Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Ginger"
+      ]
+    }
+  ]
+}

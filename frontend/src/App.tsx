@@ -1,4 +1,4 @@
-import { useState, useSyncExternalStore } from 'react'
+import { useState } from 'react'
 import { logoutAdmin } from './api/adminApi'
 import ChatPage from './pages/ChatPage'
 import AdminLoginPage from './pages/AdminLoginPage'
@@ -6,7 +6,7 @@ import AdminProductsPage from './pages/AdminProductsPage'
 import AdminChipsPage from './pages/AdminChipsPage'
 
 function App() {
-  const path = useSyncExternalStore(subscribeToRouteChanges, getCurrentPath)
+  const path = window.location.pathname
   const [adminToken, setAdminToken] = useState(
     () => sessionStorage.getItem('mistifyAdminToken') ?? '',
   )
@@ -46,13 +46,3 @@ function App() {
 }
 
 export default App
-
-function getCurrentPath() {
-  return window.location.pathname
-}
-
-function subscribeToRouteChanges(onRouteChange: () => void) {
-  window.addEventListener('popstate', onRouteChange)
-
-  return () => window.removeEventListener('popstate', onRouteChange)
-}

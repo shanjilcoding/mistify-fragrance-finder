@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 334,
+    "fragranceSlug": "dior-bois-dargent-334",
+    "brandName": "Dior",
+    "brandSlug": "dior",
+    "originalFragranceName": "Bois d'Argent",
+    "originalFragranceSlug": "dior-bois-dargent",
+    "mistifyProductName": "Silver Wood",
+    "mistifyProductSlug": "silver-wood",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/silver-wood",
+    "publicInspiredByLabel": "Dior Bois d'Argent",
+    "audience": null,
+    "classification": "Woody Floral",
+    "topNotes": [
+      "Iris",
+      "Frankincense"
+    ],
+    "middleNotes": [
+      "Myrrh",
+      "Honey"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Woody Notes"
+    ],
+    "allNotes": [
+      "Iris",
+      "Frankincense",
+      "Myrrh",
+      "Honey",
+      "Musk",
+      "Woody Notes"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/SilverWood-fcdf2e8b-041b-4cd8-9ace-9e28120edef8-_1.png?v=1773460459",
+    "searchableText": "Dior Christian Dior Bois d'Argent Silver Wood Woody Floral Iris Frankincense Myrrh Honey Musk Woody Notes",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

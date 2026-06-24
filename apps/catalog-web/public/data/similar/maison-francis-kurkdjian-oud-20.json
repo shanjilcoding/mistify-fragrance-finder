@@ -1,0 +1,275 @@
+{
+  "fragrances": [
+    {
+      "id": 142,
+      "fragranceSlug": "ysl-yves-saint-laurent-babycat-142",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Babycat",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-babycat",
+      "mistifyProductName": "Wildcat",
+      "mistifyProductSlug": "wildcat",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/wildcat",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Babycat",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Elemi"
+      ],
+      "middleNotes": [
+        "Olibanum",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Suede",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Elemi",
+        "Olibanum",
+        "Saffron",
+        "Bourbon Vanilla",
+        "Suede",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-18-52PM-_1.png?v=1773460434",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Babycat Wildcat Oriental Spicy unisex Pink Pepper Black Pepper Elemi Olibanum Saffron Bourbon Vanilla Suede Cedar",
+      "createdAt": "2026-05-04T04:41:32.770Z",
+      "sharedNotes": [
+        "Saffron",
+        "Elemi",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 17,
+      "fragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-17",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Baccarat Rouge 540",
+      "originalFragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540",
+      "mistifyProductName": "Baccarata 440",
+      "mistifyProductSlug": "baccarata-440",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baccarata-440",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Baccarat Rouge 540",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Saffron",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Ambergris"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Fir Resin"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Jasmine",
+        "Ambergris",
+        "Cedar",
+        "Fir Resin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_10_54_14PM.png?v=1765422979",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Baccarat Rouge 540 Baccarata 440 Amber Floral unisex Saffron Jasmine Ambergris Cedar Fir Resin",
+      "createdAt": "2026-05-04T04:41:25.486Z",
+      "sharedNotes": [
+        "Saffron",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 298,
+      "fragranceSlug": "marc-antoine-barrois-ganymede-298",
+      "brandName": "Marc-Antoine Barrois",
+      "brandSlug": "marc-antoine-barrois",
+      "originalFragranceName": "Ganymede",
+      "originalFragranceSlug": "marc-antoine-barrois-ganymede",
+      "mistifyProductName": "Mineral Suede",
+      "mistifyProductSlug": "mineral-suede",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mineral-suede",
+      "publicInspiredByLabel": "Inspired by Marc-Antoine Barrois Ganymede",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Italian Mandarin"
+      ],
+      "middleNotes": [
+        "Chinese Osmanthus",
+        "Immortelle",
+        "Violet Leaf"
+      ],
+      "baseNotes": [
+        "Mineral Notes",
+        "Suede",
+        "Akigalawood",
+        "Cedar",
+        "Musk",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Italian Mandarin",
+        "Chinese Osmanthus",
+        "Immortelle",
+        "Violet Leaf",
+        "Mineral Notes",
+        "Suede",
+        "Akigalawood",
+        "Cedar",
+        "Musk",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay20_2026_02_13_18PM.png?v=1779300809",
+      "searchableText": "Marc-Antoine Barrois marc antoine barrois Marc-Antoine Barrois Ganymede Mineral Suede Woody Spicy Saffron Italian Mandarin Chinese Osmanthus Immortelle Violet Leaf Mineral Notes Suede Akigalawood Cedar Musk Patchouli",
+      "createdAt": "2026-05-04T04:41:42.126Z",
+      "sharedNotes": [
+        "Saffron",
+        "Patchouli",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 213,
+      "fragranceSlug": "maison-crivelli-oud-stallion-213",
+      "brandName": "Maison Crivelli",
+      "brandSlug": "maison-crivelli",
+      "originalFragranceName": "Oud Stallion",
+      "originalFragranceSlug": "maison-crivelli-oud-stallion",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Maison Crivelli Oud Stallion",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Saffron",
+        "Cardamom",
+        "Indonesian Nutmeg"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Osmanthus",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Cedar",
+        "Patchouli",
+        "Tonka"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Cardamom",
+        "Indonesian Nutmeg",
+        "Jasmine",
+        "Osmanthus",
+        "Turkish Rose",
+        "Oud",
+        "Leather",
+        "Cedar",
+        "Patchouli",
+        "Tonka"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Maison Crivelli maison crivelli Maison Crivelli Oud Stallion Not verified Oriental Woody Saffron Cardamom Indonesian Nutmeg Jasmine Osmanthus Turkish Rose Oud Leather Cedar Patchouli Tonka",
+      "createdAt": "2026-05-04T04:41:36.980Z",
+      "sharedNotes": [
+        "Saffron",
+        "Patchouli",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 69,
+      "fragranceSlug": "kilian-rose-oud-69",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rose Oud",
+      "originalFragranceSlug": "kilian-rose-oud",
+      "mistifyProductName": "Rosy Oud",
+      "mistifyProductSlug": "rosy-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rosy-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Rose Oud",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Rose",
+        "Saffron",
+        "Oud",
+        "Cedarwood",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RosyOud_9a080a3b-9ff3-481e-8ecc-190466f11560.png?v=1765422921",
+      "searchableText": "Kilian kilian By Kilian Rose Oud Rosy Oud Oriental Floral unisex Rose Saffron Oud Cedarwood Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:28.526Z",
+      "sharedNotes": [
+        "Saffron",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 157,
+      "fragranceSlug": "initio-oud-for-greatness-157",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Greatness",
+      "originalFragranceSlug": "initio-oud-for-greatness",
+      "mistifyProductName": "Majestic Oud",
+      "mistifyProductSlug": "majestic-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-oud",
+      "publicInspiredByLabel": "Inspired by Initio Oud for Greatness",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Oud"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_56_51PM.png?v=1765422990",
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Greatness Majestic Oud Woody Spicy unisex Saffron Nutmeg Lavender Oud Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.651Z",
+      "sharedNotes": [
+        "Saffron",
+        "Patchouli"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "fragrances": [
+    {
+      "id": 265,
+      "fragranceSlug": "prada-paradoxe-265",
+      "brandName": "Prada",
+      "brandSlug": "prada",
+      "originalFragranceName": "Paradoxe",
+      "originalFragranceSlug": "prada-paradoxe",
+      "mistifyProductName": "Paradiis",
+      "mistifyProductSlug": "paradiis",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradiis",
+      "publicInspiredByLabel": "Inspired by Prada Paradoxe",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear",
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine",
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-38-29PM-_1.png?v=1773460252",
+      "searchableText": "Prada prada Prada Paradoxe Paradiis Amber Floral unisex Calabrian Bergamot Tangerine Pear Neroli Orange Blossom Jasmine Amber White Musk Benzoin Vanilla",
+      "createdAt": "2026-05-04T04:41:40.135Z",
+      "sharedNotes": [
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 17,
+      "fragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-17",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Baccarat Rouge 540",
+      "originalFragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540",
+      "mistifyProductName": "Baccarata 440",
+      "mistifyProductSlug": "baccarata-440",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baccarata-440",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Baccarat Rouge 540",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Saffron",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Ambergris"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Fir Resin"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Jasmine",
+        "Ambergris",
+        "Cedar",
+        "Fir Resin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_10_54_14PM.png?v=1765422979",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Baccarat Rouge 540 Baccarata 440 Amber Floral unisex Saffron Jasmine Ambergris Cedar Fir Resin",
+      "createdAt": "2026-05-04T04:41:25.486Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 85,
+      "fragranceSlug": "tom-ford-soleil-blanc-85",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Soleil Blanc",
+      "originalFragranceSlug": "tom-ford-soleil-blanc",
+      "mistifyProductName": "Soleil Sun",
+      "mistifyProductSlug": "soleil-sun",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-sun",
+      "publicInspiredByLabel": "Inspired by Tom Ford Soleil Blanc",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pistachio",
+        "Bergamot",
+        "Cardamom",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Coconut",
+        "Amber",
+        "Tonka Bean",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Pistachio",
+        "Bergamot",
+        "Cardamom",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Coconut",
+        "Amber",
+        "Tonka Bean",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-41-35AM-_1.png?v=1773460537",
+      "searchableText": "Tom Ford tom ford Tom Ford Soleil Blanc Soleil Sun Amber Floral unisex Pistachio Bergamot Cardamom Pink Pepper Tuberose Ylang-Ylang Jasmine Coconut Amber Tonka Bean Benzoin",
+      "createdAt": "2026-05-04T04:41:29.454Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 245,
+      "fragranceSlug": "maison-martin-margiela-replica-by-the-fireplace-245",
+      "brandName": "Maison Martin Margiela 'REPLICA'",
+      "brandSlug": "maison-martin-margiela-replica",
+      "originalFragranceName": "By The Fireplace",
+      "originalFragranceSlug": "maison-martin-margiela-replica-by-the-fireplace",
+      "mistifyProductName": "Fireplace Glow",
+      "mistifyProductSlug": "fireplace-glow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fireplace-glow",
+      "publicInspiredByLabel": "Inspired by Maison Martin Margiela 'REPLICA' By The Fireplace",
+      "audience": "unisex",
+      "classification": "Woody",
+      "topNotes": [
+        "Cloves",
+        "Pink Pepper",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Chestnut",
+        "Guaiac Wood",
+        "Juniper"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Peru Balsam",
+        "Cashmeran"
+      ],
+      "allNotes": [
+        "Cloves",
+        "Pink Pepper",
+        "Orange Blossom",
+        "Chestnut",
+        "Guaiac Wood",
+        "Juniper",
+        "Vanilla",
+        "Peru Balsam",
+        "Cashmeran"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-32-03PM-_1.png?v=1773460390",
+      "searchableText": "Maison Martin Margiela 'REPLICA' maison martin margiela replica Maison Martin Margiela 'REPLICA' By The Fireplace Fireplace Glow Woody unisex Cloves Pink Pepper Orange Blossom Chestnut Guaiac Wood Juniper Vanilla Peru Balsam Cashmeran",
+      "createdAt": "2026-05-04T04:41:38.913Z",
+      "sharedNotes": [
+        "Peru Balsam",
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 29,
+      "fragranceSlug": "louis-vuitton-fleur-du-desert-29",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Fleur du Désert",
+      "originalFragranceSlug": "louis-vuitton-fleur-du-desert",
+      "mistifyProductName": "Floral de Mirage",
+      "mistifyProductSlug": "floral-de-mirage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/floral-de-mirage",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Fleur du Désert",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Jasmine",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Rose"
+      ],
+      "baseNotes": [
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Rose",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_22_06AM.png?v=1774326133",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Fleur du Désert Floral de Mirage Floral unisex Jasmine Orange Blossom Rose Sandalwood",
+      "createdAt": "2026-05-04T04:41:26.180Z",
+      "sharedNotes": [
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 153,
+      "fragranceSlug": "ysl-yves-saint-laurent-libre-vanille-couture-153",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Libre Vanille Couture",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-libre-vanille-couture",
+      "mistifyProductName": "Libre Vanillé",
+      "mistifyProductSlug": "libre-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-vanille",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre Vanille Couture",
+      "audience": "unisex",
+      "classification": "Gourmand Floral/Warm Boozy",
+      "topNotes": [
+        "Diva Lavender",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Bourbon Vanilla Caviar",
+        "Rum Absolute"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla Caviar",
+        "Rum Absolute"
+      ],
+      "allNotes": [
+        "Diva Lavender",
+        "Orange Blossom",
+        "Bourbon Vanilla Caviar",
+        "Rum Absolute",
+        "Bourbon Vanilla Caviar",
+        "Rum Absolute"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb26-2026-12-44-22PM-_1.png?v=1773460127",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Vanille Couture Libre Vanillé Gourmand Floral/Warm Boozy unisex Diva Lavender Orange Blossom Bourbon Vanilla Caviar Rum Absolute Bourbon Vanilla Caviar Rum Absolute",
+      "createdAt": "2026-05-04T04:41:33.418Z",
+      "sharedNotes": [
+        "Orange Blossom"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "brand": {
+    "brandName": "Ralph Lauren",
+    "brandSlug": "ralph-lauren",
+    "fragranceCount": 1,
+    "searchableText": "Polo Oud Polo Oudière Ralph Lauren Polo Oud Ralph Lauren Ralph Lauren Polo Oud Polo Oudière Amber Woody / Smoky Oriental Pink Pepper Clary Sage Rose Cinnamon Orange Oud Incense Guaiac Wood Patchouli Vetiver"
+  },
+  "fragrances": [
+    {
+      "id": 331,
+      "fragranceSlug": "ralph-lauren-polo-oud-331",
+      "brandName": "Ralph Lauren",
+      "brandSlug": "ralph-lauren",
+      "originalFragranceName": "Polo Oud",
+      "originalFragranceSlug": "ralph-lauren-polo-oud",
+      "mistifyProductName": "Polo Oudière",
+      "mistifyProductSlug": "polo-oudiere",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/polo-oudiere",
+      "publicInspiredByLabel": "Ralph Lauren Polo Oud",
+      "audience": null,
+      "classification": "Amber Woody / Smoky Oriental",
+      "topNotes": [
+        "Pink Pepper",
+        "Clary Sage"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cinnamon",
+        "Orange"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Incense",
+        "Guaiac Wood",
+        "Patchouli",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Clary Sage",
+        "Rose",
+        "Cinnamon",
+        "Orange",
+        "Oud",
+        "Incense",
+        "Guaiac Wood",
+        "Patchouli",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov18-2025-11-01-57AM-_1.png?v=1773460210",
+      "searchableText": "Ralph Lauren Ralph Lauren Polo Oud Polo Oudière Amber Woody / Smoky Oriental Pink Pepper Clary Sage Rose Cinnamon Orange Oud Incense Guaiac Wood Patchouli Vetiver",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 224,
+    "fragranceSlug": "dior-vanilla-diorama-224",
+    "brandName": "Dior",
+    "brandSlug": "dior",
+    "originalFragranceName": "Vanilla Diorama",
+    "originalFragranceSlug": "dior-vanilla-diorama",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Dior Vanilla Diorama",
+    "audience": null,
+    "classification": "Oriental Vanilla",
+    "topNotes": [
+      "Orange",
+      "Pink Pepper",
+      "Lemon"
+    ],
+    "middleNotes": [
+      "Rum",
+      "Cacao",
+      "Cardamom"
+    ],
+    "baseNotes": [
+      "Bourbon Vanilla",
+      "Sandalwood",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Orange",
+      "Pink Pepper",
+      "Lemon",
+      "Rum",
+      "Cacao",
+      "Cardamom",
+      "Bourbon Vanilla",
+      "Sandalwood",
+      "Patchouli"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Dior christian dior Christian Dior Vanilla Diorama Not verified Oriental Vanilla Orange Pink Pepper Lemon Rum Cacao Cardamom Bourbon Vanilla Sandalwood Patchouli",
+    "createdAt": "2026-05-04T04:41:37.634Z"
+  }
+}

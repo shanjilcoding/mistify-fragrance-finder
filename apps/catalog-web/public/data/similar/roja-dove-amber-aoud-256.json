@@ -1,0 +1,327 @@
+{
+  "fragrances": [
+    {
+      "id": 113,
+      "fragranceSlug": "bond-no-9-b9-113",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "B9",
+      "originalFragranceSlug": "bond-no-9-b9",
+      "mistifyProductName": "Bonded 9",
+      "mistifyProductSlug": "bonded-9",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bonded-9",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 B9",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Gardenia",
+        "Saffron",
+        "Musk",
+        "Amber",
+        "Jasmine",
+        "Orchid",
+        "Citruses",
+        "Sandalwood",
+        "Oakmoss",
+        "Vetiver",
+        "Oud"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Gardenia",
+        "Saffron",
+        "Musk",
+        "Amber",
+        "Jasmine",
+        "Orchid",
+        "Citruses",
+        "Sandalwood",
+        "Oakmoss",
+        "Vetiver",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_56_50PM.png?v=1774407417",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 B9 Bonded 9 Oriental Spicy unisex Gardenia Saffron Musk Amber Jasmine Orchid Citruses Sandalwood Oakmoss Vetiver Oud",
+      "createdAt": "2026-05-04T04:41:31.088Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Oud",
+        "Saffron",
+        "Sandalwood",
+        "Musk",
+        "Oakmoss"
+      ]
+    },
+    {
+      "id": 229,
+      "fragranceSlug": "tiziana-terenzi-gumin-229",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Gumin",
+      "originalFragranceSlug": "tiziana-terenzi-gumin",
+      "mistifyProductName": "Gemine",
+      "mistifyProductSlug": "gemine",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gemine",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Gumin",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Mandarin Orange",
+        "Orange",
+        "Pineapple",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Ozonic Notes",
+        "Amber",
+        "Violet",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Orange",
+        "Pineapple",
+        "Bergamot",
+        "Ozonic Notes",
+        "Amber",
+        "Violet",
+        "Jasmine",
+        "Rose",
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Gemine-_1.png?v=1773460415",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Gumin Gemine Not listed clearly by Fragrantica unisex Mandarin Orange Orange Pineapple Bergamot Ozonic Notes Amber Violet Jasmine Rose Musk Sandalwood Birch Oud",
+      "createdAt": "2026-05-04T04:41:37.940Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Rose",
+        "Jasmine",
+        "Oud",
+        "Sandalwood",
+        "Musk",
+        "Birch"
+      ]
+    },
+    {
+      "id": 84,
+      "fragranceSlug": "tom-ford-santal-blush-84",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Santal Blush",
+      "originalFragranceSlug": "tom-ford-santal-blush",
+      "mistifyProductName": "Santal Veil",
+      "mistifyProductSlug": "santal-veil",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/santal-veil",
+      "publicInspiredByLabel": "Inspired by Tom Ford Santal Blush",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Fenugreek",
+        "Carrot Seeds"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Ylang-Ylang",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Benzoin",
+        "Agarwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Fenugreek",
+        "Carrot Seeds",
+        "Jasmine",
+        "Ylang-Ylang",
+        "Rose",
+        "Sandalwood",
+        "Benzoin",
+        "Agarwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_29_23AM.png?v=1774326570",
+      "searchableText": "Tom Ford tom ford Tom Ford Santal Blush Santal Veil Woody Spicy unisex Cinnamon Fenugreek Carrot Seeds Jasmine Ylang-Ylang Rose Sandalwood Benzoin Agarwood Musk",
+      "createdAt": "2026-05-04T04:41:29.400Z",
+      "sharedNotes": [
+        "Rose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Sandalwood",
+        "Musk",
+        "Cinnamon"
+      ]
+    },
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lemon",
+        "Rose",
+        "Jasmine",
+        "Musk"
+      ]
+    },
+    {
+      "id": 329,
+      "fragranceSlug": "dior-gris-montaigne-329",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Gris Montaigne",
+      "originalFragranceSlug": "dior-gris-montaigne",
+      "mistifyProductName": "Gris Montaire",
+      "mistifyProductSlug": "gris-montaire",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/torino-verde-copy",
+      "publicInspiredByLabel": "Dior Gris Montaigne",
+      "audience": null,
+      "classification": "Floral Chypre / Elegant Fruity Floral",
+      "topNotes": [
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Strawberry",
+        "Jasmine",
+        "Orange Blossom",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Oakmoss",
+        "Sandalwood",
+        "Amber",
+        "Cedar",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Rose",
+        "Strawberry",
+        "Jasmine",
+        "Orange Blossom",
+        "Ylang-Ylang",
+        "Patchouli",
+        "Oakmoss",
+        "Sandalwood",
+        "Amber",
+        "Cedar",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar10-2026-12-10-56PM-_1.png?v=1773460119",
+      "searchableText": "Dior Dior Gris Montaigne Gris Montaire Floral Chypre / Elegant Fruity Floral Bergamot Grapefruit Rose Strawberry Jasmine Orange Blossom Ylang-Ylang Patchouli Oakmoss Sandalwood Amber Cedar White Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Rose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Sandalwood",
+        "Patchouli",
+        "Oakmoss"
+      ]
+    },
+    {
+      "id": 94,
+      "fragranceSlug": "tom-ford-noir-extreme-94",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Noir Extreme",
+      "originalFragranceSlug": "tom-ford-noir-extreme",
+      "mistifyProductName": "Night Extreme",
+      "mistifyProductSlug": "night-extreme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/night-extreme",
+      "publicInspiredByLabel": "Inspired by Tom Ford Noir Extreme",
+      "audience": "mens",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Mandarin",
+        "Neroli",
+        "Saffron",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Kulfi",
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin",
+        "Neroli",
+        "Saffron",
+        "Nutmeg",
+        "Kulfi",
+        "Rose",
+        "Jasmine",
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_51_27PM.png?v=1765422879",
+      "searchableText": "Tom Ford tom ford Tom Ford Noir Extreme Night Extreme Oriental Spicy mens Mandarin Neroli Saffron Nutmeg Kulfi Rose Jasmine Vanilla Amber Sandalwood",
+      "createdAt": "2026-05-04T04:41:29.974Z",
+      "sharedNotes": [
+        "Rose",
+        "Jasmine",
+        "Saffron",
+        "Sandalwood"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 86,
+    "fragranceSlug": "tom-ford-soleil-neige-86",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Soleil Neige",
+    "originalFragranceSlug": "tom-ford-soleil-neige",
+    "mistifyProductName": "Soleil Snow",
+    "mistifyProductSlug": "soleil-snow",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-snow",
+    "publicInspiredByLabel": "Inspired by Tom Ford Soleil Neige",
+    "audience": "unisex",
+    "classification": "Floral Musk",
+    "topNotes": [
+      "Bergamot",
+      "Carrot Seeds"
+    ],
+    "middleNotes": [
+      "White Flowers",
+      "Jasmine",
+      "Orange Blossom",
+      "Turkish Rose"
+    ],
+    "baseNotes": [
+      "Benzoin",
+      "Vanilla",
+      "Labdanum"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Carrot Seeds",
+      "White Flowers",
+      "Jasmine",
+      "Orange Blossom",
+      "Turkish Rose",
+      "Benzoin",
+      "Vanilla",
+      "Labdanum"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_09_07AM.png?v=1774325369",
+    "searchableText": "Tom Ford tom ford Tom Ford Soleil Neige Soleil Snow Floral Musk unisex Bergamot Carrot Seeds White Flowers Jasmine Orange Blossom Turkish Rose Benzoin Vanilla Labdanum",
+    "createdAt": "2026-05-04T04:41:29.512Z"
+  }
+}

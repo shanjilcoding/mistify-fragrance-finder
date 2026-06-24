@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 45,
+    "fragranceSlug": "louis-vuitton-fantasmagory-45",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Fantasmagory",
+    "originalFragranceSlug": "louis-vuitton-fantasmagory",
+    "mistifyProductName": "Fantasmique",
+    "mistifyProductSlug": "fantasmique",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/fantasmique",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Fantasmagory",
+    "audience": "unisex",
+    "classification": "Oriental Vanilla",
+    "topNotes": [
+      "Anise",
+      "Ginger"
+    ],
+    "middleNotes": [
+      "Almond",
+      "Floral Notes"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Leather"
+    ],
+    "allNotes": [
+      "Anise",
+      "Ginger",
+      "Almond",
+      "Floral Notes",
+      "Vanilla",
+      "Leather"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec18-2025-10-09-42AM-_1.png?v=1773460194",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Fantasmagory Fantasmique Oriental Vanilla unisex Anise Ginger Almond Floral Notes Vanilla Leather",
+    "createdAt": "2026-05-04T04:41:27.120Z"
+  }
+}

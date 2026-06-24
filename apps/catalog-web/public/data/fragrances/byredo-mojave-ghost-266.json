@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 266,
+    "fragranceSlug": "byredo-mojave-ghost-266",
+    "brandName": "Byredo",
+    "brandSlug": "byredo",
+    "originalFragranceName": "Mojave Ghost",
+    "originalFragranceSlug": "byredo-mojave-ghost",
+    "mistifyProductName": "Mojava Mist",
+    "mistifyProductSlug": "mojava-mist",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/mojava-mist",
+    "publicInspiredByLabel": "Inspired by Byredo Mojave Ghost",
+    "audience": "unisex",
+    "classification": "Oriental Floral",
+    "topNotes": [
+      "Sapodilla",
+      "Ambrette"
+    ],
+    "middleNotes": [
+      "Magnolia",
+      "Violet",
+      "Sandalwood"
+    ],
+    "baseNotes": [
+      "Ambergris",
+      "Cedar",
+      "Musk"
+    ],
+    "allNotes": [
+      "Sapodilla",
+      "Ambrette",
+      "Magnolia",
+      "Violet",
+      "Sandalwood",
+      "Ambergris",
+      "Cedar",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-07-35PM-_1.png?v=1773460344",
+    "searchableText": "Byredo byredo Byredo Mojave Ghost Mojava Mist Oriental Floral unisex Sapodilla Ambrette Magnolia Violet Sandalwood Ambergris Cedar Musk",
+    "createdAt": "2026-05-04T04:41:40.202Z"
+  }
+}

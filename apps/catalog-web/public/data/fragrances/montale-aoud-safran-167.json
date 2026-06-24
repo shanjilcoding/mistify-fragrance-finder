@@ -1,0 +1,31 @@
+{
+  "fragrance": {
+    "id": 167,
+    "fragranceSlug": "montale-aoud-safran-167",
+    "brandName": "Montale",
+    "brandSlug": "montale",
+    "originalFragranceName": "Aoud Safran",
+    "originalFragranceSlug": "montale-aoud-safran",
+    "mistifyProductName": "Saffron Oud",
+    "mistifyProductSlug": "saffron-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/saffron-oud",
+    "publicInspiredByLabel": "Inspired by Montale Aoud Safran",
+    "audience": "unisex",
+    "classification": "Woody Spicy",
+    "topNotes": [],
+    "middleNotes": [
+      "Saffron",
+      "Arabian Rose",
+      "Oud"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Saffron",
+      "Arabian Rose",
+      "Oud"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/SaffronOud.png?v=1765422951",
+    "searchableText": "Montale montale Montale Aoud Safran Saffron Oud Woody Spicy unisex Saffron Arabian Rose Oud",
+    "createdAt": "2026-05-04T04:41:34.229Z"
+  }
+}

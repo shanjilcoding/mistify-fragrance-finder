@@ -1,0 +1,270 @@
+{
+  "fragrances": [
+    {
+      "id": 42,
+      "fragranceSlug": "louis-vuitton-lvers-lovers-42",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "LVERS / Lovers",
+      "originalFragranceSlug": "louis-vuitton-lvers-lovers",
+      "mistifyProductName": "LOVERS",
+      "mistifyProductSlug": "lovers",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/solar-essence",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton LVERS / Lovers",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Galbanum",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Cedarwood"
+      ],
+      "allNotes": [
+        "Galbanum",
+        "Bergamot",
+        "Ginger",
+        "Solar Notes",
+        "Sandalwood",
+        "Cedarwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton LVERS / Lovers LOVERS Woody Aromatic unisex Galbanum Bergamot Ginger Solar Notes Sandalwood Cedarwood",
+      "createdAt": "2026-05-04T04:41:26.948Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Ginger",
+        "Cedarwood"
+      ]
+    },
+    {
+      "id": 102,
+      "fragranceSlug": "parfums-de-marly-haltane-102",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Haltane",
+      "originalFragranceSlug": "parfums-de-marly-haltane",
+      "mistifyProductName": "Heltene",
+      "mistifyProductSlug": "heltene",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/heltene",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Haltane",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Praline"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Bergamot",
+        "Saffron",
+        "Praline",
+        "Oud",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-23-10PM-_1.png?v=1773460495",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Haltane Heltene Woody Aromatic mens Lavender Clary Sage Bergamot Saffron Praline Oud Cedar",
+      "createdAt": "2026-05-04T04:41:30.462Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lavender"
+      ]
+    },
+    {
+      "id": 141,
+      "fragranceSlug": "creed-wild-vetiver-141",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Wild Vetiver",
+      "originalFragranceSlug": "creed-wild-vetiver",
+      "mistifyProductName": "Wild Vétiver",
+      "mistifyProductSlug": "wild-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/wild-vetiver",
+      "publicInspiredByLabel": "Inspired by Creed Wild Vetiver",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Pink Pepper",
+        "Timur Berry"
+      ],
+      "middleNotes": [
+        "White Florals",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amberwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Pink Pepper",
+        "Timur Berry",
+        "White Florals",
+        "Vetiver",
+        "Cedarwood",
+        "Amberwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr24_2026_12_16_47PM.png?v=1777047425",
+      "searchableText": "Creed creed Creed Wild Vetiver Wild Vétiver Woody Aromatic unisex Bergamot Pink Pepper Timur Berry White Florals Vetiver Cedarwood Amberwood",
+      "createdAt": "2026-05-04T04:41:32.712Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Cedarwood"
+      ]
+    },
+    {
+      "id": 144,
+      "fragranceSlug": "ysl-yves-saint-laurent-y-intense-144",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Y Intense",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-y-intense",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Y Intense",
+      "audience": null,
+      "classification": "Aromatic Fougere",
+      "topNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries"
+      ],
+      "middleNotes": [
+        "Sage",
+        "Geranium",
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries",
+        "Sage",
+        "Geranium",
+        "Lavender",
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Y Intense Not verified Aromatic Fougere Ginger Bergamot Juniper Berries Sage Geranium Lavender Vetiver Tonka Bean Cedar Olibanum",
+      "createdAt": "2026-05-04T04:41:32.882Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Ginger",
+        "Lavender",
+        "Sage"
+      ]
+    },
+    {
+      "id": 27,
+      "fragranceSlug": "louis-vuitton-afternoon-swim-27",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Afternoon Swim",
+      "originalFragranceSlug": "louis-vuitton-afternoon-swim",
+      "mistifyProductName": "Afterdawn Swim",
+      "mistifyProductSlug": "afterdawn-swim",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/afterdawn-swim",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Afternoon Swim",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Ginger"
+      ],
+      "baseNotes": [
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange",
+        "Ginger",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_12_16_25PM.png?v=1765422821",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Afternoon Swim Afterdawn Swim Citrus unisex Bergamot Mandarin Orange Ginger Ambergris",
+      "createdAt": "2026-05-04T04:41:26.069Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Ginger",
+        "Ambergris"
+      ]
+    },
+    {
+      "id": 281,
+      "fragranceSlug": "amouage-decision-281",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Decision",
+      "originalFragranceSlug": "amouage-decision",
+      "mistifyProductName": "Final Say",
+      "mistifyProductSlug": "final-say",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/final-say",
+      "publicInspiredByLabel": "Inspired by Amouage Decision",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper",
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh",
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb10-2026-01-48-07PM-_1.png?v=1773460152",
+      "searchableText": "Amouage amouage Amouage Decision Final Say Woody Aromatic unisex Cardamom Bergamot Pink Pepper Frankincense Juniper Berries Myrrh Vanilla Cedarwood Patchouli",
+      "createdAt": "2026-05-04T04:41:41.123Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Cedarwood"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "fragrances": [
+    {
+      "id": 167,
+      "fragranceSlug": "montale-aoud-safran-167",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Safran",
+      "originalFragranceSlug": "montale-aoud-safran",
+      "mistifyProductName": "Saffron Oud",
+      "mistifyProductSlug": "saffron-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saffron-oud",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Safran",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Saffron",
+        "Arabian Rose",
+        "Oud"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Saffron",
+        "Arabian Rose",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/SaffronOud.png?v=1765422951",
+      "searchableText": "Montale montale Montale Aoud Safran Saffron Oud Woody Spicy unisex Saffron Arabian Rose Oud",
+      "createdAt": "2026-05-04T04:41:34.229Z",
+      "sharedNotes": [
+        "Oud",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 223,
+      "fragranceSlug": "dior-purple-oud-223",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Purple Oud",
+      "originalFragranceSlug": "dior-purple-oud",
+      "mistifyProductName": "Violaceous Oud",
+      "mistifyProductSlug": "violaceous-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/violaceous-oud",
+      "publicInspiredByLabel": "Inspired by Dior Purple Oud",
+      "audience": "unisex",
+      "classification": "Woody/Oud",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Orange",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Oud",
+        "Orange",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_54_47PM.png?v=1774407295",
+      "searchableText": "Dior christian dior Christian Dior Purple Oud Violaceous Oud Woody/Oud unisex Oud Orange Saffron Pink Pepper",
+      "createdAt": "2026-05-04T04:41:37.571Z",
+      "sharedNotes": [
+        "Oud",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 157,
+      "fragranceSlug": "initio-oud-for-greatness-157",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Greatness",
+      "originalFragranceSlug": "initio-oud-for-greatness",
+      "mistifyProductName": "Majestic Oud",
+      "mistifyProductSlug": "majestic-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-oud",
+      "publicInspiredByLabel": "Inspired by Initio Oud for Greatness",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Oud"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_56_51PM.png?v=1765422990",
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Greatness Majestic Oud Woody Spicy unisex Saffron Nutmeg Lavender Oud Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.651Z",
+      "sharedNotes": [
+        "Oud",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 288,
+      "fragranceSlug": "hugo-boss-boss-bottled-oud-288",
+      "brandName": "Hugo Boss",
+      "brandSlug": "hugo-boss",
+      "originalFragranceName": "Boss Bottled Oud",
+      "originalFragranceSlug": "hugo-boss-boss-bottled-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Hugo Boss Boss Bottled Oud",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Apple",
+        "Citruses"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Saffron",
+        "Clove",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood",
+        "Cypriol/Nagarmotha"
+      ],
+      "allNotes": [
+        "Apple",
+        "Citruses",
+        "Cinnamon",
+        "Saffron",
+        "Clove",
+        "Labdanum",
+        "Oud",
+        "Sandalwood",
+        "Cypriol/Nagarmotha"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Hugo Boss hugo boss Hugo Boss Boss Bottled Oud Not verified Oriental Woody Apple Citruses Cinnamon Saffron Clove Labdanum Oud Sandalwood Cypriol/Nagarmotha",
+      "createdAt": "2026-05-04T04:41:41.538Z",
+      "sharedNotes": [
+        "Oud",
+        "Cinnamon",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 41,
+      "fragranceSlug": "louis-vuitton-les-sables-roses-41",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Les Sables Roses",
+      "originalFragranceSlug": "louis-vuitton-les-sables-roses",
+      "mistifyProductName": "Sable Roseux",
+      "mistifyProductSlug": "sable-roseux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sable-roseux",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Les Sables Roses",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Bulgarian Rose"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Black Pepper"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Rose",
+        "Bulgarian Rose",
+        "Saffron",
+        "Black Pepper",
+        "Oud",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-21-03PM-_1.png?v=1773460255",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Les Sables Roses Sable Roseux Oriental Floral unisex Rose Bulgarian Rose Saffron Black Pepper Oud Ambergris",
+      "createdAt": "2026-05-04T04:41:26.886Z",
+      "sharedNotes": [
+        "Oud",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 69,
+      "fragranceSlug": "kilian-rose-oud-69",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rose Oud",
+      "originalFragranceSlug": "kilian-rose-oud",
+      "mistifyProductName": "Rosy Oud",
+      "mistifyProductSlug": "rosy-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rosy-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Rose Oud",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Rose",
+        "Saffron",
+        "Oud",
+        "Cedarwood",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RosyOud_9a080a3b-9ff3-481e-8ecc-190466f11560.png?v=1765422921",
+      "searchableText": "Kilian kilian By Kilian Rose Oud Rosy Oud Oriental Floral unisex Rose Saffron Oud Cedarwood Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:28.526Z",
+      "sharedNotes": [
+        "Oud",
+        "Saffron"
+      ]
+    }
+  ]
+}

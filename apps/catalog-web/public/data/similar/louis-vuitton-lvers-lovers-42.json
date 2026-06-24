@@ -1,0 +1,272 @@
+{
+  "fragrances": [
+    {
+      "id": 148,
+      "fragranceSlug": "ysl-yves-saint-laurent-myslf-148",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "MYSLF",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-myslf",
+      "mistifyProductName": "MYSELF",
+      "mistifyProductSlug": "myself",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/myself",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) MYSLF",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Sage",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Ginger",
+        "Lavender",
+        "Sage",
+        "Orange Blossom",
+        "Cedarwood",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-19-50PM-_1.png?v=1773460424",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) MYSLF MYSELF Woody Aromatic mens Bergamot Ginger Lavender Sage Orange Blossom Cedarwood Ambergris",
+      "createdAt": "2026-05-04T04:41:33.134Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Ginger",
+        "Cedarwood"
+      ]
+    },
+    {
+      "id": 141,
+      "fragranceSlug": "creed-wild-vetiver-141",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Wild Vetiver",
+      "originalFragranceSlug": "creed-wild-vetiver",
+      "mistifyProductName": "Wild Vétiver",
+      "mistifyProductSlug": "wild-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/wild-vetiver",
+      "publicInspiredByLabel": "Inspired by Creed Wild Vetiver",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Pink Pepper",
+        "Timur Berry"
+      ],
+      "middleNotes": [
+        "White Florals",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amberwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Pink Pepper",
+        "Timur Berry",
+        "White Florals",
+        "Vetiver",
+        "Cedarwood",
+        "Amberwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr24_2026_12_16_47PM.png?v=1777047425",
+      "searchableText": "Creed creed Creed Wild Vetiver Wild Vétiver Woody Aromatic unisex Bergamot Pink Pepper Timur Berry White Florals Vetiver Cedarwood Amberwood",
+      "createdAt": "2026-05-04T04:41:32.712Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Cedarwood"
+      ]
+    },
+    {
+      "id": 16,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte-16",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Vitae Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte",
+      "mistifyProductName": "Vitae Essence",
+      "mistifyProductSlug": "vitae-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vitae-essence",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Vitae Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Floral Notes",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Floral Notes",
+        "Solar Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/VitaeEssence.png?v=1765422978",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Vitae Cologne Forte Vitae Essence Citrus unisex Mandarin Orange Bergamot Floral Notes Solar Notes Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.428Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Solar Notes",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 160,
+      "fragranceSlug": "initio-rehab-160",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Rehab",
+      "originalFragranceSlug": "initio-rehab",
+      "mistifyProductName": "Rehabilitee",
+      "mistifyProductSlug": "rehabilitee",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rehabilitee",
+      "publicInspiredByLabel": "Inspired by Initio Rehab",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Rehabilitee.png?v=1765422993",
+      "searchableText": "Initio initio parfums Initio Parfums Rehab Rehabilitee Woody Aromatic unisex Lavender Bergamot Cedar Vetiver Patchouli Sandalwood Musk Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:33.822Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 281,
+      "fragranceSlug": "amouage-decision-281",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Decision",
+      "originalFragranceSlug": "amouage-decision",
+      "mistifyProductName": "Final Say",
+      "mistifyProductSlug": "final-say",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/final-say",
+      "publicInspiredByLabel": "Inspired by Amouage Decision",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper",
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh",
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb10-2026-01-48-07PM-_1.png?v=1773460152",
+      "searchableText": "Amouage amouage Amouage Decision Final Say Woody Aromatic unisex Cardamom Bergamot Pink Pepper Frankincense Juniper Berries Myrrh Vanilla Cedarwood Patchouli",
+      "createdAt": "2026-05-04T04:41:41.123Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Cedarwood"
+      ]
+    },
+    {
+      "id": 286,
+      "fragranceSlug": "jean-paul-gaultier-le-beau-paradise-garden-286",
+      "brandName": "Jean Paul Gaultier",
+      "brandSlug": "jean-paul-gaultier",
+      "originalFragranceName": "Le Beau Paradise Garden",
+      "originalFragranceSlug": "jean-paul-gaultier-le-beau-paradise-garden",
+      "mistifyProductName": "Paradise Jardin",
+      "mistifyProductSlug": "paradise-jardin",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradise-jardin",
+      "publicInspiredByLabel": "Inspired by Jean Paul Gaultier Le Beau Paradise Garden",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Green Notes",
+        "Watery Notes",
+        "Mint",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Coconut",
+        "Fig",
+        "Salt"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Green Notes",
+        "Watery Notes",
+        "Mint",
+        "Ginger",
+        "Coconut",
+        "Fig",
+        "Salt",
+        "Tonka Bean",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar23_2026_03_22_46PM.png?v=1774293864",
+      "searchableText": "Jean Paul Gaultier jean paul gaultier Jean Paul Gaultier Le Beau Paradise Garden Paradise Jardin Woody Aromatic unisex Green Notes Watery Notes Mint Ginger Coconut Fig Salt Tonka Bean Sandalwood",
+      "createdAt": "2026-05-04T04:41:41.421Z",
+      "sharedNotes": [
+        "Ginger",
+        "Sandalwood"
+      ]
+    }
+  ]
+}

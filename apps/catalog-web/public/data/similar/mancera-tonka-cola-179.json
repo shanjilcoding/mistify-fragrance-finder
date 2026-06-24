@@ -1,0 +1,303 @@
+{
+  "fragrances": [
+    {
+      "id": 86,
+      "fragranceSlug": "tom-ford-soleil-neige-86",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Soleil Neige",
+      "originalFragranceSlug": "tom-ford-soleil-neige",
+      "mistifyProductName": "Soleil Snow",
+      "mistifyProductSlug": "soleil-snow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-snow",
+      "publicInspiredByLabel": "Inspired by Tom Ford Soleil Neige",
+      "audience": "unisex",
+      "classification": "Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Carrot Seeds"
+      ],
+      "middleNotes": [
+        "White Flowers",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Carrot Seeds",
+        "White Flowers",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose",
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_09_07AM.png?v=1774325369",
+      "searchableText": "Tom Ford tom ford Tom Ford Soleil Neige Soleil Snow Floral Musk unisex Bergamot Carrot Seeds White Flowers Jasmine Orange Blossom Turkish Rose Benzoin Vanilla Labdanum",
+      "createdAt": "2026-05-04T04:41:29.512Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ]
+    },
+    {
+      "id": 192,
+      "fragranceSlug": "dolce-and-gabbana-velvet-zafferano-192",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Velvet Zafferano",
+      "originalFragranceSlug": "dolce-and-gabbana-velvet-zafferano",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Zafferano",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Tobacco Leaf"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Tobacco",
+        "Tobacco Leaf",
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Labdanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Zafferano Not verified Oriental Spicy Saffron Tobacco Tobacco Leaf Amber Vanilla Patchouli Labdanum",
+      "createdAt": "2026-05-04T04:41:35.717Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Labdanum"
+      ]
+    },
+    {
+      "id": 94,
+      "fragranceSlug": "tom-ford-noir-extreme-94",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Noir Extreme",
+      "originalFragranceSlug": "tom-ford-noir-extreme",
+      "mistifyProductName": "Night Extreme",
+      "mistifyProductSlug": "night-extreme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/night-extreme",
+      "publicInspiredByLabel": "Inspired by Tom Ford Noir Extreme",
+      "audience": "mens",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Mandarin",
+        "Neroli",
+        "Saffron",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Kulfi",
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin",
+        "Neroli",
+        "Saffron",
+        "Nutmeg",
+        "Kulfi",
+        "Rose",
+        "Jasmine",
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_51_27PM.png?v=1765422879",
+      "searchableText": "Tom Ford tom ford Tom Ford Noir Extreme Night Extreme Oriental Spicy mens Mandarin Neroli Saffron Nutmeg Kulfi Rose Jasmine Vanilla Amber Sandalwood",
+      "createdAt": "2026-05-04T04:41:29.974Z",
+      "sharedNotes": [
+        "Nutmeg",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 104,
+      "fragranceSlug": "parfums-de-marly-oajan-104",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Oajan",
+      "originalFragranceSlug": "parfums-de-marly-oajan",
+      "mistifyProductName": "Oajour",
+      "mistifyProductSlug": "oajour",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oajour",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Oajan",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Cinnamon",
+        "Honey",
+        "Osmanthus"
+      ],
+      "middleNotes": [
+        "Benzoin",
+        "Labdanum",
+        "Ambergris",
+        "Artemisia"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Honey",
+        "Osmanthus",
+        "Benzoin",
+        "Labdanum",
+        "Ambergris",
+        "Artemisia",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay24_2026_09_19_57AM.png?v=1779628806",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Oajan Oajour Oriental Cinnamon Honey Osmanthus Benzoin Labdanum Ambergris Artemisia Vanilla Tonka Bean Musk Patchouli",
+      "createdAt": "2026-05-04T04:41:30.574Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ]
+    },
+    {
+      "id": 87,
+      "fragranceSlug": "tom-ford-tobacco-vanille-87",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Tobacco Vanille",
+      "originalFragranceSlug": "tom-ford-tobacco-vanille",
+      "mistifyProductName": "Tobacco Vanilla",
+      "mistifyProductSlug": "tobacco-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/tobacco-vanilla",
+      "publicInspiredByLabel": "Inspired by Tom Ford Tobacco Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Tobacco Leaf",
+        "Spicy Notes"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Tobacco Blossom"
+      ],
+      "baseNotes": [
+        "Dried Fruits",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Tobacco Leaf",
+        "Spicy Notes",
+        "Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Tobacco Blossom",
+        "Dried Fruits",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_23_29PM.png?v=1765422884",
+      "searchableText": "Tom Ford tom ford Tom Ford Tobacco Vanille Tobacco Vanilla Oriental Spicy unisex Tobacco Leaf Spicy Notes Vanilla Cacao Tonka Bean Tobacco Blossom Dried Fruits Woody Notes",
+      "createdAt": "2026-05-04T04:41:29.570Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 248,
+      "fragranceSlug": "penhaligon-s-halfeti-cedar-248",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti Cedar",
+      "originalFragranceSlug": "penhaligon-s-halfeti-cedar",
+      "mistifyProductName": "Halfeti Cedar Rose",
+      "mistifyProductSlug": "halfeti-cedar-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-cedar-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti Cedar",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Rum",
+        "Saffron",
+        "Peach",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Virginia Cedar",
+        "Dried Fruits",
+        "Cinnamon",
+        "Mineral Notes",
+        "Immortelle"
+      ],
+      "baseNotes": [
+        "Atlas Cedar",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Rum",
+        "Saffron",
+        "Peach",
+        "Cardamom",
+        "Virginia Cedar",
+        "Dried Fruits",
+        "Cinnamon",
+        "Mineral Notes",
+        "Immortelle",
+        "Atlas Cedar",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_46_35AM.png?v=1765422935",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Cedar Halfeti Cedar Rose Woody Spicy unisex Rum Saffron Peach Cardamom Virginia Cedar Dried Fruits Cinnamon Mineral Notes Immortelle Atlas Cedar Tonka Bean Vanilla Labdanum Patchouli",
+      "createdAt": "2026-05-04T04:41:39.097Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "brand": {
+    "brandName": "Frederic Malle",
+    "brandSlug": "frederic-malle",
+    "fragranceCount": 2,
+    "searchableText": "Portrait of a Lady Portrait Femme Inspired by Frederic Malle Portrait of a Lady Frederic Malle frederic malle Frederic Malle Portrait of a Lady Portrait Femme Oriental Floral womens Rose Clove Raspberry Black Currant Cinnamon Red Berries Turkish Rose Patchouli Incense Sandalwood Ylang-Ylang Incense Sandalwood Musk Benzoin Amber Ambergris Cedar Vanilla The Night Nightfall Inspired by Frederic Malle The Night Frederic Malle frederic malle Frederic Malle The Night Nightfall Oriental Woody unisex Turkish Rose Saffron Indian Oud Amber Incense Sandalwood"
+  },
+  "fragrances": [
+    {
+      "id": 289,
+      "fragranceSlug": "frederic-malle-portrait-of-a-lady-289",
+      "brandName": "Frederic Malle",
+      "brandSlug": "frederic-malle",
+      "originalFragranceName": "Portrait of a Lady",
+      "originalFragranceSlug": "frederic-malle-portrait-of-a-lady",
+      "mistifyProductName": "Portrait Femme",
+      "mistifyProductSlug": "portrait-femme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/portrait-femme",
+      "publicInspiredByLabel": "Inspired by Frederic Malle Portrait of a Lady",
+      "audience": "womens",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Clove",
+        "Raspberry",
+        "Black Currant",
+        "Cinnamon",
+        "Red Berries"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Patchouli",
+        "Incense",
+        "Sandalwood",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Sandalwood",
+        "Musk",
+        "Benzoin",
+        "Amber",
+        "Ambergris",
+        "Cedar",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Rose",
+        "Clove",
+        "Raspberry",
+        "Black Currant",
+        "Cinnamon",
+        "Red Berries",
+        "Turkish Rose",
+        "Patchouli",
+        "Incense",
+        "Sandalwood",
+        "Ylang-Ylang",
+        "Incense",
+        "Sandalwood",
+        "Musk",
+        "Benzoin",
+        "Amber",
+        "Ambergris",
+        "Cedar",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-55-16PM-_1.png?v=1773460336",
+      "searchableText": "Frederic Malle frederic malle Frederic Malle Portrait of a Lady Portrait Femme Oriental Floral womens Rose Clove Raspberry Black Currant Cinnamon Red Berries Turkish Rose Patchouli Incense Sandalwood Ylang-Ylang Incense Sandalwood Musk Benzoin Amber Ambergris Cedar Vanilla",
+      "createdAt": "2026-05-04T04:41:41.596Z"
+    },
+    {
+      "id": 290,
+      "fragranceSlug": "frederic-malle-the-night-290",
+      "brandName": "Frederic Malle",
+      "brandSlug": "frederic-malle",
+      "originalFragranceName": "The Night",
+      "originalFragranceSlug": "frederic-malle-the-night",
+      "mistifyProductName": "Nightfall",
+      "mistifyProductSlug": "nightfall",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/nightfall",
+      "publicInspiredByLabel": "Inspired by Frederic Malle The Night",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Turkish Rose",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Indian Oud"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Incense",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Turkish Rose",
+        "Saffron",
+        "Indian Oud",
+        "Amber",
+        "Incense",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Screenshot2025-12-03at9-51-45PM-_1.png?v=1773460333",
+      "searchableText": "Frederic Malle frederic malle Frederic Malle The Night Nightfall Oriental Woody unisex Turkish Rose Saffron Indian Oud Amber Incense Sandalwood",
+      "createdAt": "2026-05-04T04:41:41.660Z"
+    }
+  ]
+}

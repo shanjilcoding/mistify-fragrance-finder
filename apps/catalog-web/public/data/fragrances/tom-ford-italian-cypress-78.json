@@ -1,0 +1,36 @@
+{
+  "fragrance": {
+    "id": 78,
+    "fragranceSlug": "tom-ford-italian-cypress-78",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Italian Cypress",
+    "originalFragranceSlug": "tom-ford-italian-cypress",
+    "mistifyProductName": "Italy Cypress",
+    "mistifyProductSlug": "italy-cypress",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/italy-cypress?variant=49898236182847",
+    "publicInspiredByLabel": "Inspired by Tom Ford Italian Cypress",
+    "audience": "unisex",
+    "classification": "Woody Chypre",
+    "topNotes": [
+      "Cypress",
+      "Basil",
+      "Mint",
+      "Citruses"
+    ],
+    "middleNotes": [],
+    "baseNotes": [
+      "Woody Notes"
+    ],
+    "allNotes": [
+      "Cypress",
+      "Basil",
+      "Mint",
+      "Citruses",
+      "Woody Notes"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_27_51AM.png?v=1774326478",
+    "searchableText": "Tom Ford tom ford Tom Ford Italian Cypress Italy Cypress Woody Chypre unisex Cypress Basil Mint Citruses Woody Notes",
+    "createdAt": "2026-05-04T04:41:29.045Z"
+  }
+}

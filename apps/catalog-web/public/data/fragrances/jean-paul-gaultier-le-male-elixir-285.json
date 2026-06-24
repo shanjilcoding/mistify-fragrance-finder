@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 285,
+    "fragranceSlug": "jean-paul-gaultier-le-male-elixir-285",
+    "brandName": "Jean Paul Gaultier",
+    "brandSlug": "jean-paul-gaultier",
+    "originalFragranceName": "Le Male Elixir",
+    "originalFragranceSlug": "jean-paul-gaultier-le-male-elixir",
+    "mistifyProductName": "Le Miel Elixir",
+    "mistifyProductSlug": "le-miel-elixir",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/le-miel-elixir",
+    "publicInspiredByLabel": "Inspired by Jean Paul Gaultier Le Male Elixir",
+    "audience": "mens",
+    "classification": "Oriental Fougere",
+    "topNotes": [
+      "Lavender",
+      "Mint"
+    ],
+    "middleNotes": [
+      "Benzoin",
+      "Vanilla"
+    ],
+    "baseNotes": [
+      "Honey",
+      "Tonka Bean",
+      "Tobacco"
+    ],
+    "allNotes": [
+      "Lavender",
+      "Mint",
+      "Benzoin",
+      "Vanilla",
+      "Honey",
+      "Tonka Bean",
+      "Tobacco"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar22_2026_09_30_12AM.png?v=1774186218",
+    "searchableText": "Jean Paul Gaultier jean paul gaultier Jean Paul Gaultier Le Male Elixir Le Miel Elixir Oriental Fougere mens Lavender Mint Benzoin Vanilla Honey Tonka Bean Tobacco",
+    "createdAt": "2026-05-04T04:41:41.358Z"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "brand": {
+    "brandName": "Yves Saint Laurent",
+    "brandSlug": "yves-saint-laurent",
+    "fragranceCount": 2,
+    "searchableText": "Mon Paris Paris Amour Yves Saint Laurent Mon Paris Yves Saint Laurent Yves Saint Laurent Mon Paris Paris Amour Fruity Floral / Sweet Musky Strawberry Raspberry Pear Orange Calabrian Bergamot Tangerine Calone Peony Jasmine Sambac Chinese Jasmine Datura Orange Blossom Indonesian Patchouli Leaf Patchouli White Musk Vanilla Ambroxan Moss Cedar Tuxedo Noir Tux Yves Saint Laurent Tuxedo Yves Saint Laurent Yves Saint Laurent Tuxedo Noir Tux Amber Chypre / Spicy Floral Violet Leaf Coriander Bergamot Rose Black Pepper Lily-of-the-Valley Patchouli Bourbon Vanilla Ambergris"
+  },
+  "fragrances": [
+    {
+      "id": 312,
+      "fragranceSlug": "yves-saint-laurent-mon-paris-312",
+      "brandName": "Yves Saint Laurent",
+      "brandSlug": "yves-saint-laurent",
+      "originalFragranceName": "Mon Paris",
+      "originalFragranceSlug": "yves-saint-laurent-mon-paris",
+      "mistifyProductName": "Paris Amour",
+      "mistifyProductSlug": "paris-amour",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paris-amour",
+      "publicInspiredByLabel": "Yves Saint Laurent Mon Paris",
+      "audience": null,
+      "classification": "Fruity Floral / Sweet Musky",
+      "topNotes": [
+        "Strawberry",
+        "Raspberry",
+        "Pear",
+        "Orange",
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Calone"
+      ],
+      "middleNotes": [
+        "Peony",
+        "Jasmine Sambac",
+        "Chinese Jasmine",
+        "Datura",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Indonesian Patchouli Leaf",
+        "Patchouli",
+        "White Musk",
+        "Vanilla",
+        "Ambroxan",
+        "Moss",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Strawberry",
+        "Raspberry",
+        "Pear",
+        "Orange",
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Calone",
+        "Peony",
+        "Jasmine Sambac",
+        "Chinese Jasmine",
+        "Datura",
+        "Orange Blossom",
+        "Indonesian Patchouli Leaf",
+        "Patchouli",
+        "White Musk",
+        "Vanilla",
+        "Ambroxan",
+        "Moss",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_41_54AM.png?v=1781710922",
+      "searchableText": "Yves Saint Laurent Yves Saint Laurent Mon Paris Paris Amour Fruity Floral / Sweet Musky Strawberry Raspberry Pear Orange Calabrian Bergamot Tangerine Calone Peony Jasmine Sambac Chinese Jasmine Datura Orange Blossom Indonesian Patchouli Leaf Patchouli White Musk Vanilla Ambroxan Moss Cedar",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 318,
+      "fragranceSlug": "yves-saint-laurent-tuxedo-318",
+      "brandName": "Yves Saint Laurent",
+      "brandSlug": "yves-saint-laurent",
+      "originalFragranceName": "Tuxedo",
+      "originalFragranceSlug": "yves-saint-laurent-tuxedo",
+      "mistifyProductName": "Noir Tux",
+      "mistifyProductSlug": "noir-tux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/noir-tux",
+      "publicInspiredByLabel": "Yves Saint Laurent Tuxedo",
+      "audience": null,
+      "classification": "Amber Chypre / Spicy Floral",
+      "topNotes": [
+        "Violet Leaf",
+        "Coriander",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Black Pepper",
+        "Lily-of-the-Valley"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Bourbon Vanilla",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Violet Leaf",
+        "Coriander",
+        "Bergamot",
+        "Rose",
+        "Black Pepper",
+        "Lily-of-the-Valley",
+        "Patchouli",
+        "Bourbon Vanilla",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun12_2026_02_53_22PM.png?v=1781290408",
+      "searchableText": "Yves Saint Laurent Yves Saint Laurent Tuxedo Noir Tux Amber Chypre / Spicy Floral Violet Leaf Coriander Bergamot Rose Black Pepper Lily-of-the-Valley Patchouli Bourbon Vanilla Ambergris",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "fragrances": [
+    {
+      "id": 133,
+      "fragranceSlug": "creed-sublime-vanille-133",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Sublime Vanille",
+      "originalFragranceSlug": "creed-sublime-vanille",
+      "mistifyProductName": "Superb Vanilla",
+      "mistifyProductSlug": "superb-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/superb-vanilla",
+      "publicInspiredByLabel": "Inspired by Creed Sublime Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bourbon Vanilla",
+        "Lemon"
+      ],
+      "middleNotes": [],
+      "baseNotes": [
+        "Tonka Bean",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bourbon Vanilla",
+        "Lemon",
+        "Tonka Bean",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-35-41AM-_1.png?v=1773460548",
+      "searchableText": "Creed creed Creed Sublime Vanille Superb Vanilla Oriental Vanilla unisex Bourbon Vanilla Lemon Tonka Bean Musk",
+      "createdAt": "2026-05-04T04:41:32.256Z",
+      "sharedNotes": [
+        "Bourbon Vanilla"
+      ]
+    },
+    {
+      "id": 97,
+      "fragranceSlug": "parfums-de-marly-althair-97",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Althair",
+      "originalFragranceSlug": "parfums-de-marly-althair",
+      "mistifyProductName": "Altair",
+      "mistifyProductSlug": "altair",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/altair",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Althair",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Cinnamon",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Bourbon Vanilla",
+        "Elemi"
+      ],
+      "baseNotes": [
+        "Praline",
+        "Musk",
+        "Ambroxan",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Cinnamon",
+        "Cardamom",
+        "Bourbon Vanilla",
+        "Elemi",
+        "Praline",
+        "Musk",
+        "Ambroxan",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-10-18PM-_1.png?v=1773460503",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Althair Altair Oriental Vanilla unisex Orange Blossom Bergamot Cinnamon Cardamom Bourbon Vanilla Elemi Praline Musk Ambroxan Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:30.144Z",
+      "sharedNotes": [
+        "Bourbon Vanilla"
+      ]
+    },
+    {
+      "id": 41,
+      "fragranceSlug": "louis-vuitton-les-sables-roses-41",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Les Sables Roses",
+      "originalFragranceSlug": "louis-vuitton-les-sables-roses",
+      "mistifyProductName": "Sable Roseux",
+      "mistifyProductSlug": "sable-roseux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sable-roseux",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Les Sables Roses",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Bulgarian Rose"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Black Pepper"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Rose",
+        "Bulgarian Rose",
+        "Saffron",
+        "Black Pepper",
+        "Oud",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-21-03PM-_1.png?v=1773460255",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Les Sables Roses Sable Roseux Oriental Floral unisex Rose Bulgarian Rose Saffron Black Pepper Oud Ambergris",
+      "createdAt": "2026-05-04T04:41:26.886Z",
+      "sharedNotes": [
+        "Oud"
+      ]
+    },
+    {
+      "id": 150,
+      "fragranceSlug": "ysl-yves-saint-laurent-splendid-wood-150",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Splendid Wood",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-splendid-wood",
+      "mistifyProductName": "Majestic Timber",
+      "mistifyProductSlug": "majestic-timber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-timber",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Splendid Wood",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom",
+        "Incense"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Cypriol"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Incense",
+        "Cedar",
+        "Cypriol",
+        "Oud",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MajesticTimber-_1.png?v=1773460419",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Splendid Wood Majestic Timber Woody Spicy unisex Cardamom Incense Cedar Cypriol Oud Sandalwood",
+      "createdAt": "2026-05-04T04:41:33.251Z",
+      "sharedNotes": [
+        "Oud"
+      ]
+    },
+    {
+      "id": 224,
+      "fragranceSlug": "dior-vanilla-diorama-224",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Vanilla Diorama",
+      "originalFragranceSlug": "dior-vanilla-diorama",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Dior Vanilla Diorama",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Orange",
+        "Pink Pepper",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Rum",
+        "Cacao",
+        "Cardamom"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Orange",
+        "Pink Pepper",
+        "Lemon",
+        "Rum",
+        "Cacao",
+        "Cardamom",
+        "Bourbon Vanilla",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Dior christian dior Christian Dior Vanilla Diorama Not verified Oriental Vanilla Orange Pink Pepper Lemon Rum Cacao Cardamom Bourbon Vanilla Sandalwood Patchouli",
+      "createdAt": "2026-05-04T04:41:37.634Z",
+      "sharedNotes": [
+        "Bourbon Vanilla"
+      ]
+    },
+    {
+      "id": 56,
+      "fragranceSlug": "kilian-black-phantom-56",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Black Phantom",
+      "originalFragranceSlug": "kilian-black-phantom",
+      "mistifyProductName": "Dark Phantom",
+      "mistifyProductSlug": "dark-phantom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/dark-phantom",
+      "publicInspiredByLabel": "Inspired by Kilian Black Phantom",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Rum"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope",
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-42-32AM-_1.png?v=1773460532",
+      "searchableText": "Kilian kilian By Kilian Black Phantom Dark Phantom Oriental Vanilla unisex Rum Dark Chocolate Coffee Almond Heliotrope Caramel Sugar Cane Sandalwood Vanilla Tonka Vetiver",
+      "createdAt": "2026-05-04T04:41:27.757Z",
+      "sharedNotes": []
+    }
+  ]
+}

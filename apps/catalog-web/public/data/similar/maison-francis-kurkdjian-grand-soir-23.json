@@ -1,0 +1,301 @@
+{
+  "fragrances": [
+    {
+      "id": 232,
+      "fragranceSlug": "tiziana-terenzi-saiph-232",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Saiph",
+      "originalFragranceSlug": "tiziana-terenzi-saiph",
+      "mistifyProductName": "Saipha",
+      "mistifyProductSlug": "saipha",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saipha",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Saiph",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Saipha-_1.png?v=1773460407",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk",
+      "createdAt": "2026-05-04T04:41:38.116Z",
+      "sharedNotes": [
+        "Orange",
+        "Vanilla",
+        "Musk",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 247,
+      "fragranceSlug": "penhaligon-s-halfeti-247",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti",
+      "originalFragranceSlug": "penhaligon-s-halfeti",
+      "mistifyProductName": "Halfeti Rose",
+      "mistifyProductSlug": "halfeti-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit",
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine",
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_43_29AM.png?v=1765422933",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Halfeti Rose Oriental Woody unisex Cypress Leaf Saffron Cardamom Artemisia Bergamot Grapefruit Bulgarian Rose Nutmeg Jasmine Oud Cedar Leather Sandalwood Amber Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:39.038Z",
+      "sharedNotes": [
+        "Amber",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 323,
+      "fragranceSlug": "giorgio-armani-prive-musc-shamal-323",
+      "brandName": "Giorgio Armani Privé",
+      "brandSlug": "giorgio-armani-prive",
+      "originalFragranceName": "Musc Shamal",
+      "originalFragranceSlug": "giorgio-armani-prive-musc-shamal",
+      "mistifyProductName": "Musc Étoile",
+      "mistifyProductSlug": "musc-etoile",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/musc-etoile",
+      "publicInspiredByLabel": "Giorgio Armani Privé Musc Shamal",
+      "audience": null,
+      "classification": "Musky Amber / Soft Floral",
+      "topNotes": [
+        "Aldehydes",
+        "Citruses"
+      ],
+      "middleNotes": [
+        "Musk",
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Citruses",
+        "Musk",
+        "Rose",
+        "Jasmine",
+        "Amber",
+        "Vanilla",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay17_2026_10_06_01AM.png?v=1779026772",
+      "searchableText": "Giorgio Armani Privé Giorgio Armani Privé Musc Shamal Musc Étoile Musky Amber / Soft Floral Aldehydes Citruses Musk Rose Jasmine Amber Vanilla Cedar",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Amber",
+        "Vanilla",
+        "Musk",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 211,
+      "fragranceSlug": "rabanne-after-club-211",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "After Club",
+      "originalFragranceSlug": "rabanne-after-club",
+      "mistifyProductName": "Club Afterglow",
+      "mistifyProductSlug": "club-afterglow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/club-afterglow",
+      "publicInspiredByLabel": "Inspired by Rabanne After Club",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Vanilla",
+        "Labdanum",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-33-34PM-_1.png?v=1773460311",
+      "searchableText": "Rabanne rabanne Rabanne After Club Club Afterglow Woody Aromatic unisex Lavender Vanilla Labdanum Amber",
+      "createdAt": "2026-05-04T04:41:36.872Z",
+      "sharedNotes": [
+        "Lavender",
+        "Amber",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 68,
+      "fragranceSlug": "kilian-rolling-in-love-68",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rolling in Love",
+      "originalFragranceSlug": "kilian-rolling-in-love",
+      "mistifyProductName": "Rolling in Hearts",
+      "mistifyProductSlug": "rolling-in-hearts",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rolling-in-hearts",
+      "publicInspiredByLabel": "Inspired by Kilian Rolling in Love",
+      "audience": "unisex",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Almond Milk",
+        "Ambrette"
+      ],
+      "middleNotes": [
+        "Freesia",
+        "Iris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Almond Milk",
+        "Ambrette",
+        "Freesia",
+        "Iris",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RollinginHearts.png?v=1765422919",
+      "searchableText": "Kilian kilian By Kilian Rolling in Love Rolling in Hearts Floral Oriental unisex Almond Milk Ambrette Freesia Iris Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:28.450Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Tonka Bean",
+        "Musk"
+      ]
+    },
+    {
+      "id": 95,
+      "fragranceSlug": "tom-ford-fucking-fabulous-95",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Fucking Fabulous",
+      "originalFragranceSlug": "tom-ford-fucking-fabulous",
+      "mistifyProductName": "Fabuleux",
+      "mistifyProductSlug": "fabuleux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fabuleux",
+      "publicInspiredByLabel": "Inspired by Tom Ford Fucking Fabulous",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Lavender",
+        "Clary Sage"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris",
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec11-2025-09-54-59AM-_1.png?v=1773460202",
+      "searchableText": "Tom Ford tom ford Tom Ford Fucking Fabulous Fabuleux Leather unisex Lavender Clary Sage Leather Bitter Almond Vanilla Orris Leather Tonka Bean Cashmeran White Woods Amber",
+      "createdAt": "2026-05-04T04:41:30.032Z",
+      "sharedNotes": [
+        "Lavender",
+        "Amber",
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    }
+  ]
+}

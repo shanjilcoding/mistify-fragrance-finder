@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 105,
+    "fragranceSlug": "parfums-de-marly-oriana-105",
+    "brandName": "Parfums de Marly",
+    "brandSlug": "parfums-de-marly",
+    "originalFragranceName": "Oriana",
+    "originalFragranceSlug": "parfums-de-marly-oriana",
+    "mistifyProductName": "Oriental",
+    "mistifyProductSlug": "oriental",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/oriental",
+    "publicInspiredByLabel": "Inspired by Parfums de Marly Oriana",
+    "audience": "womens",
+    "classification": "Floral Fruity Gourmand",
+    "topNotes": [
+      "Mandarin Orange",
+      "Bergamot",
+      "Grapefruit"
+    ],
+    "middleNotes": [
+      "Orange Blossom",
+      "Black Currant",
+      "Raspberry"
+    ],
+    "baseNotes": [
+      "Marshmallow",
+      "Whipped Cream",
+      "Musk",
+      "Ambrette"
+    ],
+    "allNotes": [
+      "Mandarin Orange",
+      "Bergamot",
+      "Grapefruit",
+      "Orange Blossom",
+      "Black Currant",
+      "Raspberry",
+      "Marshmallow",
+      "Whipped Cream",
+      "Musk",
+      "Ambrette"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_01_56AM.png?v=1774324934",
+    "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Oriana Oriental Floral Fruity Gourmand womens Mandarin Orange Bergamot Grapefruit Orange Blossom Black Currant Raspberry Marshmallow Whipped Cream Musk Ambrette",
+    "createdAt": "2026-05-04T04:41:30.629Z"
+  }
+}

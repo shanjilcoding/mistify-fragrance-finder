@@ -1,0 +1,332 @@
+{
+  "fragrances": [
+    {
+      "id": 92,
+      "fragranceSlug": "tom-ford-ombre-leather-92",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Ombre Leather",
+      "originalFragranceSlug": "tom-ford-ombre-leather",
+      "mistifyProductName": "Ombre Royale",
+      "mistifyProductSlug": "ombre-royale",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-royale",
+      "publicInspiredByLabel": "Inspired by Tom Ford Ombre Leather",
+      "audience": "mens",
+      "classification": "Leather",
+      "topNotes": [
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Moss",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Jasmine Sambac",
+        "Leather",
+        "Amber",
+        "Moss",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-42-02AM-_1.png?v=1773460288",
+      "searchableText": "Tom Ford tom ford Tom Ford Ombre Leather Ombre Royale Leather mens Cardamom Jasmine Sambac Leather Amber Moss Patchouli",
+      "createdAt": "2026-05-04T04:41:29.855Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Amber",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 178,
+      "fragranceSlug": "mancera-red-tobacco-178",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Red Tobacco",
+      "originalFragranceSlug": "mancera-red-tobacco",
+      "mistifyProductName": "Scarlet Tobacco",
+      "mistifyProductSlug": "scarlet-tobacco",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/scarlet-tobacco",
+      "publicInspiredByLabel": "Inspired by Mancera Red Tobacco",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Oud",
+        "Incense",
+        "Saffron",
+        "Nutmeg",
+        "Green Apple",
+        "White Pear"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Tobacco",
+        "Madagascar Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk",
+        "Haitian Vetiver"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Oud",
+        "Incense",
+        "Saffron",
+        "Nutmeg",
+        "Green Apple",
+        "White Pear",
+        "Patchouli",
+        "Jasmine",
+        "Tobacco",
+        "Madagascar Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk",
+        "Haitian Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ScarletTobacco.png?v=1765423002",
+      "searchableText": "Mancera mancera Mancera Red Tobacco Scarlet Tobacco Woody Spicy unisex Cinnamon Oud Incense Saffron Nutmeg Green Apple White Pear Patchouli Jasmine Tobacco Madagascar Vanilla Amber Sandalwood Guaiac Wood White Musk Haitian Vetiver",
+      "createdAt": "2026-05-04T04:41:34.885Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Nutmeg",
+        "Sandalwood",
+        "Amber",
+        "Patchouli",
+        "Haitian Vetiver"
+      ]
+    },
+    {
+      "id": 316,
+      "fragranceSlug": "chanel-allure-homme-sport-superleggera-316",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Allure Homme Sport Superleggera",
+      "originalFragranceSlug": "chanel-allure-homme-sport-superleggera",
+      "mistifyProductName": "Sport Legato",
+      "mistifyProductSlug": "sport-legato",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sport-legato",
+      "publicInspiredByLabel": "Chanel Allure Homme Sport Superleggera",
+      "audience": null,
+      "classification": "Citrus Woody / Fresh Musky",
+      "topNotes": [
+        "Citrus",
+        "Mandarin",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Woody Notes",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "White Musk",
+        "Amber",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Citrus",
+        "Mandarin",
+        "Grapefruit",
+        "Woody Notes",
+        "Cedarwood",
+        "White Musk",
+        "Amber",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun16_2026_08_19_28AM.png?v=1781612481",
+      "searchableText": "Chanel Chanel Allure Homme Sport Superleggera Sport Legato Citrus Woody / Fresh Musky Citrus Mandarin Grapefruit Woody Notes Cedarwood White Musk Amber Patchouli Sandalwood",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Sandalwood",
+        "Amber",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 125,
+      "fragranceSlug": "creed-aventus-absolute-125",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus Absolute",
+      "originalFragranceSlug": "creed-aventus-absolute",
+      "mistifyProductName": "Absolu Crestus",
+      "mistifyProductSlug": "absolu-crestus",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/absolu-crestus",
+      "publicInspiredByLabel": "Inspired by Creed Aventus Absolute",
+      "audience": "mens",
+      "classification": "Chypre Fruity",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Nutmeg",
+        "Cloves"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Cinnamon",
+        "Citron",
+        "Cardamom",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vetiver",
+        "Oakmoss",
+        "Ambroxan",
+        "Sandalwood",
+        "Musk",
+        "Tonka",
+        "Evernyl"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Nutmeg",
+        "Cloves",
+        "Ginger",
+        "Cinnamon",
+        "Citron",
+        "Cardamom",
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oakmoss",
+        "Ambroxan",
+        "Sandalwood",
+        "Musk",
+        "Tonka",
+        "Evernyl"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_34_56AM.png?v=1765422817",
+      "searchableText": "Creed creed Creed Aventus Absolute Absolu Crestus Chypre Fruity mens Grapefruit Bergamot Pink Pepper Black Currant Pineapple Nutmeg Cloves Ginger Cinnamon Citron Cardamom Rose Patchouli Vetiver Oakmoss Ambroxan Sandalwood Musk Tonka Evernyl",
+      "createdAt": "2026-05-04T04:41:31.801Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Nutmeg",
+        "Cardamom",
+        "Grapefruit",
+        "Sandalwood",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 106,
+      "fragranceSlug": "parfums-de-marly-pegasus-106",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Pegasus",
+      "originalFragranceSlug": "parfums-de-marly-pegasus",
+      "mistifyProductName": "Pegasi",
+      "mistifyProductSlug": "pegasi",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pegasi",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Pegasus",
+      "audience": "mens",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Heliotrope",
+        "Cumin",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Bitter Almond",
+        "Lavender",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Amber"
+      ],
+      "allNotes": [
+        "Heliotrope",
+        "Cumin",
+        "Bergamot",
+        "Bitter Almond",
+        "Lavender",
+        "Jasmine",
+        "Vanilla",
+        "Sandalwood",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-26-24PM-_1.png?v=1773460487",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Pegasus Pegasi Amber Fougere mens Heliotrope Cumin Bergamot Bitter Almond Lavender Jasmine Vanilla Sandalwood Amber",
+      "createdAt": "2026-05-04T04:41:30.688Z",
+      "sharedNotes": [
+        "Lavender",
+        "Sandalwood",
+        "Amber"
+      ]
+    },
+    {
+      "id": 112,
+      "fragranceSlug": "parfums-de-marly-valero-112",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Valero",
+      "originalFragranceSlug": "parfums-de-marly-valero",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Valero",
+      "audience": null,
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Citron",
+        "Juniper"
+      ],
+      "middleNotes": [
+        "Geranium",
+        "Lavender",
+        "Cypress",
+        "Nutmeg"
+      ],
+      "baseNotes": [
+        "Ambrox Super",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Citron",
+        "Juniper",
+        "Geranium",
+        "Lavender",
+        "Cypress",
+        "Nutmeg",
+        "Ambrox Super",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valero Not verified Woody Aromatic Bergamot Citron Juniper Geranium Lavender Cypress Nutmeg Ambrox Super Patchouli Sandalwood",
+      "createdAt": "2026-05-04T04:41:31.034Z",
+      "sharedNotes": [
+        "Nutmeg",
+        "Lavender",
+        "Sandalwood",
+        "Patchouli"
+      ]
+    }
+  ]
+}

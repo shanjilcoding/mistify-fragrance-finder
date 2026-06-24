@@ -1,0 +1,295 @@
+{
+  "fragrances": [
+    {
+      "id": 134,
+      "fragranceSlug": "creed-viking-134",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Viking",
+      "originalFragranceSlug": "creed-viking",
+      "mistifyProductName": "Voyager",
+      "mistifyProductSlug": "voyager",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/voyager",
+      "publicInspiredByLabel": "Inspired by Creed Viking",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Pink Pepper",
+        "Bulgarian Rose",
+        "Peppermint"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Lemon",
+        "Pink Pepper",
+        "Bulgarian Rose",
+        "Peppermint",
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_32_22PM.png?v=1765422858",
+      "searchableText": "Creed creed Creed Viking Voyager Woody Aromatic mens Pink Pepper Calabrian Bergamot Lemon Pink Pepper Bulgarian Rose Peppermint Sandalwood Vetiver Patchouli Lavender",
+      "createdAt": "2026-05-04T04:41:32.311Z",
+      "sharedNotes": [
+        "Lemon",
+        "Lavender",
+        "Patchouli",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 79,
+      "fragranceSlug": "tom-ford-lavender-extreme-79",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lavender Extreme",
+      "originalFragranceSlug": "tom-ford-lavender-extreme",
+      "mistifyProductName": "Lavender Extremism",
+      "mistifyProductSlug": "lavender-extremism",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lavender-extremism",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lavender Extreme",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LavenderExtremism.png?v=1765422873",
+      "searchableText": "Tom Ford tom ford Tom Ford Lavender Extreme Lavender Extremism Aromatic unisex Lavender Bergamot Cinnamon Tonka Bean Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:29.108Z",
+      "sharedNotes": [
+        "Lavender",
+        "Patchouli",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 103,
+      "fragranceSlug": "parfums-de-marly-layton-103",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Layton",
+      "originalFragranceSlug": "parfums-de-marly-layton",
+      "mistifyProductName": "Laytonington",
+      "mistifyProductSlug": "laytonington",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/laytonington",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Layton",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Geranium",
+        "Violet",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender",
+        "Geranium",
+        "Violet",
+        "Jasmine",
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-32-05AM-_1.png?v=1773460493",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Layton Laytonington Oriental Floral unisex Apple Bergamot Lavender Geranium Violet Jasmine Vanilla Pepper Patchouli Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:30.521Z",
+      "sharedNotes": [
+        "Lavender",
+        "Apple",
+        "Patchouli",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 75,
+      "fragranceSlug": "tom-ford-black-orchid-75",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Black Orchid",
+      "originalFragranceSlug": "tom-ford-black-orchid",
+      "mistifyProductName": "Black Orchard",
+      "mistifyProductSlug": "black-orchard",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/black-orchard",
+      "publicInspiredByLabel": "Inspired by Tom Ford Black Orchid",
+      "audience": "unisex",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Black Orchid",
+        "Lotus Wood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vanilla",
+        "Vetiver",
+        "Incense"
+      ],
+      "allNotes": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Bergamot",
+        "Black Orchid",
+        "Lotus Wood",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver",
+        "Incense"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-39-28AM-_1.png?v=1773460543",
+      "searchableText": "Tom Ford tom ford Tom Ford Black Orchid Black Orchard Floral Oriental unisex Black Truffle Ylang-Ylang Bergamot Black Orchid Lotus Wood Patchouli Vanilla Vetiver Incense",
+      "createdAt": "2026-05-04T04:41:28.869Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Vanilla",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 144,
+      "fragranceSlug": "ysl-yves-saint-laurent-y-intense-144",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Y Intense",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-y-intense",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Y Intense",
+      "audience": null,
+      "classification": "Aromatic Fougere",
+      "topNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries"
+      ],
+      "middleNotes": [
+        "Sage",
+        "Geranium",
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries",
+        "Sage",
+        "Geranium",
+        "Lavender",
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Y Intense Not verified Aromatic Fougere Ginger Bergamot Juniper Berries Sage Geranium Lavender Vetiver Tonka Bean Cedar Olibanum",
+      "createdAt": "2026-05-04T04:41:32.882Z",
+      "sharedNotes": [
+        "Lavender",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 201,
+      "fragranceSlug": "xerjoff-naxos-201",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Naxos",
+      "originalFragranceSlug": "xerjoff-naxos",
+      "mistifyProductName": "Naxian Gold",
+      "mistifyProductSlug": "naxian-gold",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/naxian-gold",
+      "publicInspiredByLabel": "Inspired by Xerjoff Naxos",
+      "audience": "unisex",
+      "classification": "Citrus Gourmand",
+      "topNotes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Honey",
+        "Cinnamon",
+        "Cashmeran",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Tobacco Leaf",
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon",
+        "Honey",
+        "Cinnamon",
+        "Cashmeran",
+        "Jasmine Sambac",
+        "Tobacco Leaf",
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-29-20PM-_1.png?v=1773460339",
+      "searchableText": "Xerjoff xerjoff Xerjoff Naxos Naxian Gold Citrus Gourmand unisex Lavender Bergamot Lemon Honey Cinnamon Cashmeran Jasmine Sambac Tobacco Leaf Vanilla Tonka Bean",
+      "createdAt": "2026-05-04T04:41:36.283Z",
+      "sharedNotes": [
+        "Lemon",
+        "Lavender",
+        "Vanilla"
+      ]
+    }
+  ]
+}

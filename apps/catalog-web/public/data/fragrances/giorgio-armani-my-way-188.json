@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 188,
+    "fragranceSlug": "giorgio-armani-my-way-188",
+    "brandName": "Giorgio Armani",
+    "brandSlug": "giorgio-armani",
+    "originalFragranceName": "My Way",
+    "originalFragranceSlug": "giorgio-armani-my-way",
+    "mistifyProductName": "My Voie",
+    "mistifyProductSlug": "my-voie",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/my-voie",
+    "publicInspiredByLabel": "Inspired by Giorgio Armani My Way",
+    "audience": "unisex",
+    "classification": "Floral White/Soft Woody",
+    "topNotes": [
+      "Orange Blossom",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Tuberose",
+      "Indian Jasmine"
+    ],
+    "baseNotes": [
+      "Madagascar Vanilla",
+      "White Musk",
+      "Virginian Cedar"
+    ],
+    "allNotes": [
+      "Orange Blossom",
+      "Bergamot",
+      "Tuberose",
+      "Indian Jasmine",
+      "Madagascar Vanilla",
+      "White Musk",
+      "Virginian Cedar"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec23-2025-12-30-29PM-_1.png?v=1773460185",
+    "searchableText": "Giorgio Armani giorgio armani Giorgio Armani My Way My Voie Floral White/Soft Woody unisex Orange Blossom Bergamot Tuberose Indian Jasmine Madagascar Vanilla White Musk Virginian Cedar",
+    "createdAt": "2026-05-04T04:41:35.467Z"
+  }
+}

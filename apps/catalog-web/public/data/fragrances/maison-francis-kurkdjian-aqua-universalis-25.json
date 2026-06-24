@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 25,
+    "fragranceSlug": "maison-francis-kurkdjian-aqua-universalis-25",
+    "brandName": "Maison Francis Kurkdjian",
+    "brandSlug": "maison-francis-kurkdjian",
+    "originalFragranceName": "Aqua Universalis",
+    "originalFragranceSlug": "maison-francis-kurkdjian-aqua-universalis",
+    "mistifyProductName": "Aqua Universelle",
+    "mistifyProductSlug": "aqua-universelle",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/aqua-universelle",
+    "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Universalis",
+    "audience": "unisex",
+    "classification": "Green Citrus/Aromatic Fresh",
+    "topNotes": [
+      "Bergamot",
+      "Vervain"
+    ],
+    "middleNotes": [
+      "Fennel",
+      "Hedione"
+    ],
+    "baseNotes": [
+      "Matcha Tea",
+      "Musk",
+      "Woodsy Notes"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Vervain",
+      "Fennel",
+      "Hedione",
+      "Matcha Tea",
+      "Musk",
+      "Woodsy Notes"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan19-2026-11-12-57AM-_1.png?v=1773460172",
+    "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Universalis Aqua Universelle Green Citrus/Aromatic Fresh unisex Bergamot Vervain Fennel Hedione Matcha Tea Musk Woodsy Notes",
+    "createdAt": "2026-05-04T04:41:25.957Z"
+  }
+}

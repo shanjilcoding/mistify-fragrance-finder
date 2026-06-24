@@ -1,0 +1,318 @@
+{
+  "fragrances": [
+    {
+      "id": 265,
+      "fragranceSlug": "prada-paradoxe-265",
+      "brandName": "Prada",
+      "brandSlug": "prada",
+      "originalFragranceName": "Paradoxe",
+      "originalFragranceSlug": "prada-paradoxe",
+      "mistifyProductName": "Paradiis",
+      "mistifyProductSlug": "paradiis",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradiis",
+      "publicInspiredByLabel": "Inspired by Prada Paradoxe",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear",
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine",
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-38-29PM-_1.png?v=1773460252",
+      "searchableText": "Prada prada Prada Paradoxe Paradiis Amber Floral unisex Calabrian Bergamot Tangerine Pear Neroli Orange Blossom Jasmine Amber White Musk Benzoin Vanilla",
+      "createdAt": "2026-05-04T04:41:40.135Z",
+      "sharedNotes": [
+        "Pear",
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Orange Blossom",
+        "White Musk",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 145,
+      "fragranceSlug": "ysl-yves-saint-laurent-black-opium-145",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Black Opium",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-black-opium",
+      "mistifyProductName": "Noir Opiate",
+      "mistifyProductSlug": "noir-opiate",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/noir-opiate",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Black Opium",
+      "audience": "womens",
+      "classification": "Amber Vanilla",
+      "topNotes": [
+        "Pink Pepper",
+        "Orange Blossom",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Coffee",
+        "Jasmine",
+        "Bitter Almond",
+        "Licorice"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli",
+        "Cedar",
+        "Cashmere Wood"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Orange Blossom",
+        "Pear",
+        "Coffee",
+        "Jasmine",
+        "Bitter Almond",
+        "Licorice",
+        "Vanilla",
+        "Patchouli",
+        "Cedar",
+        "Cashmere Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-34-58PM-_1.png?v=1773460432",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Black Opium Noir Opiate Amber Vanilla womens Pink Pepper Orange Blossom Pear Coffee Jasmine Bitter Almond Licorice Vanilla Patchouli Cedar Cashmere Wood",
+      "createdAt": "2026-05-04T04:41:32.939Z",
+      "sharedNotes": [
+        "Pear",
+        "Orange Blossom",
+        "Patchouli",
+        "Vanilla",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 305,
+      "fragranceSlug": "chanel-coco-mademoiselle-305",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Coco Mademoiselle",
+      "originalFragranceSlug": "chanel-coco-mademoiselle",
+      "mistifyProductName": "Cocoiselle",
+      "mistifyProductSlug": "cocoiselle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cocoiselle",
+      "publicInspiredByLabel": "Chanel Coco Mademoiselle",
+      "audience": null,
+      "classification": "Citrus Floral / Patchouli Amber",
+      "topNotes": [
+        "Orange",
+        "Mandarin Orange",
+        "Bergamot",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Jasmine",
+        "Mimosa",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "White Musk",
+        "Vanilla",
+        "Vetiver",
+        "Tonka Bean",
+        "Opoponax"
+      ],
+      "allNotes": [
+        "Orange",
+        "Mandarin Orange",
+        "Bergamot",
+        "Orange Blossom",
+        "Turkish Rose",
+        "Jasmine",
+        "Mimosa",
+        "Ylang-Ylang",
+        "Patchouli",
+        "White Musk",
+        "Vanilla",
+        "Vetiver",
+        "Tonka Bean",
+        "Opoponax"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_10_27PM.png?v=1781712637",
+      "searchableText": "Chanel Chanel Coco Mademoiselle Cocoiselle Citrus Floral / Patchouli Amber Orange Mandarin Orange Bergamot Orange Blossom Turkish Rose Jasmine Mimosa Ylang-Ylang Patchouli White Musk Vanilla Vetiver Tonka Bean Opoponax",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Orange",
+        "Orange Blossom",
+        "Patchouli",
+        "White Musk",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 329,
+      "fragranceSlug": "dior-gris-montaigne-329",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Gris Montaigne",
+      "originalFragranceSlug": "dior-gris-montaigne",
+      "mistifyProductName": "Gris Montaire",
+      "mistifyProductSlug": "gris-montaire",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/torino-verde-copy",
+      "publicInspiredByLabel": "Dior Gris Montaigne",
+      "audience": null,
+      "classification": "Floral Chypre / Elegant Fruity Floral",
+      "topNotes": [
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Strawberry",
+        "Jasmine",
+        "Orange Blossom",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Oakmoss",
+        "Sandalwood",
+        "Amber",
+        "Cedar",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Rose",
+        "Strawberry",
+        "Jasmine",
+        "Orange Blossom",
+        "Ylang-Ylang",
+        "Patchouli",
+        "Oakmoss",
+        "Sandalwood",
+        "Amber",
+        "Cedar",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar10-2026-12-10-56PM-_1.png?v=1773460119",
+      "searchableText": "Dior Dior Gris Montaigne Gris Montaire Floral Chypre / Elegant Fruity Floral Bergamot Grapefruit Rose Strawberry Jasmine Orange Blossom Ylang-Ylang Patchouli Oakmoss Sandalwood Amber Cedar White Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Strawberry",
+        "Orange Blossom",
+        "Patchouli",
+        "White Musk",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 54,
+      "fragranceSlug": "kilian-back-to-black-54",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Back to Black",
+      "originalFragranceSlug": "kilian-back-to-black",
+      "mistifyProductName": "Back 2 Blacky",
+      "mistifyProductSlug": "back-2-blacky",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/back-2-black",
+      "publicInspiredByLabel": "Inspired by Kilian Back to Black",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Almond",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "allNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry",
+        "Tobacco",
+        "Almond",
+        "Vanilla",
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Back2Blacky.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Back to Black Back 2 Blacky Oriental unisex Honey Cherry Raspberry Tobacco Almond Vanilla Cedar Patchouli Amber",
+      "createdAt": "2026-05-04T04:41:27.650Z",
+      "sharedNotes": [
+        "Raspberry",
+        "Patchouli",
+        "Vanilla",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 181,
+      "fragranceSlug": "mancera-roses-vanille-181",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Roses Vanille",
+      "originalFragranceSlug": "mancera-roses-vanille",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mancera Roses Vanille",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Italian Lemon"
+      ],
+      "middleNotes": [
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Italian Lemon",
+        "Turkish Rose",
+        "Vanilla",
+        "White Musk",
+        "Cedar"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mancera mancera Mancera Roses Vanille Not verified Oriental Vanilla Italian Lemon Turkish Rose Vanilla White Musk Cedar",
+      "createdAt": "2026-05-04T04:41:35.051Z",
+      "sharedNotes": [
+        "White Musk",
+        "Vanilla",
+        "Cedar"
+      ]
+    }
+  ]
+}

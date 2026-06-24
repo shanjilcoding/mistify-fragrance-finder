@@ -1,0 +1,267 @@
+{
+  "fragrances": [
+    {
+      "id": 24,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-media-cologne-forte-24",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Media Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-media-cologne-forte",
+      "mistifyProductName": "Aqua Médié",
+      "mistifyProductSlug": "aqua-medie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/aqua-medie",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Media Cologne Forte",
+      "audience": "unisex",
+      "classification": "Green Citrus/Aromatic Fresh",
+      "topNotes": [
+        "Bergamot",
+        "Vervain"
+      ],
+      "middleNotes": [
+        "Fennel",
+        "Hedione"
+      ],
+      "baseNotes": [
+        "Matcha Tea",
+        "Musk",
+        "Woodsy Notes"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Vervain",
+        "Fennel",
+        "Hedione",
+        "Matcha Tea",
+        "Musk",
+        "Woodsy Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan13-2026-07-36-12AM-_1.png?v=1773460175",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Media Cologne Forte Aqua Médié Green Citrus/Aromatic Fresh unisex Bergamot Vervain Fennel Hedione Matcha Tea Musk Woodsy Notes",
+      "createdAt": "2026-05-04T04:41:25.899Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vervain",
+        "Fennel",
+        "Hedione",
+        "Matcha Tea",
+        "Musk",
+        "Woodsy Notes"
+      ]
+    },
+    {
+      "id": 15,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte-15",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Celestia Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte",
+      "mistifyProductName": "Celestial Waters",
+      "mistifyProductSlug": "celestial-waters",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/celestial-waters",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Celestia Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Currant"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Jasmine",
+        "Mimosa",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-55-26AM-_1.png?v=1773460516",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Celestia Cologne Forte Celestial Waters Citrus Aromatic unisex Bergamot Black Currant Jasmine Mimosa Musk",
+      "createdAt": "2026-05-04T04:41:25.373Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk"
+      ]
+    },
+    {
+      "id": 16,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte-16",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Vitae Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte",
+      "mistifyProductName": "Vitae Essence",
+      "mistifyProductSlug": "vitae-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vitae-essence",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Vitae Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Floral Notes",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Floral Notes",
+        "Solar Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/VitaeEssence.png?v=1765422978",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Vitae Cologne Forte Vitae Essence Citrus unisex Mandarin Orange Bergamot Floral Notes Solar Notes Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.428Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk"
+      ]
+    },
+    {
+      "id": 197,
+      "fragranceSlug": "sol-de-janeiro-cheirosa-40-197",
+      "brandName": "Sol De Janeiro",
+      "brandSlug": "sol-de-janeiro",
+      "originalFragranceName": "Cheirosa 40",
+      "originalFragranceSlug": "sol-de-janeiro-cheirosa-40",
+      "mistifyProductName": "Carioca 40",
+      "mistifyProductSlug": "carioca-40",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/carioca-40",
+      "publicInspiredByLabel": "Inspired by Sol De Janeiro Cheirosa 40",
+      "audience": "unisex",
+      "classification": "Floral Fruity Gourmand",
+      "topNotes": [
+        "Plum",
+        "Black Amber",
+        "Cassis"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Woodsy Notes",
+        "Musk"
+      ],
+      "allNotes": [
+        "Plum",
+        "Black Amber",
+        "Cassis",
+        "Orchid",
+        "Jasmine",
+        "Vanilla",
+        "Woodsy Notes",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb11-2026-11-15-33AM-_1.png?v=1773460147",
+      "searchableText": "Sol De Janeiro sol de janeiro Sol de Janeiro Cheirosa 40 Carioca 40 Floral Fruity Gourmand unisex Plum Black Amber Cassis Orchid Jasmine Vanilla Woodsy Notes Musk",
+      "createdAt": "2026-05-04T04:41:36.037Z",
+      "sharedNotes": [
+        "Musk",
+        "Woodsy Notes"
+      ]
+    },
+    {
+      "id": 1,
+      "fragranceSlug": "guerlain-les-absolus-d-orient-ambre-eternel-1",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Les Absolus d'Orient Ambre Eternel",
+      "originalFragranceSlug": "guerlain-les-absolus-d-orient-ambre-eternel",
+      "mistifyProductName": "Eternal Amber",
+      "mistifyProductSlug": "eternal-amber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eternal-amber",
+      "publicInspiredByLabel": "Inspired by Guerlain Les Absolus d'Orient Ambre Eternel",
+      "audience": "unisex",
+      "classification": "Oriental Amber",
+      "topNotes": [
+        "Ambergris",
+        "Cardamom",
+        "Coriander"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Musk",
+        "Woodsy Notes"
+      ],
+      "allNotes": [
+        "Ambergris",
+        "Cardamom",
+        "Coriander",
+        "Ylang-Ylang",
+        "Orange Blossom",
+        "Leather",
+        "Musk",
+        "Woodsy Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-26-54PM-_1.png?v=1773460361",
+      "searchableText": "Guerlain guerlain Guerlain Les Absolus d'Orient Ambre Eternel Eternal Amber Oriental Amber unisex Ambergris Cardamom Coriander Ylang-Ylang Orange Blossom Leather Musk Woodsy Notes",
+      "createdAt": "2026-05-04T04:41:24.292Z",
+      "sharedNotes": [
+        "Musk",
+        "Woodsy Notes"
+      ]
+    },
+    {
+      "id": 65,
+      "fragranceSlug": "kilian-love-don-t-be-shy-65",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Love, Don’t Be Shy",
+      "originalFragranceSlug": "kilian-love-don-t-be-shy",
+      "mistifyProductName": "Love, I’m Not Shy",
+      "mistifyProductSlug": "love-i-m-not-shy",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/love-im-not-shy",
+      "publicInspiredByLabel": "Inspired by Kilian Love, Don’t Be Shy",
+      "audience": "unisex",
+      "classification": "Floral Gourmand",
+      "topNotes": [
+        "Neroli",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Bergamot",
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom",
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-33-02PM-_1.png?v=1773460529",
+      "searchableText": "Kilian kilian By Kilian Love, Don’t Be Shy Love, I’m Not Shy Floral Gourmand unisex Neroli Bergamot Jasmine Honeysuckle Orange Blossom Vanilla Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.274Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk"
+      ]
+    }
+  ]
+}

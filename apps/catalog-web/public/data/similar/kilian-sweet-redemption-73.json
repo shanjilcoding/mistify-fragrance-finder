@@ -1,0 +1,299 @@
+{
+  "fragrances": [
+    {
+      "id": 293,
+      "fragranceSlug": "bvlgari-baciami-293",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Baciami",
+      "originalFragranceSlug": "bvlgari-baciami",
+      "mistifyProductName": "Baciâme",
+      "mistifyProductSlug": "baciame",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baciame",
+      "publicInspiredByLabel": "Inspired by Bvlgari Baciami",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Gardenia"
+      ],
+      "middleNotes": [
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Gardenia",
+        "Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan1-2026-06-46-55AM-_1.png?v=1773460177",
+      "searchableText": "Bvlgari bvlgari Bvlgari Baciami Baciâme Oriental Floral unisex Gardenia Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:41.838Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 215,
+      "fragranceSlug": "viktor-and-rolf-flower-bomb-215",
+      "brandName": "Viktor & Rolf",
+      "brandSlug": "viktor-and-rolf",
+      "originalFragranceName": "Flower Bomb",
+      "originalFragranceSlug": "viktor-and-rolf-flower-bomb",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Viktor & Rolf Flower Bomb",
+      "audience": null,
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Tea",
+        "Bergamot",
+        "Osmanthus"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Freesia",
+        "African Orange Flower"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Tea",
+        "Bergamot",
+        "Osmanthus",
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Freesia",
+        "African Orange Flower",
+        "Patchouli",
+        "Musk",
+        "Vanilla"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Viktor & Rolf viktor and rolf Viktor & Rolf Flower Bomb Not verified Oriental Floral Tea Bergamot Osmanthus Orchid Jasmine Rose Freesia African Orange Flower Patchouli Musk Vanilla",
+      "createdAt": "2026-05-04T04:41:37.102Z",
+      "sharedNotes": [
+        "African Orange Flower",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 289,
+      "fragranceSlug": "frederic-malle-portrait-of-a-lady-289",
+      "brandName": "Frederic Malle",
+      "brandSlug": "frederic-malle",
+      "originalFragranceName": "Portrait of a Lady",
+      "originalFragranceSlug": "frederic-malle-portrait-of-a-lady",
+      "mistifyProductName": "Portrait Femme",
+      "mistifyProductSlug": "portrait-femme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/portrait-femme",
+      "publicInspiredByLabel": "Inspired by Frederic Malle Portrait of a Lady",
+      "audience": "womens",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Clove",
+        "Raspberry",
+        "Black Currant",
+        "Cinnamon",
+        "Red Berries"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Patchouli",
+        "Incense",
+        "Sandalwood",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Sandalwood",
+        "Musk",
+        "Benzoin",
+        "Amber",
+        "Ambergris",
+        "Cedar",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Rose",
+        "Clove",
+        "Raspberry",
+        "Black Currant",
+        "Cinnamon",
+        "Red Berries",
+        "Turkish Rose",
+        "Patchouli",
+        "Incense",
+        "Sandalwood",
+        "Ylang-Ylang",
+        "Incense",
+        "Sandalwood",
+        "Musk",
+        "Benzoin",
+        "Amber",
+        "Ambergris",
+        "Cedar",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-55-16PM-_1.png?v=1773460336",
+      "searchableText": "Frederic Malle frederic malle Frederic Malle Portrait of a Lady Portrait Femme Oriental Floral womens Rose Clove Raspberry Black Currant Cinnamon Red Berries Turkish Rose Patchouli Incense Sandalwood Ylang-Ylang Incense Sandalwood Musk Benzoin Amber Ambergris Cedar Vanilla",
+      "createdAt": "2026-05-04T04:41:41.596Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Benzoin",
+        "Incense"
+      ]
+    },
+    {
+      "id": 175,
+      "fragranceSlug": "mancera-aoud-orchid-175",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Aoud Orchid",
+      "originalFragranceSlug": "mancera-aoud-orchid",
+      "mistifyProductName": "Orchid Essence",
+      "mistifyProductSlug": "orchid-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orchid-essence",
+      "publicInspiredByLabel": "Inspired by Mancera Aoud Orchid",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange",
+        "Orchid",
+        "Patchouli",
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OrchidEssence.png?v=1765422998",
+      "searchableText": "Mancera mancera Mancera Aoud Orchid Orchid Essence Oriental Floral unisex Coconut Peach Mandarin Orange Orchid Patchouli Woody Notes Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.708Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 103,
+      "fragranceSlug": "parfums-de-marly-layton-103",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Layton",
+      "originalFragranceSlug": "parfums-de-marly-layton",
+      "mistifyProductName": "Laytonington",
+      "mistifyProductSlug": "laytonington",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/laytonington",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Layton",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Geranium",
+        "Violet",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender",
+        "Geranium",
+        "Violet",
+        "Jasmine",
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-32-05AM-_1.png?v=1773460493",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Layton Laytonington Oriental Floral unisex Apple Bergamot Lavender Geranium Violet Jasmine Vanilla Pepper Patchouli Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:30.521Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 123,
+      "fragranceSlug": "bond-no-9-nomad-123",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Nomad",
+      "originalFragranceSlug": "bond-no-9-nomad",
+      "mistifyProductName": "Nomadique",
+      "mistifyProductSlug": "nomadique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/nomadique",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Nomad",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Black Currant",
+        "Pear",
+        "Quince"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Orris",
+        "Violet Leaves"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Black Currant",
+        "Pear",
+        "Quince",
+        "Rose",
+        "Oud",
+        "Orris",
+        "Violet Leaves",
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay7_2026_04_20_29PM.png?v=1778185236",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Nomad Nomadique Oriental Floral unisex Black Currant Pear Quince Rose Oud Orris Violet Leaves Amber Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:31.683Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    }
+  ]
+}

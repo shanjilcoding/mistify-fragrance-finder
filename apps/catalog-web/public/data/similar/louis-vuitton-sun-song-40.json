@@ -1,0 +1,254 @@
+{
+  "fragrances": [
+    {
+      "id": 311,
+      "fragranceSlug": "clive-christian-l-red-tea-vetiver-311",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "L Red Tea Vetiver",
+      "originalFragranceSlug": "clive-christian-l-red-tea-vetiver",
+      "mistifyProductName": "Rouge Thé Vetiver",
+      "mistifyProductSlug": "rouge-the-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rouge-the-vetiver",
+      "publicInspiredByLabel": "Clive Christian L Red Tea Vetiver",
+      "audience": null,
+      "classification": "Citrus Woody / Aromatic Tea",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Rooibos Tea",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Rooibos Tea",
+        "Vetiver",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_45_38AM.png?v=1781711148",
+      "searchableText": "Clive Christian Clive Christian L Red Tea Vetiver Rouge Thé Vetiver Citrus Woody / Aromatic Tea Bergamot Lemon Rooibos Tea Vetiver Sandalwood Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Lemon",
+        "Bergamot",
+        "Musk"
+      ]
+    },
+    {
+      "id": 129,
+      "fragranceSlug": "creed-millesime-imperial-129",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Millesime Imperial",
+      "originalFragranceSlug": "creed-millesime-imperial",
+      "mistifyProductName": "Vintage Imperial",
+      "mistifyProductSlug": "vintage-imperial",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vintage-imperial",
+      "publicInspiredByLabel": "Inspired by Creed Millesime Imperial",
+      "audience": "mens",
+      "classification": "Citrus Floral",
+      "topNotes": [
+        "Sea Salt",
+        "Fruit Notes"
+      ],
+      "middleNotes": [
+        "Sicilian Lemon",
+        "Bergamot",
+        "Iris",
+        "Mandarin Orange"
+      ],
+      "baseNotes": [
+        "Sea Notes",
+        "Musk",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Sea Salt",
+        "Fruit Notes",
+        "Sicilian Lemon",
+        "Bergamot",
+        "Iris",
+        "Mandarin Orange",
+        "Sea Notes",
+        "Musk",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_03_50PM.png?v=1765422849",
+      "searchableText": "Creed creed Creed Millesime Imperial Vintage Imperial Citrus Floral mens Sea Salt Fruit Notes Sicilian Lemon Bergamot Iris Mandarin Orange Sea Notes Musk Woody Notes",
+      "createdAt": "2026-05-04T04:41:32.027Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk"
+      ]
+    },
+    {
+      "id": 15,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte-15",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Celestia Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte",
+      "mistifyProductName": "Celestial Waters",
+      "mistifyProductSlug": "celestial-waters",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/celestial-waters",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Celestia Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Currant"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Jasmine",
+        "Mimosa",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-55-26AM-_1.png?v=1773460516",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Celestia Cologne Forte Celestial Waters Citrus Aromatic unisex Bergamot Black Currant Jasmine Mimosa Musk",
+      "createdAt": "2026-05-04T04:41:25.373Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk"
+      ]
+    },
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Lemon",
+        "Bergamot",
+        "Musk"
+      ]
+    },
+    {
+      "id": 133,
+      "fragranceSlug": "creed-sublime-vanille-133",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Sublime Vanille",
+      "originalFragranceSlug": "creed-sublime-vanille",
+      "mistifyProductName": "Superb Vanilla",
+      "mistifyProductSlug": "superb-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/superb-vanilla",
+      "publicInspiredByLabel": "Inspired by Creed Sublime Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bourbon Vanilla",
+        "Lemon"
+      ],
+      "middleNotes": [],
+      "baseNotes": [
+        "Tonka Bean",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bourbon Vanilla",
+        "Lemon",
+        "Tonka Bean",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-35-41AM-_1.png?v=1773460548",
+      "searchableText": "Creed creed Creed Sublime Vanille Superb Vanilla Oriental Vanilla unisex Bourbon Vanilla Lemon Tonka Bean Musk",
+      "createdAt": "2026-05-04T04:41:32.256Z",
+      "sharedNotes": [
+        "Lemon",
+        "Musk"
+      ]
+    },
+    {
+      "id": 11,
+      "fragranceSlug": "maison-francis-kurkdjian-724-11",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "724",
+      "originalFragranceSlug": "maison-francis-kurkdjian-724",
+      "mistifyProductName": "Urban Glow",
+      "mistifyProductSlug": "urban-glow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-glow",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian 724",
+      "audience": "unisex",
+      "classification": "Citrus Floral",
+      "topNotes": [
+        "Aldehydes",
+        "Italian Bergamot"
+      ],
+      "middleNotes": [
+        "White Flowers",
+        "Sweet Pea",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Italian Bergamot",
+        "White Flowers",
+        "Sweet Pea",
+        "Jasmine",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_08_29PM.png?v=1765422970",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian 724 Urban Glow Citrus Floral unisex Aldehydes Italian Bergamot White Flowers Sweet Pea Jasmine Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.153Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    }
+  ]
+}

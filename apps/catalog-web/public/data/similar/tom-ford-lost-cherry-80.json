@@ -1,0 +1,292 @@
+{
+  "fragrances": [
+    {
+      "id": 250,
+      "fragranceSlug": "kayali-lovefest-burning-cherry-48-250",
+      "brandName": "Kayali",
+      "brandSlug": "kayali",
+      "originalFragranceName": "Lovefest Burning Cherry 48",
+      "originalFragranceSlug": "kayali-lovefest-burning-cherry-48",
+      "mistifyProductName": "Loving Flaming Cherry 49",
+      "mistifyProductSlug": "loving-flaming-cherry-49",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/loving-flaming-cherry-49?variant=49907914604863",
+      "publicInspiredByLabel": "Inspired by Kayali Lovefest Burning Cherry 48",
+      "audience": "unisex",
+      "classification": "Floral Fruity Gourmand/Warm Sweet Gourmand",
+      "topNotes": [
+        "Black Cherry",
+        "Raspberry",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose Damascena",
+        "Jasmine Sambac",
+        "Heliotrope",
+        "Praline"
+      ],
+      "baseNotes": [
+        "Palo Santo",
+        "Patchouli",
+        "Ambrettolide",
+        "Peru Balsam",
+        "Vetiver",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Black Cherry",
+        "Raspberry",
+        "Bergamot",
+        "Rose Damascena",
+        "Jasmine Sambac",
+        "Heliotrope",
+        "Praline",
+        "Palo Santo",
+        "Patchouli",
+        "Ambrettolide",
+        "Peru Balsam",
+        "Vetiver",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_11_04_38PM.png?v=1774407885",
+      "searchableText": "Kayali kayali Kayali Lovefest Burning Cherry 48 Loving Flaming Cherry 49 Floral Fruity Gourmand/Warm Sweet Gourmand unisex Black Cherry Raspberry Bergamot Rose Damascena Jasmine Sambac Heliotrope Praline Palo Santo Patchouli Ambrettolide Peru Balsam Vetiver Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:39.218Z",
+      "sharedNotes": [
+        "Black Cherry",
+        "Jasmine Sambac",
+        "Peru Balsam",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 267,
+      "fragranceSlug": "byredo-bal-d-afrique-267",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Bal d’Afrique",
+      "originalFragranceSlug": "byredo-bal-d-afrique",
+      "mistifyProductName": "Bali Afrique",
+      "mistifyProductSlug": "bali-afrique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bali-afrique",
+      "publicInspiredByLabel": "Inspired by Byredo Bal d’Afrique",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Bergamot",
+        "African Marigold",
+        "Buchu/Agathosma"
+      ],
+      "middleNotes": [
+        "Violet",
+        "Cyclamen"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "African Marigold",
+        "Buchu/Agathosma",
+        "Violet",
+        "Cyclamen",
+        "Vetiver",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-08-33PM-_1.png?v=1773460349",
+      "searchableText": "Byredo byredo Byredo Bal d’Afrique Bali Afrique Floral unisex Bergamot African Marigold Buchu/Agathosma Violet Cyclamen Vetiver Cedar",
+      "createdAt": "2026-05-04T04:41:40.260Z",
+      "sharedNotes": [
+        "Vetiver",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 30,
+      "fragranceSlug": "louis-vuitton-heures-d-absence-30",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Heures d’Absence",
+      "originalFragranceSlug": "louis-vuitton-heures-d-absence",
+      "mistifyProductName": "Hours of Absence",
+      "mistifyProductSlug": "hours-of-absence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hours-of-absence",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Heures d’Absence",
+      "audience": "womens",
+      "classification": "Floral Musk",
+      "topNotes": [
+        "Raspberry",
+        "Mimosa"
+      ],
+      "middleNotes": [
+        "Grasse Jasmine",
+        "Jasmine Sambac",
+        "May Rose"
+      ],
+      "baseNotes": [
+        "Peru Balsam",
+        "Sandalwood",
+        "Musk Notes",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Mimosa",
+        "Grasse Jasmine",
+        "Jasmine Sambac",
+        "May Rose",
+        "Peru Balsam",
+        "Sandalwood",
+        "Musk Notes",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_49_38PM.png?v=1765422826",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Heures d’Absence Hours of Absence Floral Musk womens Raspberry Mimosa Grasse Jasmine Jasmine Sambac May Rose Peru Balsam Sandalwood Musk Notes Vanilla",
+      "createdAt": "2026-05-04T04:41:26.238Z",
+      "sharedNotes": [
+        "Jasmine Sambac",
+        "Peru Balsam",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 65,
+      "fragranceSlug": "kilian-love-don-t-be-shy-65",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Love, Don’t Be Shy",
+      "originalFragranceSlug": "kilian-love-don-t-be-shy",
+      "mistifyProductName": "Love, I’m Not Shy",
+      "mistifyProductSlug": "love-i-m-not-shy",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/love-im-not-shy",
+      "publicInspiredByLabel": "Inspired by Kilian Love, Don’t Be Shy",
+      "audience": "unisex",
+      "classification": "Floral Gourmand",
+      "topNotes": [
+        "Neroli",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Bergamot",
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom",
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-33-02PM-_1.png?v=1773460529",
+      "searchableText": "Kilian kilian By Kilian Love, Don’t Be Shy Love, I’m Not Shy Floral Gourmand unisex Neroli Bergamot Jasmine Honeysuckle Orange Blossom Vanilla Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.274Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 321,
+      "fragranceSlug": "amouage-reflection-man-321",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Reflection Man",
+      "originalFragranceSlug": "amouage-reflection-man",
+      "mistifyProductName": "Reflexion",
+      "mistifyProductSlug": "reflexion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/reflexion",
+      "publicInspiredByLabel": "Amouage Reflection Man",
+      "audience": null,
+      "classification": "Floral Woody / Fresh Aromatic",
+      "topNotes": [
+        "Rosemary",
+        "Pink Pepper",
+        "Petitgrain"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Neroli",
+        "Orris Root",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Rosemary",
+        "Pink Pepper",
+        "Petitgrain",
+        "Jasmine",
+        "Neroli",
+        "Orris Root",
+        "Ylang-Ylang",
+        "Sandalwood",
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun9_2026_07_43_40AM.png?v=1781005432",
+      "searchableText": "Amouage Amouage Reflection Man Reflexion Floral Woody / Fresh Aromatic Rosemary Pink Pepper Petitgrain Jasmine Neroli Orris Root Ylang-Ylang Sandalwood Cedar Vetiver Patchouli",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Vetiver",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 160,
+      "fragranceSlug": "initio-rehab-160",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Rehab",
+      "originalFragranceSlug": "initio-rehab",
+      "mistifyProductName": "Rehabilitee",
+      "mistifyProductSlug": "rehabilitee",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rehabilitee",
+      "publicInspiredByLabel": "Inspired by Initio Rehab",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Rehabilitee.png?v=1765422993",
+      "searchableText": "Initio initio parfums Initio Parfums Rehab Rehabilitee Woody Aromatic unisex Lavender Bergamot Cedar Vetiver Patchouli Sandalwood Musk Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:33.822Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Vetiver",
+        "Cedar"
+      ]
+    }
+  ]
+}

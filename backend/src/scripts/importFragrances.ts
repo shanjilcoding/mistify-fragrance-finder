@@ -3,6 +3,7 @@ import { existsSync, readFileSync } from 'node:fs'
 import { join } from 'node:path'
 import { db, pool } from '../db/connection'
 import { fragrances, type NewFragrance } from '../db/schema'
+import { buildCatalogFields } from '../utils/catalogFields'
 
 type CsvRow = Record<string, string>
 type ImportableFragrance = NewFragrance & {
@@ -107,24 +108,6 @@ function buildAllNotes(
   return [...topNotes, ...middleNotes, ...baseNotes]
 }
 
-function buildSearchableText(record: {
-  originalFragranceName: string
-  mistifyProductName: string
-  sourceBrandBatch: string | null
-  classification: string | null
-  allNotes: string[]
-}) {
-  return [
-    record.originalFragranceName,
-    record.mistifyProductName,
-    record.sourceBrandBatch,
-    record.classification,
-    ...record.allNotes,
-  ]
-    .filter(Boolean)
-    .join(' ')
-}
-
 function buildFragranceRecord(row: CsvRow): ImportableFragrance | null {
   const originalFragranceName = row.original_fragrance_name?.trim()
   const rawMistifyProductName = row.mistify_product_name?.trim()
@@ -199,7 +182,7 @@ function buildFragranceRecord(row: CsvRow): ImportableFragrance | null {
 
   return {
     ...record,
-    searchableText: buildSearchableText(record),
+    ...buildCatalogFields(record),
   }
 }
 

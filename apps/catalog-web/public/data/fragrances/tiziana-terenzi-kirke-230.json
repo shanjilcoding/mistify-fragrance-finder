@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 230,
+    "fragranceSlug": "tiziana-terenzi-kirke-230",
+    "brandName": "Tiziana Terenzi",
+    "brandSlug": "tiziana-terenzi",
+    "originalFragranceName": "Kirke",
+    "originalFragranceSlug": "tiziana-terenzi-kirke",
+    "mistifyProductName": "Kirka",
+    "mistifyProductSlug": "kirka",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/kirka",
+    "publicInspiredByLabel": "Inspired by Tiziana Terenzi Kirke",
+    "audience": "unisex",
+    "classification": "Fruity Chypre",
+    "topNotes": [
+      "Passionfruit",
+      "Peach",
+      "Raspberry"
+    ],
+    "middleNotes": [
+      "Lily of the Valley",
+      "Heliotrope"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Sandalwood",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Passionfruit",
+      "Peach",
+      "Raspberry",
+      "Lily of the Valley",
+      "Heliotrope",
+      "Musk",
+      "Sandalwood",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Kirka-_1.png?v=1773460412",
+    "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Kirke Kirka Fruity Chypre unisex Passionfruit Peach Raspberry Lily of the Valley Heliotrope Musk Sandalwood Patchouli",
+    "createdAt": "2026-05-04T04:41:38.002Z"
+  }
+}

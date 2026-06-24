@@ -1,0 +1,33 @@
+{
+  "fragrance": {
+    "id": 293,
+    "fragranceSlug": "bvlgari-baciami-293",
+    "brandName": "Bvlgari",
+    "brandSlug": "bvlgari",
+    "originalFragranceName": "Baciami",
+    "originalFragranceSlug": "bvlgari-baciami",
+    "mistifyProductName": "Baciâme",
+    "mistifyProductSlug": "baciame",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/baciame",
+    "publicInspiredByLabel": "Inspired by Bvlgari Baciami",
+    "audience": "unisex",
+    "classification": "Oriental Floral",
+    "topNotes": [
+      "Gardenia"
+    ],
+    "middleNotes": [
+      "Vanilla"
+    ],
+    "baseNotes": [
+      "Amber"
+    ],
+    "allNotes": [
+      "Gardenia",
+      "Vanilla",
+      "Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan1-2026-06-46-55AM-_1.png?v=1773460177",
+    "searchableText": "Bvlgari bvlgari Bvlgari Baciami Baciâme Oriental Floral unisex Gardenia Vanilla Amber",
+    "createdAt": "2026-05-04T04:41:41.838Z"
+  }
+}

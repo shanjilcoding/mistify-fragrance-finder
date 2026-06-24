@@ -1,0 +1,55 @@
+{
+  "fragrance": {
+    "id": 305,
+    "fragranceSlug": "chanel-coco-mademoiselle-305",
+    "brandName": "Chanel",
+    "brandSlug": "chanel",
+    "originalFragranceName": "Coco Mademoiselle",
+    "originalFragranceSlug": "chanel-coco-mademoiselle",
+    "mistifyProductName": "Cocoiselle",
+    "mistifyProductSlug": "cocoiselle",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/cocoiselle",
+    "publicInspiredByLabel": "Chanel Coco Mademoiselle",
+    "audience": null,
+    "classification": "Citrus Floral / Patchouli Amber",
+    "topNotes": [
+      "Orange",
+      "Mandarin Orange",
+      "Bergamot",
+      "Orange Blossom"
+    ],
+    "middleNotes": [
+      "Turkish Rose",
+      "Jasmine",
+      "Mimosa",
+      "Ylang-Ylang"
+    ],
+    "baseNotes": [
+      "Patchouli",
+      "White Musk",
+      "Vanilla",
+      "Vetiver",
+      "Tonka Bean",
+      "Opoponax"
+    ],
+    "allNotes": [
+      "Orange",
+      "Mandarin Orange",
+      "Bergamot",
+      "Orange Blossom",
+      "Turkish Rose",
+      "Jasmine",
+      "Mimosa",
+      "Ylang-Ylang",
+      "Patchouli",
+      "White Musk",
+      "Vanilla",
+      "Vetiver",
+      "Tonka Bean",
+      "Opoponax"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_10_27PM.png?v=1781712637",
+    "searchableText": "Chanel Chanel Coco Mademoiselle Cocoiselle Citrus Floral / Patchouli Amber Orange Mandarin Orange Bergamot Orange Blossom Turkish Rose Jasmine Mimosa Ylang-Ylang Patchouli White Musk Vanilla Vetiver Tonka Bean Opoponax",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

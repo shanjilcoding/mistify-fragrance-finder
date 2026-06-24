@@ -1,0 +1,271 @@
+{
+  "fragrances": [
+    {
+      "id": 88,
+      "fragranceSlug": "tom-ford-tuscan-leather-88",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Tuscan Leather",
+      "originalFragranceSlug": "tom-ford-tuscan-leather",
+      "mistifyProductName": "Leather Tuscany",
+      "mistifyProductSlug": "leather-tuscany",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/leather-tuscany",
+      "publicInspiredByLabel": "Inspired by Tom Ford Tuscan Leather",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Olibanum",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Suede",
+        "Amber",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Thyme",
+        "Olibanum",
+        "Jasmine",
+        "Leather",
+        "Suede",
+        "Amber",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Tom Ford tom ford Tom Ford Tuscan Leather Leather Tuscany Leather unisex Raspberry Saffron Thyme Olibanum Jasmine Leather Suede Amber Woody Notes",
+      "createdAt": "2026-05-04T04:41:29.625Z",
+      "sharedNotes": [
+        "Raspberry"
+      ]
+    },
+    {
+      "id": 73,
+      "fragranceSlug": "kilian-sweet-redemption-73",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Sweet Redemption",
+      "originalFragranceSlug": "kilian-sweet-redemption",
+      "mistifyProductName": "Sweetly Redeeming",
+      "mistifyProductSlug": "sweetly-redeeming",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sweetly-redeeming",
+      "publicInspiredByLabel": "Inspired by Kilian Sweet Redemption",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [],
+      "middleNotes": [
+        "African Orange Flower",
+        "Vanilla",
+        "Benzoin",
+        "Opoponax",
+        "Myrrh",
+        "Incense"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "African Orange Flower",
+        "Vanilla",
+        "Benzoin",
+        "Opoponax",
+        "Myrrh",
+        "Incense"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/SweetlyRedeeming_ffcf336a-a710-4599-9e35-201eb0e1b9e6.png?v=1765422927",
+      "searchableText": "Kilian kilian By Kilian Sweet Redemption Sweetly Redeeming Oriental Floral unisex African Orange Flower Vanilla Benzoin Opoponax Myrrh Incense",
+      "createdAt": "2026-05-04T04:41:28.756Z",
+      "sharedNotes": [
+        "Incense",
+        "Benzoin"
+      ]
+    },
+    {
+      "id": 165,
+      "fragranceSlug": "montale-aoud-leather-165",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Leather",
+      "originalFragranceSlug": "montale-aoud-leather",
+      "mistifyProductName": "Oud Hide",
+      "mistifyProductSlug": "oud-hide",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-hide",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Leather",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [],
+      "middleNotes": [
+        "Leather",
+        "Oud",
+        "Saffron",
+        "Bergamot",
+        "Cardamom",
+        "Pepper",
+        "Ambergris"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Leather",
+        "Oud",
+        "Saffron",
+        "Bergamot",
+        "Cardamom",
+        "Pepper",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudHide_ec6fce37-d220-454a-aab8-992c47a67666.png?v=1765422947",
+      "searchableText": "Montale montale Montale Aoud Leather Oud Hide Leather unisex Leather Oud Saffron Bergamot Cardamom Pepper Ambergris",
+      "createdAt": "2026-05-04T04:41:34.121Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 95,
+      "fragranceSlug": "tom-ford-fucking-fabulous-95",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Fucking Fabulous",
+      "originalFragranceSlug": "tom-ford-fucking-fabulous",
+      "mistifyProductName": "Fabuleux",
+      "mistifyProductSlug": "fabuleux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fabuleux",
+      "publicInspiredByLabel": "Inspired by Tom Ford Fucking Fabulous",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Lavender",
+        "Clary Sage"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris",
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec11-2025-09-54-59AM-_1.png?v=1773460202",
+      "searchableText": "Tom Ford tom ford Tom Ford Fucking Fabulous Fabuleux Leather unisex Lavender Clary Sage Leather Bitter Almond Vanilla Orris Leather Tonka Bean Cashmeran White Woods Amber",
+      "createdAt": "2026-05-04T04:41:30.032Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 280,
+      "fragranceSlug": "amouage-memoir-280",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Memoir",
+      "originalFragranceSlug": "amouage-memoir",
+      "mistifyProductName": "Mémoire Femme",
+      "mistifyProductSlug": "memoire-femme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/memoire-femme",
+      "publicInspiredByLabel": "Inspired by Amouage Memoir",
+      "audience": null,
+      "classification": "Leather",
+      "topNotes": [
+        "Wormwood",
+        "Mint",
+        "Basil"
+      ],
+      "middleNotes": [
+        "Incense",
+        "Lavender",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Tobacco",
+        "Leather",
+        "Sandalwood",
+        "Guaiac Wood",
+        "Vetiver",
+        "Oakmoss",
+        "Amber",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Wormwood",
+        "Mint",
+        "Basil",
+        "Incense",
+        "Lavender",
+        "Rose",
+        "Tobacco",
+        "Leather",
+        "Sandalwood",
+        "Guaiac Wood",
+        "Vetiver",
+        "Oakmoss",
+        "Amber",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay19_2026_10_22_23AM.png?v=1779200550",
+      "searchableText": "Amouage amouage Amouage Memoir Mémoire Femme Leather Wormwood Mint Basil Incense Lavender Rose Tobacco Leather Sandalwood Guaiac Wood Vetiver Oakmoss Amber Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:41.059Z",
+      "sharedNotes": [
+        "Incense"
+      ]
+    },
+    {
+      "id": 199,
+      "fragranceSlug": "maison-mataha-escapade-gourmande-199",
+      "brandName": "Maison Mataha",
+      "brandSlug": "maison-mataha",
+      "originalFragranceName": "Escapade Gourmande",
+      "originalFragranceSlug": "maison-mataha-escapade-gourmande",
+      "mistifyProductName": "Gourmande Évasion",
+      "mistifyProductSlug": "gourmande-evasion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gourmande-evasion",
+      "publicInspiredByLabel": "Inspired by Maison Mataha Escapade Gourmande",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar Cane"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sugar Cane",
+        "Vanilla",
+        "Tonka Bean",
+        "Benzoin",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb24-2026-11-56-42AM-_1.png?v=1773460130",
+      "searchableText": "Maison Mataha maison mataha Maison Mataha Escapade Gourmande Gourmande Évasion Oriental Vanilla unisex Sugar Cane Vanilla Tonka Bean Benzoin Musk",
+      "createdAt": "2026-05-04T04:41:36.157Z",
+      "sharedNotes": [
+        "Benzoin"
+      ]
+    }
+  ]
+}

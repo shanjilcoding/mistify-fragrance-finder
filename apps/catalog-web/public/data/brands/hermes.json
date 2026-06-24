@@ -1,0 +1,45 @@
+{
+  "brand": {
+    "brandName": "Hermès",
+    "brandSlug": "hermes",
+    "fragranceCount": 1,
+    "searchableText": "Terre d'Hermès Eau Givrée Terre Givré Hermès Terre d'Hermès Eau Givrée Hermès Hermès Terre d'Hermès Eau Givrée Terre Givré Citrus Mineral / Fresh Woody Citron Juniper Berries Timur Mineral Notes Woody Notes"
+  },
+  "fragrances": [
+    {
+      "id": 309,
+      "fragranceSlug": "hermes-terre-dhermes-eau-givree-309",
+      "brandName": "Hermès",
+      "brandSlug": "hermes",
+      "originalFragranceName": "Terre d'Hermès Eau Givrée",
+      "originalFragranceSlug": "hermes-terre-dhermes-eau-givree",
+      "mistifyProductName": "Terre Givré",
+      "mistifyProductSlug": "terre-givre",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/terre-givre",
+      "publicInspiredByLabel": "Hermès Terre d'Hermès Eau Givrée",
+      "audience": null,
+      "classification": "Citrus Mineral / Fresh Woody",
+      "topNotes": [
+        "Citron"
+      ],
+      "middleNotes": [
+        "Juniper Berries",
+        "Timur"
+      ],
+      "baseNotes": [
+        "Mineral Notes",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Citron",
+        "Juniper Berries",
+        "Timur",
+        "Mineral Notes",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_53_26AM.png?v=1781711616",
+      "searchableText": "Hermès Hermès Terre d'Hermès Eau Givrée Terre Givré Citrus Mineral / Fresh Woody Citron Juniper Berries Timur Mineral Notes Woody Notes",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    }
+  ]
+}

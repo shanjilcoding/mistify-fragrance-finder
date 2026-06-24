@@ -1,0 +1,55 @@
+{
+  "fragrance": {
+    "id": 187,
+    "fragranceSlug": "sabrina-carpenter-caramel-dream-187",
+    "brandName": "Sabrina Carpenter",
+    "brandSlug": "sabrina-carpenter",
+    "originalFragranceName": "Caramel Dream",
+    "originalFragranceSlug": "sabrina-carpenter-caramel-dream",
+    "mistifyProductName": "Caramel Rêverie",
+    "mistifyProductSlug": "caramel-reverie",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/caramel-reverie",
+    "publicInspiredByLabel": "Inspired by Sabrina Carpenter Caramel Dream",
+    "audience": "unisex",
+    "classification": "Oriental Vanilla",
+    "topNotes": [
+      "Sugar",
+      "Almond Milk",
+      "Orange",
+      "Freesia",
+      "Lemon"
+    ],
+    "middleNotes": [
+      "Dark Chocolate",
+      "Vanilla",
+      "Orange Blossom",
+      "Orchid"
+    ],
+    "baseNotes": [
+      "Caramel",
+      "Patchouli",
+      "Sandalwood",
+      "Musk",
+      "Amber"
+    ],
+    "allNotes": [
+      "Sugar",
+      "Almond Milk",
+      "Orange",
+      "Freesia",
+      "Lemon",
+      "Dark Chocolate",
+      "Vanilla",
+      "Orange Blossom",
+      "Orchid",
+      "Caramel",
+      "Patchouli",
+      "Sandalwood",
+      "Musk",
+      "Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec29-2025-01-49-19PM-_1.png?v=1773460180",
+    "searchableText": "Sabrina Carpenter sabrina carpenter Sabrina Carpenter Caramel Dream Caramel Rêverie Oriental Vanilla unisex Sugar Almond Milk Orange Freesia Lemon Dark Chocolate Vanilla Orange Blossom Orchid Caramel Patchouli Sandalwood Musk Amber",
+    "createdAt": "2026-05-04T04:41:35.407Z"
+  }
+}

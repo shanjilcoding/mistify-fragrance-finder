@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 93,
+    "fragranceSlug": "tom-ford-white-suede-93",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "White Suede",
+    "originalFragranceSlug": "tom-ford-white-suede",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Tom Ford White Suede",
+    "audience": null,
+    "classification": "Floral Woody Musk",
+    "topNotes": [
+      "Thyme",
+      "Tea"
+    ],
+    "middleNotes": [
+      "Lily-of-the-Valley",
+      "Saffron",
+      "Rose"
+    ],
+    "baseNotes": [
+      "Suede",
+      "Musk",
+      "Sandalwood",
+      "Amber",
+      "Olibanum"
+    ],
+    "allNotes": [
+      "Thyme",
+      "Tea",
+      "Lily-of-the-Valley",
+      "Saffron",
+      "Rose",
+      "Suede",
+      "Musk",
+      "Sandalwood",
+      "Amber",
+      "Olibanum"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Tom Ford tom ford Tom Ford White Suede Not verified Floral Woody Musk Thyme Tea Lily-of-the-Valley Saffron Rose Suede Musk Sandalwood Amber Olibanum",
+    "createdAt": "2026-05-04T04:41:29.912Z"
+  }
+}

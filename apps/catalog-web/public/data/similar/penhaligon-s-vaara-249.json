@@ -1,0 +1,330 @@
+{
+  "fragrances": [
+    {
+      "id": 226,
+      "fragranceSlug": "clive-christian-blonde-amber-226",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Blonde Amber",
+      "originalFragranceSlug": "clive-christian-blonde-amber",
+      "mistifyProductName": "Amber Luxe",
+      "mistifyProductSlug": "amber-luxe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-luxe",
+      "publicInspiredByLabel": "Inspired by Clive Christian Blonde Amber",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit",
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris",
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-34-30PM-_1.png?v=1773460457",
+      "searchableText": "Clive Christian clive christian Clive Christian Blonde Amber Amber Luxe Oriental unisex Rum Olibanum Bitter Orange Cardamom Pink Pepper Ginger Bergamot Grapefruit Dried Fruits White Tobacco Sandalwood Tuberose Saffron Osmanthus Jasmine Orris Tonka Bean Vanilla Myrrh Labdanum Patchouli Musk Cedar Vetiver",
+      "createdAt": "2026-05-04T04:41:37.756Z",
+      "sharedNotes": [
+        "Saffron",
+        "Cedar",
+        "Sandalwood",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 104,
+      "fragranceSlug": "parfums-de-marly-oajan-104",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Oajan",
+      "originalFragranceSlug": "parfums-de-marly-oajan",
+      "mistifyProductName": "Oajour",
+      "mistifyProductSlug": "oajour",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oajour",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Oajan",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Cinnamon",
+        "Honey",
+        "Osmanthus"
+      ],
+      "middleNotes": [
+        "Benzoin",
+        "Labdanum",
+        "Ambergris",
+        "Artemisia"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Honey",
+        "Osmanthus",
+        "Benzoin",
+        "Labdanum",
+        "Ambergris",
+        "Artemisia",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay24_2026_09_19_57AM.png?v=1779628806",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Oajan Oajour Oriental Cinnamon Honey Osmanthus Benzoin Labdanum Ambergris Artemisia Vanilla Tonka Bean Musk Patchouli",
+      "createdAt": "2026-05-04T04:41:30.574Z",
+      "sharedNotes": [
+        "Honey",
+        "Benzoin",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 314,
+      "fragranceSlug": "dior-miss-dior-314",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Miss Dior",
+      "originalFragranceSlug": "dior-miss-dior",
+      "mistifyProductName": "Mademoiselle Dioré",
+      "mistifyProductSlug": "mademoiselle-diore",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mademoiselle-diore",
+      "publicInspiredByLabel": "Dior Miss Dior",
+      "audience": null,
+      "classification": "Floral Fruity / Soft Gourmand",
+      "topNotes": [
+        "Iris",
+        "Peony",
+        "Lily-of-the-Valley"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Apricot",
+        "Peach"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Musk",
+        "Tonka Bean",
+        "Sandalwood",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Iris",
+        "Peony",
+        "Lily-of-the-Valley",
+        "Rose",
+        "Apricot",
+        "Peach",
+        "Vanilla",
+        "Musk",
+        "Tonka Bean",
+        "Sandalwood",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_33_13AM.png?v=1781710406",
+      "searchableText": "Dior Christian Dior Miss Dior Mademoiselle Dioré Floral Fruity / Soft Gourmand Iris Peony Lily-of-the-Valley Rose Apricot Peach Vanilla Musk Tonka Bean Sandalwood Benzoin",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Rose",
+        "Peony",
+        "Sandalwood",
+        "Benzoin",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 120,
+      "fragranceSlug": "bond-no-9-new-york-oud-120",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "New York Oud",
+      "originalFragranceSlug": "bond-no-9-new-york-oud",
+      "mistifyProductName": "Urban Oud",
+      "mistifyProductSlug": "urban-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-oud",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 New York Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Plum",
+        "Saffron",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root"
+      ],
+      "baseNotes": [
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Plum",
+        "Saffron",
+        "Orange",
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root",
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_18_40AM.png?v=1774325928",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 New York Oud Urban Oud Oriental unisex Plum Saffron Orange Rose Oud Patchouli Orris Root Musk White Honey Vetiver",
+      "createdAt": "2026-05-04T04:41:31.518Z",
+      "sharedNotes": [
+        "Saffron",
+        "Rose"
+      ]
+    },
+    {
+      "id": 54,
+      "fragranceSlug": "kilian-back-to-black-54",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Back to Black",
+      "originalFragranceSlug": "kilian-back-to-black",
+      "mistifyProductName": "Back 2 Blacky",
+      "mistifyProductSlug": "back-2-blacky",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/back-2-black",
+      "publicInspiredByLabel": "Inspired by Kilian Back to Black",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Almond",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "allNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry",
+        "Tobacco",
+        "Almond",
+        "Vanilla",
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Back2Blacky.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Back to Black Back 2 Blacky Oriental unisex Honey Cherry Raspberry Tobacco Almond Vanilla Cedar Patchouli Amber",
+      "createdAt": "2026-05-04T04:41:27.650Z",
+      "sharedNotes": [
+        "Honey",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 262,
+      "fragranceSlug": "ferrari-essence-oud-262",
+      "brandName": "Ferrari",
+      "brandSlug": "ferrari",
+      "originalFragranceName": "Essence Oud",
+      "originalFragranceSlug": "ferrari-essence-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Ferrari Essence Oud",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Oud"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Olibanum",
+        "Elemi Resin",
+        "Saffron",
+        "Caraway"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Oud",
+        "Rose",
+        "Olibanum",
+        "Elemi Resin",
+        "Saffron",
+        "Caraway",
+        "Leather",
+        "Labdanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Ferrari ferrari Ferrari Essence Oud Not verified Oriental Oud Rose Olibanum Elemi Resin Saffron Caraway Leather Labdanum",
+      "createdAt": "2026-05-04T04:41:39.958Z",
+      "sharedNotes": [
+        "Saffron",
+        "Rose"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 70,
+    "fragranceSlug": "kilian-roses-on-ice-70",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Roses on Ice",
+    "originalFragranceSlug": "kilian-roses-on-ice",
+    "mistifyProductName": "Not verified on Mistify",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Kilian Roses on Ice",
+    "audience": null,
+    "classification": "Aromatic",
+    "topNotes": [
+      "Cucumber",
+      "Juniper Berries",
+      "Lime",
+      "Violet Leaf",
+      "Pink Pepper"
+    ],
+    "middleNotes": [
+      "Rose",
+      "Ozonic Notes"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Sandalwood",
+      "Ambroxan",
+      "Cedar"
+    ],
+    "allNotes": [
+      "Cucumber",
+      "Juniper Berries",
+      "Lime",
+      "Violet Leaf",
+      "Pink Pepper",
+      "Rose",
+      "Ozonic Notes",
+      "Musk",
+      "Sandalwood",
+      "Ambroxan",
+      "Cedar"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Kilian kilian By Kilian Roses on Ice Not verified on Mistify Aromatic Cucumber Juniper Berries Lime Violet Leaf Pink Pepper Rose Ozonic Notes Musk Sandalwood Ambroxan Cedar",
+    "createdAt": "2026-05-04T04:41:28.584Z"
+  }
+}

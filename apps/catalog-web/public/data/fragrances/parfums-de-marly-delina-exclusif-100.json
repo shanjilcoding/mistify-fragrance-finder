@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 100,
+    "fragranceSlug": "parfums-de-marly-delina-exclusif-100",
+    "brandName": "Parfums de Marly",
+    "brandSlug": "parfums-de-marly",
+    "originalFragranceName": "Delina Exclusif",
+    "originalFragranceSlug": "parfums-de-marly-delina-exclusif",
+    "mistifyProductName": "Deline Exclusive",
+    "mistifyProductSlug": "deline-exclusive",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/deline-exclusive?variant=49907851395391",
+    "publicInspiredByLabel": "Inspired by Parfums de Marly Delina Exclusif",
+    "audience": "womens",
+    "classification": "Floral",
+    "topNotes": [
+      "Litchi",
+      "Pear",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Turkish Rose",
+      "Oud",
+      "Incense"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Amber",
+      "Woody Notes"
+    ],
+    "allNotes": [
+      "Litchi",
+      "Pear",
+      "Bergamot",
+      "Turkish Rose",
+      "Oud",
+      "Incense",
+      "Vanilla",
+      "Amber",
+      "Woody Notes"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-01-29AM-_1.png?v=1773460500",
+    "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Delina Exclusif Deline Exclusive Floral womens Litchi Pear Bergamot Turkish Rose Oud Incense Vanilla Amber Woody Notes",
+    "createdAt": "2026-05-04T04:41:30.328Z"
+  }
+}

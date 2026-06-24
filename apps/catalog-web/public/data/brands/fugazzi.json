@@ -1,0 +1,55 @@
+{
+  "brand": {
+    "brandName": "Fugazzi",
+    "brandSlug": "fugazzi",
+    "fragranceCount": 1,
+    "searchableText": "Vanilla Haze Vanilla Veil Inspired by Fugazzi Vanilla Haze Fugazzi fugazzi Fugazzi Vanilla Haze Vanilla Veil Not fully verified from Mistify page unisex Mandarin Coconut Milk Almond Hazelnut Vanilla Pod Tonka Bean Jasmine Burned Crème Brûlée White Amber Sweet Musk"
+  },
+  "fragrances": [
+    {
+      "id": 196,
+      "fragranceSlug": "fugazzi-vanilla-haze-196",
+      "brandName": "Fugazzi",
+      "brandSlug": "fugazzi",
+      "originalFragranceName": "Vanilla Haze",
+      "originalFragranceSlug": "fugazzi-vanilla-haze",
+      "mistifyProductName": "Vanilla Veil",
+      "mistifyProductSlug": "vanilla-veil",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vanilla-veil",
+      "publicInspiredByLabel": "Inspired by Fugazzi Vanilla Haze",
+      "audience": "unisex",
+      "classification": "Not fully verified from Mistify page",
+      "topNotes": [
+        "Mandarin",
+        "Coconut Milk",
+        "Almond"
+      ],
+      "middleNotes": [
+        "Hazelnut",
+        "Vanilla Pod",
+        "Tonka Bean",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Burned Crème Brûlée",
+        "White Amber",
+        "Sweet Musk"
+      ],
+      "allNotes": [
+        "Mandarin",
+        "Coconut Milk",
+        "Almond",
+        "Hazelnut",
+        "Vanilla Pod",
+        "Tonka Bean",
+        "Jasmine",
+        "Burned Crème Brûlée",
+        "White Amber",
+        "Sweet Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar2-2026-01-42-46PM-3eb4ba5b-eb41-4825-960b-5c37b6cb74b3-_1.png?v=1773460124",
+      "searchableText": "Fugazzi fugazzi Fugazzi Vanilla Haze Vanilla Veil Not fully verified from Mistify page unisex Mandarin Coconut Milk Almond Hazelnut Vanilla Pod Tonka Bean Jasmine Burned Crème Brûlée White Amber Sweet Musk",
+      "createdAt": "2026-05-04T04:41:35.974Z"
+    }
+  ]
+}

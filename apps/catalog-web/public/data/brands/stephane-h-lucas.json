@@ -1,0 +1,198 @@
+{
+  "brand": {
+    "brandName": "Stephane H. Lucas",
+    "brandSlug": "stephane-h-lucas",
+    "fragranceCount": 4,
+    "searchableText": "God of Fire Divine Flame Inspired by Stephane H. Lucas God of Fire Stephane H. Lucas stephane h lucas Stephane H. Lucas God of Fire Divine Flame Oriental Woody unisex Mango Lemon Ginger Red Berries Coumarin Jasmine Cedar Musk Oud Amber Cypriol/Nagarmotha Pink Boa Rose Boa Inspired by Stephane H. Lucas Pink Boa Stephane H. Lucas stephane h lucas Stephane H. Lucas Pink Boa Rose Boa Floral Fruity unisex Black Currant Rosemary Blackberry Bergamot Raspberry Vodka Basil Lily of the Valley Strawberry Musk Sandalwood Peach Amber Incense Patchouli Sea My Love Sea Siren Inspired by Stephane H. Lucas Sea My Love Stephane H. Lucas stephane h lucas Stephane H. Lucas Sea My Love Sea Siren Woody Aquatic unisex Salt Mandarin Marine Notes Leather Jasmine Amber Benzoin Patchouli Musk Soleil de Jeddah Not verified Inspired by Stephane H. Lucas Soleil de Jeddah Stephane H. Lucas stephane h lucas Stephane H. Lucas Soleil de Jeddah Not verified Leather Chamomile Osmanthus Lemon Ambergris Iris Earthy Notes Leather Iris Vanilla"
+  },
+  "fragrances": [
+    {
+      "id": 233,
+      "fragranceSlug": "stephane-h-lucas-god-of-fire-233",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "God of Fire",
+      "originalFragranceSlug": "stephane-h-lucas-god-of-fire",
+      "mistifyProductName": "Divine Flame",
+      "mistifyProductSlug": "divine-flame",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/divine-flame",
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas God of Fire",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Mango",
+        "Lemon",
+        "Ginger",
+        "Red Berries"
+      ],
+      "middleNotes": [
+        "Coumarin",
+        "Jasmine",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Oud",
+        "Amber",
+        "Cypriol/Nagarmotha"
+      ],
+      "allNotes": [
+        "Mango",
+        "Lemon",
+        "Ginger",
+        "Red Berries",
+        "Coumarin",
+        "Jasmine",
+        "Cedar",
+        "Musk",
+        "Oud",
+        "Amber",
+        "Cypriol/Nagarmotha"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-11-17-20PM-_1.png?v=1773460404",
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas God of Fire Divine Flame Oriental Woody unisex Mango Lemon Ginger Red Berries Coumarin Jasmine Cedar Musk Oud Amber Cypriol/Nagarmotha",
+      "createdAt": "2026-05-04T04:41:38.179Z"
+    },
+    {
+      "id": 234,
+      "fragranceSlug": "stephane-h-lucas-pink-boa-234",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "Pink Boa",
+      "originalFragranceSlug": "stephane-h-lucas-pink-boa",
+      "mistifyProductName": "Rose Boa",
+      "mistifyProductSlug": "rose-boa",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-boa",
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas Pink Boa",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Black Currant",
+        "Rosemary",
+        "Blackberry",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Raspberry",
+        "Vodka",
+        "Basil",
+        "Lily of the Valley"
+      ],
+      "baseNotes": [
+        "Strawberry",
+        "Musk",
+        "Sandalwood",
+        "Peach",
+        "Amber",
+        "Incense",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Black Currant",
+        "Rosemary",
+        "Blackberry",
+        "Bergamot",
+        "Raspberry",
+        "Vodka",
+        "Basil",
+        "Lily of the Valley",
+        "Strawberry",
+        "Musk",
+        "Sandalwood",
+        "Peach",
+        "Amber",
+        "Incense",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseBoa-_1.png?v=1773460402",
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas Pink Boa Rose Boa Floral Fruity unisex Black Currant Rosemary Blackberry Bergamot Raspberry Vodka Basil Lily of the Valley Strawberry Musk Sandalwood Peach Amber Incense Patchouli",
+      "createdAt": "2026-05-04T04:41:38.242Z"
+    },
+    {
+      "id": 236,
+      "fragranceSlug": "stephane-h-lucas-sea-my-love-236",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "Sea My Love",
+      "originalFragranceSlug": "stephane-h-lucas-sea-my-love",
+      "mistifyProductName": "Sea Siren",
+      "mistifyProductSlug": "sea-siren",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sea-siren",
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas Sea My Love",
+      "audience": "unisex",
+      "classification": "Woody Aquatic",
+      "topNotes": [
+        "Salt",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Marine Notes",
+        "Leather",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Benzoin",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Salt",
+        "Mandarin",
+        "Marine Notes",
+        "Leather",
+        "Jasmine",
+        "Amber",
+        "Benzoin",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-53-01PM-_1.png?v=1773460277",
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas Sea My Love Sea Siren Woody Aquatic unisex Salt Mandarin Marine Notes Leather Jasmine Amber Benzoin Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:38.365Z"
+    },
+    {
+      "id": 235,
+      "fragranceSlug": "stephane-h-lucas-soleil-de-jeddah-235",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "Soleil de Jeddah",
+      "originalFragranceSlug": "stephane-h-lucas-soleil-de-jeddah",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas Soleil de Jeddah",
+      "audience": null,
+      "classification": "Leather",
+      "topNotes": [
+        "Chamomile",
+        "Osmanthus",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Ambergris",
+        "Iris",
+        "Earthy Notes"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Iris",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Chamomile",
+        "Osmanthus",
+        "Lemon",
+        "Ambergris",
+        "Iris",
+        "Earthy Notes",
+        "Leather",
+        "Iris",
+        "Vanilla"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas Soleil de Jeddah Not verified Leather Chamomile Osmanthus Lemon Ambergris Iris Earthy Notes Leather Iris Vanilla",
+      "createdAt": "2026-05-04T04:41:38.303Z"
+    }
+  ]
+}

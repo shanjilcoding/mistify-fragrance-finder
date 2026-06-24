@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 268,
+    "fragranceSlug": "byredo-animalique-268",
+    "brandName": "Byredo",
+    "brandSlug": "byredo",
+    "originalFragranceName": "Animalique",
+    "originalFragranceSlug": "byredo-animalique",
+    "mistifyProductName": "Animal Instincts",
+    "mistifyProductSlug": "animal-instincts",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/animal-instincts",
+    "publicInspiredByLabel": "Inspired by Byredo Animalique",
+    "audience": "unisex",
+    "classification": "Oriental Floral",
+    "topNotes": [
+      "Bergamot",
+      "Lemon"
+    ],
+    "middleNotes": [
+      "Violet",
+      "Mimosa"
+    ],
+    "baseNotes": [
+      "Suede",
+      "Tobacco Leaf",
+      "Amber"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Lemon",
+      "Violet",
+      "Mimosa",
+      "Suede",
+      "Tobacco Leaf",
+      "Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-19-10PM-_1.png?v=1773460283",
+    "searchableText": "Byredo byredo Byredo Animalique Animal Instincts Oriental Floral unisex Bergamot Lemon Violet Mimosa Suede Tobacco Leaf Amber",
+    "createdAt": "2026-05-04T04:41:40.321Z"
+  }
+}

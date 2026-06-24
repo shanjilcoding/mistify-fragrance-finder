@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 120,
+    "fragranceSlug": "bond-no-9-new-york-oud-120",
+    "brandName": "Bond No. 9",
+    "brandSlug": "bond-no-9",
+    "originalFragranceName": "New York Oud",
+    "originalFragranceSlug": "bond-no-9-new-york-oud",
+    "mistifyProductName": "Urban Oud",
+    "mistifyProductSlug": "urban-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-oud",
+    "publicInspiredByLabel": "Inspired by Bond No. 9 New York Oud",
+    "audience": "unisex",
+    "classification": "Oriental",
+    "topNotes": [
+      "Plum",
+      "Saffron",
+      "Orange"
+    ],
+    "middleNotes": [
+      "Rose",
+      "Oud",
+      "Patchouli",
+      "Orris Root"
+    ],
+    "baseNotes": [
+      "Musk",
+      "White Honey",
+      "Vetiver"
+    ],
+    "allNotes": [
+      "Plum",
+      "Saffron",
+      "Orange",
+      "Rose",
+      "Oud",
+      "Patchouli",
+      "Orris Root",
+      "Musk",
+      "White Honey",
+      "Vetiver"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_18_40AM.png?v=1774325928",
+    "searchableText": "Bond No. 9 bond no 9 Bond No. 9 New York Oud Urban Oud Oriental unisex Plum Saffron Orange Rose Oud Patchouli Orris Root Musk White Honey Vetiver",
+    "createdAt": "2026-05-04T04:41:31.518Z"
+  }
+}

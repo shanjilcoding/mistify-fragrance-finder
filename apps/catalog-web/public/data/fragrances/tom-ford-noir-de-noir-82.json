@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 82,
+    "fragranceSlug": "tom-ford-noir-de-noir-82",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Noir de Noir",
+    "originalFragranceSlug": "tom-ford-noir-de-noir",
+    "mistifyProductName": "Noir Essence",
+    "mistifyProductSlug": "noir-essence",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/noir-essence",
+    "publicInspiredByLabel": "Inspired by Tom Ford Noir de Noir",
+    "audience": "unisex",
+    "classification": "Chypre",
+    "topNotes": [
+      "Saffron"
+    ],
+    "middleNotes": [
+      "Black Rose",
+      "Truffle",
+      "Floral Notes"
+    ],
+    "baseNotes": [
+      "Patchouli",
+      "Vanilla",
+      "Oud",
+      "Oakmoss"
+    ],
+    "allNotes": [
+      "Saffron",
+      "Black Rose",
+      "Truffle",
+      "Floral Notes",
+      "Patchouli",
+      "Vanilla",
+      "Oud",
+      "Oakmoss"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_36_42AM.png?v=1774327008",
+    "searchableText": "Tom Ford tom ford Tom Ford Noir de Noir Noir Essence Chypre unisex Saffron Black Rose Truffle Floral Notes Patchouli Vanilla Oud Oakmoss",
+    "createdAt": "2026-05-04T04:41:29.288Z"
+  }
+}

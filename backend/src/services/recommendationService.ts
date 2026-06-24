@@ -2912,6 +2912,7 @@ async function fetchRecommendableFragrances() {
       sourceConfidence: fragrances.sourceConfidence,
       sourceUsed: fragrances.sourceUsed,
       sourceStatus: fragrances.sourceStatus,
+      catalogImageUrl: fragrances.catalogImageUrl,
       verifiedOnMistify: fragrances.verifiedOnMistify,
       searchableText: fragrances.searchableText,
     })
@@ -10372,6 +10373,7 @@ function buildReferenceFragrance(
     audience: record.audience?.trim() || undefined,
     originalFragranceName,
     sourceBrandBatch: record.sourceBrandBatch?.trim() || undefined,
+    catalogImageUrl: record.catalogImageUrl?.trim() || undefined,
     classification: record.classification?.trim() || undefined,
     topNotes: normalizeNotes(record.topNotes),
     middleNotes: normalizeNotes(record.middleNotes),
@@ -11952,6 +11954,7 @@ function buildScoredRecommendation(params: {
         audience: record.audience,
         originalFragranceName: record.originalFragranceName,
         sourceBrandBatch: record.sourceBrandBatch,
+        catalogImageUrl: record.catalogImageUrl,
         classification: record.classification,
         topNotes: normalizeNotes(record.topNotes),
         middleNotes: normalizeNotes(record.middleNotes),

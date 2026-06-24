@@ -1,0 +1,299 @@
+{
+  "fragrances": [
+    {
+      "id": 140,
+      "fragranceSlug": "creed-eladaria-140",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Eladaria",
+      "originalFragranceSlug": "creed-eladaria",
+      "mistifyProductName": "Eladarié",
+      "mistifyProductSlug": "eladarie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eladarie",
+      "publicInspiredByLabel": "Inspired by Creed Eladaria",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "Pink Pepper",
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Powdery Notes",
+        "Peony",
+        "Lily-of-the-Valley"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Mandarin Orange",
+        "Bergamot",
+        "Rose",
+        "Powdery Notes",
+        "Peony",
+        "Lily-of-the-Valley",
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay7_2026_04_17_24PM.png?v=1778185051",
+      "searchableText": "Creed creed Creed Eladaria Eladarié Floral womens Pink Pepper Mandarin Orange Bergamot Rose Powdery Notes Peony Lily-of-the-Valley Musk Ambroxan Cashmere Wood Vanilla",
+      "createdAt": "2026-05-04T04:41:32.651Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 257,
+      "fragranceSlug": "narciso-rodriguez-amber-musc-257",
+      "brandName": "Narciso Rodriguez",
+      "brandSlug": "narciso-rodriguez",
+      "originalFragranceName": "Amber Musc",
+      "originalFragranceSlug": "narciso-rodriguez-amber-musc",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Narciso Rodriguez Amber Musc",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Musk",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Oud",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "allNotes": [
+        "Musk",
+        "Orange Blossom",
+        "Patchouli",
+        "Oud",
+        "Leather",
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Narciso Rodriguez narciso rodriguez Narciso Rodriguez Amber Musc Not verified Oriental Musk Orange Blossom Patchouli Oud Leather Amber Vanilla Incense",
+      "createdAt": "2026-05-04T04:41:39.654Z",
+      "sharedNotes": [
+        "Oud",
+        "Incense",
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 123,
+      "fragranceSlug": "bond-no-9-nomad-123",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Nomad",
+      "originalFragranceSlug": "bond-no-9-nomad",
+      "mistifyProductName": "Nomadique",
+      "mistifyProductSlug": "nomadique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/nomadique",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Nomad",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Black Currant",
+        "Pear",
+        "Quince"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Orris",
+        "Violet Leaves"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Black Currant",
+        "Pear",
+        "Quince",
+        "Rose",
+        "Oud",
+        "Orris",
+        "Violet Leaves",
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay7_2026_04_20_29PM.png?v=1778185236",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Nomad Nomadique Oriental Floral unisex Black Currant Pear Quince Rose Oud Orris Violet Leaves Amber Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:31.683Z",
+      "sharedNotes": [
+        "Pear",
+        "Oud",
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 274,
+      "fragranceSlug": "roberto-cavalli-oud-edition-274",
+      "brandName": "Roberto Cavalli",
+      "brandSlug": "roberto-cavalli",
+      "originalFragranceName": "Oud Edition",
+      "originalFragranceSlug": "roberto-cavalli-oud-edition",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Roberto Cavalli Oud Edition",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Saffron",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Oud",
+        "Amber",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Mandarin Orange",
+        "Leather",
+        "Orange Blossom",
+        "Incense",
+        "Oud",
+        "Amber",
+        "Vanilla"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Roberto Cavalli roberto cavalli Roberto Cavalli Oud Edition Not verified Oriental Saffron Mandarin Orange Leather Orange Blossom Incense Oud Amber Vanilla",
+      "createdAt": "2026-05-04T04:41:40.699Z",
+      "sharedNotes": [
+        "Oud",
+        "Incense",
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 175,
+      "fragranceSlug": "mancera-aoud-orchid-175",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Aoud Orchid",
+      "originalFragranceSlug": "mancera-aoud-orchid",
+      "mistifyProductName": "Orchid Essence",
+      "mistifyProductSlug": "orchid-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orchid-essence",
+      "publicInspiredByLabel": "Inspired by Mancera Aoud Orchid",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange",
+        "Orchid",
+        "Patchouli",
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OrchidEssence.png?v=1765422998",
+      "searchableText": "Mancera mancera Mancera Aoud Orchid Orchid Essence Oriental Floral unisex Coconut Peach Mandarin Orange Orchid Patchouli Woody Notes Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.708Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber",
+        "Woody Notes"
+      ]
+    },
+    {
+      "id": 21,
+      "fragranceSlug": "maison-francis-kurkdjian-oud-satin-mood-21",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Oud Satin Mood",
+      "originalFragranceSlug": "maison-francis-kurkdjian-oud-satin-mood",
+      "mistifyProductName": "Satin Moody Oud",
+      "mistifyProductSlug": "satin-moody-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/satin-moody-oud",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud Satin Mood",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Bulgarian Rose",
+        "Violet",
+        "Strawberry"
+      ],
+      "middleNotes": [
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Caramel",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Bulgarian Rose",
+        "Violet",
+        "Strawberry",
+        "Turkish Rose",
+        "Oud",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Caramel",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_13_59PM.png?v=1765422983",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Satin Mood Satin Moody Oud Oriental Woody unisex Bulgarian Rose Violet Strawberry Turkish Rose Oud Vanilla Amber Benzoin Caramel Cedar",
+      "createdAt": "2026-05-04T04:41:25.720Z",
+      "sharedNotes": [
+        "Turkish Rose",
+        "Oud",
+        "Vanilla",
+        "Amber"
+      ]
+    }
+  ]
+}

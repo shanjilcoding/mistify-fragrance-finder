@@ -1,0 +1,29 @@
+{
+  "fragrance": {
+    "id": 50,
+    "fragranceSlug": "louis-vuitton-pur-santal-50",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Pur Santal",
+    "originalFragranceSlug": "louis-vuitton-pur-santal",
+    "mistifyProductName": "Pur Santelle",
+    "mistifyProductSlug": "pur-santelle",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/pur-santelle",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Pur Santal",
+    "audience": null,
+    "classification": "Woody Floral Musk",
+    "topNotes": [],
+    "middleNotes": [
+      "Sandalwood",
+      "Musk"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Sandalwood",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay10_2026_08_22_34AM.png?v=1778415760",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Pur Santal Pur Santelle Woody Floral Musk Sandalwood Musk",
+    "createdAt": "2026-05-04T04:41:27.416Z"
+  }
+}

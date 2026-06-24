@@ -1,0 +1,53 @@
+{
+  "fragrance": {
+    "id": 231,
+    "fragranceSlug": "tiziana-terenzi-orion-231",
+    "brandName": "Tiziana Terenzi",
+    "brandSlug": "tiziana-terenzi",
+    "originalFragranceName": "Orion",
+    "originalFragranceSlug": "tiziana-terenzi-orion",
+    "mistifyProductName": "Orien",
+    "mistifyProductSlug": "orien",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/orien",
+    "publicInspiredByLabel": "Inspired by Tiziana Terenzi Orion",
+    "audience": "unisex",
+    "classification": "Floral Woody Musk",
+    "topNotes": [
+      "Pineapple",
+      "Apple",
+      "Bergamot",
+      "Red Currant"
+    ],
+    "middleNotes": [
+      "Birch",
+      "Thyme",
+      "Patchouli",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Cedar",
+      "Incense",
+      "Oud",
+      "Musk",
+      "Amber"
+    ],
+    "allNotes": [
+      "Pineapple",
+      "Apple",
+      "Bergamot",
+      "Red Currant",
+      "Birch",
+      "Thyme",
+      "Patchouli",
+      "Jasmine",
+      "Cedar",
+      "Incense",
+      "Oud",
+      "Musk",
+      "Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Orien-_1.png?v=1773460410",
+    "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Orion Orien Floral Woody Musk unisex Pineapple Apple Bergamot Red Currant Birch Thyme Patchouli Jasmine Cedar Incense Oud Musk Amber",
+    "createdAt": "2026-05-04T04:41:38.057Z"
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "fragrances": [
+    {
+      "id": 168,
+      "fragranceSlug": "montale-black-aoud-168",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Black Aoud",
+      "originalFragranceSlug": "montale-black-aoud",
+      "mistifyProductName": "Oud Noir",
+      "mistifyProductSlug": "oud-noir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-noir",
+      "publicInspiredByLabel": "Inspired by Montale Black Aoud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudNoir.png?v=1765422952",
+      "searchableText": "Montale montale Montale Black Aoud Oud Noir Woody Floral Musk unisex Rose Oud Patchouli Musk French Labdanum Mandarin Orange",
+      "createdAt": "2026-05-04T04:41:34.288Z",
+      "sharedNotes": [
+        "Oud",
+        "Musk",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 62,
+      "fragranceSlug": "kilian-incense-oudh-62",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Incense Oudh",
+      "originalFragranceSlug": "kilian-incense-oudh",
+      "mistifyProductName": "Incensed Oud",
+      "mistifyProductSlug": "incensed-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/incensed-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Incense Oudh",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rose",
+        "Cardamom",
+        "Pink Pepper",
+        "Geranium"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Virginia Cedar",
+        "Papyrus"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Oud",
+        "Sandalwood",
+        "Oakmoss",
+        "Musk",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Rose",
+        "Cardamom",
+        "Pink Pepper",
+        "Geranium",
+        "Patchouli",
+        "Virginia Cedar",
+        "Papyrus",
+        "Incense",
+        "Oud",
+        "Sandalwood",
+        "Oakmoss",
+        "Musk",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/IncensedOud_dc3a368e-6d94-4f0b-b238-a8e8a4644ae1.png?v=1765422910",
+      "searchableText": "Kilian kilian By Kilian Incense Oudh Incensed Oud Oriental unisex Rose Cardamom Pink Pepper Geranium Patchouli Virginia Cedar Papyrus Incense Oud Sandalwood Oakmoss Musk Labdanum",
+      "createdAt": "2026-05-04T04:41:28.103Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Geranium",
+        "Oud",
+        "Musk",
+        "Incense",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 96,
+      "fragranceSlug": "tom-ford-oud-voyager-96",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Voyager",
+      "originalFragranceSlug": "tom-ford-oud-voyager",
+      "mistifyProductName": "Oud Voyagé",
+      "mistifyProductSlug": "oud-voyage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-voyage",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Voyager",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus"
+      ],
+      "middleNotes": [
+        "Red Peony",
+        "Cardamom",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "allNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus",
+        "Red Peony",
+        "Cardamom",
+        "Saffron",
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec17-2025-09-31-28AM-_1.png?v=1773460197",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Voyager Oud Voyagé Oriental Woody unisex Geranium Pink Pepper Citrus Red Peony Cardamom Saffron Oud Cypriol Patchouli Vetiver Musk",
+      "createdAt": "2026-05-04T04:41:30.090Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Geranium",
+        "Oud",
+        "Musk",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Lemon",
+        "Musk"
+      ]
+    },
+    {
+      "id": 278,
+      "fragranceSlug": "amouage-outlands-278",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Outlands",
+      "originalFragranceSlug": "amouage-outlands",
+      "mistifyProductName": "Outland Aura",
+      "mistifyProductSlug": "outland-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/outland-aura",
+      "publicInspiredByLabel": "Inspired by Amouage Outlands",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Frankincense",
+        "Cardamom",
+        "Elemi",
+        "Lemon",
+        "Bergamot",
+        "Sichuan Pepper"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Anise",
+        "Coriander",
+        "Cumin",
+        "Saffron",
+        "Orange Blossom",
+        "Wormwood",
+        "Geranium",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Frankincense",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Oud",
+        "Opoponax",
+        "Birch",
+        "Ambergris",
+        "Labdanum",
+        "Maltol",
+        "Musk"
+      ],
+      "allNotes": [
+        "Frankincense",
+        "Cardamom",
+        "Elemi",
+        "Lemon",
+        "Bergamot",
+        "Sichuan Pepper",
+        "Patchouli",
+        "Anise",
+        "Coriander",
+        "Cumin",
+        "Saffron",
+        "Orange Blossom",
+        "Wormwood",
+        "Geranium",
+        "Rose",
+        "Frankincense",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Oud",
+        "Opoponax",
+        "Birch",
+        "Ambergris",
+        "Labdanum",
+        "Maltol",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb3-2026-06-02-40PM-_1.png?v=1773460158",
+      "searchableText": "Amouage amouage Amouage Outlands Outland Aura Oriental Woody unisex Frankincense Cardamom Elemi Lemon Bergamot Sichuan Pepper Patchouli Anise Coriander Cumin Saffron Orange Blossom Wormwood Geranium Rose Frankincense Vanilla Amber Benzoin Oud Opoponax Birch Ambergris Labdanum Maltol Musk",
+      "createdAt": "2026-05-04T04:41:40.947Z",
+      "sharedNotes": [
+        "Lemon",
+        "Cardamom",
+        "Coriander",
+        "Geranium",
+        "Oud",
+        "Musk",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 151,
+      "fragranceSlug": "ysl-yves-saint-laurent-exquisite-musk-151",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Exquisite Musk",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-exquisite-musk",
+      "mistifyProductName": "Exquis Musk",
+      "mistifyProductSlug": "exquis-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/exquis-musk",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Exquisite Musk",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Angelica"
+      ],
+      "middleNotes": [
+        "Iris",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Angelica",
+        "Iris",
+        "Rose",
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar22_2026_09_51_38AM.png?v=1774187508",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Exquisite Musk Exquis Musk Woody Floral Musk unisex Ginger Angelica Iris Rose Musk Ambergris Benzoin",
+      "createdAt": "2026-05-04T04:41:33.307Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    }
+  ]
+}

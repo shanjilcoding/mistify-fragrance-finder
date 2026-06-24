@@ -1,0 +1,301 @@
+{
+  "fragrances": [
+    {
+      "id": 186,
+      "fragranceSlug": "ex-nihilo-blue-talisman-186",
+      "brandName": "Ex Nihilo",
+      "brandSlug": "ex-nihilo",
+      "originalFragranceName": "Blue Talisman",
+      "originalFragranceSlug": "ex-nihilo-blue-talisman",
+      "mistifyProductName": "Azure Talisman",
+      "mistifyProductSlug": "azure-talisman",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/azure-talisman",
+      "publicInspiredByLabel": "Inspired by Ex Nihilo Blue Talisman",
+      "audience": "unisex",
+      "classification": "Woody/Ambery Oriental",
+      "topNotes": [
+        "Pear",
+        "Bergamot",
+        "Mandarin",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Georgywood"
+      ],
+      "baseNotes": [
+        "Akigalawood",
+        "Musk",
+        "Ambrofix"
+      ],
+      "allNotes": [
+        "Pear",
+        "Bergamot",
+        "Mandarin",
+        "Ginger",
+        "Orange Blossom",
+        "Georgywood",
+        "Akigalawood",
+        "Musk",
+        "Ambrofix"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-25-00PM-_1.png?v=1773460308",
+      "searchableText": "Ex Nihilo ex nihilo Ex Nihilo Blue Talisman Azure Talisman Woody/Ambery Oriental unisex Pear Bergamot Mandarin Ginger Orange Blossom Georgywood Akigalawood Musk Ambrofix",
+      "createdAt": "2026-05-04T04:41:35.349Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange Blossom",
+        "Akigalawood"
+      ]
+    },
+    {
+      "id": 329,
+      "fragranceSlug": "dior-gris-montaigne-329",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Gris Montaigne",
+      "originalFragranceSlug": "dior-gris-montaigne",
+      "mistifyProductName": "Gris Montaire",
+      "mistifyProductSlug": "gris-montaire",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/torino-verde-copy",
+      "publicInspiredByLabel": "Dior Gris Montaigne",
+      "audience": null,
+      "classification": "Floral Chypre / Elegant Fruity Floral",
+      "topNotes": [
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Strawberry",
+        "Jasmine",
+        "Orange Blossom",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Oakmoss",
+        "Sandalwood",
+        "Amber",
+        "Cedar",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Rose",
+        "Strawberry",
+        "Jasmine",
+        "Orange Blossom",
+        "Ylang-Ylang",
+        "Patchouli",
+        "Oakmoss",
+        "Sandalwood",
+        "Amber",
+        "Cedar",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar10-2026-12-10-56PM-_1.png?v=1773460119",
+      "searchableText": "Dior Dior Gris Montaigne Gris Montaire Floral Chypre / Elegant Fruity Floral Bergamot Grapefruit Rose Strawberry Jasmine Orange Blossom Ylang-Ylang Patchouli Oakmoss Sandalwood Amber Cedar White Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Orange Blossom",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 32,
+      "fragranceSlug": "louis-vuitton-l-immensite-32",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "L’Immensité",
+      "originalFragranceSlug": "louis-vuitton-l-immensite",
+      "mistifyProductName": "Immensity",
+      "mistifyProductSlug": "immensity",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/immensity",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton L’Immensité",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rosemary",
+        "Sage",
+        "Watery Notes"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Ambroxan"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Rosemary",
+        "Sage",
+        "Watery Notes",
+        "Amber",
+        "Ambroxan"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_26_09PM.png?v=1765422829",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton L’Immensité Immensity Citrus Aromatic mens Grapefruit Bergamot Rosemary Sage Watery Notes Amber Ambroxan",
+      "createdAt": "2026-05-04T04:41:26.356Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Ambroxan"
+      ]
+    },
+    {
+      "id": 180,
+      "fragranceSlug": "mancera-wild-python-180",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Wild Python",
+      "originalFragranceSlug": "mancera-wild-python",
+      "mistifyProductName": "Wild Venom",
+      "mistifyProductSlug": "wild-venom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/wild-venom",
+      "publicInspiredByLabel": "Inspired by Mancera Wild Python",
+      "audience": "unisex",
+      "classification": "Chypre Floral",
+      "topNotes": [
+        "Indian Tuberose",
+        "Osmanthus",
+        "Peach",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Patchouli Leaf"
+      ],
+      "baseNotes": [
+        "White Musk",
+        "Vanilla Pod"
+      ],
+      "allNotes": [
+        "Indian Tuberose",
+        "Osmanthus",
+        "Peach",
+        "Bergamot",
+        "Jasmine",
+        "Orange Blossom",
+        "Patchouli Leaf",
+        "White Musk",
+        "Vanilla Pod"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/WildVenom.png?v=1765423004",
+      "searchableText": "Mancera mancera Mancera Wild Python Wild Venom Chypre Floral unisex Indian Tuberose Osmanthus Peach Bergamot Jasmine Orange Blossom Patchouli Leaf White Musk Vanilla Pod",
+      "createdAt": "2026-05-04T04:41:34.994Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Orange Blossom",
+        "Peach",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 105,
+      "fragranceSlug": "parfums-de-marly-oriana-105",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Oriana",
+      "originalFragranceSlug": "parfums-de-marly-oriana",
+      "mistifyProductName": "Oriental",
+      "mistifyProductSlug": "oriental",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oriental",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Oriana",
+      "audience": "womens",
+      "classification": "Floral Fruity Gourmand",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Black Currant",
+        "Raspberry"
+      ],
+      "baseNotes": [
+        "Marshmallow",
+        "Whipped Cream",
+        "Musk",
+        "Ambrette"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Grapefruit",
+        "Orange Blossom",
+        "Black Currant",
+        "Raspberry",
+        "Marshmallow",
+        "Whipped Cream",
+        "Musk",
+        "Ambrette"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_01_56AM.png?v=1774324934",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Oriana Oriental Floral Fruity Gourmand womens Mandarin Orange Bergamot Grapefruit Orange Blossom Black Currant Raspberry Marshmallow Whipped Cream Musk Ambrette",
+      "createdAt": "2026-05-04T04:41:30.629Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 109,
+      "fragranceSlug": "parfums-de-marly-palatine-109",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Palatine",
+      "originalFragranceSlug": "parfums-de-marly-palatine",
+      "mistifyProductName": "Pala‑Majesty",
+      "mistifyProductSlug": "pala-majesty",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pala-majesty",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Palatine",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear",
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes",
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-22-44PM-_1.png?v=1773460298",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Palatine Pala‑Majesty Floral Woody Musk womens Bergamot Mandarin Orange Pear Violet Petals Lavender Floral Notes Sandalwood Musk Patchouli Vanilla",
+      "createdAt": "2026-05-04T04:41:30.859Z",
+      "sharedNotes": [
+        "Bergamot"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 180,
+    "fragranceSlug": "mancera-wild-python-180",
+    "brandName": "Mancera",
+    "brandSlug": "mancera",
+    "originalFragranceName": "Wild Python",
+    "originalFragranceSlug": "mancera-wild-python",
+    "mistifyProductName": "Wild Venom",
+    "mistifyProductSlug": "wild-venom",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/wild-venom",
+    "publicInspiredByLabel": "Inspired by Mancera Wild Python",
+    "audience": "unisex",
+    "classification": "Chypre Floral",
+    "topNotes": [
+      "Indian Tuberose",
+      "Osmanthus",
+      "Peach",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Jasmine",
+      "Orange Blossom",
+      "Patchouli Leaf"
+    ],
+    "baseNotes": [
+      "White Musk",
+      "Vanilla Pod"
+    ],
+    "allNotes": [
+      "Indian Tuberose",
+      "Osmanthus",
+      "Peach",
+      "Bergamot",
+      "Jasmine",
+      "Orange Blossom",
+      "Patchouli Leaf",
+      "White Musk",
+      "Vanilla Pod"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/WildVenom.png?v=1765423004",
+    "searchableText": "Mancera mancera Mancera Wild Python Wild Venom Chypre Floral unisex Indian Tuberose Osmanthus Peach Bergamot Jasmine Orange Blossom Patchouli Leaf White Musk Vanilla Pod",
+    "createdAt": "2026-05-04T04:41:34.994Z"
+  }
+}

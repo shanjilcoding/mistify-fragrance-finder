@@ -1,0 +1,322 @@
+{
+  "fragrances": [
+    {
+      "id": 231,
+      "fragranceSlug": "tiziana-terenzi-orion-231",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Orion",
+      "originalFragranceSlug": "tiziana-terenzi-orion",
+      "mistifyProductName": "Orien",
+      "mistifyProductSlug": "orien",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orien",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Orion",
+      "audience": "unisex",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant"
+      ],
+      "middleNotes": [
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant",
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine",
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Orien-_1.png?v=1773460410",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Orion Orien Floral Woody Musk unisex Pineapple Apple Bergamot Red Currant Birch Thyme Patchouli Jasmine Cedar Incense Oud Musk Amber",
+      "createdAt": "2026-05-04T04:41:38.057Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk",
+        "Jasmine",
+        "Amber"
+      ]
+    },
+    {
+      "id": 93,
+      "fragranceSlug": "tom-ford-white-suede-93",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "White Suede",
+      "originalFragranceSlug": "tom-ford-white-suede",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Tom Ford White Suede",
+      "audience": null,
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Thyme",
+        "Tea"
+      ],
+      "middleNotes": [
+        "Lily-of-the-Valley",
+        "Saffron",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Musk",
+        "Sandalwood",
+        "Amber",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Thyme",
+        "Tea",
+        "Lily-of-the-Valley",
+        "Saffron",
+        "Rose",
+        "Suede",
+        "Musk",
+        "Sandalwood",
+        "Amber",
+        "Olibanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Tom Ford tom ford Tom Ford White Suede Not verified Floral Woody Musk Thyme Tea Lily-of-the-Valley Saffron Rose Suede Musk Sandalwood Amber Olibanum",
+      "createdAt": "2026-05-04T04:41:29.912Z",
+      "sharedNotes": [
+        "Tea",
+        "Musk",
+        "Amber",
+        "Rose"
+      ]
+    },
+    {
+      "id": 61,
+      "fragranceSlug": "kilian-good-girl-gone-bad-extreme-61",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Good Girl Gone Bad Extreme",
+      "originalFragranceSlug": "kilian-good-girl-gone-bad-extreme",
+      "mistifyProductName": "Gone Rouge",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gone-rouge?variant=53362062131519",
+      "publicInspiredByLabel": "Inspired by Kilian Good Girl Gone Bad Extreme",
+      "audience": null,
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Osmanthus",
+        "Jasmine",
+        "Rose de Mai",
+        "Peach",
+        "Cherry"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Milk",
+        "Narcissus",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Cedar Extract",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Jasmine",
+        "Rose de Mai",
+        "Peach",
+        "Cherry",
+        "Tuberose",
+        "Milk",
+        "Narcissus",
+        "Orange Blossom",
+        "Amber",
+        "White Cedar Extract",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay29_2026_02_31_49PM.png?v=1780079516",
+      "searchableText": "Kilian kilian By Kilian Good Girl Gone Bad Extreme Not verified on Mistify Floral Woody Musk Osmanthus Jasmine Rose de Mai Peach Cherry Tuberose Milk Narcissus Orange Blossom Amber White Cedar Extract Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.046Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Musk",
+        "Jasmine",
+        "Amber"
+      ]
+    },
+    {
+      "id": 135,
+      "fragranceSlug": "creed-white-amber-135",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "White Amber",
+      "originalFragranceSlug": "creed-white-amber",
+      "mistifyProductName": "Whitened Amber",
+      "mistifyProductSlug": "whitened-amber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/whitened-amber",
+      "publicInspiredByLabel": "Inspired by Creed White Amber",
+      "audience": "mens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Amber",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Benzoin"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Amber",
+        "Jasmine",
+        "Benzoin",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-37-49AM-_1.png?v=1773460545",
+      "searchableText": "Creed creed Creed White Amber Whitened Amber Floral Woody Musk mens Amber Jasmine Benzoin Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.365Z",
+      "sharedNotes": [
+        "Musk",
+        "Jasmine",
+        "Amber"
+      ]
+    },
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk",
+        "Jasmine",
+        "Amber",
+        "Rose"
+      ]
+    },
+    {
+      "id": 247,
+      "fragranceSlug": "penhaligon-s-halfeti-247",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti",
+      "originalFragranceSlug": "penhaligon-s-halfeti",
+      "mistifyProductName": "Halfeti Rose",
+      "mistifyProductSlug": "halfeti-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit",
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine",
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_43_29AM.png?v=1765422933",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Halfeti Rose Oriental Woody unisex Cypress Leaf Saffron Cardamom Artemisia Bergamot Grapefruit Bulgarian Rose Nutmeg Jasmine Oud Cedar Leather Sandalwood Amber Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:39.038Z",
+      "sharedNotes": [
+        "Artemisia",
+        "Bergamot",
+        "Cardamom",
+        "Musk",
+        "Jasmine",
+        "Amber"
+      ]
+    }
+  ]
+}

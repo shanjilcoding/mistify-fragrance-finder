@@ -1,0 +1,323 @@
+{
+  "brand": {
+    "brandName": "Mancera",
+    "brandSlug": "mancera",
+    "fragranceCount": 7,
+    "searchableText": "Amore Cafe Not verified Inspired by Mancera Amore Cafe Mancera mancera Mancera Amore Cafe Not verified Oriental Vanilla Coffee Amaretto Ice Cream Speculoos Brown Sugar Vanilla Ambergris Aoud Orchid Orchid Essence Inspired by Mancera Aoud Orchid Mancera mancera Mancera Aoud Orchid Orchid Essence Oriental Floral unisex Coconut Peach Mandarin Orange Orchid Patchouli Woody Notes Vanilla White Musk Amber Instant Crush Instant Love Inspired by Mancera Instant Crush Mancera mancera Mancera Instant Crush Instant Love Oriental Floral unisex Saffron Ginger Sicilian Mandarin Sicilian Bergamot Amberwood Moroccan Rose Egyptian Jasmine Indonesian Patchouli Leaf Madagascar Vanilla White Musk Sandalwood Oakmoss Red Tobacco Scarlet Tobacco Inspired by Mancera Red Tobacco Mancera mancera Mancera Red Tobacco Scarlet Tobacco Woody Spicy unisex Cinnamon Oud Incense Saffron Nutmeg Green Apple White Pear Patchouli Jasmine Tobacco Madagascar Vanilla Amber Sandalwood Guaiac Wood White Musk Haitian Vetiver Roses Vanille Not verified Inspired by Mancera Roses Vanille Mancera mancera Mancera Roses Vanille Not verified Oriental Vanilla Italian Lemon Turkish Rose Vanilla White Musk Cedar Tonka Cola Cola Spice Inspired by Mancera Tonka Cola Mancera mancera Mancera Tonka Cola Cola Spice Oriental Spicy unisex Cinnamon Cherry Sicilian Lemon Nutmeg Coca-Cola Indonesian Patchouli Leaf Orange Blossom Tonka Bean Vanilla Benzoin Labdanum Wild Python Wild Venom Inspired by Mancera Wild Python Mancera mancera Mancera Wild Python Wild Venom Chypre Floral unisex Indian Tuberose Osmanthus Peach Bergamot Jasmine Orange Blossom Patchouli Leaf White Musk Vanilla Pod"
+  },
+  "fragrances": [
+    {
+      "id": 177,
+      "fragranceSlug": "mancera-amore-cafe-177",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Amore Cafe",
+      "originalFragranceSlug": "mancera-amore-cafe",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mancera Amore Cafe",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Coffee",
+        "Amaretto"
+      ],
+      "middleNotes": [
+        "Ice Cream",
+        "Speculoos"
+      ],
+      "baseNotes": [
+        "Brown Sugar",
+        "Vanilla",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Coffee",
+        "Amaretto",
+        "Ice Cream",
+        "Speculoos",
+        "Brown Sugar",
+        "Vanilla",
+        "Ambergris"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mancera mancera Mancera Amore Cafe Not verified Oriental Vanilla Coffee Amaretto Ice Cream Speculoos Brown Sugar Vanilla Ambergris",
+      "createdAt": "2026-05-04T04:41:34.823Z"
+    },
+    {
+      "id": 175,
+      "fragranceSlug": "mancera-aoud-orchid-175",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Aoud Orchid",
+      "originalFragranceSlug": "mancera-aoud-orchid",
+      "mistifyProductName": "Orchid Essence",
+      "mistifyProductSlug": "orchid-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orchid-essence",
+      "publicInspiredByLabel": "Inspired by Mancera Aoud Orchid",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange",
+        "Orchid",
+        "Patchouli",
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OrchidEssence.png?v=1765422998",
+      "searchableText": "Mancera mancera Mancera Aoud Orchid Orchid Essence Oriental Floral unisex Coconut Peach Mandarin Orange Orchid Patchouli Woody Notes Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.708Z"
+    },
+    {
+      "id": 176,
+      "fragranceSlug": "mancera-instant-crush-176",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Instant Crush",
+      "originalFragranceSlug": "mancera-instant-crush",
+      "mistifyProductName": "Instant Love",
+      "mistifyProductSlug": "instant-love",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/instant-love",
+      "publicInspiredByLabel": "Inspired by Mancera Instant Crush",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Saffron",
+        "Ginger",
+        "Sicilian Mandarin",
+        "Sicilian Bergamot"
+      ],
+      "middleNotes": [
+        "Amberwood",
+        "Moroccan Rose",
+        "Egyptian Jasmine",
+        "Indonesian Patchouli Leaf"
+      ],
+      "baseNotes": [
+        "Madagascar Vanilla",
+        "White Musk",
+        "Sandalwood",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Ginger",
+        "Sicilian Mandarin",
+        "Sicilian Bergamot",
+        "Amberwood",
+        "Moroccan Rose",
+        "Egyptian Jasmine",
+        "Indonesian Patchouli Leaf",
+        "Madagascar Vanilla",
+        "White Musk",
+        "Sandalwood",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_15_53AM.png?v=1774325760",
+      "searchableText": "Mancera mancera Mancera Instant Crush Instant Love Oriental Floral unisex Saffron Ginger Sicilian Mandarin Sicilian Bergamot Amberwood Moroccan Rose Egyptian Jasmine Indonesian Patchouli Leaf Madagascar Vanilla White Musk Sandalwood Oakmoss",
+      "createdAt": "2026-05-04T04:41:34.765Z"
+    },
+    {
+      "id": 178,
+      "fragranceSlug": "mancera-red-tobacco-178",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Red Tobacco",
+      "originalFragranceSlug": "mancera-red-tobacco",
+      "mistifyProductName": "Scarlet Tobacco",
+      "mistifyProductSlug": "scarlet-tobacco",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/scarlet-tobacco",
+      "publicInspiredByLabel": "Inspired by Mancera Red Tobacco",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Oud",
+        "Incense",
+        "Saffron",
+        "Nutmeg",
+        "Green Apple",
+        "White Pear"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Tobacco",
+        "Madagascar Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk",
+        "Haitian Vetiver"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Oud",
+        "Incense",
+        "Saffron",
+        "Nutmeg",
+        "Green Apple",
+        "White Pear",
+        "Patchouli",
+        "Jasmine",
+        "Tobacco",
+        "Madagascar Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk",
+        "Haitian Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ScarletTobacco.png?v=1765423002",
+      "searchableText": "Mancera mancera Mancera Red Tobacco Scarlet Tobacco Woody Spicy unisex Cinnamon Oud Incense Saffron Nutmeg Green Apple White Pear Patchouli Jasmine Tobacco Madagascar Vanilla Amber Sandalwood Guaiac Wood White Musk Haitian Vetiver",
+      "createdAt": "2026-05-04T04:41:34.885Z"
+    },
+    {
+      "id": 181,
+      "fragranceSlug": "mancera-roses-vanille-181",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Roses Vanille",
+      "originalFragranceSlug": "mancera-roses-vanille",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mancera Roses Vanille",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Italian Lemon"
+      ],
+      "middleNotes": [
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Italian Lemon",
+        "Turkish Rose",
+        "Vanilla",
+        "White Musk",
+        "Cedar"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mancera mancera Mancera Roses Vanille Not verified Oriental Vanilla Italian Lemon Turkish Rose Vanilla White Musk Cedar",
+      "createdAt": "2026-05-04T04:41:35.051Z"
+    },
+    {
+      "id": 179,
+      "fragranceSlug": "mancera-tonka-cola-179",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Tonka Cola",
+      "originalFragranceSlug": "mancera-tonka-cola",
+      "mistifyProductName": "Cola Spice",
+      "mistifyProductSlug": "cola-spice",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cola-spice",
+      "publicInspiredByLabel": "Inspired by Mancera Tonka Cola",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Cherry",
+        "Sicilian Lemon",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Coca-Cola",
+        "Indonesian Patchouli Leaf",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Cherry",
+        "Sicilian Lemon",
+        "Nutmeg",
+        "Coca-Cola",
+        "Indonesian Patchouli Leaf",
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_50_16PM_10d11dd4-fe8b-44fa-8349-483f0da6c265.png?v=1774407032",
+      "searchableText": "Mancera mancera Mancera Tonka Cola Cola Spice Oriental Spicy unisex Cinnamon Cherry Sicilian Lemon Nutmeg Coca-Cola Indonesian Patchouli Leaf Orange Blossom Tonka Bean Vanilla Benzoin Labdanum",
+      "createdAt": "2026-05-04T04:41:34.939Z"
+    },
+    {
+      "id": 180,
+      "fragranceSlug": "mancera-wild-python-180",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Wild Python",
+      "originalFragranceSlug": "mancera-wild-python",
+      "mistifyProductName": "Wild Venom",
+      "mistifyProductSlug": "wild-venom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/wild-venom",
+      "publicInspiredByLabel": "Inspired by Mancera Wild Python",
+      "audience": "unisex",
+      "classification": "Chypre Floral",
+      "topNotes": [
+        "Indian Tuberose",
+        "Osmanthus",
+        "Peach",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Patchouli Leaf"
+      ],
+      "baseNotes": [
+        "White Musk",
+        "Vanilla Pod"
+      ],
+      "allNotes": [
+        "Indian Tuberose",
+        "Osmanthus",
+        "Peach",
+        "Bergamot",
+        "Jasmine",
+        "Orange Blossom",
+        "Patchouli Leaf",
+        "White Musk",
+        "Vanilla Pod"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/WildVenom.png?v=1765423004",
+      "searchableText": "Mancera mancera Mancera Wild Python Wild Venom Chypre Floral unisex Indian Tuberose Osmanthus Peach Bergamot Jasmine Orange Blossom Patchouli Leaf White Musk Vanilla Pod",
+      "createdAt": "2026-05-04T04:41:34.994Z"
+    }
+  ]
+}

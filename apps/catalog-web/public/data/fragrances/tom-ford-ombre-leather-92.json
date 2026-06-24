@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 92,
+    "fragranceSlug": "tom-ford-ombre-leather-92",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Ombre Leather",
+    "originalFragranceSlug": "tom-ford-ombre-leather",
+    "mistifyProductName": "Ombre Royale",
+    "mistifyProductSlug": "ombre-royale",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-royale",
+    "publicInspiredByLabel": "Inspired by Tom Ford Ombre Leather",
+    "audience": "mens",
+    "classification": "Leather",
+    "topNotes": [
+      "Cardamom"
+    ],
+    "middleNotes": [
+      "Jasmine Sambac",
+      "Leather"
+    ],
+    "baseNotes": [
+      "Amber",
+      "Moss",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Cardamom",
+      "Jasmine Sambac",
+      "Leather",
+      "Amber",
+      "Moss",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-42-02AM-_1.png?v=1773460288",
+    "searchableText": "Tom Ford tom ford Tom Ford Ombre Leather Ombre Royale Leather mens Cardamom Jasmine Sambac Leather Amber Moss Patchouli",
+    "createdAt": "2026-05-04T04:41:29.855Z"
+  }
+}

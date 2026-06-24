@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 84,
+    "fragranceSlug": "tom-ford-santal-blush-84",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Santal Blush",
+    "originalFragranceSlug": "tom-ford-santal-blush",
+    "mistifyProductName": "Santal Veil",
+    "mistifyProductSlug": "santal-veil",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/santal-veil",
+    "publicInspiredByLabel": "Inspired by Tom Ford Santal Blush",
+    "audience": "unisex",
+    "classification": "Woody Spicy",
+    "topNotes": [
+      "Cinnamon",
+      "Fenugreek",
+      "Carrot Seeds"
+    ],
+    "middleNotes": [
+      "Jasmine",
+      "Ylang-Ylang",
+      "Rose"
+    ],
+    "baseNotes": [
+      "Sandalwood",
+      "Benzoin",
+      "Agarwood",
+      "Musk"
+    ],
+    "allNotes": [
+      "Cinnamon",
+      "Fenugreek",
+      "Carrot Seeds",
+      "Jasmine",
+      "Ylang-Ylang",
+      "Rose",
+      "Sandalwood",
+      "Benzoin",
+      "Agarwood",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_29_23AM.png?v=1774326570",
+    "searchableText": "Tom Ford tom ford Tom Ford Santal Blush Santal Veil Woody Spicy unisex Cinnamon Fenugreek Carrot Seeds Jasmine Ylang-Ylang Rose Sandalwood Benzoin Agarwood Musk",
+    "createdAt": "2026-05-04T04:41:29.400Z"
+  }
+}

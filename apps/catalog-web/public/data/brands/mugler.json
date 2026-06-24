@@ -1,0 +1,47 @@
+{
+  "brand": {
+    "brandName": "Mugler",
+    "brandSlug": "mugler",
+    "fragranceCount": 1,
+    "searchableText": "Alien Oud Majestueux Not verified Inspired by Mugler Alien Oud Majestueux Mugler mugler Mugler Alien Oud Majestueux Not verified Oriental Woody Cardamom Saffron Jasmine Cashmeran Oud Amber"
+  },
+  "fragrances": [
+    {
+      "id": 255,
+      "fragranceSlug": "mugler-alien-oud-majestueux-255",
+      "brandName": "Mugler",
+      "brandSlug": "mugler",
+      "originalFragranceName": "Alien Oud Majestueux",
+      "originalFragranceSlug": "mugler-alien-oud-majestueux",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mugler Alien Oud Majestueux",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cardamom",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Cashmeran"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Amber"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Saffron",
+        "Jasmine",
+        "Cashmeran",
+        "Oud",
+        "Amber"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mugler mugler Mugler Alien Oud Majestueux Not verified Oriental Woody Cardamom Saffron Jasmine Cashmeran Oud Amber",
+      "createdAt": "2026-05-04T04:41:39.525Z"
+    }
+  ]
+}

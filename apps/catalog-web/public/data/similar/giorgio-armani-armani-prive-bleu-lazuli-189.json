@@ -1,0 +1,335 @@
+{
+  "fragrances": [
+    {
+      "id": 94,
+      "fragranceSlug": "tom-ford-noir-extreme-94",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Noir Extreme",
+      "originalFragranceSlug": "tom-ford-noir-extreme",
+      "mistifyProductName": "Night Extreme",
+      "mistifyProductSlug": "night-extreme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/night-extreme",
+      "publicInspiredByLabel": "Inspired by Tom Ford Noir Extreme",
+      "audience": "mens",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Mandarin",
+        "Neroli",
+        "Saffron",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Kulfi",
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin",
+        "Neroli",
+        "Saffron",
+        "Nutmeg",
+        "Kulfi",
+        "Rose",
+        "Jasmine",
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_51_27PM.png?v=1765422879",
+      "searchableText": "Tom Ford tom ford Tom Ford Noir Extreme Night Extreme Oriental Spicy mens Mandarin Neroli Saffron Nutmeg Kulfi Rose Jasmine Vanilla Amber Sandalwood",
+      "createdAt": "2026-05-04T04:41:29.974Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 170,
+      "fragranceSlug": "montale-dark-cherry-170",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Dark Cherry",
+      "originalFragranceSlug": "montale-dark-cherry",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Dark Cherry",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Black Cherry"
+      ],
+      "middleNotes": [
+        "Rose Petals",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Cherry",
+        "Rose Petals",
+        "Jasmine",
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Dark Cherry Not verified Floral Fruity Bergamot Black Cherry Rose Petals Jasmine Musk Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:34.405Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 63,
+      "fragranceSlug": "kilian-intoxicated-63",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Intoxicated",
+      "originalFragranceSlug": "kilian-intoxicated",
+      "mistifyProductName": "Not verified on Mistify",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Kilian Intoxicated",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Cardamom",
+        "Coffee",
+        "Bergamot",
+        "Aldehydes"
+      ],
+      "middleNotes": [
+        "Nutmeg",
+        "Cinnamon",
+        "Tobacco",
+        "Ginger",
+        "Geranium"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Mocha",
+        "Vanilla",
+        "Balsam Fir",
+        "Patchouli",
+        "Coumarin",
+        "Sugar",
+        "Marshmallow"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Coffee",
+        "Bergamot",
+        "Aldehydes",
+        "Nutmeg",
+        "Cinnamon",
+        "Tobacco",
+        "Ginger",
+        "Geranium",
+        "Caramel",
+        "Mocha",
+        "Vanilla",
+        "Balsam Fir",
+        "Patchouli",
+        "Coumarin",
+        "Sugar",
+        "Marshmallow"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Kilian kilian By Kilian Intoxicated Not verified on Mistify Oriental Spicy Cardamom Coffee Bergamot Aldehydes Nutmeg Cinnamon Tobacco Ginger Geranium Caramel Mocha Vanilla Balsam Fir Patchouli Coumarin Sugar Marshmallow",
+      "createdAt": "2026-05-04T04:41:28.158Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Tobacco",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 256,
+      "fragranceSlug": "roja-dove-amber-aoud-256",
+      "brandName": "Roja Dove",
+      "brandSlug": "roja-dove",
+      "originalFragranceName": "Amber Aoud",
+      "originalFragranceSlug": "roja-dove-amber-aoud",
+      "mistifyProductName": "Amber Oudh",
+      "mistifyProductSlug": "amber-oudh",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-oudh",
+      "publicInspiredByLabel": "Inspired by Roja Dove Amber Aoud",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime",
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-12-15PM-_1.png?v=1773460351",
+      "searchableText": "Roja Dove roja dove Roja Dove Amber Aoud Amber Oudh Oriental Spicy unisex Bergamot Lemon Lime Rose Fig Ylang-Ylang Jasmine Oud Ambergris Saffron Civet Sandalwood Musk Orris Cinnamon Patchouli Birch Oakmoss",
+      "createdAt": "2026-05-04T04:41:39.587Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 106,
+      "fragranceSlug": "parfums-de-marly-pegasus-106",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Pegasus",
+      "originalFragranceSlug": "parfums-de-marly-pegasus",
+      "mistifyProductName": "Pegasi",
+      "mistifyProductSlug": "pegasi",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pegasi",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Pegasus",
+      "audience": "mens",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Heliotrope",
+        "Cumin",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Bitter Almond",
+        "Lavender",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Amber"
+      ],
+      "allNotes": [
+        "Heliotrope",
+        "Cumin",
+        "Bergamot",
+        "Bitter Almond",
+        "Lavender",
+        "Jasmine",
+        "Vanilla",
+        "Sandalwood",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-26-24PM-_1.png?v=1773460487",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Pegasus Pegasi Amber Fougere mens Heliotrope Cumin Bergamot Bitter Almond Lavender Jasmine Vanilla Sandalwood Amber",
+      "createdAt": "2026-05-04T04:41:30.688Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 90,
+      "fragranceSlug": "tom-ford-velvet-orchid-90",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Velvet Orchid",
+      "originalFragranceSlug": "tom-ford-velvet-orchid",
+      "mistifyProductName": "Velvet Orchard",
+      "mistifyProductSlug": "velvet-orchard",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/velvet-orchard",
+      "publicInspiredByLabel": "Inspired by Tom Ford Velvet Orchid",
+      "audience": "womens",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Honey",
+        "Rum",
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Magnolia"
+      ],
+      "baseNotes": [
+        "Myrrh",
+        "Vanilla",
+        "Suede",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Honey",
+        "Rum",
+        "Mandarin Orange",
+        "Bergamot",
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Magnolia",
+        "Myrrh",
+        "Vanilla",
+        "Suede",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_27_58AM.png?v=1765422890",
+      "searchableText": "Tom Ford tom ford Tom Ford Velvet Orchid Velvet Orchard Floral Oriental womens Honey Rum Mandarin Orange Bergamot Orchid Jasmine Rose Magnolia Myrrh Vanilla Suede Sandalwood",
+      "createdAt": "2026-05-04T04:41:29.739Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Jasmine",
+        "Honey",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    }
+  ]
+}

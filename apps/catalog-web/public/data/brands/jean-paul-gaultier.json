@@ -1,0 +1,127 @@
+{
+  "brand": {
+    "brandName": "Jean Paul Gaultier",
+    "brandSlug": "jean-paul-gaultier",
+    "fragranceCount": 3,
+    "searchableText": "Le Beau Paradise Garden Paradise Jardin Inspired by Jean Paul Gaultier Le Beau Paradise Garden Jean Paul Gaultier jean paul gaultier Jean Paul Gaultier Le Beau Paradise Garden Paradise Jardin Woody Aromatic unisex Green Notes Watery Notes Mint Ginger Coconut Fig Salt Tonka Bean Sandalwood Le Male Elixir Le Miel Elixir Inspired by Jean Paul Gaultier Le Male Elixir Jean Paul Gaultier jean paul gaultier Jean Paul Gaultier Le Male Elixir Le Miel Elixir Oriental Fougere mens Lavender Mint Benzoin Vanilla Honey Tonka Bean Tobacco Scandal Pour Homme Scandale Homme Inspired by Jean Paul Gaultier Scandal Pour Homme Jean Paul Gaultier jean paul gaultier Jean Paul Gaultier Scandal Pour Homme Scandale Homme Oriental Woody mens Mandarin Orange Clary Sage Caramel Tonka Bean Vetiver"
+  },
+  "fragrances": [
+    {
+      "id": 286,
+      "fragranceSlug": "jean-paul-gaultier-le-beau-paradise-garden-286",
+      "brandName": "Jean Paul Gaultier",
+      "brandSlug": "jean-paul-gaultier",
+      "originalFragranceName": "Le Beau Paradise Garden",
+      "originalFragranceSlug": "jean-paul-gaultier-le-beau-paradise-garden",
+      "mistifyProductName": "Paradise Jardin",
+      "mistifyProductSlug": "paradise-jardin",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradise-jardin",
+      "publicInspiredByLabel": "Inspired by Jean Paul Gaultier Le Beau Paradise Garden",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Green Notes",
+        "Watery Notes",
+        "Mint",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Coconut",
+        "Fig",
+        "Salt"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Green Notes",
+        "Watery Notes",
+        "Mint",
+        "Ginger",
+        "Coconut",
+        "Fig",
+        "Salt",
+        "Tonka Bean",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar23_2026_03_22_46PM.png?v=1774293864",
+      "searchableText": "Jean Paul Gaultier jean paul gaultier Jean Paul Gaultier Le Beau Paradise Garden Paradise Jardin Woody Aromatic unisex Green Notes Watery Notes Mint Ginger Coconut Fig Salt Tonka Bean Sandalwood",
+      "createdAt": "2026-05-04T04:41:41.421Z"
+    },
+    {
+      "id": 285,
+      "fragranceSlug": "jean-paul-gaultier-le-male-elixir-285",
+      "brandName": "Jean Paul Gaultier",
+      "brandSlug": "jean-paul-gaultier",
+      "originalFragranceName": "Le Male Elixir",
+      "originalFragranceSlug": "jean-paul-gaultier-le-male-elixir",
+      "mistifyProductName": "Le Miel Elixir",
+      "mistifyProductSlug": "le-miel-elixir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/le-miel-elixir",
+      "publicInspiredByLabel": "Inspired by Jean Paul Gaultier Le Male Elixir",
+      "audience": "mens",
+      "classification": "Oriental Fougere",
+      "topNotes": [
+        "Lavender",
+        "Mint"
+      ],
+      "middleNotes": [
+        "Benzoin",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Honey",
+        "Tonka Bean",
+        "Tobacco"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Mint",
+        "Benzoin",
+        "Vanilla",
+        "Honey",
+        "Tonka Bean",
+        "Tobacco"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar22_2026_09_30_12AM.png?v=1774186218",
+      "searchableText": "Jean Paul Gaultier jean paul gaultier Jean Paul Gaultier Le Male Elixir Le Miel Elixir Oriental Fougere mens Lavender Mint Benzoin Vanilla Honey Tonka Bean Tobacco",
+      "createdAt": "2026-05-04T04:41:41.358Z"
+    },
+    {
+      "id": 287,
+      "fragranceSlug": "jean-paul-gaultier-scandal-pour-homme-287",
+      "brandName": "Jean Paul Gaultier",
+      "brandSlug": "jean-paul-gaultier",
+      "originalFragranceName": "Scandal Pour Homme",
+      "originalFragranceSlug": "jean-paul-gaultier-scandal-pour-homme",
+      "mistifyProductName": "Scandale Homme",
+      "mistifyProductSlug": "scandale-homme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/scandale-homme",
+      "publicInspiredByLabel": "Inspired by Jean Paul Gaultier Scandal Pour Homme",
+      "audience": "mens",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Mandarin Orange",
+        "Clary Sage"
+      ],
+      "middleNotes": [
+        "Caramel",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Clary Sage",
+        "Caramel",
+        "Tonka Bean",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr30_2026_03_09_09PM.png?v=1777576157",
+      "searchableText": "Jean Paul Gaultier jean paul gaultier Jean Paul Gaultier Scandal Pour Homme Scandale Homme Oriental Woody mens Mandarin Orange Clary Sage Caramel Tonka Bean Vetiver",
+      "createdAt": "2026-05-04T04:41:41.478Z"
+    }
+  ]
+}

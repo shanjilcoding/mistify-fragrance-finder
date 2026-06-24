@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 317,
+    "fragranceSlug": "louis-vuitton-california-dream-317",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "California Dream",
+    "originalFragranceSlug": "louis-vuitton-california-dream",
+    "mistifyProductName": "Cali Dream",
+    "mistifyProductSlug": "cali-dream",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/cali-dream",
+    "publicInspiredByLabel": "Louis Vuitton California Dream",
+    "audience": null,
+    "classification": "Citrus Musky / Soft Fruity",
+    "topNotes": [
+      "Mandarin Orange"
+    ],
+    "middleNotes": [
+      "Pear"
+    ],
+    "baseNotes": [
+      "Ambrette",
+      "Musk",
+      "Benzoin"
+    ],
+    "allNotes": [
+      "Mandarin Orange",
+      "Pear",
+      "Ambrette",
+      "Musk",
+      "Benzoin"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun15_2026_01_24_23PM.png?v=1781544277",
+    "searchableText": "Louis Vuitton Louis Vuitton California Dream Cali Dream Citrus Musky / Soft Fruity Mandarin Orange Pear Ambrette Musk Benzoin",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

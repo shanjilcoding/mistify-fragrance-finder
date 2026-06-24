@@ -1,0 +1,35 @@
+{
+  "fragrance": {
+    "id": 40,
+    "fragranceSlug": "louis-vuitton-sun-song-40",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Sun Song",
+    "originalFragranceSlug": "louis-vuitton-sun-song",
+    "mistifyProductName": "Solar Aura",
+    "mistifyProductSlug": "solar-aura",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/solar-aura",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Sun Song",
+    "audience": "mens",
+    "classification": "Citrus Floral",
+    "topNotes": [
+      "Orange Blossom",
+      "Lemon"
+    ],
+    "middleNotes": [
+      "Bergamot"
+    ],
+    "baseNotes": [
+      "Musk"
+    ],
+    "allNotes": [
+      "Orange Blossom",
+      "Lemon",
+      "Bergamot",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-49-28PM-_1.png?v=1773460275",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Sun Song Solar Aura Citrus Floral mens Orange Blossom Lemon Bergamot Musk",
+    "createdAt": "2026-05-04T04:41:26.827Z"
+  }
+}

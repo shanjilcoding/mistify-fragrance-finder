@@ -1,0 +1,321 @@
+{
+  "fragrances": [
+    {
+      "id": 301,
+      "fragranceSlug": "chanel-bleu-de-chanel-301",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Bleu de Chanel",
+      "originalFragranceSlug": "chanel-bleu-de-chanel",
+      "mistifyProductName": "Bleu Élan",
+      "mistifyProductSlug": "bleu-elan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-elan",
+      "publicInspiredByLabel": "Inspired by Chanel Bleu de Chanel",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper",
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super",
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Chanel chanel Chanel Bleu de Chanel Bleu Élan Woody Aromatic mens Grapefruit Lemon Mint Pink Pepper Ginger Nutmeg Jasmine Iso E Super Incense Cedar Vetiver Sandalwood Patchouli Labdanum White Musk",
+      "createdAt": "2026-05-04T04:41:42.307Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 99,
+      "fragranceSlug": "parfums-de-marly-sedley-99",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Sedley",
+      "originalFragranceSlug": "parfums-de-marly-sedley",
+      "mistifyProductName": "Sédelle",
+      "mistifyProductSlug": "sedelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sedelle",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Sedley",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange",
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum",
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar14_2026_08_56_24PM.png?v=1773536190",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Sedley Sédelle Woody Aromatic unisex Mint Bergamot Grapefruit Lemon Mandarin Orange Lavender Rosemary Geranium Olibanum Ambroxan Sandalwood Vetiver Cedar Cashmeran Patchouli",
+      "createdAt": "2026-05-04T04:41:30.270Z",
+      "sharedNotes": [
+        "Lemon",
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ]
+    },
+    {
+      "id": 160,
+      "fragranceSlug": "initio-rehab-160",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Rehab",
+      "originalFragranceSlug": "initio-rehab",
+      "mistifyProductName": "Rehabilitee",
+      "mistifyProductSlug": "rehabilitee",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rehabilitee",
+      "publicInspiredByLabel": "Inspired by Initio Rehab",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Rehabilitee.png?v=1765422993",
+      "searchableText": "Initio initio parfums Initio Parfums Rehab Rehabilitee Woody Aromatic unisex Lavender Bergamot Cedar Vetiver Patchouli Sandalwood Musk Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:33.822Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ]
+    },
+    {
+      "id": 210,
+      "fragranceSlug": "rabanne-phantom-210",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "Phantom",
+      "originalFragranceSlug": "rabanne-phantom",
+      "mistifyProductName": "Spirit",
+      "mistifyProductSlug": "spirit",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/spirit",
+      "publicInspiredByLabel": "Inspired by Rabanne Phantom",
+      "audience": "mens",
+      "classification": "Aromatic Fougere",
+      "topNotes": [
+        "Lemon",
+        "Lavender",
+        "Amalfi Lemon"
+      ],
+      "middleNotes": [
+        "Apple",
+        "Smoke"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vanilla",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Lemon",
+        "Lavender",
+        "Amalfi Lemon",
+        "Apple",
+        "Smoke",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_47_55PM.png?v=1774406882",
+      "searchableText": "Rabanne paco rabanne Paco Rabanne Phantom Spirit Aromatic Fougere mens Lemon Lavender Amalfi Lemon Apple Smoke Patchouli Vanilla Vetiver",
+      "createdAt": "2026-05-04T04:41:36.818Z",
+      "sharedNotes": [
+        "Lemon",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ]
+    },
+    {
+      "id": 112,
+      "fragranceSlug": "parfums-de-marly-valero-112",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Valero",
+      "originalFragranceSlug": "parfums-de-marly-valero",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Valero",
+      "audience": null,
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Citron",
+        "Juniper"
+      ],
+      "middleNotes": [
+        "Geranium",
+        "Lavender",
+        "Cypress",
+        "Nutmeg"
+      ],
+      "baseNotes": [
+        "Ambrox Super",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Citron",
+        "Juniper",
+        "Geranium",
+        "Lavender",
+        "Cypress",
+        "Nutmeg",
+        "Ambrox Super",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valero Not verified Woody Aromatic Bergamot Citron Juniper Geranium Lavender Cypress Nutmeg Ambrox Super Patchouli Sandalwood",
+      "createdAt": "2026-05-04T04:41:31.034Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Patchouli",
+        "Lavender"
+      ]
+    },
+    {
+      "id": 224,
+      "fragranceSlug": "dior-vanilla-diorama-224",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Vanilla Diorama",
+      "originalFragranceSlug": "dior-vanilla-diorama",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Dior Vanilla Diorama",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Orange",
+        "Pink Pepper",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Rum",
+        "Cacao",
+        "Cardamom"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Orange",
+        "Pink Pepper",
+        "Lemon",
+        "Rum",
+        "Cacao",
+        "Cardamom",
+        "Bourbon Vanilla",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Dior christian dior Christian Dior Vanilla Diorama Not verified Oriental Vanilla Orange Pink Pepper Lemon Rum Cacao Cardamom Bourbon Vanilla Sandalwood Patchouli",
+      "createdAt": "2026-05-04T04:41:37.634Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Sandalwood",
+        "Patchouli"
+      ]
+    }
+  ]
+}

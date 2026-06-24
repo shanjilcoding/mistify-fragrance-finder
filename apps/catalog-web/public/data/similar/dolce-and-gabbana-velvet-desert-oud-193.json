@@ -1,0 +1,269 @@
+{
+  "fragrances": [
+    {
+      "id": 257,
+      "fragranceSlug": "narciso-rodriguez-amber-musc-257",
+      "brandName": "Narciso Rodriguez",
+      "brandSlug": "narciso-rodriguez",
+      "originalFragranceName": "Amber Musc",
+      "originalFragranceSlug": "narciso-rodriguez-amber-musc",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Narciso Rodriguez Amber Musc",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Musk",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Oud",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "allNotes": [
+        "Musk",
+        "Orange Blossom",
+        "Patchouli",
+        "Oud",
+        "Leather",
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Narciso Rodriguez narciso rodriguez Narciso Rodriguez Amber Musc Not verified Oriental Musk Orange Blossom Patchouli Oud Leather Amber Vanilla Incense",
+      "createdAt": "2026-05-04T04:41:39.654Z",
+      "sharedNotes": [
+        "Incense",
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 47,
+      "fragranceSlug": "louis-vuitton-ink-mark-47",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Ink Mark",
+      "originalFragranceSlug": "louis-vuitton-ink-mark",
+      "mistifyProductName": "Ink Script",
+      "mistifyProductSlug": "ink-script",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ink-script",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Ink Mark",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [],
+      "middleNotes": [
+        "Sandalwood",
+        "Incense",
+        "Amber"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Sandalwood",
+        "Incense",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb3-2026-12-08-40PM-_1.png?v=1773460161",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Ink Mark Ink Script Oriental Woody unisex Sandalwood Incense Amber",
+      "createdAt": "2026-05-04T04:41:27.237Z",
+      "sharedNotes": [
+        "Incense",
+        "Amber"
+      ]
+    },
+    {
+      "id": 2,
+      "fragranceSlug": "guerlain-cherry-oud-2",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Cherry Oud",
+      "originalFragranceSlug": "guerlain-cherry-oud",
+      "mistifyProductName": "Cherry Oudra",
+      "mistifyProductSlug": "cherry-oudra",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cherry-oudra",
+      "publicInspiredByLabel": "Inspired by Guerlain Cherry Oud",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cherry",
+        "Cinnamon"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Agarwood/Oud"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Peru Balsam",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cherry",
+        "Cinnamon",
+        "Rose",
+        "Agarwood/Oud",
+        "Amber",
+        "Peru Balsam",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-23-34PM-_1.png?v=1773460359",
+      "searchableText": "Guerlain guerlain Guerlain Cherry Oud Cherry Oudra Oriental Woody unisex Cherry Cinnamon Rose Agarwood/Oud Amber Peru Balsam Musk",
+      "createdAt": "2026-05-04T04:41:24.605Z",
+      "sharedNotes": [
+        "Agarwood/Oud",
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 62,
+      "fragranceSlug": "kilian-incense-oudh-62",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Incense Oudh",
+      "originalFragranceSlug": "kilian-incense-oudh",
+      "mistifyProductName": "Incensed Oud",
+      "mistifyProductSlug": "incensed-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/incensed-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Incense Oudh",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rose",
+        "Cardamom",
+        "Pink Pepper",
+        "Geranium"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Virginia Cedar",
+        "Papyrus"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Oud",
+        "Sandalwood",
+        "Oakmoss",
+        "Musk",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Rose",
+        "Cardamom",
+        "Pink Pepper",
+        "Geranium",
+        "Patchouli",
+        "Virginia Cedar",
+        "Papyrus",
+        "Incense",
+        "Oud",
+        "Sandalwood",
+        "Oakmoss",
+        "Musk",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/IncensedOud_dc3a368e-6d94-4f0b-b238-a8e8a4644ae1.png?v=1765422910",
+      "searchableText": "Kilian kilian By Kilian Incense Oudh Incensed Oud Oriental unisex Rose Cardamom Pink Pepper Geranium Patchouli Virginia Cedar Papyrus Incense Oud Sandalwood Oakmoss Musk Labdanum",
+      "createdAt": "2026-05-04T04:41:28.103Z",
+      "sharedNotes": [
+        "Incense",
+        "Musk"
+      ]
+    },
+    {
+      "id": 274,
+      "fragranceSlug": "roberto-cavalli-oud-edition-274",
+      "brandName": "Roberto Cavalli",
+      "brandSlug": "roberto-cavalli",
+      "originalFragranceName": "Oud Edition",
+      "originalFragranceSlug": "roberto-cavalli-oud-edition",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Roberto Cavalli Oud Edition",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Saffron",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Oud",
+        "Amber",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Mandarin Orange",
+        "Leather",
+        "Orange Blossom",
+        "Incense",
+        "Oud",
+        "Amber",
+        "Vanilla"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Roberto Cavalli roberto cavalli Roberto Cavalli Oud Edition Not verified Oriental Saffron Mandarin Orange Leather Orange Blossom Incense Oud Amber Vanilla",
+      "createdAt": "2026-05-04T04:41:40.699Z",
+      "sharedNotes": [
+        "Incense",
+        "Amber"
+      ]
+    },
+    {
+      "id": 202,
+      "fragranceSlug": "xerjoff-erba-pura-202",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Erba Pura",
+      "originalFragranceSlug": "xerjoff-erba-pura",
+      "mistifyProductName": "Herb Pura",
+      "mistifyProductSlug": "herb-pura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/herb-pura",
+      "publicInspiredByLabel": "Inspired by Xerjoff Erba Pura",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Sicilian Orange",
+        "Calabrian Bergamot",
+        "Sicilian Lemon"
+      ],
+      "middleNotes": [
+        "Fruits"
+      ],
+      "baseNotes": [
+        "White Musk",
+        "Madagascar Vanilla",
+        "Amber"
+      ],
+      "allNotes": [
+        "Sicilian Orange",
+        "Calabrian Bergamot",
+        "Sicilian Lemon",
+        "Fruits",
+        "White Musk",
+        "Madagascar Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-47-48AM-_1.png?v=1773460527",
+      "searchableText": "Xerjoff xerjoff Xerjoff Erba Pura Herb Pura Oriental unisex Sicilian Orange Calabrian Bergamot Sicilian Lemon Fruits White Musk Madagascar Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:36.343Z",
+      "sharedNotes": [
+        "Amber"
+      ]
+    }
+  ]
+}

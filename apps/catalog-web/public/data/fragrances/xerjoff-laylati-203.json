@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 203,
+    "fragranceSlug": "xerjoff-laylati-203",
+    "brandName": "Xerjoff",
+    "brandSlug": "xerjoff",
+    "originalFragranceName": "Laylati",
+    "originalFragranceSlug": "xerjoff-laylati",
+    "mistifyProductName": "Laylatal",
+    "mistifyProductSlug": "laylatal",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/laylatal",
+    "publicInspiredByLabel": "Inspired by Xerjoff Laylati",
+    "audience": "unisex",
+    "classification": "Woody Oriental",
+    "topNotes": [
+      "Green Notes"
+    ],
+    "middleNotes": [
+      "Cedar",
+      "Patchouli"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Tobacco",
+      "Vanilla"
+    ],
+    "allNotes": [
+      "Green Notes",
+      "Cedar",
+      "Patchouli",
+      "Musk",
+      "Tobacco",
+      "Vanilla"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Laylatal.png?v=1765422944",
+    "searchableText": "Xerjoff xerjoff Xerjoff Laylati Laylatal Woody Oriental unisex Green Notes Cedar Patchouli Musk Tobacco Vanilla",
+    "createdAt": "2026-05-04T04:41:36.401Z"
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "fragrances": [
+    {
+      "id": 120,
+      "fragranceSlug": "bond-no-9-new-york-oud-120",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "New York Oud",
+      "originalFragranceSlug": "bond-no-9-new-york-oud",
+      "mistifyProductName": "Urban Oud",
+      "mistifyProductSlug": "urban-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-oud",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 New York Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Plum",
+        "Saffron",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root"
+      ],
+      "baseNotes": [
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Plum",
+        "Saffron",
+        "Orange",
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root",
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_18_40AM.png?v=1774325928",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 New York Oud Urban Oud Oriental unisex Plum Saffron Orange Rose Oud Patchouli Orris Root Musk White Honey Vetiver",
+      "createdAt": "2026-05-04T04:41:31.518Z",
+      "sharedNotes": [
+        "Saffron",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 271,
+      "fragranceSlug": "diptyque-eau-rihla-271",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Eau Rihla",
+      "originalFragranceSlug": "diptyque-eau-rihla",
+      "mistifyProductName": "Eau Relia",
+      "mistifyProductSlug": "eau-relia",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eau-relia",
+      "publicInspiredByLabel": "Inspired by Diptyque Eau Rihla",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Iris",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper",
+        "Leather",
+        "Iris",
+        "Cedar",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-50-51AM-_1.png?v=1773460377",
+      "searchableText": "Diptyque diptyque Diptyque Eau Rihla Eau Relia Oriental Woody unisex Raspberry Saffron Pink Pepper Leather Iris Cedar Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:40.507Z",
+      "sharedNotes": [
+        "Saffron",
+        "Raspberry"
+      ]
+    },
+    {
+      "id": 264,
+      "fragranceSlug": "valentino-born-in-roma-intense-264",
+      "brandName": "Valentino",
+      "brandSlug": "valentino",
+      "originalFragranceName": "Born In Roma Intense",
+      "originalFragranceSlug": "valentino-born-in-roma-intense",
+      "mistifyProductName": "Roma Intenso",
+      "mistifyProductSlug": "roma-intenso",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/roma-intenso",
+      "publicInspiredByLabel": "Inspired by Valentino Born In Roma Intense",
+      "audience": "unisex",
+      "classification": "Amber Vanilla/Aromatic Woody",
+      "topNotes": [
+        "Vanilla Infusion"
+      ],
+      "middleNotes": [
+        "Lavandin"
+      ],
+      "baseNotes": [
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Vanilla Infusion",
+        "Lavandin",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-20-40AM-_1.png?v=1773460133",
+      "searchableText": "Valentino valentino Valentino Born In Roma Intense Roma Intenso Amber Vanilla/Aromatic Woody unisex Vanilla Infusion Lavandin Vetiver",
+      "createdAt": "2026-05-04T04:41:40.078Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 51,
+      "fragranceSlug": "louis-vuitton-moon-tale-51",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Moon Tale",
+      "originalFragranceSlug": "louis-vuitton-moon-tale",
+      "mistifyProductName": "Moon Story",
+      "mistifyProductSlug": "moon-story",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/moon-story",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Moon Tale",
+      "audience": "unisex",
+      "classification": "Floral Fruity/Soft Romantic",
+      "topNotes": [
+        "Peony",
+        "Magnolia"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac",
+        "Rose Geranium"
+      ],
+      "baseNotes": [
+        "Raspberry"
+      ],
+      "allNotes": [
+        "Peony",
+        "Magnolia",
+        "Jasmine Sambac",
+        "Rose Geranium",
+        "Raspberry"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb3-2026-12-08-37PM-_1.png?v=1773460164",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Moon Tale Moon Story Floral Fruity/Soft Romantic unisex Peony Magnolia Jasmine Sambac Rose Geranium Raspberry",
+      "createdAt": "2026-05-04T04:41:27.474Z",
+      "sharedNotes": [
+        "Raspberry"
+      ]
+    },
+    {
+      "id": 88,
+      "fragranceSlug": "tom-ford-tuscan-leather-88",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Tuscan Leather",
+      "originalFragranceSlug": "tom-ford-tuscan-leather",
+      "mistifyProductName": "Leather Tuscany",
+      "mistifyProductSlug": "leather-tuscany",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/leather-tuscany",
+      "publicInspiredByLabel": "Inspired by Tom Ford Tuscan Leather",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Olibanum",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Suede",
+        "Amber",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Thyme",
+        "Olibanum",
+        "Jasmine",
+        "Leather",
+        "Suede",
+        "Amber",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Tom Ford tom ford Tom Ford Tuscan Leather Leather Tuscany Leather unisex Raspberry Saffron Thyme Olibanum Jasmine Leather Suede Amber Woody Notes",
+      "createdAt": "2026-05-04T04:41:29.625Z",
+      "sharedNotes": [
+        "Saffron",
+        "Raspberry"
+      ]
+    },
+    {
+      "id": 267,
+      "fragranceSlug": "byredo-bal-d-afrique-267",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Bal d’Afrique",
+      "originalFragranceSlug": "byredo-bal-d-afrique",
+      "mistifyProductName": "Bali Afrique",
+      "mistifyProductSlug": "bali-afrique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bali-afrique",
+      "publicInspiredByLabel": "Inspired by Byredo Bal d’Afrique",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Bergamot",
+        "African Marigold",
+        "Buchu/Agathosma"
+      ],
+      "middleNotes": [
+        "Violet",
+        "Cyclamen"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "African Marigold",
+        "Buchu/Agathosma",
+        "Violet",
+        "Cyclamen",
+        "Vetiver",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-08-33PM-_1.png?v=1773460349",
+      "searchableText": "Byredo byredo Byredo Bal d’Afrique Bali Afrique Floral unisex Bergamot African Marigold Buchu/Agathosma Violet Cyclamen Vetiver Cedar",
+      "createdAt": "2026-05-04T04:41:40.260Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    }
+  ]
+}

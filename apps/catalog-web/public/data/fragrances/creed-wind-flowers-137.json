@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 137,
+    "fragranceSlug": "creed-wind-flowers-137",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Wind Flowers",
+    "originalFragranceSlug": "creed-wind-flowers",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Creed Wind Flowers",
+    "audience": null,
+    "classification": "Floral",
+    "topNotes": [
+      "Jasmine",
+      "Orange Blossom",
+      "Peach"
+    ],
+    "middleNotes": [
+      "Jasmine Sambac",
+      "Tuberose",
+      "Rose"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Orange Blossom",
+      "Praline",
+      "Sandalwood",
+      "Iris"
+    ],
+    "allNotes": [
+      "Jasmine",
+      "Orange Blossom",
+      "Peach",
+      "Jasmine Sambac",
+      "Tuberose",
+      "Rose",
+      "Musk",
+      "Orange Blossom",
+      "Praline",
+      "Sandalwood",
+      "Iris"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Creed creed Creed Wind Flowers Not verified Floral Jasmine Orange Blossom Peach Jasmine Sambac Tuberose Rose Musk Orange Blossom Praline Sandalwood Iris",
+    "createdAt": "2026-05-04T04:41:32.485Z"
+  }
+}

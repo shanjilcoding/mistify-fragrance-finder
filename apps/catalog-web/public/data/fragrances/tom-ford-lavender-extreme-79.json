@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 79,
+    "fragranceSlug": "tom-ford-lavender-extreme-79",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Lavender Extreme",
+    "originalFragranceSlug": "tom-ford-lavender-extreme",
+    "mistifyProductName": "Lavender Extremism",
+    "mistifyProductSlug": "lavender-extremism",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/lavender-extremism",
+    "publicInspiredByLabel": "Inspired by Tom Ford Lavender Extreme",
+    "audience": "unisex",
+    "classification": "Aromatic",
+    "topNotes": [
+      "Lavender",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Cinnamon",
+      "Tonka Bean"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Lavender",
+      "Bergamot",
+      "Cinnamon",
+      "Tonka Bean",
+      "Vanilla",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LavenderExtremism.png?v=1765422873",
+    "searchableText": "Tom Ford tom ford Tom Ford Lavender Extreme Lavender Extremism Aromatic unisex Lavender Bergamot Cinnamon Tonka Bean Vanilla Patchouli",
+    "createdAt": "2026-05-04T04:41:29.108Z"
+  }
+}

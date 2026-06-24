@@ -1,0 +1,61 @@
+{
+  "fragrance": {
+    "id": 63,
+    "fragranceSlug": "kilian-intoxicated-63",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Intoxicated",
+    "originalFragranceSlug": "kilian-intoxicated",
+    "mistifyProductName": "Not verified on Mistify",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Kilian Intoxicated",
+    "audience": null,
+    "classification": "Oriental Spicy",
+    "topNotes": [
+      "Cardamom",
+      "Coffee",
+      "Bergamot",
+      "Aldehydes"
+    ],
+    "middleNotes": [
+      "Nutmeg",
+      "Cinnamon",
+      "Tobacco",
+      "Ginger",
+      "Geranium"
+    ],
+    "baseNotes": [
+      "Caramel",
+      "Mocha",
+      "Vanilla",
+      "Balsam Fir",
+      "Patchouli",
+      "Coumarin",
+      "Sugar",
+      "Marshmallow"
+    ],
+    "allNotes": [
+      "Cardamom",
+      "Coffee",
+      "Bergamot",
+      "Aldehydes",
+      "Nutmeg",
+      "Cinnamon",
+      "Tobacco",
+      "Ginger",
+      "Geranium",
+      "Caramel",
+      "Mocha",
+      "Vanilla",
+      "Balsam Fir",
+      "Patchouli",
+      "Coumarin",
+      "Sugar",
+      "Marshmallow"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Kilian kilian By Kilian Intoxicated Not verified on Mistify Oriental Spicy Cardamom Coffee Bergamot Aldehydes Nutmeg Cinnamon Tobacco Ginger Geranium Caramel Mocha Vanilla Balsam Fir Patchouli Coumarin Sugar Marshmallow",
+    "createdAt": "2026-05-04T04:41:28.158Z"
+  }
+}

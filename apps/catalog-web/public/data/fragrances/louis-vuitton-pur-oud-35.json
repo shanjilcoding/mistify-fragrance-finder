@@ -1,0 +1,31 @@
+{
+  "fragrance": {
+    "id": 35,
+    "fragranceSlug": "louis-vuitton-pur-oud-35",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Pur Oud",
+    "originalFragranceSlug": "louis-vuitton-pur-oud",
+    "mistifyProductName": "Oud Essence",
+    "mistifyProductSlug": "oud-essence",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-essence",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Pur Oud",
+    "audience": "unisex",
+    "classification": "Woody Spicy",
+    "topNotes": [],
+    "middleNotes": [
+      "Oud",
+      "Ambrettolide",
+      "Helvetolide"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Oud",
+      "Ambrettolide",
+      "Helvetolide"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_58_54PM.png?v=1765422834",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Pur Oud Oud Essence Woody Spicy unisex Oud Ambrettolide Helvetolide",
+    "createdAt": "2026-05-04T04:41:26.533Z"
+  }
+}

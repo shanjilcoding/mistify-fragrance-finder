@@ -1,0 +1,303 @@
+{
+  "fragrances": [
+    {
+      "id": 149,
+      "fragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet-149",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Supreme Bouquet",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet",
+      "mistifyProductName": "Ethereal Bloom",
+      "mistifyProductSlug": "ethereal-bloom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ethereal-bloom",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Supreme Bouquet",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pear",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pear",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/EtherealBloom-_1.png?v=1773460422",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Supreme Bouquet Ethereal Bloom Amber Floral womens Pear Pink Pepper Tuberose Ylang-Ylang Jasmine Amber Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.197Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Pear",
+        "Jasmine",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 324,
+      "fragranceSlug": "clive-christian-strange-heavens-out-of-the-blue-324",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Strange Heavens Out of the Blue",
+      "originalFragranceSlug": "clive-christian-strange-heavens-out-of-the-blue",
+      "mistifyProductName": "Strange Skies",
+      "mistifyProductSlug": "strange-skies",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/strange-skies",
+      "publicInspiredByLabel": "Clive Christian Strange Heavens Out of the Blue",
+      "audience": null,
+      "classification": "Gourmand Oriental / Smoky Sweet",
+      "topNotes": [
+        "Coffee",
+        "Pink Pepper",
+        "Anise"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Cocoa",
+        "Vanilla",
+        "Smoke"
+      ],
+      "allNotes": [
+        "Coffee",
+        "Pink Pepper",
+        "Anise",
+        "Jasmine",
+        "Orange Blossom",
+        "Caramel",
+        "Cocoa",
+        "Vanilla",
+        "Smoke"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay11_2026_02_44_12PM.png?v=1778525061",
+      "searchableText": "Clive Christian Clive Christian Strange Heavens Out of the Blue Strange Skies Gourmand Oriental / Smoky Sweet Coffee Pink Pepper Anise Jasmine Orange Blossom Caramel Cocoa Vanilla Smoke",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Orange Blossom",
+        "Coffee",
+        "Jasmine",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 119,
+      "fragranceSlug": "bond-no-9-new-york-nights-119",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "New York Nights",
+      "originalFragranceSlug": "bond-no-9-new-york-nights",
+      "mistifyProductName": "City Nights",
+      "mistifyProductSlug": "city-nights",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/city-nights",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 New York Nights",
+      "audience": "unisex",
+      "classification": "Amber Vanilla",
+      "topNotes": [
+        "Gardenia",
+        "Carnation",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Flowers",
+        "Sea Notes",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Coffee",
+        "Caramel"
+      ],
+      "allNotes": [
+        "Gardenia",
+        "Carnation",
+        "Jasmine",
+        "Patchouli",
+        "Flowers",
+        "Sea Notes",
+        "Sandalwood",
+        "Coffee",
+        "Caramel"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-43-59PM-_1.png?v=1773460439",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 New York Nights City Nights Amber Vanilla unisex Gardenia Carnation Jasmine Patchouli Flowers Sea Notes Sandalwood Coffee Caramel",
+      "createdAt": "2026-05-04T04:41:31.460Z",
+      "sharedNotes": [
+        "Coffee",
+        "Jasmine",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 200,
+      "fragranceSlug": "xerjoff-accento-200",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Accento",
+      "originalFragranceSlug": "xerjoff-accento",
+      "mistifyProductName": "Accents",
+      "mistifyProductSlug": "accents",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+      "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pineapple",
+        "Hyacinth"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Iris",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Hyacinth",
+        "Jasmine",
+        "Iris",
+        "Pink Pepper",
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+      "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:36.220Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Jasmine",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 321,
+      "fragranceSlug": "amouage-reflection-man-321",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Reflection Man",
+      "originalFragranceSlug": "amouage-reflection-man",
+      "mistifyProductName": "Reflexion",
+      "mistifyProductSlug": "reflexion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/reflexion",
+      "publicInspiredByLabel": "Amouage Reflection Man",
+      "audience": null,
+      "classification": "Floral Woody / Fresh Aromatic",
+      "topNotes": [
+        "Rosemary",
+        "Pink Pepper",
+        "Petitgrain"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Neroli",
+        "Orris Root",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Rosemary",
+        "Pink Pepper",
+        "Petitgrain",
+        "Jasmine",
+        "Neroli",
+        "Orris Root",
+        "Ylang-Ylang",
+        "Sandalwood",
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun9_2026_07_43_40AM.png?v=1781005432",
+      "searchableText": "Amouage Amouage Reflection Man Reflexion Floral Woody / Fresh Aromatic Rosemary Pink Pepper Petitgrain Jasmine Neroli Orris Root Ylang-Ylang Sandalwood Cedar Vetiver Patchouli",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Jasmine",
+        "Patchouli",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 140,
+      "fragranceSlug": "creed-eladaria-140",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Eladaria",
+      "originalFragranceSlug": "creed-eladaria",
+      "mistifyProductName": "Eladarié",
+      "mistifyProductSlug": "eladarie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eladarie",
+      "publicInspiredByLabel": "Inspired by Creed Eladaria",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "Pink Pepper",
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Powdery Notes",
+        "Peony",
+        "Lily-of-the-Valley"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Mandarin Orange",
+        "Bergamot",
+        "Rose",
+        "Powdery Notes",
+        "Peony",
+        "Lily-of-the-Valley",
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay7_2026_04_17_24PM.png?v=1778185051",
+      "searchableText": "Creed creed Creed Eladaria Eladarié Floral womens Pink Pepper Mandarin Orange Bergamot Rose Powdery Notes Peony Lily-of-the-Valley Musk Ambroxan Cashmere Wood Vanilla",
+      "createdAt": "2026-05-04T04:41:32.651Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Vanilla",
+        "Cashmere Wood"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "fragrances": [
+    {
+      "id": 144,
+      "fragranceSlug": "ysl-yves-saint-laurent-y-intense-144",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Y Intense",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-y-intense",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Y Intense",
+      "audience": null,
+      "classification": "Aromatic Fougere",
+      "topNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries"
+      ],
+      "middleNotes": [
+        "Sage",
+        "Geranium",
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries",
+        "Sage",
+        "Geranium",
+        "Lavender",
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Y Intense Not verified Aromatic Fougere Ginger Bergamot Juniper Berries Sage Geranium Lavender Vetiver Tonka Bean Cedar Olibanum",
+      "createdAt": "2026-05-04T04:41:32.882Z",
+      "sharedNotes": [
+        "Ginger",
+        "Bergamot",
+        "Sage",
+        "Geranium",
+        "Cedar",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Rose"
+      ]
+    },
+    {
+      "id": 151,
+      "fragranceSlug": "ysl-yves-saint-laurent-exquisite-musk-151",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Exquisite Musk",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-exquisite-musk",
+      "mistifyProductName": "Exquis Musk",
+      "mistifyProductSlug": "exquis-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/exquis-musk",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Exquisite Musk",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Angelica"
+      ],
+      "middleNotes": [
+        "Iris",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Angelica",
+        "Iris",
+        "Rose",
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar22_2026_09_51_38AM.png?v=1774187508",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Exquisite Musk Exquis Musk Woody Floral Musk unisex Ginger Angelica Iris Rose Musk Ambergris Benzoin",
+      "createdAt": "2026-05-04T04:41:33.307Z",
+      "sharedNotes": [
+        "Ginger",
+        "Rose"
+      ]
+    },
+    {
+      "id": 110,
+      "fragranceSlug": "parfums-de-marly-castley-110",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Castley",
+      "originalFragranceSlug": "parfums-de-marly-castley",
+      "mistifyProductName": "Castellan",
+      "mistifyProductSlug": "castellan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/castellan",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Castley",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Pepper",
+        "Ginger",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Neroli",
+        "Petitgrain",
+        "Timur",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Akigalawood",
+        "Labdanum",
+        "Benzoin",
+        "Leather"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Pepper",
+        "Ginger",
+        "Grapefruit",
+        "Pepper",
+        "Neroli",
+        "Petitgrain",
+        "Timur",
+        "Rose",
+        "Akigalawood",
+        "Labdanum",
+        "Benzoin",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-29-17AM-_1.png?v=1773460238",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Castley Castellan Citrus Aromatic mens Bergamot Black Pepper Ginger Grapefruit Pepper Neroli Petitgrain Timur Rose Akigalawood Labdanum Benzoin Leather",
+      "createdAt": "2026-05-04T04:41:30.917Z",
+      "sharedNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Bergamot",
+        "Rose"
+      ]
+    },
+    {
+      "id": 152,
+      "fragranceSlug": "ysl-yves-saint-laurent-la-nuit-de-l-homme-152",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "La Nuit de l’Homme",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-la-nuit-de-l-homme",
+      "mistifyProductName": "The Night of Man",
+      "mistifyProductSlug": "the-night-of-man",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/the-night-of-man",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) La Nuit de l’Homme",
+      "audience": "mens",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Caraway"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Lavender",
+        "Cedar",
+        "Vetiver",
+        "Caraway"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-41-32AM-_1.png?v=1773460417",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) La Nuit de l’Homme The Night of Man Woody Spicy mens Cardamom Lavender Cedar Vetiver Caraway",
+      "createdAt": "2026-05-04T04:41:33.364Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Cedar",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 125,
+      "fragranceSlug": "creed-aventus-absolute-125",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus Absolute",
+      "originalFragranceSlug": "creed-aventus-absolute",
+      "mistifyProductName": "Absolu Crestus",
+      "mistifyProductSlug": "absolu-crestus",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/absolu-crestus",
+      "publicInspiredByLabel": "Inspired by Creed Aventus Absolute",
+      "audience": "mens",
+      "classification": "Chypre Fruity",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Nutmeg",
+        "Cloves"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Cinnamon",
+        "Citron",
+        "Cardamom",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vetiver",
+        "Oakmoss",
+        "Ambroxan",
+        "Sandalwood",
+        "Musk",
+        "Tonka",
+        "Evernyl"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Nutmeg",
+        "Cloves",
+        "Ginger",
+        "Cinnamon",
+        "Citron",
+        "Cardamom",
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oakmoss",
+        "Ambroxan",
+        "Sandalwood",
+        "Musk",
+        "Tonka",
+        "Evernyl"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_34_56AM.png?v=1765422817",
+      "searchableText": "Creed creed Creed Aventus Absolute Absolu Crestus Chypre Fruity mens Grapefruit Bergamot Pink Pepper Black Currant Pineapple Nutmeg Cloves Ginger Cinnamon Citron Cardamom Rose Patchouli Vetiver Oakmoss Ambroxan Sandalwood Musk Tonka Evernyl",
+      "createdAt": "2026-05-04T04:41:31.801Z",
+      "sharedNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot",
+        "Rose",
+        "Vetiver"
+      ]
+    }
+  ]
+}

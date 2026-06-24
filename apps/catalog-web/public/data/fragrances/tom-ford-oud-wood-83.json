@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 83,
+    "fragranceSlug": "tom-ford-oud-wood-83",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Oud Wood",
+    "originalFragranceSlug": "tom-ford-oud-wood",
+    "mistifyProductName": "Woody Oud",
+    "mistifyProductSlug": "woody-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/woody-oud",
+    "publicInspiredByLabel": "Inspired by Tom Ford Oud Wood",
+    "audience": "unisex",
+    "classification": "Oriental Woody",
+    "topNotes": [
+      "Rosewood",
+      "Cardamom",
+      "Sichuan Pepper"
+    ],
+    "middleNotes": [
+      "Oud",
+      "Sandalwood",
+      "Vetiver"
+    ],
+    "baseNotes": [
+      "Tonka Bean",
+      "Vanilla",
+      "Amber"
+    ],
+    "allNotes": [
+      "Rosewood",
+      "Cardamom",
+      "Sichuan Pepper",
+      "Oud",
+      "Sandalwood",
+      "Vetiver",
+      "Tonka Bean",
+      "Vanilla",
+      "Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_36_27PM.png?v=1765422876",
+    "searchableText": "Tom Ford tom ford Tom Ford Oud Wood Woody Oud Oriental Woody unisex Rosewood Cardamom Sichuan Pepper Oud Sandalwood Vetiver Tonka Bean Vanilla Amber",
+    "createdAt": "2026-05-04T04:41:29.342Z"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "fragrances": [
+    {
+      "id": 11,
+      "fragranceSlug": "maison-francis-kurkdjian-724-11",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "724",
+      "originalFragranceSlug": "maison-francis-kurkdjian-724",
+      "mistifyProductName": "Urban Glow",
+      "mistifyProductSlug": "urban-glow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-glow",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian 724",
+      "audience": "unisex",
+      "classification": "Citrus Floral",
+      "topNotes": [
+        "Aldehydes",
+        "Italian Bergamot"
+      ],
+      "middleNotes": [
+        "White Flowers",
+        "Sweet Pea",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Italian Bergamot",
+        "White Flowers",
+        "Sweet Pea",
+        "Jasmine",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_08_29PM.png?v=1765422970",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian 724 Urban Glow Citrus Floral unisex Aldehydes Italian Bergamot White Flowers Sweet Pea Jasmine Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.153Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 12,
+      "fragranceSlug": "maison-francis-kurkdjian-a-p-o-m-12",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "A.P.O.M",
+      "originalFragranceSlug": "maison-francis-kurkdjian-a-p-o-m",
+      "mistifyProductName": "A Part of Aura",
+      "mistifyProductSlug": "a-part-of-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/a-part-of-aura",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian A.P.O.M",
+      "audience": "unisex",
+      "classification": "Amber Floral Fougere",
+      "topNotes": [
+        "Sweet Florals",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "allNotes": [
+        "Sweet Florals",
+        "Orange Blossom",
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom",
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-08-30AM-_1.png?v=1773460306",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian A.P.O.M A Part of Aura Amber Floral Fougere unisex Sweet Florals Orange Blossom Lavender Ylang-Ylang Orange Blossom Vanilla White Musk Light Amber",
+      "createdAt": "2026-05-04T04:41:25.206Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 155,
+      "fragranceSlug": "initio-absolute-aphrodisiac-155",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Absolute Aphrodisiac",
+      "originalFragranceSlug": "initio-absolute-aphrodisiac",
+      "mistifyProductName": "Sensual Aphrodite",
+      "mistifyProductSlug": "sensual-aphrodite",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sensual-aphrodite",
+      "publicInspiredByLabel": "Inspired by Initio Absolute Aphrodisiac",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-11-12-10AM-_1.png?v=1773460511",
+      "searchableText": "Initio initio parfums Initio Parfums Absolute Aphrodisiac Sensual Aphrodite Oriental Spicy unisex Vanilla Amber Castoreum Leather Musk White Flowers",
+      "createdAt": "2026-05-04T04:41:33.535Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 200,
+      "fragranceSlug": "xerjoff-accento-200",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Accento",
+      "originalFragranceSlug": "xerjoff-accento",
+      "mistifyProductName": "Accents",
+      "mistifyProductSlug": "accents",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+      "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pineapple",
+        "Hyacinth"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Iris",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Hyacinth",
+        "Jasmine",
+        "Iris",
+        "Pink Pepper",
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+      "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:36.220Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 211,
+      "fragranceSlug": "rabanne-after-club-211",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "After Club",
+      "originalFragranceSlug": "rabanne-after-club",
+      "mistifyProductName": "Club Afterglow",
+      "mistifyProductSlug": "club-afterglow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/club-afterglow",
+      "publicInspiredByLabel": "Inspired by Rabanne After Club",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Vanilla",
+        "Labdanum",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-33-34PM-_1.png?v=1773460311",
+      "searchableText": "Rabanne rabanne Rabanne After Club Club Afterglow Woody Aromatic unisex Lavender Vanilla Labdanum Amber",
+      "createdAt": "2026-05-04T04:41:36.872Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 27,
+      "fragranceSlug": "louis-vuitton-afternoon-swim-27",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Afternoon Swim",
+      "originalFragranceSlug": "louis-vuitton-afternoon-swim",
+      "mistifyProductName": "Afterdawn Swim",
+      "mistifyProductSlug": "afterdawn-swim",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/afterdawn-swim",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Afternoon Swim",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Ginger"
+      ],
+      "baseNotes": [
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin",
+        "Orange",
+        "Ginger",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_12_16_25PM.png?v=1765422821",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Afternoon Swim Afterdawn Swim Citrus unisex Bergamot Mandarin Orange Ginger Ambergris",
+      "createdAt": "2026-05-04T04:41:26.069Z",
+      "sharedNotes": []
+    }
+  ]
+}

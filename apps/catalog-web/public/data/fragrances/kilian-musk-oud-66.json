@@ -1,0 +1,51 @@
+{
+  "fragrance": {
+    "id": 66,
+    "fragranceSlug": "kilian-musk-oud-66",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Musk Oud",
+    "originalFragranceSlug": "kilian-musk-oud",
+    "mistifyProductName": "Oud Musk",
+    "mistifyProductSlug": "oud-musk",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-musk",
+    "publicInspiredByLabel": "Inspired by Kilian Musk Oud",
+    "audience": "unisex",
+    "classification": "Woody Floral Musk",
+    "topNotes": [
+      "Lemon",
+      "Cardamom",
+      "Coriander"
+    ],
+    "middleNotes": [
+      "Bulgarian Rose",
+      "Cypress",
+      "Geranium",
+      "Artemisia"
+    ],
+    "baseNotes": [
+      "Oud",
+      "Musk",
+      "Rum",
+      "Incense",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Lemon",
+      "Cardamom",
+      "Coriander",
+      "Bulgarian Rose",
+      "Cypress",
+      "Geranium",
+      "Artemisia",
+      "Oud",
+      "Musk",
+      "Rum",
+      "Incense",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudMusk.png?v=1765422915",
+    "searchableText": "Kilian kilian By Kilian Musk Oud Oud Musk Woody Floral Musk unisex Lemon Cardamom Coriander Bulgarian Rose Cypress Geranium Artemisia Oud Musk Rum Incense Patchouli",
+    "createdAt": "2026-05-04T04:41:28.331Z"
+  }
+}

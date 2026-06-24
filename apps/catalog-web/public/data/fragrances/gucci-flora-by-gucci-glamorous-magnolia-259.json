@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 259,
+    "fragranceSlug": "gucci-flora-by-gucci-glamorous-magnolia-259",
+    "brandName": "Gucci",
+    "brandSlug": "gucci",
+    "originalFragranceName": "Flora by Gucci Glamorous Magnolia",
+    "originalFragranceSlug": "gucci-flora-by-gucci-glamorous-magnolia",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Gucci Flora by Gucci Glamorous Magnolia",
+    "audience": null,
+    "classification": "Floral Green",
+    "topNotes": [
+      "Green Notes",
+      "Freesia",
+      "Citruses"
+    ],
+    "middleNotes": [
+      "Magnolia",
+      "Peony"
+    ],
+    "baseNotes": [
+      "Mexican Chocolate",
+      "Musk",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Green Notes",
+      "Freesia",
+      "Citruses",
+      "Magnolia",
+      "Peony",
+      "Mexican Chocolate",
+      "Musk",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Gucci gucci Gucci Flora by Gucci Glamorous Magnolia Not verified Floral Green Green Notes Freesia Citruses Magnolia Peony Mexican Chocolate Musk Sandalwood",
+    "createdAt": "2026-05-04T04:41:39.775Z"
+  }
+}

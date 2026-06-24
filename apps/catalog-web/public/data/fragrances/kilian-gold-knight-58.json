@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 58,
+    "fragranceSlug": "kilian-gold-knight-58",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Gold Knight",
+    "originalFragranceSlug": "kilian-gold-knight",
+    "mistifyProductName": "Knight in Gold",
+    "mistifyProductSlug": "knight-in-gold",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/knight-in-gold",
+    "publicInspiredByLabel": "Inspired by Kilian Gold Knight",
+    "audience": "unisex",
+    "classification": "Amber/Sweet Spicy",
+    "topNotes": [
+      "Anise",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Honey",
+      "Vanilla"
+    ],
+    "baseNotes": [
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Anise",
+      "Bergamot",
+      "Honey",
+      "Vanilla",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_39_10AM.png?v=1774327156",
+    "searchableText": "Kilian kilian By Kilian Gold Knight Knight in Gold Amber/Sweet Spicy unisex Anise Bergamot Honey Vanilla Patchouli",
+    "createdAt": "2026-05-04T04:41:27.879Z"
+  }
+}

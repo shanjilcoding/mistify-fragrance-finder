@@ -1,0 +1,270 @@
+{
+  "fragrances": [
+    {
+      "id": 199,
+      "fragranceSlug": "maison-mataha-escapade-gourmande-199",
+      "brandName": "Maison Mataha",
+      "brandSlug": "maison-mataha",
+      "originalFragranceName": "Escapade Gourmande",
+      "originalFragranceSlug": "maison-mataha-escapade-gourmande",
+      "mistifyProductName": "Gourmande Évasion",
+      "mistifyProductSlug": "gourmande-evasion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gourmande-evasion",
+      "publicInspiredByLabel": "Inspired by Maison Mataha Escapade Gourmande",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar Cane"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sugar Cane",
+        "Vanilla",
+        "Tonka Bean",
+        "Benzoin",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb24-2026-11-56-42AM-_1.png?v=1773460130",
+      "searchableText": "Maison Mataha maison mataha Maison Mataha Escapade Gourmande Gourmande Évasion Oriental Vanilla unisex Sugar Cane Vanilla Tonka Bean Benzoin Musk",
+      "createdAt": "2026-05-04T04:41:36.157Z",
+      "sharedNotes": [
+        "Musk",
+        "Benzoin"
+      ]
+    },
+    {
+      "id": 105,
+      "fragranceSlug": "parfums-de-marly-oriana-105",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Oriana",
+      "originalFragranceSlug": "parfums-de-marly-oriana",
+      "mistifyProductName": "Oriental",
+      "mistifyProductSlug": "oriental",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oriental",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Oriana",
+      "audience": "womens",
+      "classification": "Floral Fruity Gourmand",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Black Currant",
+        "Raspberry"
+      ],
+      "baseNotes": [
+        "Marshmallow",
+        "Whipped Cream",
+        "Musk",
+        "Ambrette"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Grapefruit",
+        "Orange Blossom",
+        "Black Currant",
+        "Raspberry",
+        "Marshmallow",
+        "Whipped Cream",
+        "Musk",
+        "Ambrette"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_01_56AM.png?v=1774324934",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Oriana Oriental Floral Fruity Gourmand womens Mandarin Orange Bergamot Grapefruit Orange Blossom Black Currant Raspberry Marshmallow Whipped Cream Musk Ambrette",
+      "createdAt": "2026-05-04T04:41:30.629Z",
+      "sharedNotes": [
+        "Mandarin Orange",
+        "Ambrette",
+        "Musk"
+      ]
+    },
+    {
+      "id": 16,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte-16",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Vitae Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte",
+      "mistifyProductName": "Vitae Essence",
+      "mistifyProductSlug": "vitae-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vitae-essence",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Vitae Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Floral Notes",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Floral Notes",
+        "Solar Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/VitaeEssence.png?v=1765422978",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Vitae Cologne Forte Vitae Essence Citrus unisex Mandarin Orange Bergamot Floral Notes Solar Notes Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.428Z",
+      "sharedNotes": [
+        "Mandarin Orange",
+        "Musk"
+      ]
+    },
+    {
+      "id": 270,
+      "fragranceSlug": "diptyque-do-son-270",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Do Son",
+      "originalFragranceSlug": "diptyque-do-son",
+      "mistifyProductName": "Do Sonara",
+      "mistifyProductSlug": "do-sonara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/do-sonara",
+      "publicInspiredByLabel": "Inspired by Diptyque Do Son",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "African Orange Flower",
+        "Iris",
+        "Rose"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "African Orange Flower",
+        "Iris",
+        "Rose",
+        "Tuberose",
+        "Pink Pepper",
+        "Musk",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-23-08PM-_1.png?v=1773460372",
+      "searchableText": "Diptyque diptyque Diptyque Do Son Do Sonara Floral womens African Orange Flower Iris Rose Tuberose Pink Pepper Musk Benzoin",
+      "createdAt": "2026-05-04T04:41:40.444Z",
+      "sharedNotes": [
+        "Musk",
+        "Benzoin"
+      ]
+    },
+    {
+      "id": 109,
+      "fragranceSlug": "parfums-de-marly-palatine-109",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Palatine",
+      "originalFragranceSlug": "parfums-de-marly-palatine",
+      "mistifyProductName": "Pala‑Majesty",
+      "mistifyProductSlug": "pala-majesty",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pala-majesty",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Palatine",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear",
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes",
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-22-44PM-_1.png?v=1773460298",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Palatine Pala‑Majesty Floral Woody Musk womens Bergamot Mandarin Orange Pear Violet Petals Lavender Floral Notes Sandalwood Musk Patchouli Vanilla",
+      "createdAt": "2026-05-04T04:41:30.859Z",
+      "sharedNotes": [
+        "Mandarin Orange",
+        "Pear",
+        "Musk"
+      ]
+    },
+    {
+      "id": 151,
+      "fragranceSlug": "ysl-yves-saint-laurent-exquisite-musk-151",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Exquisite Musk",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-exquisite-musk",
+      "mistifyProductName": "Exquis Musk",
+      "mistifyProductSlug": "exquis-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/exquis-musk",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Exquisite Musk",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Angelica"
+      ],
+      "middleNotes": [
+        "Iris",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Angelica",
+        "Iris",
+        "Rose",
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar22_2026_09_51_38AM.png?v=1774187508",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Exquisite Musk Exquis Musk Woody Floral Musk unisex Ginger Angelica Iris Rose Musk Ambergris Benzoin",
+      "createdAt": "2026-05-04T04:41:33.307Z",
+      "sharedNotes": [
+        "Musk",
+        "Benzoin"
+      ]
+    }
+  ]
+}

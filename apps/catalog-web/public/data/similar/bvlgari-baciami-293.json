@@ -1,0 +1,260 @@
+{
+  "fragrances": [
+    {
+      "id": 211,
+      "fragranceSlug": "rabanne-after-club-211",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "After Club",
+      "originalFragranceSlug": "rabanne-after-club",
+      "mistifyProductName": "Club Afterglow",
+      "mistifyProductSlug": "club-afterglow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/club-afterglow",
+      "publicInspiredByLabel": "Inspired by Rabanne After Club",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Vanilla",
+        "Labdanum",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-33-34PM-_1.png?v=1773460311",
+      "searchableText": "Rabanne rabanne Rabanne After Club Club Afterglow Woody Aromatic unisex Lavender Vanilla Labdanum Amber",
+      "createdAt": "2026-05-04T04:41:36.872Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 175,
+      "fragranceSlug": "mancera-aoud-orchid-175",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Aoud Orchid",
+      "originalFragranceSlug": "mancera-aoud-orchid",
+      "mistifyProductName": "Orchid Essence",
+      "mistifyProductSlug": "orchid-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orchid-essence",
+      "publicInspiredByLabel": "Inspired by Mancera Aoud Orchid",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange",
+        "Orchid",
+        "Patchouli",
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OrchidEssence.png?v=1765422998",
+      "searchableText": "Mancera mancera Mancera Aoud Orchid Orchid Essence Oriental Floral unisex Coconut Peach Mandarin Orange Orchid Patchouli Woody Notes Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.708Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 123,
+      "fragranceSlug": "bond-no-9-nomad-123",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Nomad",
+      "originalFragranceSlug": "bond-no-9-nomad",
+      "mistifyProductName": "Nomadique",
+      "mistifyProductSlug": "nomadique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/nomadique",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Nomad",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Black Currant",
+        "Pear",
+        "Quince"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Orris",
+        "Violet Leaves"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Black Currant",
+        "Pear",
+        "Quince",
+        "Rose",
+        "Oud",
+        "Orris",
+        "Violet Leaves",
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay7_2026_04_20_29PM.png?v=1778185236",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Nomad Nomadique Oriental Floral unisex Black Currant Pear Quince Rose Oud Orris Violet Leaves Amber Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:31.683Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 19,
+      "fragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold-19",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Gentle Fluidity Gold",
+      "originalFragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold",
+      "mistifyProductName": "Gently Fluid",
+      "mistifyProductSlug": "gently-fluid",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gently-fluid",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Gentle Fluidity Gold",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Juniper Berries",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Coriander",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Coriander",
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_14_05AM.png?v=1765422980",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Gentle Fluidity Gold Gently Fluid Oriental Vanilla unisex Juniper Berries Nutmeg Coriander Vanilla Amber Musk",
+      "createdAt": "2026-05-04T04:41:25.599Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 268,
+      "fragranceSlug": "byredo-animalique-268",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Animalique",
+      "originalFragranceSlug": "byredo-animalique",
+      "mistifyProductName": "Animal Instincts",
+      "mistifyProductSlug": "animal-instincts",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/animal-instincts",
+      "publicInspiredByLabel": "Inspired by Byredo Animalique",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Violet",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Tobacco Leaf",
+        "Amber"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Violet",
+        "Mimosa",
+        "Suede",
+        "Tobacco Leaf",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-19-10PM-_1.png?v=1773460283",
+      "searchableText": "Byredo byredo Byredo Animalique Animal Instincts Oriental Floral unisex Bergamot Lemon Violet Mimosa Suede Tobacco Leaf Amber",
+      "createdAt": "2026-05-04T04:41:40.321Z",
+      "sharedNotes": [
+        "Amber"
+      ]
+    },
+    {
+      "id": 174,
+      "fragranceSlug": "montale-crazy-in-love-174",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Crazy In Love",
+      "originalFragranceSlug": "montale-crazy-in-love",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Crazy In Love",
+      "audience": null,
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Wild Rose",
+        "Violet Leaves"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Brown Sugar"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla Bean"
+      ],
+      "allNotes": [
+        "Wild Rose",
+        "Violet Leaves",
+        "Saffron",
+        "Brown Sugar",
+        "Amber",
+        "Vanilla Bean"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Crazy In Love Not verified Oriental Floral Wild Rose Violet Leaves Saffron Brown Sugar Amber Vanilla Bean",
+      "createdAt": "2026-05-04T04:41:34.648Z",
+      "sharedNotes": [
+        "Amber"
+      ]
+    }
+  ]
+}

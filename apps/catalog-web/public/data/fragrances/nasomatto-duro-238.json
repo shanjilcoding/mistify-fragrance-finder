@@ -1,0 +1,31 @@
+{
+  "fragrance": {
+    "id": 238,
+    "fragranceSlug": "nasomatto-duro-238",
+    "brandName": "Nasomatto",
+    "brandSlug": "nasomatto",
+    "originalFragranceName": "Duro",
+    "originalFragranceSlug": "nasomatto-duro",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Nasomatto Duro",
+    "audience": null,
+    "classification": "Woody/Leather/Spicy",
+    "topNotes": [],
+    "middleNotes": [
+      "Woods",
+      "Leather",
+      "Spices"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Woods",
+      "Leather",
+      "Spices"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Nasomatto nasomatto Nasomatto Duro Not verified Woody/Leather/Spicy Woods Leather Spices",
+    "createdAt": "2026-05-04T04:41:38.490Z"
+  }
+}

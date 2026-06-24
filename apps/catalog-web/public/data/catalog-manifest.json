@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-06-21T08:21:15.679Z",
+  "fragranceCount": 335,
+  "brandCount": 69,
+  "files": {
+    "fragrancesIndex": "/data/fragrances-index.json",
+    "brandsIndex": "/data/brands-index.json",
+    "brandDirectory": "/data/brands",
+    "fragranceDirectory": "/data/fragrances",
+    "similarDirectory": "/data/similar"
+  }
+}

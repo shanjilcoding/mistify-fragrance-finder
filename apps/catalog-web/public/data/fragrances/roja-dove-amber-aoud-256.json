@@ -1,0 +1,63 @@
+{
+  "fragrance": {
+    "id": 256,
+    "fragranceSlug": "roja-dove-amber-aoud-256",
+    "brandName": "Roja Dove",
+    "brandSlug": "roja-dove",
+    "originalFragranceName": "Amber Aoud",
+    "originalFragranceSlug": "roja-dove-amber-aoud",
+    "mistifyProductName": "Amber Oudh",
+    "mistifyProductSlug": "amber-oudh",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-oudh",
+    "publicInspiredByLabel": "Inspired by Roja Dove Amber Aoud",
+    "audience": "unisex",
+    "classification": "Oriental Spicy",
+    "topNotes": [
+      "Bergamot",
+      "Lemon",
+      "Lime"
+    ],
+    "middleNotes": [
+      "Rose",
+      "Fig",
+      "Ylang-Ylang",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Oud",
+      "Ambergris",
+      "Saffron",
+      "Civet",
+      "Sandalwood",
+      "Musk",
+      "Orris",
+      "Cinnamon",
+      "Patchouli",
+      "Birch",
+      "Oakmoss"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Lemon",
+      "Lime",
+      "Rose",
+      "Fig",
+      "Ylang-Ylang",
+      "Jasmine",
+      "Oud",
+      "Ambergris",
+      "Saffron",
+      "Civet",
+      "Sandalwood",
+      "Musk",
+      "Orris",
+      "Cinnamon",
+      "Patchouli",
+      "Birch",
+      "Oakmoss"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-12-15PM-_1.png?v=1773460351",
+    "searchableText": "Roja Dove roja dove Roja Dove Amber Aoud Amber Oudh Oriental Spicy unisex Bergamot Lemon Lime Rose Fig Ylang-Ylang Jasmine Oud Ambergris Saffron Civet Sandalwood Musk Orris Cinnamon Patchouli Birch Oakmoss",
+    "createdAt": "2026-05-04T04:41:39.587Z"
+  }
+}

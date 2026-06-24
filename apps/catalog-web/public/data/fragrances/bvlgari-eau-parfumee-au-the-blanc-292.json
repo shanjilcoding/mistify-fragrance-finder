@@ -1,0 +1,53 @@
+{
+  "fragrance": {
+    "id": 292,
+    "fragranceSlug": "bvlgari-eau-parfumee-au-the-blanc-292",
+    "brandName": "Bvlgari",
+    "brandSlug": "bvlgari",
+    "originalFragranceName": "Eau Parfumée Au Thé Blanc",
+    "originalFragranceSlug": "bvlgari-eau-parfumee-au-the-blanc",
+    "mistifyProductName": "Blanc Théique",
+    "mistifyProductSlug": "blanc-theique",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/blanc-theique",
+    "publicInspiredByLabel": "Inspired by Bvlgari Eau Parfumée Au Thé Blanc",
+    "audience": "unisex",
+    "classification": "Floral Woody Musk",
+    "topNotes": [
+      "Tea",
+      "Artemisia",
+      "Bergamot",
+      "Orange Blossom",
+      "Bitter Orange"
+    ],
+    "middleNotes": [
+      "Pepper",
+      "Cardamom",
+      "Coriander"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Woody Notes",
+      "Jasmine",
+      "Amber",
+      "Rose"
+    ],
+    "allNotes": [
+      "Tea",
+      "Artemisia",
+      "Bergamot",
+      "Orange Blossom",
+      "Bitter Orange",
+      "Pepper",
+      "Cardamom",
+      "Coriander",
+      "Musk",
+      "Woody Notes",
+      "Jasmine",
+      "Amber",
+      "Rose"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov14-2025-10-23-42AM-_1.png?v=1773460213",
+    "searchableText": "Bvlgari bvlgari Bvlgari Eau Parfumée Au Thé Blanc Blanc Théique Floral Woody Musk unisex Tea Artemisia Bergamot Orange Blossom Bitter Orange Pepper Cardamom Coriander Musk Woody Notes Jasmine Amber Rose",
+    "createdAt": "2026-05-04T04:41:41.776Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 181,
+    "fragranceSlug": "mancera-roses-vanille-181",
+    "brandName": "Mancera",
+    "brandSlug": "mancera",
+    "originalFragranceName": "Roses Vanille",
+    "originalFragranceSlug": "mancera-roses-vanille",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Mancera Roses Vanille",
+    "audience": null,
+    "classification": "Oriental Vanilla",
+    "topNotes": [
+      "Italian Lemon"
+    ],
+    "middleNotes": [
+      "Turkish Rose"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "White Musk",
+      "Cedar"
+    ],
+    "allNotes": [
+      "Italian Lemon",
+      "Turkish Rose",
+      "Vanilla",
+      "White Musk",
+      "Cedar"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Mancera mancera Mancera Roses Vanille Not verified Oriental Vanilla Italian Lemon Turkish Rose Vanilla White Musk Cedar",
+    "createdAt": "2026-05-04T04:41:35.051Z"
+  }
+}

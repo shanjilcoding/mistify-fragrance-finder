@@ -1,0 +1,249 @@
+{
+  "fragrances": [
+    {
+      "id": 161,
+      "fragranceSlug": "initio-side-effect-161",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Side Effect",
+      "originalFragranceSlug": "initio-side-effect",
+      "mistifyProductName": "Secondary Effects",
+      "mistifyProductSlug": "secondary-effects",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/secondary-effects",
+      "publicInspiredByLabel": "Inspired by Initio Side Effect",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rum",
+        "Cinnamon"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Leather"
+      ],
+      "allNotes": [
+        "Rum",
+        "Cinnamon",
+        "Tobacco",
+        "Vanilla",
+        "Musk",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_15_23PM.png?v=1765422996",
+      "searchableText": "Initio initio parfums Initio Parfums Side Effect Secondary Effects Oriental unisex Rum Cinnamon Tobacco Vanilla Musk Leather",
+      "createdAt": "2026-05-04T04:41:33.880Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Leather",
+        "Cinnamon"
+      ]
+    },
+    {
+      "id": 155,
+      "fragranceSlug": "initio-absolute-aphrodisiac-155",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Absolute Aphrodisiac",
+      "originalFragranceSlug": "initio-absolute-aphrodisiac",
+      "mistifyProductName": "Sensual Aphrodite",
+      "mistifyProductSlug": "sensual-aphrodite",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sensual-aphrodite",
+      "publicInspiredByLabel": "Inspired by Initio Absolute Aphrodisiac",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-11-12-10AM-_1.png?v=1773460511",
+      "searchableText": "Initio initio parfums Initio Parfums Absolute Aphrodisiac Sensual Aphrodite Oriental Spicy unisex Vanilla Amber Castoreum Leather Musk White Flowers",
+      "createdAt": "2026-05-04T04:41:33.535Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Leather"
+      ]
+    },
+    {
+      "id": 219,
+      "fragranceSlug": "ermenegildo-zegna-bourbon-vanilla-219",
+      "brandName": "Ermenegildo Zegna",
+      "brandSlug": "ermenegildo-zegna",
+      "originalFragranceName": "Bourbon Vanilla",
+      "originalFragranceSlug": "ermenegildo-zegna-bourbon-vanilla",
+      "mistifyProductName": "Bourbon Vanille",
+      "mistifyProductSlug": "bourbon-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bourbon-vanille",
+      "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Bourbon Vanilla",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Vanilla",
+        "Ginger",
+        "Cassis",
+        "Vetiver",
+        "Cypriol/Nagarmotha",
+        "Turkish Rose"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Vanilla",
+        "Ginger",
+        "Cassis",
+        "Vetiver",
+        "Cypriol/Nagarmotha",
+        "Turkish Rose"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar13-2026-01-28-48PM-_1.png?v=1773460116",
+      "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Bourbon Vanilla Bourbon Vanille Oriental Spicy unisex Vanilla Ginger Cassis Vetiver Cypriol/Nagarmotha Turkish Rose",
+      "createdAt": "2026-05-04T04:41:37.332Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Cassis"
+      ]
+    },
+    {
+      "id": 53,
+      "fragranceSlug": "kilian-angels-share-53",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Angels’ Share",
+      "originalFragranceSlug": "kilian-angels-share",
+      "mistifyProductName": "Angels’ Limit",
+      "mistifyProductSlug": "angels-limit",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/angels-limit",
+      "publicInspiredByLabel": "Inspired by Kilian Angels’ Share",
+      "audience": "unisex",
+      "classification": "Gourmand",
+      "topNotes": [
+        "Cognac"
+      ],
+      "middleNotes": [
+        "Oak",
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Praline",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Cognac",
+        "Oak",
+        "Cinnamon",
+        "Tonka Bean",
+        "Sandalwood",
+        "Praline",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_27_43PM.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Angels’ Share Angels’ Limit Gourmand unisex Cognac Oak Cinnamon Tonka Bean Sandalwood Praline Vanilla",
+      "createdAt": "2026-05-04T04:41:27.592Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Cinnamon"
+      ]
+    },
+    {
+      "id": 45,
+      "fragranceSlug": "louis-vuitton-fantasmagory-45",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Fantasmagory",
+      "originalFragranceSlug": "louis-vuitton-fantasmagory",
+      "mistifyProductName": "Fantasmique",
+      "mistifyProductSlug": "fantasmique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fantasmique",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Fantasmagory",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Anise",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Almond",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Leather"
+      ],
+      "allNotes": [
+        "Anise",
+        "Ginger",
+        "Almond",
+        "Floral Notes",
+        "Vanilla",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec18-2025-10-09-42AM-_1.png?v=1773460194",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Fantasmagory Fantasmique Oriental Vanilla unisex Anise Ginger Almond Floral Notes Vanilla Leather",
+      "createdAt": "2026-05-04T04:41:27.120Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Leather"
+      ]
+    },
+    {
+      "id": 79,
+      "fragranceSlug": "tom-ford-lavender-extreme-79",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lavender Extreme",
+      "originalFragranceSlug": "tom-ford-lavender-extreme",
+      "mistifyProductName": "Lavender Extremism",
+      "mistifyProductSlug": "lavender-extremism",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lavender-extremism",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lavender Extreme",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LavenderExtremism.png?v=1765422873",
+      "searchableText": "Tom Ford tom ford Tom Ford Lavender Extreme Lavender Extremism Aromatic unisex Lavender Bergamot Cinnamon Tonka Bean Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:29.108Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Cinnamon"
+      ]
+    }
+  ]
+}

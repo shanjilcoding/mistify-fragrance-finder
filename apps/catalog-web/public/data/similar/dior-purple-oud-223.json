@@ -1,0 +1,246 @@
+{
+  "fragrances": [
+    {
+      "id": 167,
+      "fragranceSlug": "montale-aoud-safran-167",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Safran",
+      "originalFragranceSlug": "montale-aoud-safran",
+      "mistifyProductName": "Saffron Oud",
+      "mistifyProductSlug": "saffron-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saffron-oud",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Safran",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Saffron",
+        "Arabian Rose",
+        "Oud"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Saffron",
+        "Arabian Rose",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/SaffronOud.png?v=1765422951",
+      "searchableText": "Montale montale Montale Aoud Safran Saffron Oud Woody Spicy unisex Saffron Arabian Rose Oud",
+      "createdAt": "2026-05-04T04:41:34.229Z",
+      "sharedNotes": [
+        "Oud",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 26,
+      "fragranceSlug": "maison-francis-kurkdjian-oud-velvet-mood-26",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Oud Velvet Mood",
+      "originalFragranceSlug": "maison-francis-kurkdjian-oud-velvet-mood",
+      "mistifyProductName": "Velour Oud",
+      "mistifyProductSlug": "velour-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/velour-oud",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud Velvet Mood",
+      "audience": "unisex",
+      "classification": "Oud/Woody Leather",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Cinnamon",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Copahu Balm"
+      ],
+      "allNotes": [
+        "Oud",
+        "Cinnamon",
+        "Saffron",
+        "Copahu Balm"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr24_2026_12_23_01PM.png?v=1777047799",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Velvet Mood Velour Oud Oud/Woody Leather unisex Oud Cinnamon Saffron Copahu Balm",
+      "createdAt": "2026-05-04T04:41:26.015Z",
+      "sharedNotes": [
+        "Oud",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 41,
+      "fragranceSlug": "louis-vuitton-les-sables-roses-41",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Les Sables Roses",
+      "originalFragranceSlug": "louis-vuitton-les-sables-roses",
+      "mistifyProductName": "Sable Roseux",
+      "mistifyProductSlug": "sable-roseux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sable-roseux",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Les Sables Roses",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Bulgarian Rose"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Black Pepper"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Rose",
+        "Bulgarian Rose",
+        "Saffron",
+        "Black Pepper",
+        "Oud",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-21-03PM-_1.png?v=1773460255",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Les Sables Roses Sable Roseux Oriental Floral unisex Rose Bulgarian Rose Saffron Black Pepper Oud Ambergris",
+      "createdAt": "2026-05-04T04:41:26.886Z",
+      "sharedNotes": [
+        "Oud",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 120,
+      "fragranceSlug": "bond-no-9-new-york-oud-120",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "New York Oud",
+      "originalFragranceSlug": "bond-no-9-new-york-oud",
+      "mistifyProductName": "Urban Oud",
+      "mistifyProductSlug": "urban-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-oud",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 New York Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Plum",
+        "Saffron",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root"
+      ],
+      "baseNotes": [
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Plum",
+        "Saffron",
+        "Orange",
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root",
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_18_40AM.png?v=1774325928",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 New York Oud Urban Oud Oriental unisex Plum Saffron Orange Rose Oud Patchouli Orris Root Musk White Honey Vetiver",
+      "createdAt": "2026-05-04T04:41:31.518Z",
+      "sharedNotes": [
+        "Oud",
+        "Orange",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 157,
+      "fragranceSlug": "initio-oud-for-greatness-157",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Greatness",
+      "originalFragranceSlug": "initio-oud-for-greatness",
+      "mistifyProductName": "Majestic Oud",
+      "mistifyProductSlug": "majestic-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-oud",
+      "publicInspiredByLabel": "Inspired by Initio Oud for Greatness",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Oud"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_56_51PM.png?v=1765422990",
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Greatness Majestic Oud Woody Spicy unisex Saffron Nutmeg Lavender Oud Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.651Z",
+      "sharedNotes": [
+        "Oud",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 69,
+      "fragranceSlug": "kilian-rose-oud-69",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rose Oud",
+      "originalFragranceSlug": "kilian-rose-oud",
+      "mistifyProductName": "Rosy Oud",
+      "mistifyProductSlug": "rosy-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rosy-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Rose Oud",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Rose",
+        "Saffron",
+        "Oud",
+        "Cedarwood",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RosyOud_9a080a3b-9ff3-481e-8ecc-190466f11560.png?v=1765422921",
+      "searchableText": "Kilian kilian By Kilian Rose Oud Rosy Oud Oriental Floral unisex Rose Saffron Oud Cedarwood Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:28.526Z",
+      "sharedNotes": [
+        "Oud",
+        "Saffron"
+      ]
+    }
+  ]
+}

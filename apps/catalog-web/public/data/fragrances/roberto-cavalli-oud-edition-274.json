@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 274,
+    "fragranceSlug": "roberto-cavalli-oud-edition-274",
+    "brandName": "Roberto Cavalli",
+    "brandSlug": "roberto-cavalli",
+    "originalFragranceName": "Oud Edition",
+    "originalFragranceSlug": "roberto-cavalli-oud-edition",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Roberto Cavalli Oud Edition",
+    "audience": null,
+    "classification": "Oriental",
+    "topNotes": [
+      "Saffron",
+      "Mandarin Orange"
+    ],
+    "middleNotes": [
+      "Leather",
+      "Orange Blossom"
+    ],
+    "baseNotes": [
+      "Incense",
+      "Oud",
+      "Amber",
+      "Vanilla"
+    ],
+    "allNotes": [
+      "Saffron",
+      "Mandarin Orange",
+      "Leather",
+      "Orange Blossom",
+      "Incense",
+      "Oud",
+      "Amber",
+      "Vanilla"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Roberto Cavalli roberto cavalli Roberto Cavalli Oud Edition Not verified Oriental Saffron Mandarin Orange Leather Orange Blossom Incense Oud Amber Vanilla",
+    "createdAt": "2026-05-04T04:41:40.699Z"
+  }
+}

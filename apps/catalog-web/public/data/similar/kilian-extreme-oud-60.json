@@ -1,0 +1,261 @@
+{
+  "fragrances": [
+    {
+      "id": 96,
+      "fragranceSlug": "tom-ford-oud-voyager-96",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Voyager",
+      "originalFragranceSlug": "tom-ford-oud-voyager",
+      "mistifyProductName": "Oud Voyagé",
+      "mistifyProductSlug": "oud-voyage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-voyage",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Voyager",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus"
+      ],
+      "middleNotes": [
+        "Red Peony",
+        "Cardamom",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "allNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus",
+        "Red Peony",
+        "Cardamom",
+        "Saffron",
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec17-2025-09-31-28AM-_1.png?v=1773460197",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Voyager Oud Voyagé Oriental Woody unisex Geranium Pink Pepper Citrus Red Peony Cardamom Saffron Oud Cypriol Patchouli Vetiver Musk",
+      "createdAt": "2026-05-04T04:41:30.090Z",
+      "sharedNotes": [
+        "Cypriol",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 255,
+      "fragranceSlug": "mugler-alien-oud-majestueux-255",
+      "brandName": "Mugler",
+      "brandSlug": "mugler",
+      "originalFragranceName": "Alien Oud Majestueux",
+      "originalFragranceSlug": "mugler-alien-oud-majestueux",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mugler Alien Oud Majestueux",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cardamom",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Cashmeran"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Amber"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Saffron",
+        "Jasmine",
+        "Cashmeran",
+        "Oud",
+        "Amber"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mugler mugler Mugler Alien Oud Majestueux Not verified Oriental Woody Cardamom Saffron Jasmine Cashmeran Oud Amber",
+      "createdAt": "2026-05-04T04:41:39.525Z",
+      "sharedNotes": [
+        "Saffron"
+      ]
+    },
+    {
+      "id": 2,
+      "fragranceSlug": "guerlain-cherry-oud-2",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Cherry Oud",
+      "originalFragranceSlug": "guerlain-cherry-oud",
+      "mistifyProductName": "Cherry Oudra",
+      "mistifyProductSlug": "cherry-oudra",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cherry-oudra",
+      "publicInspiredByLabel": "Inspired by Guerlain Cherry Oud",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cherry",
+        "Cinnamon"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Agarwood/Oud"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Peru Balsam",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cherry",
+        "Cinnamon",
+        "Rose",
+        "Agarwood/Oud",
+        "Amber",
+        "Peru Balsam",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-23-34PM-_1.png?v=1773460359",
+      "searchableText": "Guerlain guerlain Guerlain Cherry Oud Cherry Oudra Oriental Woody unisex Cherry Cinnamon Rose Agarwood/Oud Amber Peru Balsam Musk",
+      "createdAt": "2026-05-04T04:41:24.605Z",
+      "sharedNotes": [
+        "Agarwood/Oud"
+      ]
+    },
+    {
+      "id": 116,
+      "fragranceSlug": "bond-no-9-harrod-s-oud-116",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Harrod’s Oud",
+      "originalFragranceSlug": "bond-no-9-harrod-s-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Harrod’s Oud",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [],
+      "middleNotes": [
+        "Agarwood/Oud",
+        "Cumin",
+        "Myrrh",
+        "Black Pepper",
+        "Vetiver",
+        "Amber"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Agarwood/Oud",
+        "Cumin",
+        "Myrrh",
+        "Black Pepper",
+        "Vetiver",
+        "Amber"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Harrod’s Oud Not verified Oriental Woody Agarwood/Oud Cumin Myrrh Black Pepper Vetiver Amber",
+      "createdAt": "2026-05-04T04:41:31.274Z",
+      "sharedNotes": [
+        "Agarwood/Oud"
+      ]
+    },
+    {
+      "id": 290,
+      "fragranceSlug": "frederic-malle-the-night-290",
+      "brandName": "Frederic Malle",
+      "brandSlug": "frederic-malle",
+      "originalFragranceName": "The Night",
+      "originalFragranceSlug": "frederic-malle-the-night",
+      "mistifyProductName": "Nightfall",
+      "mistifyProductSlug": "nightfall",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/nightfall",
+      "publicInspiredByLabel": "Inspired by Frederic Malle The Night",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Turkish Rose",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Indian Oud"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Incense",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Turkish Rose",
+        "Saffron",
+        "Indian Oud",
+        "Amber",
+        "Incense",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Screenshot2025-12-03at9-51-45PM-_1.png?v=1773460333",
+      "searchableText": "Frederic Malle frederic malle Frederic Malle The Night Nightfall Oriental Woody unisex Turkish Rose Saffron Indian Oud Amber Incense Sandalwood",
+      "createdAt": "2026-05-04T04:41:41.660Z",
+      "sharedNotes": [
+        "Saffron"
+      ]
+    },
+    {
+      "id": 288,
+      "fragranceSlug": "hugo-boss-boss-bottled-oud-288",
+      "brandName": "Hugo Boss",
+      "brandSlug": "hugo-boss",
+      "originalFragranceName": "Boss Bottled Oud",
+      "originalFragranceSlug": "hugo-boss-boss-bottled-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Hugo Boss Boss Bottled Oud",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Apple",
+        "Citruses"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Saffron",
+        "Clove",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood",
+        "Cypriol/Nagarmotha"
+      ],
+      "allNotes": [
+        "Apple",
+        "Citruses",
+        "Cinnamon",
+        "Saffron",
+        "Clove",
+        "Labdanum",
+        "Oud",
+        "Sandalwood",
+        "Cypriol/Nagarmotha"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Hugo Boss hugo boss Hugo Boss Boss Bottled Oud Not verified Oriental Woody Apple Citruses Cinnamon Saffron Clove Labdanum Oud Sandalwood Cypriol/Nagarmotha",
+      "createdAt": "2026-05-04T04:41:41.538Z",
+      "sharedNotes": [
+        "Saffron"
+      ]
+    }
+  ]
+}

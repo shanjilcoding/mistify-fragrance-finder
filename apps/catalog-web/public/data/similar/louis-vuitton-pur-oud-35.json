@@ -1,0 +1,266 @@
+{
+  "fragrances": [
+    {
+      "id": 167,
+      "fragranceSlug": "montale-aoud-safran-167",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Safran",
+      "originalFragranceSlug": "montale-aoud-safran",
+      "mistifyProductName": "Saffron Oud",
+      "mistifyProductSlug": "saffron-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saffron-oud",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Safran",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Saffron",
+        "Arabian Rose",
+        "Oud"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Saffron",
+        "Arabian Rose",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/SaffronOud.png?v=1765422951",
+      "searchableText": "Montale montale Montale Aoud Safran Saffron Oud Woody Spicy unisex Saffron Arabian Rose Oud",
+      "createdAt": "2026-05-04T04:41:34.229Z",
+      "sharedNotes": [
+        "Oud"
+      ]
+    },
+    {
+      "id": 157,
+      "fragranceSlug": "initio-oud-for-greatness-157",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Greatness",
+      "originalFragranceSlug": "initio-oud-for-greatness",
+      "mistifyProductName": "Majestic Oud",
+      "mistifyProductSlug": "majestic-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-oud",
+      "publicInspiredByLabel": "Inspired by Initio Oud for Greatness",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Oud"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_56_51PM.png?v=1765422990",
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Greatness Majestic Oud Woody Spicy unisex Saffron Nutmeg Lavender Oud Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.651Z",
+      "sharedNotes": [
+        "Oud"
+      ]
+    },
+    {
+      "id": 150,
+      "fragranceSlug": "ysl-yves-saint-laurent-splendid-wood-150",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Splendid Wood",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-splendid-wood",
+      "mistifyProductName": "Majestic Timber",
+      "mistifyProductSlug": "majestic-timber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-timber",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Splendid Wood",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom",
+        "Incense"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Cypriol"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Incense",
+        "Cedar",
+        "Cypriol",
+        "Oud",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MajesticTimber-_1.png?v=1773460419",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Splendid Wood Majestic Timber Woody Spicy unisex Cardamom Incense Cedar Cypriol Oud Sandalwood",
+      "createdAt": "2026-05-04T04:41:33.251Z",
+      "sharedNotes": [
+        "Oud"
+      ]
+    },
+    {
+      "id": 158,
+      "fragranceSlug": "initio-oud-for-happiness-158",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Happiness",
+      "originalFragranceSlug": "initio-oud-for-happiness",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Initio Oud for Happiness",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Bergamot",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Licorice",
+        "Oud",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Herbal Notes",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Ginger",
+        "Licorice",
+        "Oud",
+        "Cedar",
+        "Vanilla",
+        "Herbal Notes",
+        "Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Happiness Not verified Woody Spicy Bergamot Ginger Licorice Oud Cedar Vanilla Herbal Notes Musk",
+      "createdAt": "2026-05-04T04:41:33.707Z",
+      "sharedNotes": [
+        "Oud"
+      ]
+    },
+    {
+      "id": 178,
+      "fragranceSlug": "mancera-red-tobacco-178",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Red Tobacco",
+      "originalFragranceSlug": "mancera-red-tobacco",
+      "mistifyProductName": "Scarlet Tobacco",
+      "mistifyProductSlug": "scarlet-tobacco",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/scarlet-tobacco",
+      "publicInspiredByLabel": "Inspired by Mancera Red Tobacco",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Oud",
+        "Incense",
+        "Saffron",
+        "Nutmeg",
+        "Green Apple",
+        "White Pear"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Tobacco",
+        "Madagascar Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk",
+        "Haitian Vetiver"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Oud",
+        "Incense",
+        "Saffron",
+        "Nutmeg",
+        "Green Apple",
+        "White Pear",
+        "Patchouli",
+        "Jasmine",
+        "Tobacco",
+        "Madagascar Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk",
+        "Haitian Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ScarletTobacco.png?v=1765423002",
+      "searchableText": "Mancera mancera Mancera Red Tobacco Scarlet Tobacco Woody Spicy unisex Cinnamon Oud Incense Saffron Nutmeg Green Apple White Pear Patchouli Jasmine Tobacco Madagascar Vanilla Amber Sandalwood Guaiac Wood White Musk Haitian Vetiver",
+      "createdAt": "2026-05-04T04:41:34.885Z",
+      "sharedNotes": [
+        "Oud"
+      ]
+    },
+    {
+      "id": 263,
+      "fragranceSlug": "chopard-oud-malaki-263",
+      "brandName": "Chopard",
+      "brandSlug": "chopard",
+      "originalFragranceName": "Oud Malaki",
+      "originalFragranceSlug": "chopard-oud-malaki",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Chopard Oud Malaki",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Grapefruit",
+        "Lavender",
+        "Artemisia"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Spices",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Dark Woodsy Notes",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lavender",
+        "Artemisia",
+        "Tobacco",
+        "Spices",
+        "Leather",
+        "Oud",
+        "Dark Woodsy Notes",
+        "Ambergris"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Chopard chopard Chopard Oud Malaki Not verified Woody Spicy Grapefruit Lavender Artemisia Tobacco Spices Leather Oud Dark Woodsy Notes Ambergris",
+      "createdAt": "2026-05-04T04:41:40.023Z",
+      "sharedNotes": [
+        "Oud"
+      ]
+    }
+  ]
+}

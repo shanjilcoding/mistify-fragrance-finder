@@ -1,0 +1,33 @@
+{
+  "fragrance": {
+    "id": 223,
+    "fragranceSlug": "dior-purple-oud-223",
+    "brandName": "Dior",
+    "brandSlug": "dior",
+    "originalFragranceName": "Purple Oud",
+    "originalFragranceSlug": "dior-purple-oud",
+    "mistifyProductName": "Violaceous Oud",
+    "mistifyProductSlug": "violaceous-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/violaceous-oud",
+    "publicInspiredByLabel": "Inspired by Dior Purple Oud",
+    "audience": "unisex",
+    "classification": "Woody/Oud",
+    "topNotes": [],
+    "middleNotes": [
+      "Oud",
+      "Orange",
+      "Saffron",
+      "Pink Pepper"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Oud",
+      "Orange",
+      "Saffron",
+      "Pink Pepper"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_54_47PM.png?v=1774407295",
+    "searchableText": "Dior christian dior Christian Dior Purple Oud Violaceous Oud Woody/Oud unisex Oud Orange Saffron Pink Pepper",
+    "createdAt": "2026-05-04T04:41:37.571Z"
+  }
+}

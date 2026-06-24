@@ -1,0 +1,330 @@
+{
+  "fragrances": [
+    {
+      "id": 237,
+      "fragranceSlug": "nasomatto-black-afgano-237",
+      "brandName": "Nasomatto",
+      "brandSlug": "nasomatto",
+      "originalFragranceName": "Black Afgano",
+      "originalFragranceSlug": "nasomatto-black-afgano",
+      "mistifyProductName": "Dark Afgana",
+      "mistifyProductSlug": "dark-afgana",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/dark-afgana",
+      "publicInspiredByLabel": "Inspired by Nasomatto Black Afgano",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cannabis",
+        "Green Notes",
+        "Davana",
+        "Saffron",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Resins",
+        "Woodsy Notes",
+        "Tobacco",
+        "Coffee",
+        "Cinnamon",
+        "Violet",
+        "Raspberry"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Incense",
+        "Amber",
+        "Animal Notes",
+        "Guaiac Wood",
+        "Musk",
+        "Tonka",
+        "Cedar",
+        "Gurjan Balsam",
+        "Ambroxan",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Cannabis",
+        "Green Notes",
+        "Davana",
+        "Saffron",
+        "Thyme",
+        "Resins",
+        "Woodsy Notes",
+        "Tobacco",
+        "Coffee",
+        "Cinnamon",
+        "Violet",
+        "Raspberry",
+        "Oud",
+        "Incense",
+        "Amber",
+        "Animal Notes",
+        "Guaiac Wood",
+        "Musk",
+        "Tonka",
+        "Cedar",
+        "Gurjan Balsam",
+        "Ambroxan",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_59_24PM.png?v=1774407573",
+      "searchableText": "Nasomatto nasomatto Nasomatto Black Afgano Dark Afgana Woody Aromatic unisex Cannabis Green Notes Davana Saffron Thyme Resins Woodsy Notes Tobacco Coffee Cinnamon Violet Raspberry Oud Incense Amber Animal Notes Guaiac Wood Musk Tonka Cedar Gurjan Balsam Ambroxan Vanilla",
+      "createdAt": "2026-05-04T04:41:38.428Z",
+      "sharedNotes": [
+        "Coffee",
+        "Musk",
+        "Tobacco",
+        "Vanilla",
+        "Animal Notes",
+        "Amber",
+        "Tonka"
+      ]
+    },
+    {
+      "id": 229,
+      "fragranceSlug": "tiziana-terenzi-gumin-229",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Gumin",
+      "originalFragranceSlug": "tiziana-terenzi-gumin",
+      "mistifyProductName": "Gemine",
+      "mistifyProductSlug": "gemine",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gemine",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Gumin",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Mandarin Orange",
+        "Orange",
+        "Pineapple",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Ozonic Notes",
+        "Amber",
+        "Violet",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Orange",
+        "Pineapple",
+        "Bergamot",
+        "Ozonic Notes",
+        "Amber",
+        "Violet",
+        "Jasmine",
+        "Rose",
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Gemine-_1.png?v=1773460415",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Gumin Gemine Not listed clearly by Fragrantica unisex Mandarin Orange Orange Pineapple Bergamot Ozonic Notes Amber Violet Jasmine Rose Musk Sandalwood Birch Oud",
+      "createdAt": "2026-05-04T04:41:37.940Z",
+      "sharedNotes": [
+        "Musk",
+        "Sandalwood",
+        "Amber"
+      ]
+    },
+    {
+      "id": 185,
+      "fragranceSlug": "mind-games-queening-185",
+      "brandName": "Mind Games",
+      "brandSlug": "mind-games",
+      "originalFragranceName": "Queening",
+      "originalFragranceSlug": "mind-games-queening",
+      "mistifyProductName": "Queenique",
+      "mistifyProductSlug": "queenique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/queenique",
+      "publicInspiredByLabel": "Inspired by Mind Games Queening",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Cotton Flower",
+        "Apple",
+        "Cypress"
+      ],
+      "middleNotes": [
+        "Orris Root",
+        "Rum",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Coconut",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cotton Flower",
+        "Apple",
+        "Cypress",
+        "Orris Root",
+        "Rum",
+        "Saffron",
+        "Vanilla",
+        "Coconut",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov12-2025-07-37-24PM-_1.png?v=1773460221",
+      "searchableText": "Mind Games mind games Mind Games Queening Queenique Not listed clearly by Fragrantica unisex Cotton Flower Apple Cypress Orris Root Rum Saffron Vanilla Coconut Musk",
+      "createdAt": "2026-05-04T04:41:35.290Z",
+      "sharedNotes": [
+        "Musk",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 171,
+      "fragranceSlug": "montale-intense-cafe-171",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Intense Cafe",
+      "originalFragranceSlug": "montale-intense-cafe",
+      "mistifyProductName": "Café Rose",
+      "mistifyProductSlug": "cafe-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cafe-rose",
+      "publicInspiredByLabel": "Inspired by Montale Intense Cafe",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Floral Notes"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Coffee"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Floral Notes",
+        "Rose",
+        "Coffee",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CafeRose.png?v=1765422956",
+      "searchableText": "Montale montale Montale Intense Cafe Café Rose Oriental Vanilla unisex Floral Notes Rose Coffee Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.468Z",
+      "sharedNotes": [
+        "Coffee",
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 56,
+      "fragranceSlug": "kilian-black-phantom-56",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Black Phantom",
+      "originalFragranceSlug": "kilian-black-phantom",
+      "mistifyProductName": "Dark Phantom",
+      "mistifyProductSlug": "dark-phantom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/dark-phantom",
+      "publicInspiredByLabel": "Inspired by Kilian Black Phantom",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Rum"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope",
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-42-32AM-_1.png?v=1773460532",
+      "searchableText": "Kilian kilian By Kilian Black Phantom Dark Phantom Oriental Vanilla unisex Rum Dark Chocolate Coffee Almond Heliotrope Caramel Sugar Cane Sandalwood Vanilla Tonka Vetiver",
+      "createdAt": "2026-05-04T04:41:27.757Z",
+      "sharedNotes": [
+        "Coffee",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka"
+      ]
+    },
+    {
+      "id": 83,
+      "fragranceSlug": "tom-ford-oud-wood-83",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Wood",
+      "originalFragranceSlug": "tom-ford-oud-wood",
+      "mistifyProductName": "Woody Oud",
+      "mistifyProductSlug": "woody-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/woody-oud",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Wood",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Rosewood",
+        "Cardamom",
+        "Sichuan Pepper"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Sandalwood",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Amber"
+      ],
+      "allNotes": [
+        "Rosewood",
+        "Cardamom",
+        "Sichuan Pepper",
+        "Oud",
+        "Sandalwood",
+        "Vetiver",
+        "Tonka Bean",
+        "Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_36_27PM.png?v=1765422876",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Wood Woody Oud Oriental Woody unisex Rosewood Cardamom Sichuan Pepper Oud Sandalwood Vetiver Tonka Bean Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:29.342Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Vanilla",
+        "Amber"
+      ]
+    }
+  ]
+}

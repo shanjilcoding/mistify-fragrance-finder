@@ -1,0 +1,178 @@
+{
+  "brand": {
+    "brandName": "Giorgio Armani",
+    "brandSlug": "giorgio-armani",
+    "fragranceCount": 4,
+    "searchableText": "Armani Code Ultimate Code Ultime Giorgio Armani Armani Code Ultimate Giorgio Armani Giorgio Armani Armani Code Ultimate Code Ultime Sweet Woody / Aromatic Vanilla Star Anise Grapefruit Mandarin Orange Cedar Cypress Olive Blossom Heliotrope Vanilla Tonka Bean Guaiac Wood Armani Privé Bleu Lazuli Bleu Lazure Inspired by Giorgio Armani Armani Privé Bleu Lazuli Giorgio Armani giorgio armani Giorgio Armani Armani Privé Bleu Lazuli Bleu Lazure Oriental Spicy Mate Cardamom Bergamot Plum Osmanthus Jasmine Honey Tobacco Vanilla Sandalwood Armani Privé Musc Shamal Not verified Inspired by Giorgio Armani Armani Privé Musc Shamal Giorgio Armani giorgio armani Giorgio Armani Armani Privé Musc Shamal Not verified Oriental/Musky Aldehydes Elemi Oil Turkish Rose Jasmine Musks Vanilla Ambery Woods My Way My Voie Inspired by Giorgio Armani My Way Giorgio Armani giorgio armani Giorgio Armani My Way My Voie Floral White/Soft Woody unisex Orange Blossom Bergamot Tuberose Indian Jasmine Madagascar Vanilla White Musk Virginian Cedar"
+  },
+  "fragrances": [
+    {
+      "id": 325,
+      "fragranceSlug": "giorgio-armani-armani-code-ultimate-325",
+      "brandName": "Giorgio Armani",
+      "brandSlug": "giorgio-armani",
+      "originalFragranceName": "Armani Code Ultimate",
+      "originalFragranceSlug": "giorgio-armani-armani-code-ultimate",
+      "mistifyProductName": "Code Ultime",
+      "mistifyProductSlug": "code-ultime",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/code-ultime",
+      "publicInspiredByLabel": "Giorgio Armani Armani Code Ultimate",
+      "audience": null,
+      "classification": "Sweet Woody / Aromatic Vanilla",
+      "topNotes": [
+        "Star Anise",
+        "Grapefruit",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Cypress",
+        "Olive Blossom",
+        "Heliotrope"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Tonka Bean",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Star Anise",
+        "Grapefruit",
+        "Mandarin Orange",
+        "Cedar",
+        "Cypress",
+        "Olive Blossom",
+        "Heliotrope",
+        "Vanilla",
+        "Tonka Bean",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar29_2026_11_40_51AM.png?v=1774802461",
+      "searchableText": "Giorgio Armani Giorgio Armani Armani Code Ultimate Code Ultime Sweet Woody / Aromatic Vanilla Star Anise Grapefruit Mandarin Orange Cedar Cypress Olive Blossom Heliotrope Vanilla Tonka Bean Guaiac Wood",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 189,
+      "fragranceSlug": "giorgio-armani-armani-prive-bleu-lazuli-189",
+      "brandName": "Giorgio Armani",
+      "brandSlug": "giorgio-armani",
+      "originalFragranceName": "Armani Privé Bleu Lazuli",
+      "originalFragranceSlug": "giorgio-armani-armani-prive-bleu-lazuli",
+      "mistifyProductName": "Bleu Lazure",
+      "mistifyProductSlug": "bleu-lazure",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-lazure",
+      "publicInspiredByLabel": "Inspired by Giorgio Armani Armani Privé Bleu Lazuli",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Mate",
+        "Cardamom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Plum",
+        "Osmanthus",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Honey",
+        "Tobacco",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mate",
+        "Cardamom",
+        "Bergamot",
+        "Plum",
+        "Osmanthus",
+        "Jasmine",
+        "Honey",
+        "Tobacco",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay16_2026_05_09_17PM.png?v=1778965764",
+      "searchableText": "Giorgio Armani giorgio armani Giorgio Armani Armani Privé Bleu Lazuli Bleu Lazure Oriental Spicy Mate Cardamom Bergamot Plum Osmanthus Jasmine Honey Tobacco Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:35.524Z"
+    },
+    {
+      "id": 190,
+      "fragranceSlug": "giorgio-armani-armani-prive-musc-shamal-190",
+      "brandName": "Giorgio Armani",
+      "brandSlug": "giorgio-armani",
+      "originalFragranceName": "Armani Privé Musc Shamal",
+      "originalFragranceSlug": "giorgio-armani-armani-prive-musc-shamal",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Giorgio Armani Armani Privé Musc Shamal",
+      "audience": null,
+      "classification": "Oriental/Musky",
+      "topNotes": [
+        "Aldehydes",
+        "Elemi Oil"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musks",
+        "Vanilla",
+        "Ambery Woods"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Elemi Oil",
+        "Turkish Rose",
+        "Jasmine",
+        "Musks",
+        "Vanilla",
+        "Ambery Woods"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Giorgio Armani giorgio armani Giorgio Armani Armani Privé Musc Shamal Not verified Oriental/Musky Aldehydes Elemi Oil Turkish Rose Jasmine Musks Vanilla Ambery Woods",
+      "createdAt": "2026-05-04T04:41:35.587Z"
+    },
+    {
+      "id": 188,
+      "fragranceSlug": "giorgio-armani-my-way-188",
+      "brandName": "Giorgio Armani",
+      "brandSlug": "giorgio-armani",
+      "originalFragranceName": "My Way",
+      "originalFragranceSlug": "giorgio-armani-my-way",
+      "mistifyProductName": "My Voie",
+      "mistifyProductSlug": "my-voie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/my-voie",
+      "publicInspiredByLabel": "Inspired by Giorgio Armani My Way",
+      "audience": "unisex",
+      "classification": "Floral White/Soft Woody",
+      "topNotes": [
+        "Orange Blossom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Indian Jasmine"
+      ],
+      "baseNotes": [
+        "Madagascar Vanilla",
+        "White Musk",
+        "Virginian Cedar"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Tuberose",
+        "Indian Jasmine",
+        "Madagascar Vanilla",
+        "White Musk",
+        "Virginian Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec23-2025-12-30-29PM-_1.png?v=1773460185",
+      "searchableText": "Giorgio Armani giorgio armani Giorgio Armani My Way My Voie Floral White/Soft Woody unisex Orange Blossom Bergamot Tuberose Indian Jasmine Madagascar Vanilla White Musk Virginian Cedar",
+      "createdAt": "2026-05-04T04:41:35.467Z"
+    }
+  ]
+}

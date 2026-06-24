@@ -1,0 +1,295 @@
+{
+  "fragrances": [
+    {
+      "id": 274,
+      "fragranceSlug": "roberto-cavalli-oud-edition-274",
+      "brandName": "Roberto Cavalli",
+      "brandSlug": "roberto-cavalli",
+      "originalFragranceName": "Oud Edition",
+      "originalFragranceSlug": "roberto-cavalli-oud-edition",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Roberto Cavalli Oud Edition",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Saffron",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Oud",
+        "Amber",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Mandarin Orange",
+        "Leather",
+        "Orange Blossom",
+        "Incense",
+        "Oud",
+        "Amber",
+        "Vanilla"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Roberto Cavalli roberto cavalli Roberto Cavalli Oud Edition Not verified Oriental Saffron Mandarin Orange Leather Orange Blossom Incense Oud Amber Vanilla",
+      "createdAt": "2026-05-04T04:41:40.699Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Oud",
+        "Leather",
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ]
+    },
+    {
+      "id": 193,
+      "fragranceSlug": "dolce-and-gabbana-velvet-desert-oud-193",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Velvet Desert Oud",
+      "originalFragranceSlug": "dolce-and-gabbana-velvet-desert-oud",
+      "mistifyProductName": "Desert Velvet",
+      "mistifyProductSlug": "desert-velvet",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/desert-velvet",
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Desert Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [],
+      "middleNotes": [
+        "Incense",
+        "Agarwood/Oud",
+        "Amber",
+        "Musk"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Incense",
+        "Agarwood/Oud",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/DesertVelvet.png?v=1765422932",
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Desert Oud Desert Velvet Oriental unisex Incense Agarwood/Oud Amber Musk",
+      "createdAt": "2026-05-04T04:41:35.780Z",
+      "sharedNotes": [
+        "Musk",
+        "Amber",
+        "Incense"
+      ]
+    },
+    {
+      "id": 163,
+      "fragranceSlug": "montale-arabians-163",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Arabians",
+      "originalFragranceSlug": "montale-arabians",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Arabians",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Cardamom",
+        "Lavender",
+        "Red Thyme"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Patchouli",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Ambergris",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Lavender",
+        "Red Thyme",
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oud",
+        "Leather",
+        "Ambergris",
+        "Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Arabians Not verified Oriental Cardamom Lavender Red Thyme Rose Patchouli Vetiver Oud Leather Ambergris Musk",
+      "createdAt": "2026-05-04T04:41:34.009Z",
+      "sharedNotes": [
+        "Musk",
+        "Patchouli",
+        "Oud",
+        "Leather"
+      ]
+    },
+    {
+      "id": 62,
+      "fragranceSlug": "kilian-incense-oudh-62",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Incense Oudh",
+      "originalFragranceSlug": "kilian-incense-oudh",
+      "mistifyProductName": "Incensed Oud",
+      "mistifyProductSlug": "incensed-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/incensed-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Incense Oudh",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rose",
+        "Cardamom",
+        "Pink Pepper",
+        "Geranium"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Virginia Cedar",
+        "Papyrus"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Oud",
+        "Sandalwood",
+        "Oakmoss",
+        "Musk",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Rose",
+        "Cardamom",
+        "Pink Pepper",
+        "Geranium",
+        "Patchouli",
+        "Virginia Cedar",
+        "Papyrus",
+        "Incense",
+        "Oud",
+        "Sandalwood",
+        "Oakmoss",
+        "Musk",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/IncensedOud_dc3a368e-6d94-4f0b-b238-a8e8a4644ae1.png?v=1765422910",
+      "searchableText": "Kilian kilian By Kilian Incense Oudh Incensed Oud Oriental unisex Rose Cardamom Pink Pepper Geranium Patchouli Virginia Cedar Papyrus Incense Oud Sandalwood Oakmoss Musk Labdanum",
+      "createdAt": "2026-05-04T04:41:28.103Z",
+      "sharedNotes": [
+        "Musk",
+        "Patchouli",
+        "Oud",
+        "Incense"
+      ]
+    },
+    {
+      "id": 54,
+      "fragranceSlug": "kilian-back-to-black-54",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Back to Black",
+      "originalFragranceSlug": "kilian-back-to-black",
+      "mistifyProductName": "Back 2 Blacky",
+      "mistifyProductSlug": "back-2-blacky",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/back-2-black",
+      "publicInspiredByLabel": "Inspired by Kilian Back to Black",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Almond",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "allNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry",
+        "Tobacco",
+        "Almond",
+        "Vanilla",
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Back2Blacky.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Back to Black Back 2 Blacky Oriental unisex Honey Cherry Raspberry Tobacco Almond Vanilla Cedar Patchouli Amber",
+      "createdAt": "2026-05-04T04:41:27.650Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Amber",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 120,
+      "fragranceSlug": "bond-no-9-new-york-oud-120",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "New York Oud",
+      "originalFragranceSlug": "bond-no-9-new-york-oud",
+      "mistifyProductName": "Urban Oud",
+      "mistifyProductSlug": "urban-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-oud",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 New York Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Plum",
+        "Saffron",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root"
+      ],
+      "baseNotes": [
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Plum",
+        "Saffron",
+        "Orange",
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root",
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_18_40AM.png?v=1774325928",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 New York Oud Urban Oud Oriental unisex Plum Saffron Orange Rose Oud Patchouli Orris Root Musk White Honey Vetiver",
+      "createdAt": "2026-05-04T04:41:31.518Z",
+      "sharedNotes": [
+        "Musk",
+        "Patchouli",
+        "Oud"
+      ]
+    }
+  ]
+}

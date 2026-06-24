@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 232,
+    "fragranceSlug": "tiziana-terenzi-saiph-232",
+    "brandName": "Tiziana Terenzi",
+    "brandSlug": "tiziana-terenzi",
+    "originalFragranceName": "Saiph",
+    "originalFragranceSlug": "tiziana-terenzi-saiph",
+    "mistifyProductName": "Saipha",
+    "mistifyProductSlug": "saipha",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/saipha",
+    "publicInspiredByLabel": "Inspired by Tiziana Terenzi Saiph",
+    "audience": "unisex",
+    "classification": "Floral Fruity",
+    "topNotes": [
+      "Bergamot",
+      "Orange",
+      "Green Notes"
+    ],
+    "middleNotes": [
+      "Ylang-Ylang",
+      "Jasmine",
+      "Rose"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Cedar",
+      "Musk"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Orange",
+      "Green Notes",
+      "Ylang-Ylang",
+      "Jasmine",
+      "Rose",
+      "Vanilla",
+      "Cedar",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Saipha-_1.png?v=1773460407",
+    "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk",
+    "createdAt": "2026-05-04T04:41:38.116Z"
+  }
+}

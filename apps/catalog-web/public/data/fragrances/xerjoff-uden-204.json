@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 204,
+    "fragranceSlug": "xerjoff-uden-204",
+    "brandName": "Xerjoff",
+    "brandSlug": "xerjoff",
+    "originalFragranceName": "Uden",
+    "originalFragranceSlug": "xerjoff-uden",
+    "mistifyProductName": "Udin",
+    "mistifyProductSlug": "udin",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/udin",
+    "publicInspiredByLabel": "Inspired by Xerjoff Uden",
+    "audience": "unisex",
+    "classification": "Aromatic Spicy",
+    "topNotes": [
+      "Citruses",
+      "Lemon",
+      "Grapefruit"
+    ],
+    "middleNotes": [
+      "Rum",
+      "Guaiac Wood",
+      "Sandalwood",
+      "Rose"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Coffee",
+      "Musk",
+      "Ambergris"
+    ],
+    "allNotes": [
+      "Citruses",
+      "Lemon",
+      "Grapefruit",
+      "Rum",
+      "Guaiac Wood",
+      "Sandalwood",
+      "Rose",
+      "Vanilla",
+      "Coffee",
+      "Musk",
+      "Ambergris"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-59-07PM-_1.png?v=1773460341",
+    "searchableText": "Xerjoff xerjoff Xerjoff Uden Udin Aromatic Spicy unisex Citruses Lemon Grapefruit Rum Guaiac Wood Sandalwood Rose Vanilla Coffee Musk Ambergris",
+    "createdAt": "2026-05-04T04:41:36.455Z"
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "fragrances": [
+    {
+      "id": 69,
+      "fragranceSlug": "kilian-rose-oud-69",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rose Oud",
+      "originalFragranceSlug": "kilian-rose-oud",
+      "mistifyProductName": "Rosy Oud",
+      "mistifyProductSlug": "rosy-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rosy-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Rose Oud",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Rose",
+        "Saffron",
+        "Oud",
+        "Cedarwood",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RosyOud_9a080a3b-9ff3-481e-8ecc-190466f11560.png?v=1765422921",
+      "searchableText": "Kilian kilian By Kilian Rose Oud Rosy Oud Oriental Floral unisex Rose Saffron Oud Cedarwood Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:28.526Z",
+      "sharedNotes": [
+        "Oud",
+        "Rose"
+      ]
+    },
+    {
+      "id": 273,
+      "fragranceSlug": "roberto-cavalli-divine-oud-273",
+      "brandName": "Roberto Cavalli",
+      "brandSlug": "roberto-cavalli",
+      "originalFragranceName": "Divine Oud",
+      "originalFragranceSlug": "roberto-cavalli-divine-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Roberto Cavalli Divine Oud",
+      "audience": null,
+      "classification": "Oud/Floral Oud",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Rose",
+        "Raspberry",
+        "Violet"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Oud",
+        "Rose",
+        "Raspberry",
+        "Violet"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Roberto Cavalli roberto cavalli Roberto Cavalli Divine Oud Not verified Oud/Floral Oud Oud Rose Raspberry Violet",
+      "createdAt": "2026-05-04T04:41:40.636Z",
+      "sharedNotes": [
+        "Oud",
+        "Rose"
+      ]
+    },
+    {
+      "id": 41,
+      "fragranceSlug": "louis-vuitton-les-sables-roses-41",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Les Sables Roses",
+      "originalFragranceSlug": "louis-vuitton-les-sables-roses",
+      "mistifyProductName": "Sable Roseux",
+      "mistifyProductSlug": "sable-roseux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sable-roseux",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Les Sables Roses",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Bulgarian Rose"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Black Pepper"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Rose",
+        "Bulgarian Rose",
+        "Saffron",
+        "Black Pepper",
+        "Oud",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-21-03PM-_1.png?v=1773460255",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Les Sables Roses Sable Roseux Oriental Floral unisex Rose Bulgarian Rose Saffron Black Pepper Oud Ambergris",
+      "createdAt": "2026-05-04T04:41:26.886Z",
+      "sharedNotes": [
+        "Oud",
+        "Rose"
+      ]
+    },
+    {
+      "id": 222,
+      "fragranceSlug": "dior-oud-ispahan-222",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Oud Ispahan",
+      "originalFragranceSlug": "dior-oud-ispahan",
+      "mistifyProductName": "Rosé Ispahan",
+      "mistifyProductSlug": "rose-ispahan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-ispahan",
+      "publicInspiredByLabel": "Inspired by Dior Oud Ispahan",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [],
+      "middleNotes": [
+        "Labdanum",
+        "Rose",
+        "Patchouli",
+        "Saffron",
+        "Oud",
+        "Sandalwood",
+        "Cedar"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Labdanum",
+        "Rose",
+        "Patchouli",
+        "Saffron",
+        "Oud",
+        "Sandalwood",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseIspahan-_1.png?v=1773460470",
+      "searchableText": "Dior christian dior Christian Dior Oud Ispahan Rosé Ispahan Oriental Floral unisex Labdanum Rose Patchouli Saffron Oud Sandalwood Cedar",
+      "createdAt": "2026-05-04T04:41:37.508Z",
+      "sharedNotes": [
+        "Oud",
+        "Rose"
+      ]
+    },
+    {
+      "id": 123,
+      "fragranceSlug": "bond-no-9-nomad-123",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Nomad",
+      "originalFragranceSlug": "bond-no-9-nomad",
+      "mistifyProductName": "Nomadique",
+      "mistifyProductSlug": "nomadique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/nomadique",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Nomad",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Black Currant",
+        "Pear",
+        "Quince"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Orris",
+        "Violet Leaves"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Black Currant",
+        "Pear",
+        "Quince",
+        "Rose",
+        "Oud",
+        "Orris",
+        "Violet Leaves",
+        "Amber",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay7_2026_04_20_29PM.png?v=1778185236",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Nomad Nomadique Oriental Floral unisex Black Currant Pear Quince Rose Oud Orris Violet Leaves Amber Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:31.683Z",
+      "sharedNotes": [
+        "Oud",
+        "Rose"
+      ]
+    },
+    {
+      "id": 114,
+      "fragranceSlug": "bond-no-9-dubai-jade-114",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Dubai Jade",
+      "originalFragranceSlug": "bond-no-9-dubai-jade",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Dubai Jade",
+      "audience": null,
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Violet Leaf",
+        "Raspberry",
+        "Cumin"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Jasmine",
+        "Lily",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Musk",
+        "Birch",
+        "Amber",
+        "Ambrette"
+      ],
+      "allNotes": [
+        "Violet Leaf",
+        "Raspberry",
+        "Cumin",
+        "Rose",
+        "Jasmine",
+        "Lily",
+        "Cedar",
+        "Oud",
+        "Musk",
+        "Birch",
+        "Amber",
+        "Ambrette"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Dubai Jade Not verified Oriental Floral Violet Leaf Raspberry Cumin Rose Jasmine Lily Cedar Oud Musk Birch Amber Ambrette",
+      "createdAt": "2026-05-04T04:41:31.156Z",
+      "sharedNotes": [
+        "Oud",
+        "Rose"
+      ]
+    }
+  ]
+}

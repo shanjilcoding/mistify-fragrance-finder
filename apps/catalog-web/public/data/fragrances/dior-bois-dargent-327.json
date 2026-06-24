@@ -1,0 +1,51 @@
+{
+  "fragrance": {
+    "id": 327,
+    "fragranceSlug": "dior-bois-dargent-327",
+    "brandName": "Dior",
+    "brandSlug": "dior",
+    "originalFragranceName": "Bois d’Argent",
+    "originalFragranceSlug": "dior-bois-dargent",
+    "mistifyProductName": "Bois Argenté",
+    "mistifyProductSlug": "bois-argente",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/bois-argente",
+    "publicInspiredByLabel": "Dior Bois d’Argent",
+    "audience": null,
+    "classification": "Woody Iris / Amber Musky",
+    "topNotes": [
+      "Iris",
+      "Cypress",
+      "Juniper Berries"
+    ],
+    "middleNotes": [
+      "Myrrh",
+      "Patchouli"
+    ],
+    "baseNotes": [
+      "Woodsy Notes",
+      "Honey",
+      "Vanilla",
+      "Amber",
+      "Resins",
+      "Musk",
+      "Leather"
+    ],
+    "allNotes": [
+      "Iris",
+      "Cypress",
+      "Juniper Berries",
+      "Myrrh",
+      "Patchouli",
+      "Woodsy Notes",
+      "Honey",
+      "Vanilla",
+      "Amber",
+      "Resins",
+      "Musk",
+      "Leather"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar18_2026_12_04_26PM.png?v=1773849873",
+    "searchableText": "Dior Dior Bois d’Argent Bois Argenté Woody Iris / Amber Musky Iris Cypress Juniper Berries Myrrh Patchouli Woodsy Notes Honey Vanilla Amber Resins Musk Leather",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

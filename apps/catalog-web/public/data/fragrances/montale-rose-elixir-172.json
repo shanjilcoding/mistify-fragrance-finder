@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 172,
+    "fragranceSlug": "montale-rose-elixir-172",
+    "brandName": "Montale",
+    "brandSlug": "montale",
+    "originalFragranceName": "Rose Elixir",
+    "originalFragranceSlug": "montale-rose-elixir",
+    "mistifyProductName": "Rose Delight",
+    "mistifyProductSlug": "rose-delight",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-delight",
+    "publicInspiredByLabel": "Inspired by Montale Rose Elixir",
+    "audience": "womens",
+    "classification": "Floral Fruity",
+    "topNotes": [
+      "Strawberry",
+      "Orange"
+    ],
+    "middleNotes": [
+      "Rose",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Vanilla"
+    ],
+    "allNotes": [
+      "Strawberry",
+      "Orange",
+      "Rose",
+      "Jasmine",
+      "Musk",
+      "Vanilla"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseDelight.png?v=1765422958",
+    "searchableText": "Montale montale Montale Rose Elixir Rose Delight Floral Fruity womens Strawberry Orange Rose Jasmine Musk Vanilla",
+    "createdAt": "2026-05-04T04:41:34.530Z"
+  }
+}

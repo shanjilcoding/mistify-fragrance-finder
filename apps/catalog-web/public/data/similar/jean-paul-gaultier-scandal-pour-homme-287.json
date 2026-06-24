@@ -1,0 +1,269 @@
+{
+  "fragrances": [
+    {
+      "id": 284,
+      "fragranceSlug": "carolina-herrera-mystery-tobacco-284",
+      "brandName": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "originalFragranceName": "Mystery Tobacco",
+      "originalFragranceSlug": "carolina-herrera-mystery-tobacco",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Carolina Herrera Mystery Tobacco",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Osmanthus",
+        "Ginger",
+        "Citruses",
+        "Artemisia"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Patchouli",
+        "Guaiac Wood",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Ginger",
+        "Citruses",
+        "Artemisia",
+        "Tobacco",
+        "Patchouli",
+        "Guaiac Wood",
+        "Vetiver",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Carolina Herrera carolina herrera Carolina Herrera Mystery Tobacco Not verified Oriental Woody Osmanthus Ginger Citruses Artemisia Tobacco Patchouli Guaiac Wood Vetiver Tonka Bean",
+      "createdAt": "2026-05-04T04:41:41.303Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 83,
+      "fragranceSlug": "tom-ford-oud-wood-83",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Wood",
+      "originalFragranceSlug": "tom-ford-oud-wood",
+      "mistifyProductName": "Woody Oud",
+      "mistifyProductSlug": "woody-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/woody-oud",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Wood",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Rosewood",
+        "Cardamom",
+        "Sichuan Pepper"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Sandalwood",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Amber"
+      ],
+      "allNotes": [
+        "Rosewood",
+        "Cardamom",
+        "Sichuan Pepper",
+        "Oud",
+        "Sandalwood",
+        "Vetiver",
+        "Tonka Bean",
+        "Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_36_27PM.png?v=1765422876",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Wood Woody Oud Oriental Woody unisex Rosewood Cardamom Sichuan Pepper Oud Sandalwood Vetiver Tonka Bean Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:29.342Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 64,
+      "fragranceSlug": "kilian-light-my-fire-64",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Light My Fire",
+      "originalFragranceSlug": "kilian-light-my-fire",
+      "mistifyProductName": "Light My Flame",
+      "mistifyProductSlug": "light-my-flame",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/light-my-flame",
+      "publicInspiredByLabel": "Inspired by Kilian Light My Fire",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [],
+      "middleNotes": [
+        "Tobacco",
+        "Hay",
+        "Honey",
+        "Patchouli",
+        "Cumin",
+        "Vanilla",
+        "Vetiver",
+        "Birch",
+        "Almond",
+        "Tonka Bean",
+        "Heliotrope"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Tobacco",
+        "Hay",
+        "Honey",
+        "Patchouli",
+        "Cumin",
+        "Vanilla",
+        "Vetiver",
+        "Birch",
+        "Almond",
+        "Tonka Bean",
+        "Heliotrope"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LightMyFlame.png?v=1765422911",
+      "searchableText": "Kilian kilian By Kilian Light My Fire Light My Flame Oriental Woody unisex Tobacco Hay Honey Patchouli Cumin Vanilla Vetiver Birch Almond Tonka Bean Heliotrope",
+      "createdAt": "2026-05-04T04:41:28.216Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 264,
+      "fragranceSlug": "valentino-born-in-roma-intense-264",
+      "brandName": "Valentino",
+      "brandSlug": "valentino",
+      "originalFragranceName": "Born In Roma Intense",
+      "originalFragranceSlug": "valentino-born-in-roma-intense",
+      "mistifyProductName": "Roma Intenso",
+      "mistifyProductSlug": "roma-intenso",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/roma-intenso",
+      "publicInspiredByLabel": "Inspired by Valentino Born In Roma Intense",
+      "audience": "unisex",
+      "classification": "Amber Vanilla/Aromatic Woody",
+      "topNotes": [
+        "Vanilla Infusion"
+      ],
+      "middleNotes": [
+        "Lavandin"
+      ],
+      "baseNotes": [
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Vanilla Infusion",
+        "Lavandin",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-20-40AM-_1.png?v=1773460133",
+      "searchableText": "Valentino valentino Valentino Born In Roma Intense Roma Intenso Amber Vanilla/Aromatic Woody unisex Vanilla Infusion Lavandin Vetiver",
+      "createdAt": "2026-05-04T04:41:40.078Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 116,
+      "fragranceSlug": "bond-no-9-harrod-s-oud-116",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Harrod’s Oud",
+      "originalFragranceSlug": "bond-no-9-harrod-s-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Harrod’s Oud",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [],
+      "middleNotes": [
+        "Agarwood/Oud",
+        "Cumin",
+        "Myrrh",
+        "Black Pepper",
+        "Vetiver",
+        "Amber"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Agarwood/Oud",
+        "Cumin",
+        "Myrrh",
+        "Black Pepper",
+        "Vetiver",
+        "Amber"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Harrod’s Oud Not verified Oriental Woody Agarwood/Oud Cumin Myrrh Black Pepper Vetiver Amber",
+      "createdAt": "2026-05-04T04:41:31.274Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 96,
+      "fragranceSlug": "tom-ford-oud-voyager-96",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Voyager",
+      "originalFragranceSlug": "tom-ford-oud-voyager",
+      "mistifyProductName": "Oud Voyagé",
+      "mistifyProductSlug": "oud-voyage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-voyage",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Voyager",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus"
+      ],
+      "middleNotes": [
+        "Red Peony",
+        "Cardamom",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "allNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus",
+        "Red Peony",
+        "Cardamom",
+        "Saffron",
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec17-2025-09-31-28AM-_1.png?v=1773460197",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Voyager Oud Voyagé Oriental Woody unisex Geranium Pink Pepper Citrus Red Peony Cardamom Saffron Oud Cypriol Patchouli Vetiver Musk",
+      "createdAt": "2026-05-04T04:41:30.090Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    }
+  ]
+}

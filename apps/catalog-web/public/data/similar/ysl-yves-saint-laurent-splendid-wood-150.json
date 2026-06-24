@@ -1,0 +1,282 @@
+{
+  "fragrances": [
+    {
+      "id": 152,
+      "fragranceSlug": "ysl-yves-saint-laurent-la-nuit-de-l-homme-152",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "La Nuit de l’Homme",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-la-nuit-de-l-homme",
+      "mistifyProductName": "The Night of Man",
+      "mistifyProductSlug": "the-night-of-man",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/the-night-of-man",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) La Nuit de l’Homme",
+      "audience": "mens",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Caraway"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Lavender",
+        "Cedar",
+        "Vetiver",
+        "Caraway"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-41-32AM-_1.png?v=1773460417",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) La Nuit de l’Homme The Night of Man Woody Spicy mens Cardamom Lavender Cedar Vetiver Caraway",
+      "createdAt": "2026-05-04T04:41:33.364Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 131,
+      "fragranceSlug": "creed-royal-oud-131",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Royal Oud",
+      "originalFragranceSlug": "creed-royal-oud",
+      "mistifyProductName": "Regal Oud",
+      "mistifyProductSlug": "regal-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/regal-oud",
+      "publicInspiredByLabel": "Inspired by Creed Royal Oud",
+      "audience": "unisex",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Galbanum",
+        "Angelica"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot",
+        "Cedar",
+        "Galbanum",
+        "Angelica",
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-35-06PM-_1.png?v=1773460550",
+      "searchableText": "Creed creed Creed Royal Oud Regal Oud Amber Fougere unisex Pink Pepper Lemon Bergamot Cedar Galbanum Angelica Oud Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.140Z",
+      "sharedNotes": [
+        "Cedar",
+        "Oud",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 254,
+      "fragranceSlug": "jo-malone-english-oak-and-hazelnut-254",
+      "brandName": "Jo Malone",
+      "brandSlug": "jo-malone",
+      "originalFragranceName": "English Oak & Hazelnut",
+      "originalFragranceSlug": "jo-malone-english-oak-and-hazelnut",
+      "mistifyProductName": "Hazelnut & Oak",
+      "mistifyProductSlug": "hazelnut-and-oak",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hazelnut-oak",
+      "publicInspiredByLabel": "Inspired by Jo Malone English Oak & Hazelnut",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Hazelnut"
+      ],
+      "middleNotes": [
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Oak"
+      ],
+      "allNotes": [
+        "Hazelnut",
+        "Cedar",
+        "Oak"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-43-44PM-_1.png?v=1773460328",
+      "searchableText": "Jo Malone jo malone Jo Malone English Oak & Hazelnut Hazelnut & Oak Woody Spicy unisex Hazelnut Cedar Oak",
+      "createdAt": "2026-05-04T04:41:39.466Z",
+      "sharedNotes": [
+        "Cedar"
+      ]
+    },
+    {
+      "id": 178,
+      "fragranceSlug": "mancera-red-tobacco-178",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Red Tobacco",
+      "originalFragranceSlug": "mancera-red-tobacco",
+      "mistifyProductName": "Scarlet Tobacco",
+      "mistifyProductSlug": "scarlet-tobacco",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/scarlet-tobacco",
+      "publicInspiredByLabel": "Inspired by Mancera Red Tobacco",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Oud",
+        "Incense",
+        "Saffron",
+        "Nutmeg",
+        "Green Apple",
+        "White Pear"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Tobacco",
+        "Madagascar Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk",
+        "Haitian Vetiver"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Oud",
+        "Incense",
+        "Saffron",
+        "Nutmeg",
+        "Green Apple",
+        "White Pear",
+        "Patchouli",
+        "Jasmine",
+        "Tobacco",
+        "Madagascar Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk",
+        "Haitian Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ScarletTobacco.png?v=1765423002",
+      "searchableText": "Mancera mancera Mancera Red Tobacco Scarlet Tobacco Woody Spicy unisex Cinnamon Oud Incense Saffron Nutmeg Green Apple White Pear Patchouli Jasmine Tobacco Madagascar Vanilla Amber Sandalwood Guaiac Wood White Musk Haitian Vetiver",
+      "createdAt": "2026-05-04T04:41:34.885Z",
+      "sharedNotes": [
+        "Incense",
+        "Oud",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z",
+      "sharedNotes": [
+        "Cedar",
+        "Oud",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 194,
+      "fragranceSlug": "dolce-and-gabbana-velvet-oriental-musk-194",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Velvet Oriental Musk",
+      "originalFragranceSlug": "dolce-and-gabbana-velvet-oriental-musk",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Oriental Musk",
+      "audience": null,
+      "classification": "Woody/Musky/Amber",
+      "topNotes": [
+        "Cumin",
+        "Saffron",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Damask Rose",
+        "Cypriol"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Cedar",
+        "Sandalwood",
+        "Tonka"
+      ],
+      "allNotes": [
+        "Cumin",
+        "Saffron",
+        "Cardamom",
+        "Damask Rose",
+        "Cypriol",
+        "Musk",
+        "Amber",
+        "Cedar",
+        "Sandalwood",
+        "Tonka"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Oriental Musk Not verified Woody/Musky/Amber Cumin Saffron Cardamom Damask Rose Cypriol Musk Amber Cedar Sandalwood Tonka",
+      "createdAt": "2026-05-04T04:41:35.852Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Cedar",
+        "Cypriol",
+        "Sandalwood"
+      ]
+    }
+  ]
+}

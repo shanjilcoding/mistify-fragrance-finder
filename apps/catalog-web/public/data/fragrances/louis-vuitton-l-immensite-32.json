@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 32,
+    "fragranceSlug": "louis-vuitton-l-immensite-32",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "L’Immensité",
+    "originalFragranceSlug": "louis-vuitton-l-immensite",
+    "mistifyProductName": "Immensity",
+    "mistifyProductSlug": "immensity",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/immensity",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton L’Immensité",
+    "audience": "mens",
+    "classification": "Citrus Aromatic",
+    "topNotes": [
+      "Grapefruit",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Rosemary",
+      "Sage",
+      "Watery Notes"
+    ],
+    "baseNotes": [
+      "Amber",
+      "Ambroxan"
+    ],
+    "allNotes": [
+      "Grapefruit",
+      "Bergamot",
+      "Rosemary",
+      "Sage",
+      "Watery Notes",
+      "Amber",
+      "Ambroxan"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_26_09PM.png?v=1765422829",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton L’Immensité Immensity Citrus Aromatic mens Grapefruit Bergamot Rosemary Sage Watery Notes Amber Ambroxan",
+    "createdAt": "2026-05-04T04:41:26.356Z"
+  }
+}

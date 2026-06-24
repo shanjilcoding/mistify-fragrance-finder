@@ -1,0 +1,275 @@
+{
+  "fragrances": [
+    {
+      "id": 15,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte-15",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Celestia Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte",
+      "mistifyProductName": "Celestial Waters",
+      "mistifyProductSlug": "celestial-waters",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/celestial-waters",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Celestia Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Currant"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Jasmine",
+        "Mimosa",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-55-26AM-_1.png?v=1773460516",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Celestia Cologne Forte Celestial Waters Citrus Aromatic unisex Bergamot Black Currant Jasmine Mimosa Musk",
+      "createdAt": "2026-05-04T04:41:25.373Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Mimosa"
+      ]
+    },
+    {
+      "id": 101,
+      "fragranceSlug": "parfums-de-marly-greenley-101",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Greenley",
+      "originalFragranceSlug": "parfums-de-marly-greenley",
+      "mistifyProductName": "Greenery",
+      "mistifyProductSlug": "greenery",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/greenery",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Greenley",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Cashmeran",
+        "Cedar",
+        "Petitgrain"
+      ],
+      "baseNotes": [
+        "Oakmoss",
+        "Musk",
+        "Amberwood"
+      ],
+      "allNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Mandarin Orange",
+        "Cashmeran",
+        "Cedar",
+        "Petitgrain",
+        "Oakmoss",
+        "Musk",
+        "Amberwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-18-13AM-_1.png?v=1773460498",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Greenley Greenery Citrus Aromatic unisex Green Apple Bergamot Mandarin Orange Cashmeran Cedar Petitgrain Oakmoss Musk Amberwood",
+      "createdAt": "2026-05-04T04:41:30.400Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Oakmoss"
+      ]
+    },
+    {
+      "id": 191,
+      "fragranceSlug": "dolce-and-gabbana-light-blue-191",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Light Blue",
+      "originalFragranceSlug": "dolce-and-gabbana-light-blue",
+      "mistifyProductName": "Lumine Bleu",
+      "mistifyProductSlug": "lumine-bleu",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lumine-bleu",
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Light Blue",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper",
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood",
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-04-05AM-_1.png?v=1773460205",
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Light Blue Lumine Bleu Citrus Aromatic unisex Grapefruit Bergamot Sicilian Mandarin Juniper Pepper Rosemary Brazilian Rosewood Musk Incense Oakmoss",
+      "createdAt": "2026-05-04T04:41:35.651Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Oakmoss"
+      ]
+    },
+    {
+      "id": 28,
+      "fragranceSlug": "louis-vuitton-city-of-stars-28",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "City of Stars",
+      "originalFragranceSlug": "louis-vuitton-city-of-stars",
+      "mistifyProductName": "Starry City",
+      "mistifyProductSlug": "starry-city",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/starry-city",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton City of Stars",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Lime",
+        "Blood Orange",
+        "Blood Mandarin",
+        "Lemon",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Tiare Flower"
+      ],
+      "baseNotes": [
+        "Powdery Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Lime",
+        "Blood Orange",
+        "Blood Mandarin",
+        "Lemon",
+        "Bergamot",
+        "Tiare Flower",
+        "Powdery Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_26_41PM.png?v=1765422822",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton City of Stars Starry City Citrus Aromatic unisex Lime Blood Orange Blood Mandarin Lemon Bergamot Tiare Flower Powdery Notes Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:26.125Z",
+      "sharedNotes": [
+        "Bergamot"
+      ]
+    },
+    {
+      "id": 217,
+      "fragranceSlug": "ermenegildo-zegna-italian-bergamot-217",
+      "brandName": "Ermenegildo Zegna",
+      "brandSlug": "ermenegildo-zegna",
+      "originalFragranceName": "Italian Bergamot",
+      "originalFragranceSlug": "ermenegildo-zegna-italian-bergamot",
+      "mistifyProductName": "Island Vetiver",
+      "mistifyProductSlug": "island-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/island-vetiver",
+      "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Italian Bergamot",
+      "audience": null,
+      "classification": "Citrus Aromatic",
+      "topNotes": [],
+      "middleNotes": [
+        "Bergamot",
+        "Neroli",
+        "Rosemary",
+        "Vetiver"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Bergamot",
+        "Neroli",
+        "Rosemary",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_07_33AM.png?v=1774325260",
+      "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Italian Bergamot Island Vetiver Citrus Aromatic Bergamot Neroli Rosemary Vetiver",
+      "createdAt": "2026-05-04T04:41:37.209Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Neroli"
+      ]
+    },
+    {
+      "id": 110,
+      "fragranceSlug": "parfums-de-marly-castley-110",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Castley",
+      "originalFragranceSlug": "parfums-de-marly-castley",
+      "mistifyProductName": "Castellan",
+      "mistifyProductSlug": "castellan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/castellan",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Castley",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Pepper",
+        "Ginger",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Neroli",
+        "Petitgrain",
+        "Timur",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Akigalawood",
+        "Labdanum",
+        "Benzoin",
+        "Leather"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Pepper",
+        "Ginger",
+        "Grapefruit",
+        "Pepper",
+        "Neroli",
+        "Petitgrain",
+        "Timur",
+        "Rose",
+        "Akigalawood",
+        "Labdanum",
+        "Benzoin",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-29-17AM-_1.png?v=1773460238",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Castley Castellan Citrus Aromatic mens Bergamot Black Pepper Ginger Grapefruit Pepper Neroli Petitgrain Timur Rose Akigalawood Labdanum Benzoin Leather",
+      "createdAt": "2026-05-04T04:41:30.917Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Neroli"
+      ]
+    }
+  ]
+}

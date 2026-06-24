@@ -1,0 +1,35 @@
+{
+  "fragrance": {
+    "id": 173,
+    "fragranceSlug": "montale-vanilla-cake-173",
+    "brandName": "Montale",
+    "brandSlug": "montale",
+    "originalFragranceName": "Vanilla Cake",
+    "originalFragranceSlug": "montale-vanilla-cake",
+    "mistifyProductName": "Vanilla Dream",
+    "mistifyProductSlug": "vanilla-dream",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/vanilla-dream",
+    "publicInspiredByLabel": "Inspired by Montale Vanilla Cake",
+    "audience": "womens",
+    "classification": "Oriental Vanilla",
+    "topNotes": [],
+    "middleNotes": [
+      "Meringue",
+      "Madagascar Vanilla",
+      "Milk",
+      "Caramel",
+      "Almond"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Meringue",
+      "Madagascar Vanilla",
+      "Milk",
+      "Caramel",
+      "Almond"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-30-52PM-_1.png?v=1773460524",
+    "searchableText": "Montale montale Montale Vanilla Cake Vanilla Dream Oriental Vanilla womens Meringue Madagascar Vanilla Milk Caramel Almond",
+    "createdAt": "2026-05-04T04:41:34.590Z"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 96,
+    "fragranceSlug": "tom-ford-oud-voyager-96",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Oud Voyager",
+    "originalFragranceSlug": "tom-ford-oud-voyager",
+    "mistifyProductName": "Oud Voyagé",
+    "mistifyProductSlug": "oud-voyage",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-voyage",
+    "publicInspiredByLabel": "Inspired by Tom Ford Oud Voyager",
+    "audience": "unisex",
+    "classification": "Oriental Woody",
+    "topNotes": [
+      "Geranium",
+      "Pink Pepper",
+      "Citrus"
+    ],
+    "middleNotes": [
+      "Red Peony",
+      "Cardamom",
+      "Saffron"
+    ],
+    "baseNotes": [
+      "Oud",
+      "Cypriol",
+      "Patchouli",
+      "Vetiver",
+      "Musk"
+    ],
+    "allNotes": [
+      "Geranium",
+      "Pink Pepper",
+      "Citrus",
+      "Red Peony",
+      "Cardamom",
+      "Saffron",
+      "Oud",
+      "Cypriol",
+      "Patchouli",
+      "Vetiver",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec17-2025-09-31-28AM-_1.png?v=1773460197",
+    "searchableText": "Tom Ford tom ford Tom Ford Oud Voyager Oud Voyagé Oriental Woody unisex Geranium Pink Pepper Citrus Red Peony Cardamom Saffron Oud Cypriol Patchouli Vetiver Musk",
+    "createdAt": "2026-05-04T04:41:30.090Z"
+  }
+}

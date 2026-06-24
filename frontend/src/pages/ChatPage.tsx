@@ -15,8 +15,6 @@ import {
   type RecommendationOptionGroup,
   type RecommendationOptions,
 } from '../api/recommendationOptionsApi'
-import ChatBox from '../components/ChatBox'
-import FragranceCard from '../components/FragranceCard'
 import '../styles/app.css'
 
 type FinderFeedback = {
@@ -103,6 +101,7 @@ type ChatAction =
       isCuratedResult: boolean
     }
   | { type: 'requestFailed'; message: string }
+  | { type: 'resetResults' }
 
 const sortOptions: { value: SortOption; label: string }[] = [
   { value: 'best-match', label: 'Discovery Order' },
@@ -186,14 +185,6 @@ const fallbackPromptChips: PublicPromptChip[] = [
     sortOrder: 4,
   },
 ]
-const refinementChips = [
-  { label: 'Sweeter', prompt: 'Make these recommendations sweeter.' },
-  { label: 'Fresher', prompt: 'Show fresher and cleaner options.' },
-  { label: 'More masculine', prompt: 'Make these recommendations more masculine.' },
-  { label: 'More feminine', prompt: 'Make these recommendations more feminine.' },
-  { label: 'Office-safe', prompt: 'Show more office-safe options.' },
-  { label: 'Date night', prompt: 'Show more date night options.' },
-]
 
 
 type GuidedBriefState = {
@@ -250,45 +241,7 @@ const initialReferenceBrief: ReferenceBriefState = {
   directions: [],
 }
 
-const finderModeCards: Array<{
-  mode: FinderStartMode
-  title: string
-  copy: string
-  icon: string
-  example: string
-  cta: string
-}> = [
-  {
-    mode: 'concierge',
-    title: 'Concierge',
-    copy: 'Free-text scent search',
-    icon: '✦',
-    example: '“fresh citrus for summer”',
-    cta: 'Start writing',
-  },
-  {
-    mode: 'guided',
-    title: 'Guided',
-    copy: 'Step-by-step brief',
-    icon: '✓',
-    example: 'Mood → occasion → notes',
-    cta: 'Build my brief',
-  },
-  {
-    mode: 'reference',
-    title: 'Reference',
-    copy: 'Find similar to one you like',
-    icon: '⌕',
-    example: 'Bleu de Chanel, but fresher',
-    cta: 'Match a fragrance',
-  },
-]
 
-const conciergePromptExamples = [
-  'fresh citrus for summer, not too sweet',
-  'warm vanilla date night, mature not childish',
-  'clean musk after a shower, office-safe',
-]
 
 const referenceDirectionOptions = [
   { label: 'Very similar', phrase: 'very similar' },
@@ -327,23 +280,8 @@ function buildReferenceBriefText(brief: ReferenceBriefState) {
   return `Show fragrances similar to ${fragrance} but ${formatJoinedPhrases(brief.directions)}.`
 }
 
-function getFinderModeLabel(mode: FinderStartMode | null) {
-  if (mode === 'guided') return 'Guided'
-  if (mode === 'reference') return 'Reference'
-  return 'Concierge'
-}
 
-function getFinderModeCard(mode: FinderStartMode) {
-  return finderModeCards.find((card) => card.mode === mode) ?? finderModeCards[0]
-}
 
-const wardrobeLabels = [
-  'Best overall',
-  'Cleanest daily wear',
-  'Most polished',
-  'Most memorable',
-  'Wildcard pick',
-]
 
 function buildGuidedBriefText(brief: GuidedBriefState) {
   const parts = [
@@ -761,51 +699,6 @@ function keepRecentConversation(messages: ConversationMessage[]) {
   return messages.slice(-MAX_CONVERSATION_MESSAGES)
 }
 
-function normalizeNote(value: string) {
-  return value.toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim()
-}
-
-function getSharedNotes(
-  referenceFragrance: Recommendation | undefined,
-  recommendation: Recommendation,
-) {
-  if (!referenceFragrance) {
-    return []
-  }
-
-  const recommendationNotes = Array.isArray(recommendation.allNotes)
-    ? recommendation.allNotes
-    : []
-  const referenceNotes = Array.isArray(referenceFragrance.allNotes)
-    ? referenceFragrance.allNotes
-    : []
-  const recommendationNoteMap = new Map(
-    recommendationNotes.map((note) => [normalizeNote(note), note]),
-  )
-
-  const sharedNotes: string[] = []
-
-  for (const referenceNote of referenceNotes) {
-    const normalizedReferenceNote = normalizeNote(referenceNote)
-    const sharedNote = recommendationNoteMap.get(normalizedReferenceNote)
-
-    if (normalizedReferenceNote && sharedNote) {
-      sharedNotes.push(sharedNote)
-    }
-  }
-
-  return sharedNotes
-}
-
-function isPlaceholderText(value: string | null | undefined) {
-  return [
-    'not verified',
-    'not verified on mistify',
-    'not fully verified from mistify page',
-    'not verified from source',
-  ].includes(value?.trim().toLowerCase() ?? '')
-}
-
 function getAssistantSearchIntro(
   query: string,
   isCuratedResult: boolean,
@@ -844,127 +737,8 @@ function getAssistantSearchIntro(
   return 'Got it — I’ll match that description against Mistify’s fragrance profiles.'
 }
 
-function getAssistantResultSummary(
-  query: string | undefined,
-  isReferenceSearch: boolean,
-  isCuratedResult: boolean,
-) {
-  if (isReferenceSearch) {
-    return 'Fragrances that share parts of the reference scent notes, profile, or overall direction.'
-  }
 
-  if (isCuratedResult) {
-    return 'I kept the shortlist focused so each fragrance has a reason to be here.'
-  }
 
-  const normalizedQuery = query?.toLowerCase() ?? ''
-
-  if (/\b(fresh|citrus|bergamot|lemon|orange|grapefruit|lime|yuzu)\b/.test(normalizedQuery)) {
-    return 'Fresh, citrus, and easy-to-wear options that still feel polished.'
-  }
-
-  return 'Use these as a curated shelf: compare the fit notes, then refine the direction.'
-}
-
-function getResultContextPrefix(contextType: ActiveSearchContext['type']) {
-  if (contextType === 'curated') {
-    return 'Curated list'
-  }
-
-  if (contextType === 'reference') {
-    return 'Similar direction'
-  }
-
-  return 'Showing matches for'
-}
-
-function NoteGroup({ label, notes }: { label: string; notes?: string[] }) {
-  const safeNotes = Array.isArray(notes) ? notes.filter(Boolean) : []
-
-  if (!safeNotes.length) {
-    return null
-  }
-
-  return (
-    <div className="reference-note-group">
-      <p>{label}</p>
-      <ul className="note-list">
-        {safeNotes.map((note) => (
-          <li key={note}>{note}</li>
-        ))}
-      </ul>
-    </div>
-  )
-}
-
-function ReferenceFragranceCard({
-  referenceFragrance,
-}: {
-  referenceFragrance: Recommendation
-}) {
-  const topNotes = Array.isArray(referenceFragrance.topNotes)
-    ? referenceFragrance.topNotes
-    : []
-  const middleNotes = Array.isArray(referenceFragrance.middleNotes)
-    ? referenceFragrance.middleNotes
-    : []
-  const baseNotes = Array.isArray(referenceFragrance.baseNotes)
-    ? referenceFragrance.baseNotes
-    : []
-  const allNotes = Array.isArray(referenceFragrance.allNotes)
-    ? referenceFragrance.allNotes
-    : []
-  const mistifyProductName =
-    referenceFragrance.mistifyProductName &&
-    !isPlaceholderText(referenceFragrance.mistifyProductName) &&
-    referenceFragrance.mistifyProductName !== referenceFragrance.originalFragranceName
-      ? referenceFragrance.mistifyProductName
-      : null
-  const sourceBrandBatch =
-    referenceFragrance.sourceBrandBatch &&
-    !isPlaceholderText(referenceFragrance.sourceBrandBatch)
-      ? referenceFragrance.sourceBrandBatch
-      : null
-  const classification =
-    referenceFragrance.classification &&
-    !isPlaceholderText(referenceFragrance.classification)
-      ? referenceFragrance.classification
-      : null
-  const rating = referenceFragrance.rating
-  const ratingLine = [
-    typeof rating?.ratingValue === 'number'
-      ? `${rating.ratingValue.toFixed(2)} rating`
-      : null,
-    typeof rating?.ratingVoteCount === 'number'
-      ? `${rating.ratingVoteCount.toLocaleString('en-US')} votes`
-      : null,
-  ].filter((item): item is string => Boolean(item))
-
-  return (
-    <article className="reference-card">
-      <p className="reference-card-kicker">Your reference</p>
-      <h3>{referenceFragrance.originalFragranceName?.trim() || 'Reference fragrance'}</h3>
-      {sourceBrandBatch ? <p className="reference-brand">{sourceBrandBatch}</p> : null}
-      {mistifyProductName ? (
-        <p className="reference-product">Mistify match: {mistifyProductName}</p>
-      ) : null}
-      {classification ? (
-        <p className="fragrance-category">{classification}</p>
-      ) : null}
-      {ratingLine.length ? (
-        <p className="reference-rating">{ratingLine.join(', ')}</p>
-      ) : null}
-      <div className="reference-notes">
-        <NoteGroup label="Top" notes={topNotes} />
-        <NoteGroup label="Middle" notes={middleNotes} />
-        <NoteGroup label="Base" notes={baseNotes} />
-        {!topNotes.length && !middleNotes.length && !baseNotes.length ? (
-          <NoteGroup label="Notes" notes={allNotes} />
-        ) : null}
-      </div>
-    </article>
-  )
-}
 
 function chatReducer(state: ChatState, action: ChatAction): ChatState {
   if (action.type === 'setInput') {
@@ -1074,6 +848,14 @@ function chatReducer(state: ChatState, action: ChatAction): ChatState {
     }
   }
 
+  if (action.type === 'resetResults') {
+    return {
+      ...initialChatState,
+      promptChips: state.promptChips,
+      curatedChips: state.curatedChips,
+    }
+  }
+
   return state
 }
 
@@ -1095,14 +877,15 @@ function useChatPageContent() {
     notes: '',
     avoids: '',
   })
+  const [selectedFragrance, setSelectedFragrance] = useState<Recommendation | null>(null)
 
   const conversationRef = useRef<ConversationMessage[]>([])
   const resultsRef = useRef<HTMLElement | null>(null)
+  const hasConsumedPendingPromptRef = useRef(false)
   const {
     input,
     isLoading,
     lastSubmittedMessage,
-    assistantSearchIntro,
     recommendations,
     referenceFragrance,
     searchMode,
@@ -1114,7 +897,6 @@ function useChatPageContent() {
     curatedChips,
     resultSource,
     finderFeedback,
-    activeSearchContext,
     submittedFinderMode,
   } = state
   const visibleRecommendations = useMemo(() => {
@@ -1187,7 +969,7 @@ function useChatPageContent() {
   const showingText = hasActiveFilters
     ? `Showing ${visibleRecommendations.length} of ${recommendations.length} fragrances`
     : `Showing ${recommendations.length} ${recommendations.length === 1 ? 'fragrance' : 'fragrances'}`
-  const hasResults = recommendations.length > 0
+  const hasResults = recommendations.length > 0 && submittedFinderMode === finderStartMode
   const displayedRecommendations = isCuratedResult
     ? recommendations
     : visibleRecommendations
@@ -1199,15 +981,7 @@ function useChatPageContent() {
     () => getVisibleCuratedChips(curatedChips),
     [curatedChips],
   )
-  const assistantResultSummary = getAssistantResultSummary(
-    lastSearchQuery,
-    isReferenceSearch,
-    isCuratedResult,
-  )
-  const resultContextText =
-    activeSearchContext?.label && hasResults
-      ? `${getResultContextPrefix(activeSearchContext.type)}: ${activeSearchContext.label}`
-      : null
+  // Removed with V1: assistantResultSummary, resultContextText, submittedFinderModeLabel, conciergeModeCard, referenceModeCard
   const guidedBriefText = buildGuidedBriefText(guidedBrief)
   const selectedGuidedOptions = getSelectedGuidedOptions(guidedBrief)
   const selectedBriefCount = selectedGuidedOptions.length
@@ -1216,10 +990,6 @@ function useChatPageContent() {
   const visibleNoteGroups = getVisibleOptionGroups(recommendationOptions.notes, guidedSearch.notes, expandedGuidedGroups.notes, 12)
   const visibleAvoidGroups = getVisibleOptionGroups(recommendationOptions.avoids, guidedSearch.avoids, expandedGuidedGroups.avoids)
   const referenceBriefText = buildReferenceBriefText(referenceBrief)
-  const submittedFinderModeLabel = getFinderModeLabel(submittedFinderMode)
-
-  const conciergeModeCard = getFinderModeCard('concierge')
-  const referenceModeCard = getFinderModeCard('reference')
 
 
   useEffect(() => {
@@ -1290,6 +1060,26 @@ function useChatPageContent() {
     }
   }, [isLoading, recommendations.length])
 
+  // Consume a prompt handed off from the standalone catalog app.
+  useEffect(() => {
+    if (hasConsumedPendingPromptRef.current) {
+      return
+    }
+
+    hasConsumedPendingPromptRef.current = true
+
+    const url = new URL(window.location.href)
+    const pendingPrompt = url.searchParams.get('prompt')
+
+    if (pendingPrompt?.trim()) {
+      url.searchParams.delete('prompt')
+      window.history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`)
+      void handleSendMessage(pendingPrompt, undefined, 'concierge')
+    }
+    // Run once on mount so a catalog handoff prompt is consumed only once.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
+
   function toggleFilter(filter: FilterKey) {
     dispatch({ type: 'toggleFilter', filter })
   }
@@ -1317,12 +1107,6 @@ function useChatPageContent() {
     setGuidedSearch((currentSearch) => ({ ...currentSearch, [key]: value }))
   }
 
-  function removeGuidedValue(key: 'moods' | 'occasions' | 'notes' | 'avoids', value: string) {
-    setGuidedBrief((currentBrief) => ({
-      ...currentBrief,
-      [key]: currentBrief[key].filter((currentValue) => currentValue !== value),
-    }))
-  }
 
   function renderGuidedOptionSection({
     id,
@@ -1503,489 +1287,374 @@ function useChatPageContent() {
   }
 
   return (
-    <main className={`app-shell scent-atelier-shell ${hasResults ? 'has-results' : 'is-briefing'}`}>
-      <section className="atelier-page" aria-labelledby="page-title">
-        <header className="brand-bar atelier-brand-bar" aria-label="Mistify Fragrance Finder">
-          <div className="brand-lockup">
-            <a
-              className="brand-mark brand-link"
-              href="https://www.mistifyparfums.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Open Mistify Parfums website"
-            >
-              mistify
-            </a>
-            <a
-              className="brand-subtitle brand-link"
-              href="/"
-              aria-label="Open Mistify Fragrance Finder"
-            >
-              Mistify Fragrance Finder
-            </a>
-          </div>
-          <p className="atelier-header-note">Brief → Curated Tray → Refine</p>
-        </header>
+    <main className={`app-shell ${hasResults ? 'has-results' : 'is-briefing'}`}>
+      <header className="v1-topbar">
+        <a
+          className="v1-topbar-brand"
+          href="https://www.mistifyparfums.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          mistify <span>parfums</span>
+        </a>
+        <div className="v1-mode-switcher">
+          <button
+            type="button"
+            className={`v1-mode-btn ${finderStartMode === 'concierge' ? 'active' : ''}`}
+            onClick={() => {
+              setFinderStartMode('concierge')
+              setGuidedBrief(initialGuidedBrief)
+              setReferenceBrief(initialReferenceBrief)
+              dispatch({ type: 'resetResults' })
+            }}
+          >
+            Concierge
+          </button>
+          <button
+            type="button"
+            className={`v1-mode-btn ${finderStartMode === 'guided' ? 'active' : ''}`}
+            onClick={() => {
+              setFinderStartMode('guided')
+              setGuidedBrief(initialGuidedBrief)
+              setReferenceBrief(initialReferenceBrief)
+              dispatch({ type: 'resetResults' })
+            }}
+          >
+            Guided
+          </button>
+          <button
+            type="button"
+            className={`v1-mode-btn ${finderStartMode === 'reference' ? 'active' : ''}`}
+            onClick={() => {
+              setFinderStartMode('reference')
+              setGuidedBrief(initialGuidedBrief)
+              setReferenceBrief(initialReferenceBrief)
+              dispatch({ type: 'resetResults' })
+            }}
+          >
+            Reference
+          </button>
+        </div>
+      </header>
 
-        {!hasResults ? (
-          <section className="atelier-landing" aria-label="Mistify Fragrance Finder start">
-            <section className="atelier-brief-card" aria-label="Start a scent brief">
-              <div className="atelier-brief-header">
-                <div className="chat-avatar atelier-avatar" aria-hidden="true">M</div>
-                <div>
-                  <p className="chat-speaker">Mistify Concierge</p>
-                  <h1 id="page-title">What should your next scent feel like?</h1>
-                  <p>Type freely, use a popular start, or switch modes below.</p>
-                </div>
+      {!hasResults ? (
+        <section className="v1-hero">
+          <h1>Find your next signature scent</h1>
+          <p className="v1-hero-sub">Search by mood, occasion, notes, or a fragrance you already love</p>
+
+          {finderStartMode === 'concierge' ? (
+            <>
+              <div className="v1-search-row">
+                <input
+                  className="v1-search-input"
+                  value={input}
+                  maxLength={CHAT_MESSAGE_MAX_LENGTH}
+                  onChange={(e) => dispatch({ type: 'setInput', value: e.target.value })}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter') void handleSendMessage(undefined, undefined, 'concierge')
+                  }}
+                  placeholder="Try: fresh citrus for summer, not too sweet"
+                  disabled={isLoading}
+                />
+                <button
+                  className="v1-search-btn"
+                  onClick={() => void handleSendMessage(undefined, undefined, 'concierge')}
+                  disabled={isLoading || !input.trim()}
+                >
+                  Search
+                </button>
               </div>
 
-              <section className="finder-mode-section finder-mode-workspace" aria-label="Choose how to start">
-                <div className="finder-mode-header">
-                  <div>
-                    <p className="current-brief-label">Choose your starting point</p>
-                    <h3>Three ways into the same curated tray.</h3>
-                  </div>
-                </div>
+              <div className="v1-chips">
+                {visiblePromptChips.slice(0, 5).map((chip) => (
+                  <button
+                    key={chip.id}
+                    type="button"
+                    className="v1-chip"
+                    onClick={() => handleSendMessage(chip.prompt, undefined, 'concierge')}
+                    disabled={isLoading}
+                  >
+                    {getPromptChipDisplayLabel(chip)}
+                  </button>
+                ))}
+              </div>
 
-                <div className="finder-mode-grid equal-mode-grid">
-                  {finderModeCards.map((card) => (
+              {visibleCuratedChips.length ? (
+                <div className="v1-chips" style={{ marginTop: 8 }}>
+                  {visibleCuratedChips.slice(0, 4).map((chip) => (
                     <button
-                      key={card.mode}
+                      key={chip.id}
                       type="button"
-                      className={`finder-mode-card ${finderStartMode === card.mode ? 'active' : ''}`}
-                      onClick={() => setFinderStartMode(card.mode)}
-                      aria-pressed={finderStartMode === card.mode}
+                      className="v1-chip"
+                      onClick={() => handleSendMessage(chip.label, chip.id, 'concierge')}
+                      disabled={isLoading}
                     >
-                      <span className="mode-card-header">
-                        <span className="mode-card-icon" aria-hidden="true">{card.icon}</span>
-                        <span className="mode-card-title">{card.title}</span>
-                      </span>
-                      <span className="mode-card-copy">{card.copy}</span>
-                      <span className="mode-card-example">{card.example}</span>
-                      <span className="mode-card-cta">
-                        {card.cta}<span className="mode-card-arrow" aria-hidden="true">→</span>
-                      </span>
+                      {getCuratedChipDisplayLabel(chip.label)}
                     </button>
                   ))}
                 </div>
-
-                <section className={`mode-panel active-mode-panel ${finderStartMode}-mode-panel`} aria-label={`${getFinderModeLabel(finderStartMode)} workspace`}>
-                  {finderStartMode === 'concierge' ? (
-                    <div className="mode-workspace-content concierge-workspace">
-                      <div className="mode-workspace-heading">
-                        <span className="mode-card-icon" aria-hidden="true">{conciergeModeCard.icon}</span>
-                        <div>
-                          <p className="current-brief-label">Concierge</p>
-                          <h3>Describe what you want.</h3>
-                          <p>Tell Mistify the vibe, notes, occasion, or mood in your own words.</p>
-                        </div>
-                      </div>
-
-                      <ChatBox
-                        value={input}
-                        isLoading={isLoading}
-                        maxLength={CHAT_MESSAGE_MAX_LENGTH}
-                        inputId="chat-message"
-                        placeholder="Try: fresh citrus for summer, not too sweet"
-                        onChange={(value) => dispatch({ type: 'setInput', value })}
-                        onSubmit={() => {
-                          void handleSendMessage(undefined, undefined, 'concierge')
-                        }}
-                      />
-
-                      {finderFeedback ? (
-                        <p className={`atelier-feedback ${finderFeedback.tone}`} role="status">
-                          {finderFeedback.text}
-                        </p>
-                      ) : null}
-
-                      <div className="quick-start-header"><p className="hero-chip-label">Popular starts</p></div>
-                      <div className="atelier-quick-start" aria-label="Popular scent starts">
-                        {visiblePromptChips.slice(0, 5).map((chip) => (
-                          <button
-                            key={chip.id}
-                            type="button"
-                            className="hero-chip quick-start-chip"
-                            onClick={() => handleSendMessage(chip.prompt, undefined, 'concierge')}
-                            disabled={isLoading}
-                          >
-                            {getPromptChipDisplayLabel(chip)}
-                          </button>
-                        ))}
-                      </div>
-
-                      <div className="example-prompt-list" aria-label="Example concierge prompts">
-                        {conciergePromptExamples.map((prompt) => (
-                          <button
-                            key={prompt}
-                            type="button"
-                            onClick={() => handleSendMessage(prompt, undefined, 'concierge')}
-                            disabled={isLoading}
-                          >
-                            “{prompt}”
-                          </button>
-                        ))}
-                      </div>
-
-                      {visibleCuratedChips.length ? (
-                        <section className="curated-shortcuts" aria-label="Curated Mistify lists">
-                          <p className="hero-chip-label">Or open a curated shelf</p>
-                          <div className="hero-chip-list">
-                            {visibleCuratedChips.slice(0, 6).map((chip) => (
-                              <button
-                                key={chip.id}
-                                type="button"
-                                className="hero-chip curated-pick-chip"
-                                onClick={() => handleSendMessage(chip.label, chip.id, 'concierge')}
-                                disabled={isLoading}
-                              >
-                                {getCuratedChipDisplayLabel(chip.label)}
-                              </button>
-                            ))}
-                          </div>
-                        </section>
-                      ) : null}
-                    </div>
-                  ) : null}
-
-                  {finderStartMode === 'guided' ? (
-                    <div className="guided-brief-builder" aria-label="Guided scent brief builder">
-                      <div className="guided-builder-header">
-                        <div>
-                          <p className="current-brief-label">Guided brief</p>
-                          <h3>Build a precise scent brief</h3>
-                          <p>Choose popular cues first, or open the full engine vocabulary when you want more control.</p>
-                        </div>
-                        <span>{selectedBriefCount} selected</span>
-                      </div>
-
-                      <div className="guided-step-grid enhanced-guided-grid">
-                        {renderGuidedOptionSection({
-                          id: 'moods',
-                          title: 'Mood',
-                          hint: 'How should it feel?',
-                          groups: visibleMoodGroups,
-                          selectedValues: guidedBrief.moods,
-                        })}
-                        {renderGuidedOptionSection({
-                          id: 'occasions',
-                          title: 'Occasion',
-                          hint: 'Where will you wear it?',
-                          groups: visibleOccasionGroups,
-                          selectedValues: guidedBrief.occasions,
-                        })}
-                        {renderGuidedOptionSection({
-                          id: 'notes',
-                          title: 'Notes',
-                          hint: 'Pick notes or families from the engine.',
-                          groups: visibleNoteGroups,
-                          selectedValues: guidedBrief.notes,
-                          searchPlaceholder: 'Search notes, accords, families...',
-                        })}
-                        {renderGuidedOptionSection({
-                          id: 'avoids',
-                          title: 'Avoid',
-                          hint: 'Tell Mistify what to stay away from.',
-                          groups: visibleAvoidGroups,
-                          selectedValues: guidedBrief.avoids,
-                          searchPlaceholder: 'Search avoids...',
-                        })}
-                      </div>
-
-                      <div className="guided-selected-tray" aria-label="Selected guided brief cues">
-                        <p className="current-brief-label">Selected</p>
-                        {selectedGuidedOptions.length ? (
-                          <div className="guided-selected-list">
-                            {selectedGuidedOptions.map((item) => (
-                              <button
-                                key={`${item.type}-${item.label}`}
-                                type="button"
-                                onClick={() => removeGuidedValue(item.type, item.label)}
-                              >
-                                {item.label}<span aria-hidden="true">×</span>
-                              </button>
-                            ))}
-                          </div>
-                        ) : (
-                          <p>Pick a few cues and they’ll collect here.</p>
-                        )}
-                      </div>
-
-                      <div className="brief-preview-panel">
-                        <div>
-                          <p className="current-brief-label">Live brief</p>
-                          <p>{guidedBriefText || 'Choose a few cues and Mistify will compose the brief here.'}</p>
-                        </div>
-                        <div className="brief-preview-actions">
-                          <button
-                            type="button"
-                            className="details-toggle"
-                            onClick={resetGuidedBrief}
-                            disabled={!selectedBriefCount}
-                          >
-                            Clear
-                          </button>
-                          <button
-                            type="button"
-                            className="mistify-link mistify-link-button"
-                            onClick={submitGuidedBrief}
-                            disabled={!guidedBriefText || isLoading}
-                          >
-                            Curate tray
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  ) : null}
-
-                  {finderStartMode === 'reference' ? (
-                    <div className="mode-workspace-content reference-workspace">
-                      <div className="mode-workspace-heading">
-                        <span className="mode-card-icon" aria-hidden="true">{referenceModeCard.icon}</span>
-                        <div>
-                          <p className="current-brief-label">Reference</p>
-                          <h3>Find similar to one you like.</h3>
-                          <p>Start with a fragrance you own or admire, then choose the direction.</p>
-                        </div>
-                      </div>
-
-                      <label className="reference-input-label" htmlFor="reference-fragrance">
-                        Fragrance you like
-                      </label>
-                      <input
-                        id="reference-fragrance"
-                        className="guided-reference-input"
-                        value={referenceBrief.fragrance}
-                        placeholder="Example: Bleu de Chanel, Baccarat Rouge 540, Aventus"
-                        onChange={(event) => updateReferenceFragrance(event.target.value)}
-                      />
-
-                      <div className="reference-direction-group" aria-label="Reference direction">
-                        <p className="hero-chip-label">Make it</p>
-                        <div className="guided-option-grid">
-                          {referenceDirectionOptions.map((option) => (
-                            <button
-                              key={option.phrase}
-                              type="button"
-                              className={`guided-option ${referenceBrief.directions.includes(option.phrase) ? 'active' : ''}`}
-                              onClick={() => toggleReferenceDirection(option.phrase)}
-                            >
-                              {option.label}
-                            </button>
-                          ))}
-                        </div>
-                      </div>
-
-                      <div className="brief-preview-panel">
-                        <div>
-                          <p className="current-brief-label">Generated reference brief</p>
-                          <p>{referenceBriefText || 'Type a fragrance and select a direction to preview the request.'}</p>
-                        </div>
-                        <div className="brief-preview-actions">
-                          <button
-                            type="button"
-                            className="details-toggle"
-                            onClick={resetReferenceBrief}
-                            disabled={!referenceBrief.fragrance.trim() && !referenceBrief.directions.length}
-                          >
-                            Clear
-                          </button>
-                          <button
-                            type="button"
-                            className="mistify-link mistify-link-button"
-                            onClick={submitReferenceBrief}
-                            disabled={!referenceBriefText || isLoading}
-                          >
-                            Match fragrance
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  ) : null}
-                </section>
-              </section>
-            </section>
-          </section>
-        ) : null}
-
-        {recommendations.length ? (
-          <section
-            ref={resultsRef}
-            className={`atelier-results ${isReferenceSearch ? 'reference-results' : 'standard-results'} ${isCuratedResult ? 'curated-results' : 'search-results'}`}
-            aria-label="Recommendations"
-          >
-            <aside className="atelier-brief-sidebar" aria-label="Current scent brief">
-              <div className="brief-sidebar-card">
-                <p className="eyebrow">YOUR SCENT BRIEF</p>
-                <h2>{resultContextText ?? lastSubmittedMessage ?? 'Your fragrance search'}</h2>
-                <p>{assistantResultSummary}</p>
-                <div className="submitted-mode-pill" aria-label="Submitted search mode">
-                  Mode: {submittedFinderModeLabel}
-                </div>
-              </div>
-
-              <div className="brief-timeline" aria-label="Brief timeline">
-                <p className="current-brief-label">Brief timeline</p>
-                <ol>
-                  <li>
-                    <span>01</span>
-                    <p>{lastSubmittedMessage ?? 'Initial brief'}</p>
-                  </li>
-                  {assistantSearchIntro ? (
-                    <li>
-                      <span>02</span>
-                      <p>{assistantSearchIntro}</p>
-                    </li>
-                  ) : null}
-                </ol>
-              </div>
-
-              <div className="results-command-panel atelier-refine-panel" aria-label="Refine scent brief">
-                <p className="current-brief-label">Refine without restarting</p>
-                <ChatBox
-                  value={input}
-                  isLoading={isLoading}
-                  maxLength={CHAT_MESSAGE_MAX_LENGTH}
-                  inputId="results-chat-message"
-                  placeholder="Make it fresher, warmer, softer, or more office-safe"
-                  onChange={(value) => dispatch({ type: 'setInput', value })}
-                  onSubmit={handleSendMessage}
-                />
-                {!isCuratedResult ? (
-                  <div className="inline-refinement-rail" aria-label="Quick refinements">
-                    {refinementChips.map((chip) => (
-                      <button
-                        key={chip.label}
-                        type="button"
-                        className="refinement-chip"
-                        onClick={() => handleSendMessage(chip.prompt)}
-                        disabled={isLoading}
-                      >
-                        {chip.label}
-                      </button>
-                    ))}
-                  </div>
-                ) : null}
-              </div>
-            </aside>
-
-            <div className="atelier-tray-area">
-              <div className="curated-tray-header">
-                <div>
-                  <p className="eyebrow">CURATED TRAY</p>
-                  <h2>{isReferenceSearch ? 'A shelf in the same direction' : 'Your fragrance wardrobe'}</h2>
-                  <p>{showingText}</p>
-                </div>
-                <div className={`results-toolbar ${isCuratedResult ? 'curated-results-toolbar' : ''}`}>
-                  {isCuratedResult ? (
-                    <p className="curated-order-label">Curated order</p>
-                  ) : (
-                    <>
-                      <div className="sort-control">
-                        <label htmlFor="recommendation-sort">Sort</label>
-                        <select
-                          id="recommendation-sort"
-                          value={sortOption}
-                          onChange={(event) =>
-                            dispatch({
-                              type: 'setSortOption',
-                              sortOption: event.target.value as SortOption,
-                            })
-                          }
-                        >
-                          {displayedSortOptions.map((option) => (
-                            <option key={option.value} value={option.value}>
-                              {option.label}
-                            </option>
-                          ))}
-                        </select>
-                      </div>
-                      <button
-                        type="button"
-                        className="filter-toggle-button"
-                        aria-expanded={isFilterPanelOpen}
-                        onClick={() => dispatch({ type: 'toggleFilterPanel' })}
-                      >
-                        Filters{hasActiveFilters ? ` (${activeFilters.length})` : ''}
-                      </button>
-                    </>
-                  )}
-                </div>
-              </div>
-
-              {!isCuratedResult && isFilterPanelOpen ? (
-                <div className="filter-section atelier-filter-section">
-                  <p className="filter-section-label">Refine results</p>
-                  <div className="filter-chip-list" aria-label="Recommendation filters">
-                    {filterOptions.map((filter) => {
-                      const isActive = activeFilters.includes(filter.key)
-
-                      return (
-                        <button
-                          aria-pressed={isActive}
-                          className={`filter-chip ${isActive ? 'active' : ''}`}
-                          key={filter.key}
-                          type="button"
-                          onClick={() => toggleFilter(filter.key)}
-                        >
-                          {filter.label}
-                        </button>
-                      )
-                    })}
-                    {hasActiveFilters ? (
-                      <button
-                        className="clear-filters-button"
-                        type="button"
-                        onClick={() => dispatch({ type: 'clearFilters' })}
-                      >
-                        Clear filters
-                      </button>
-                    ) : null}
-                  </div>
-                </div>
               ) : null}
 
+              {finderFeedback ? (
+                <p className={`finder-feedback ${finderFeedback.tone}`} role="status" style={{ marginTop: 12, textAlign: 'center' }}>
+                  {finderFeedback.text}
+                </p>
+              ) : null}
+            </>
+          ) : null}
+
+          {finderStartMode === 'guided' ? (
+            <div style={{ maxWidth: 720, margin: '0 auto', textAlign: 'left' }}>
+              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
+                {renderGuidedOptionSection({ id: 'moods', title: 'Mood', hint: 'How should it feel?', groups: visibleMoodGroups, selectedValues: guidedBrief.moods })}
+                {renderGuidedOptionSection({ id: 'occasions', title: 'Occasion', hint: 'Where?', groups: visibleOccasionGroups, selectedValues: guidedBrief.occasions })}
+                {renderGuidedOptionSection({ id: 'notes', title: 'Notes', hint: 'Pick notes.', groups: visibleNoteGroups, selectedValues: guidedBrief.notes, searchPlaceholder: 'Search notes...' })}
+                {renderGuidedOptionSection({ id: 'avoids', title: 'Avoid', hint: 'Stay away from.', groups: visibleAvoidGroups, selectedValues: guidedBrief.avoids, searchPlaceholder: 'Search avoids...' })}
+              </div>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 16, padding: '12px 16px', background: 'var(--bg-raised)', border: '1px solid var(--line)', borderRadius: 'var(--radius-md)' }}>
+                <span style={{ fontSize: 13, color: 'var(--ink-500)' }}>{guidedBriefText || 'Pick some cues to build your brief.'}</span>
+                <div style={{ display: 'flex', gap: 8 }}>
+                  <button type="button" className="details-toggle" onClick={resetGuidedBrief} disabled={!selectedBriefCount}>Clear</button>
+                  <button type="button" className="mistify-link mistify-link-button" onClick={submitGuidedBrief} disabled={!guidedBriefText || isLoading}>Curate tray</button>
+                </div>
+              </div>
+            </div>
+          ) : null}
+
+          {finderStartMode === 'reference' ? (
+            <div style={{ maxWidth: 640, margin: '0 auto', textAlign: 'left' }}>
+              <input
+                id="reference-fragrance"
+                className="v1-search-input"
+                value={referenceBrief.fragrance}
+                placeholder="Example: Bleu de Chanel, Baccarat Rouge 540, Aventus"
+                onChange={(e) => updateReferenceFragrance(e.target.value)}
+                style={{ width: '100%' }}
+              />
+              <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap', marginTop: 12, justifyContent: 'center' }}>
+                {referenceDirectionOptions.map((option) => (
+                  <button key={option.phrase} type="button" className={`v1-chip ${referenceBrief.directions.includes(option.phrase) ? 'active' : ''}`} onClick={() => toggleReferenceDirection(option.phrase)} style={referenceBrief.directions.includes(option.phrase) ? { background: 'var(--ink-900)', color: '#fff', borderColor: 'var(--ink-900)' } : {}}>{option.label}</button>
+                ))}
+              </div>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: 16, padding: '12px 16px', background: 'var(--bg-raised)', border: '1px solid var(--line)', borderRadius: 'var(--radius-md)' }}>
+                <span style={{ fontSize: 13, color: 'var(--ink-500)' }}>{referenceBriefText || 'Type a fragrance and choose a direction.'}</span>
+                <div style={{ display: 'flex', gap: 8 }}>
+                  <button type="button" className="details-toggle" onClick={resetReferenceBrief} disabled={!referenceBrief.fragrance.trim() && !referenceBrief.directions.length}>Clear</button>
+                  <button type="button" className="mistify-link mistify-link-button" onClick={submitReferenceBrief} disabled={!referenceBriefText || isLoading}>Match</button>
+                </div>
+              </div>
+            </div>
+          ) : null}
+        </section>
+      ) : null}
+
+        {recommendations.length ? (
+          <section ref={resultsRef} aria-label="Recommendations">
+            <button
+              type="button"
+              className="v1-back-breadcrumb"
+              onClick={() => {
+                setGuidedBrief(initialGuidedBrief)
+                setReferenceBrief(initialReferenceBrief)
+                dispatch({ type: 'resetResults' })
+              }}
+            >
+              ← Back to {finderStartMode === 'concierge' ? 'Concierge' : finderStartMode === 'guided' ? 'Guided' : 'Reference'}
+            </button>
+            <div className="v1-results-bar">
+              <div className="v1-results-bar-left">
+                <div>
+                  <h2>{recommendations.length} fragrances</h2>
+                  <p className="v1-results-count">{showingText}</p>
+                </div>
+              </div>
+              <div style={{ display: 'flex', gap: 8, alignItems: 'center' }}>
+                {!isCuratedResult ? (
+                  <select
+                    className="v1-sort-select"
+                    value={sortOption}
+                    onChange={(e) => dispatch({ type: 'setSortOption', sortOption: e.target.value as SortOption })}
+                  >
+                    {displayedSortOptions.map((o) => <option key={o.value} value={o.value}>{o.label}</option>)}
+                  </select>
+                ) : null}
+                <button
+                  type="button"
+                  className="v1-filter-chip"
+                  onClick={() => dispatch({ type: 'toggleFilterPanel' })}
+                >
+                  Filters{hasActiveFilters ? ` (${activeFilters.length})` : ''}
+                </button>
+              </div>
+            </div>
+
+            {!isCuratedResult && isFilterPanelOpen ? (
+              <div className="v1-filter-row">
+                {filterOptions.map((f) => (
+                  <button key={f.key} type="button" className={`v1-filter-chip ${activeFilters.includes(f.key) ? 'active' : ''}`} onClick={() => toggleFilter(f.key)}>{f.label}</button>
+                ))}
+                {hasActiveFilters ? <button type="button" className="v1-clear-filters" onClick={() => dispatch({ type: 'clearFilters' })}>Clear</button> : null}
+              </div>
+            ) : null}
+
+            <div className="v1-results">
               {displayedRecommendations.length ? (
-                <div className={isReferenceSearch ? 'reference-comparison-layout' : ''}>
-                  {isReferenceSearch && referenceFragrance ? (
-                    <aside className="reference-column">
-                      <ReferenceFragranceCard referenceFragrance={referenceFragrance} />
-                    </aside>
-                  ) : null}
-                  <div className="similar-matches-column">
-                    <div className="wardrobe-label-row" aria-label="Scent wardrobe roles">
-                      {displayedRecommendations.slice(0, 5).map((recommendation, index) => (
-                        <span key={`${recommendation.originalFragranceName ?? index}-${wardrobeLabels[index]}`}>
-                          {String(index + 1).padStart(2, '0')} · {wardrobeLabels[index] ?? 'Curator pick'}
-                        </span>
-                      ))}
-                    </div>
-                    <div className="recommendation-list atelier-card-grid">
-                      {displayedRecommendations.map((recommendation, index) => (
-                        <FragranceCard
-                          key={`${recommendation.sourceBrandBatch ?? 'source'}-${recommendation.originalFragranceName ?? 'fragrance'}-${index + 1}`}
-                          recommendation={recommendation}
-                          rank={index + 1}
-                          featured={index === 0}
-                          isReferenceMode={isReferenceSearch}
-                          isCuratedResult={isCuratedResult}
-                          sharedNotes={getSharedNotes(referenceFragrance, recommendation)}
-                        />
-                      ))}
-                    </div>
-                  </div>
+                <div className="v1-card-grid">
+                  {displayedRecommendations.map((rec, i) => {
+                    const displayName = rec.mistifyProductName?.trim() || rec.originalFragranceName?.trim() || 'Mistify Fragrance'
+                    const inspiredBy = rec.originalFragranceName?.trim()
+                    const matchLabel = rec.matchTier === 'top' || rec.matchTier === 'high' ? 'Excellent' : rec.matchTier === 'strong' ? 'Strong' : 'Good'
+                    const rating = rec.rating?.ratingValue
+                    const allNotes = [...(rec.topNotes ?? []), ...(rec.middleNotes ?? []), ...(rec.baseNotes ?? [])]
+                    const matchBadgeClass = rec.matchTier === 'top' || rec.matchTier === 'high' ? 'match-badge-high' : rec.matchTier === 'strong' ? 'match-badge-medium' : 'match-badge-low'
+
+                    return (
+                      <article
+                        key={`${rec.sourceBrandBatch ?? 'src'}-${rec.originalFragranceName ?? 'frag'}-${i + 1}`}
+                        className="fragrance-card"
+                        onClick={() => setSelectedFragrance(rec)}
+                      >
+                        <div className="fragrance-card-header">
+                          <div className="fragrance-title-group">
+                            {rec.classification ? (
+                              <div className="fragrance-meta-line">
+                                <p className="fragrance-category">{rec.classification}</p>
+                              </div>
+                            ) : null}
+                            <h3>{displayName}</h3>
+                            {inspiredBy ? <p className="inspired-by">Inspired by {inspiredBy}</p> : null}
+                          </div>
+                          <span className={`status-badge ${matchBadgeClass}`}>{matchLabel}</span>
+                        </div>
+
+                        {rec.aiExplanation || rec.matchSummary ? (
+                          <div className="match-reason-block">
+                            <p className="match-reason-label">Why this fits</p>
+                            <p className="match-reason">{rec.aiExplanation || rec.matchSummary}</p>
+                          </div>
+                        ) : null}
+
+                        {rec.bestFor ? (
+                          <p className="best-for-line">Best for: {rec.bestFor}</p>
+                        ) : null}
+
+                        {allNotes.length ? (
+                          <div className="note-preview">
+                            <ul className="note-list">
+                              {allNotes.filter(Boolean).slice(0, 6).map((note) => (
+                                <li key={note}>{note}</li>
+                              ))}
+                            </ul>
+                          </div>
+                        ) : null}
+
+                        <div className="card-actions">
+                          <button className="details-toggle" type="button" onClick={(e) => { e.stopPropagation(); setSelectedFragrance(rec); }}>
+                            View details
+                          </button>
+                          {rec.mistifyProductUrl ? (
+                            <a
+                              className="mistify-link mistify-link-button"
+                              href={rec.mistifyProductUrl}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              onClick={(e) => e.stopPropagation()}
+                            >
+                              Shop ↗
+                            </a>
+                          ) : null}
+                        </div>
+
+                        {rating || rec.rating?.loveCount != null ? (
+                          <div className="fragrance-card-footer">
+                            {rating ? <span className="footer-rating">★ {rating.toFixed(1)}</span> : null}
+                            {rec.rating?.loveCount != null ? <span className="footer-loves">♥ {rec.rating.loveCount}</span> : null}
+                          </div>
+                        ) : null}
+                      </article>
+                    )
+                  })}
                 </div>
               ) : (
-                <p className="empty-results-message">
-                  No returned fragrances fit these filters. Try clearing filters or searching again.
-                </p>
+                <p>No fragrances fit these filters. Try clearing them.</p>
               )}
             </div>
           </section>
         ) : null}
-      </section>
-    </main>
-  )
+
+        {hasResults ? (
+          <section className="v1-recent">
+            <h3>Recent searches</h3>
+            <div className="v1-recent-list">
+              {lastSubmittedMessage ? <span className="v1-recent-item" onClick={() => handleSendMessage(lastSubmittedMessage)}>{lastSubmittedMessage}</span> : null}
+            </div>
+          </section>
+        ) : null}
+
+        {selectedFragrance ? (
+          <div className="fragrance-modal-overlay" onClick={(e) => { if (e.target === e.currentTarget) setSelectedFragrance(null) }}>
+            <div className="fragrance-modal">
+              <div className="fragrance-modal-header-row">
+                <div className="fragrance-modal-brand-badge">Mistify</div>
+                <button className="fragrance-modal-close" onClick={() => setSelectedFragrance(null)} aria-label="Close">&times;</button>
+              </div>
+              {selectedFragrance.catalogImageUrl ? (
+                <img
+                  className="fragrance-modal-image"
+                  src={selectedFragrance.catalogImageUrl}
+                  alt={selectedFragrance.mistifyProductName || selectedFragrance.originalFragranceName || ''}
+                />
+              ) : (
+                <div className="fragrance-modal-fallback-viz">{(() => {
+                  const name = selectedFragrance.mistifyProductName?.trim() || selectedFragrance.originalFragranceName?.trim() || 'M'
+                  return name[0]
+                })()}</div>
+              )}
+              <p className="fragrance-modal-name">{selectedFragrance.mistifyProductName?.trim() || selectedFragrance.originalFragranceName?.trim() || 'Mistify Fragrance'}</p>
+              {selectedFragrance.originalFragranceName?.trim() ? (
+                <p className="fragrance-modal-inspired">Inspired by {selectedFragrance.originalFragranceName.trim()}</p>
+              ) : null}
+              <div className="fragrance-modal-badges">
+                {(() => {
+                  const badges: string[] = []
+                  const tier = selectedFragrance.matchTier
+                  if (tier === 'top' || tier === 'high') badges.push('Excellent')
+                  else if (tier === 'strong') badges.push('Strong')
+                  else badges.push('Worth exploring')
+                  const r = selectedFragrance.rating
+                  if (r?.ratingValue && r.ratingValue >= 4.4) badges.push('Elite Rating')
+                  if (r?.ratingVoteCount && r.ratingVoteCount >= 5000) badges.push('Popular')
+                  if (r?.loveCount && r.loveCount >= 1000) badges.push('Most Loved')
+                  return badges.map((b,i) => (
+                    <span key={i} className={`fragrance-modal-badge ${i === 0 ? 'match-badge-high' : ''}`}>{b}</span>
+                  ))
+                })()}
+              </div>
+              <div className="fragrance-modal-section">
+                <h4>Notes</h4>
+                <div className="fragrance-modal-notes">
+                  {(Array.isArray(selectedFragrance.allNotes) ? selectedFragrance.allNotes : []).slice(0, 10).map((n: string) => (
+                    <span key={n} className="fragrance-modal-note">{n}</span>
+                  ))}
+                </div>
+              </div>
+              <div className="fragrance-modal-section">
+                <h4>Stats</h4>
+                <div className="fragrance-modal-stats">
+                  <div className="fragrance-modal-stat"><div className="fragrance-modal-stat-val">{selectedFragrance.rating?.ratingValue?.toFixed(2) ?? '-'}/5</div><div className="fragrance-modal-stat-label">Rating</div></div>
+                  <div className="fragrance-modal-stat"><div className="fragrance-modal-stat-val">{selectedFragrance.rating?.ratingVoteCount?.toLocaleString() ?? '-'}</div><div className="fragrance-modal-stat-label">Votes</div></div>
+                  <div className="fragrance-modal-stat"><div className="fragrance-modal-stat-val">{selectedFragrance.rating?.bestTime ?? '-'}</div><div className="fragrance-modal-stat-label">Best Time</div></div>
+                  <div className="fragrance-modal-stat"><div className="fragrance-modal-stat-val">{selectedFragrance.rating?.bestSeasons?.join(', ') ?? '-'}</div><div className="fragrance-modal-stat-label">Seasons</div></div>
+                </div>
+              </div>
+              {selectedFragrance.mistifyProductUrl ? (
+                <a className="fragrance-modal-url" href={selectedFragrance.mistifyProductUrl} target="_blank" rel="noopener noreferrer">View on Mistify Parfums &rarr;</a>
+              ) : null}
+            </div>
+          </div>
+        ) : null}
+      </main>
+    )
 }
 
 function ChatPage() {

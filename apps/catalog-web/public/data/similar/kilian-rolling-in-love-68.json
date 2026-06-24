@@ -1,0 +1,275 @@
+{
+  "fragrances": [
+    {
+      "id": 271,
+      "fragranceSlug": "diptyque-eau-rihla-271",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Eau Rihla",
+      "originalFragranceSlug": "diptyque-eau-rihla",
+      "mistifyProductName": "Eau Relia",
+      "mistifyProductSlug": "eau-relia",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eau-relia",
+      "publicInspiredByLabel": "Inspired by Diptyque Eau Rihla",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Iris",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper",
+        "Leather",
+        "Iris",
+        "Cedar",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-50-51AM-_1.png?v=1773460377",
+      "searchableText": "Diptyque diptyque Diptyque Eau Rihla Eau Relia Oriental Woody unisex Raspberry Saffron Pink Pepper Leather Iris Cedar Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:40.507Z",
+      "sharedNotes": [
+        "Iris",
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 199,
+      "fragranceSlug": "maison-mataha-escapade-gourmande-199",
+      "brandName": "Maison Mataha",
+      "brandSlug": "maison-mataha",
+      "originalFragranceName": "Escapade Gourmande",
+      "originalFragranceSlug": "maison-mataha-escapade-gourmande",
+      "mistifyProductName": "Gourmande Évasion",
+      "mistifyProductSlug": "gourmande-evasion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gourmande-evasion",
+      "publicInspiredByLabel": "Inspired by Maison Mataha Escapade Gourmande",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar Cane"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sugar Cane",
+        "Vanilla",
+        "Tonka Bean",
+        "Benzoin",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb24-2026-11-56-42AM-_1.png?v=1773460130",
+      "searchableText": "Maison Mataha maison mataha Maison Mataha Escapade Gourmande Gourmande Évasion Oriental Vanilla unisex Sugar Cane Vanilla Tonka Bean Benzoin Musk",
+      "createdAt": "2026-05-04T04:41:36.157Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 133,
+      "fragranceSlug": "creed-sublime-vanille-133",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Sublime Vanille",
+      "originalFragranceSlug": "creed-sublime-vanille",
+      "mistifyProductName": "Superb Vanilla",
+      "mistifyProductSlug": "superb-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/superb-vanilla",
+      "publicInspiredByLabel": "Inspired by Creed Sublime Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bourbon Vanilla",
+        "Lemon"
+      ],
+      "middleNotes": [],
+      "baseNotes": [
+        "Tonka Bean",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bourbon Vanilla",
+        "Lemon",
+        "Tonka Bean",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-35-41AM-_1.png?v=1773460548",
+      "searchableText": "Creed creed Creed Sublime Vanille Superb Vanilla Oriental Vanilla unisex Bourbon Vanilla Lemon Tonka Bean Musk",
+      "createdAt": "2026-05-04T04:41:32.256Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Musk"
+      ]
+    },
+    {
+      "id": 200,
+      "fragranceSlug": "xerjoff-accento-200",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Accento",
+      "originalFragranceSlug": "xerjoff-accento",
+      "mistifyProductName": "Accents",
+      "mistifyProductSlug": "accents",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+      "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pineapple",
+        "Hyacinth"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Iris",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Hyacinth",
+        "Jasmine",
+        "Iris",
+        "Pink Pepper",
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+      "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:36.220Z",
+      "sharedNotes": [
+        "Iris",
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 23,
+      "fragranceSlug": "maison-francis-kurkdjian-grand-soir-23",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Grand Soir",
+      "originalFragranceSlug": "maison-francis-kurkdjian-grand-soir",
+      "mistifyProductName": "Grand Soirelle",
+      "mistifyProductSlug": "grand-soirelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/grand-soirelle",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Grand Soir",
+      "audience": "unisex",
+      "classification": "Oriental Amber",
+      "topNotes": [
+        "Spanish Labdanum",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Siam Benzoin"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Spanish Labdanum",
+        "Orange",
+        "Lavender",
+        "Siam Benzoin",
+        "Amber",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov20-2025-10-17-02AM-_1.png?v=1773460207",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Grand Soir Grand Soirelle Oriental Amber unisex Spanish Labdanum Orange Lavender Siam Benzoin Amber Vanilla Tonka Bean Musk Cedar",
+      "createdAt": "2026-05-04T04:41:25.837Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 314,
+      "fragranceSlug": "dior-miss-dior-314",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Miss Dior",
+      "originalFragranceSlug": "dior-miss-dior",
+      "mistifyProductName": "Mademoiselle Dioré",
+      "mistifyProductSlug": "mademoiselle-diore",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mademoiselle-diore",
+      "publicInspiredByLabel": "Dior Miss Dior",
+      "audience": null,
+      "classification": "Floral Fruity / Soft Gourmand",
+      "topNotes": [
+        "Iris",
+        "Peony",
+        "Lily-of-the-Valley"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Apricot",
+        "Peach"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Musk",
+        "Tonka Bean",
+        "Sandalwood",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Iris",
+        "Peony",
+        "Lily-of-the-Valley",
+        "Rose",
+        "Apricot",
+        "Peach",
+        "Vanilla",
+        "Musk",
+        "Tonka Bean",
+        "Sandalwood",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_33_13AM.png?v=1781710406",
+      "searchableText": "Dior Christian Dior Miss Dior Mademoiselle Dioré Floral Fruity / Soft Gourmand Iris Peony Lily-of-the-Valley Rose Apricot Peach Vanilla Musk Tonka Bean Sandalwood Benzoin",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Iris",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ]
+    }
+  ]
+}

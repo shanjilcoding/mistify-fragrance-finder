@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 116,
+    "fragranceSlug": "bond-no-9-harrod-s-oud-116",
+    "brandName": "Bond No. 9",
+    "brandSlug": "bond-no-9",
+    "originalFragranceName": "Harrod’s Oud",
+    "originalFragranceSlug": "bond-no-9-harrod-s-oud",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Bond No. 9 Harrod’s Oud",
+    "audience": null,
+    "classification": "Oriental Woody",
+    "topNotes": [],
+    "middleNotes": [
+      "Agarwood/Oud",
+      "Cumin",
+      "Myrrh",
+      "Black Pepper",
+      "Vetiver",
+      "Amber"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Agarwood/Oud",
+      "Cumin",
+      "Myrrh",
+      "Black Pepper",
+      "Vetiver",
+      "Amber"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Harrod’s Oud Not verified Oriental Woody Agarwood/Oud Cumin Myrrh Black Pepper Vetiver Amber",
+    "createdAt": "2026-05-04T04:41:31.274Z"
+  }
+}

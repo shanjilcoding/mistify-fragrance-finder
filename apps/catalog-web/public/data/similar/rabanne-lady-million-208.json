@@ -1,0 +1,290 @@
+{
+  "fragrances": [
+    {
+      "id": 200,
+      "fragranceSlug": "xerjoff-accento-200",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Accento",
+      "originalFragranceSlug": "xerjoff-accento",
+      "mistifyProductName": "Accents",
+      "mistifyProductSlug": "accents",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+      "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pineapple",
+        "Hyacinth"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Iris",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Hyacinth",
+        "Jasmine",
+        "Iris",
+        "Pink Pepper",
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+      "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:36.220Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Amber",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 154,
+      "fragranceSlug": "ysl-yves-saint-laurent-libre-berry-crush-154",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Libre Berry Crush",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-libre-berry-crush",
+      "mistifyProductName": "Libre Berry",
+      "mistifyProductSlug": "libre-berry",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-berry",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre Berry Crush",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Raspberry",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Musk",
+        "Coconut"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Mandarin",
+        "Orange Blossom",
+        "Lavender",
+        "Bourbon Vanilla",
+        "Musk",
+        "Coconut"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_10_01_31AM.png?v=1778594501",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Berry Crush Libre Berry Floral Fruity Raspberry Mandarin Orange Blossom Lavender Bourbon Vanilla Musk Coconut",
+      "createdAt": "2026-05-04T04:41:33.476Z",
+      "sharedNotes": [
+        "Raspberry",
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 54,
+      "fragranceSlug": "kilian-back-to-black-54",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Back to Black",
+      "originalFragranceSlug": "kilian-back-to-black",
+      "mistifyProductName": "Back 2 Blacky",
+      "mistifyProductSlug": "back-2-blacky",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/back-2-black",
+      "publicInspiredByLabel": "Inspired by Kilian Back to Black",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Almond",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "allNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry",
+        "Tobacco",
+        "Almond",
+        "Vanilla",
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Back2Blacky.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Back to Black Back 2 Blacky Oriental unisex Honey Cherry Raspberry Tobacco Almond Vanilla Cedar Patchouli Amber",
+      "createdAt": "2026-05-04T04:41:27.650Z",
+      "sharedNotes": [
+        "Raspberry",
+        "Honey",
+        "Amber",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 234,
+      "fragranceSlug": "stephane-h-lucas-pink-boa-234",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "Pink Boa",
+      "originalFragranceSlug": "stephane-h-lucas-pink-boa",
+      "mistifyProductName": "Rose Boa",
+      "mistifyProductSlug": "rose-boa",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-boa",
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas Pink Boa",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Black Currant",
+        "Rosemary",
+        "Blackberry",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Raspberry",
+        "Vodka",
+        "Basil",
+        "Lily of the Valley"
+      ],
+      "baseNotes": [
+        "Strawberry",
+        "Musk",
+        "Sandalwood",
+        "Peach",
+        "Amber",
+        "Incense",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Black Currant",
+        "Rosemary",
+        "Blackberry",
+        "Bergamot",
+        "Raspberry",
+        "Vodka",
+        "Basil",
+        "Lily of the Valley",
+        "Strawberry",
+        "Musk",
+        "Sandalwood",
+        "Peach",
+        "Amber",
+        "Incense",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseBoa-_1.png?v=1773460402",
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas Pink Boa Rose Boa Floral Fruity unisex Black Currant Rosemary Blackberry Bergamot Raspberry Vodka Basil Lily of the Valley Strawberry Musk Sandalwood Peach Amber Incense Patchouli",
+      "createdAt": "2026-05-04T04:41:38.242Z",
+      "sharedNotes": [
+        "Raspberry",
+        "Amber",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 149,
+      "fragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet-149",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Supreme Bouquet",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet",
+      "mistifyProductName": "Ethereal Bloom",
+      "mistifyProductSlug": "ethereal-bloom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ethereal-bloom",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Supreme Bouquet",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pear",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pear",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/EtherealBloom-_1.png?v=1773460422",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Supreme Bouquet Ethereal Bloom Amber Floral womens Pear Pink Pepper Tuberose Ylang-Ylang Jasmine Amber Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.197Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Amber",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 172,
+      "fragranceSlug": "montale-rose-elixir-172",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Rose Elixir",
+      "originalFragranceSlug": "montale-rose-elixir",
+      "mistifyProductName": "Rose Delight",
+      "mistifyProductSlug": "rose-delight",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-delight",
+      "publicInspiredByLabel": "Inspired by Montale Rose Elixir",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Strawberry",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Strawberry",
+        "Orange",
+        "Rose",
+        "Jasmine",
+        "Musk",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseDelight.png?v=1765422958",
+      "searchableText": "Montale montale Montale Rose Elixir Rose Delight Floral Fruity womens Strawberry Orange Rose Jasmine Musk Vanilla",
+      "createdAt": "2026-05-04T04:41:34.530Z",
+      "sharedNotes": [
+        "Jasmine"
+      ]
+    }
+  ]
+}

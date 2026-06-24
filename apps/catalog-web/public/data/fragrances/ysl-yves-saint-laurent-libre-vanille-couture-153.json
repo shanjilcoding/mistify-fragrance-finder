@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 153,
+    "fragranceSlug": "ysl-yves-saint-laurent-libre-vanille-couture-153",
+    "brandName": "YSL (Yves Saint Laurent)",
+    "brandSlug": "ysl-yves-saint-laurent",
+    "originalFragranceName": "Libre Vanille Couture",
+    "originalFragranceSlug": "ysl-yves-saint-laurent-libre-vanille-couture",
+    "mistifyProductName": "Libre Vanillé",
+    "mistifyProductSlug": "libre-vanille",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-vanille",
+    "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre Vanille Couture",
+    "audience": "unisex",
+    "classification": "Gourmand Floral/Warm Boozy",
+    "topNotes": [
+      "Diva Lavender",
+      "Orange Blossom"
+    ],
+    "middleNotes": [
+      "Bourbon Vanilla Caviar",
+      "Rum Absolute"
+    ],
+    "baseNotes": [
+      "Bourbon Vanilla Caviar",
+      "Rum Absolute"
+    ],
+    "allNotes": [
+      "Diva Lavender",
+      "Orange Blossom",
+      "Bourbon Vanilla Caviar",
+      "Rum Absolute",
+      "Bourbon Vanilla Caviar",
+      "Rum Absolute"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb26-2026-12-44-22PM-_1.png?v=1773460127",
+    "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Vanille Couture Libre Vanillé Gourmand Floral/Warm Boozy unisex Diva Lavender Orange Blossom Bourbon Vanilla Caviar Rum Absolute Bourbon Vanilla Caviar Rum Absolute",
+    "createdAt": "2026-05-04T04:41:33.418Z"
+  }
+}

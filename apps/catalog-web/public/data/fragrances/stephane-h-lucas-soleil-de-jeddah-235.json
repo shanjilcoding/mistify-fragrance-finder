@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 235,
+    "fragranceSlug": "stephane-h-lucas-soleil-de-jeddah-235",
+    "brandName": "Stephane H. Lucas",
+    "brandSlug": "stephane-h-lucas",
+    "originalFragranceName": "Soleil de Jeddah",
+    "originalFragranceSlug": "stephane-h-lucas-soleil-de-jeddah",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Stephane H. Lucas Soleil de Jeddah",
+    "audience": null,
+    "classification": "Leather",
+    "topNotes": [
+      "Chamomile",
+      "Osmanthus",
+      "Lemon"
+    ],
+    "middleNotes": [
+      "Ambergris",
+      "Iris",
+      "Earthy Notes"
+    ],
+    "baseNotes": [
+      "Leather",
+      "Iris",
+      "Vanilla"
+    ],
+    "allNotes": [
+      "Chamomile",
+      "Osmanthus",
+      "Lemon",
+      "Ambergris",
+      "Iris",
+      "Earthy Notes",
+      "Leather",
+      "Iris",
+      "Vanilla"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas Soleil de Jeddah Not verified Leather Chamomile Osmanthus Lemon Ambergris Iris Earthy Notes Leather Iris Vanilla",
+    "createdAt": "2026-05-04T04:41:38.303Z"
+  }
+}

@@ -98,7 +98,6 @@ frontend/
 │   │   ├── chipApi.ts                   # Public chip and prompt-chip clients
 │   │   └── recommendationOptionsApi.ts  # Guided brief option client
 │   ├── components/
-│   │   ├── ChatBox.tsx                  # Search input component
 │   │   └── FragranceCard.tsx            # Recommendation card component
 │   ├── pages/
 │   │   ├── ChatPage.tsx                 # Main public fragrance finder

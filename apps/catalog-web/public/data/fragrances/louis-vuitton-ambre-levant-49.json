@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 49,
+    "fragranceSlug": "louis-vuitton-ambre-levant-49",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Ambre Levant",
+    "originalFragranceSlug": "louis-vuitton-ambre-levant",
+    "mistifyProductName": "Amber Levante",
+    "mistifyProductSlug": "amber-levante",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-levante",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Ambre Levant",
+    "audience": "unisex",
+    "classification": "Spicy Amber/Incense Oud",
+    "topNotes": [
+      "Cinnamon",
+      "Mandarin"
+    ],
+    "middleNotes": [
+      "Incense",
+      "White Pepper"
+    ],
+    "baseNotes": [
+      "Amber",
+      "Oud",
+      "Ambergris",
+      "Labdanum"
+    ],
+    "allNotes": [
+      "Cinnamon",
+      "Mandarin",
+      "Incense",
+      "White Pepper",
+      "Amber",
+      "Oud",
+      "Ambergris",
+      "Labdanum"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr24_2026_12_25_51PM.png?v=1777047960",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Ambre Levant Amber Levante Spicy Amber/Incense Oud unisex Cinnamon Mandarin Incense White Pepper Amber Oud Ambergris Labdanum",
+    "createdAt": "2026-05-04T04:41:27.358Z"
+  }
+}

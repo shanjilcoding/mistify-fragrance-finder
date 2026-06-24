@@ -1,0 +1,301 @@
+{
+  "fragrances": [
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Rose",
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 239,
+      "fragranceSlug": "nasomatto-sadonaso-239",
+      "brandName": "Nasomatto",
+      "brandSlug": "nasomatto",
+      "originalFragranceName": "Sadonaso",
+      "originalFragranceSlug": "nasomatto-sadonaso",
+      "mistifyProductName": "Sadonara",
+      "mistifyProductSlug": "sadonara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sadonara",
+      "publicInspiredByLabel": "Inspired by Nasomatto Sadonaso",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Coffee"
+      ],
+      "middleNotes": [
+        "Musk",
+        "Tobacco",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Animal Notes",
+        "Amber",
+        "Tonka"
+      ],
+      "allNotes": [
+        "Coffee",
+        "Musk",
+        "Tobacco",
+        "Sandalwood",
+        "Vanilla",
+        "Animal Notes",
+        "Amber",
+        "Tonka"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_04_24_06PM_cfd3cae7-8aeb-47b7-bea5-26c69f6e9c0d.png?v=1778617465",
+      "searchableText": "Nasomatto nasomatto Nasomatto Sadonaso Sadonara Not listed clearly by Fragrantica unisex Coffee Musk Tobacco Sandalwood Vanilla Animal Notes Amber Tonka",
+      "createdAt": "2026-05-04T04:41:38.543Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Vanilla",
+        "Coffee",
+        "Musk"
+      ]
+    },
+    {
+      "id": 256,
+      "fragranceSlug": "roja-dove-amber-aoud-256",
+      "brandName": "Roja Dove",
+      "brandSlug": "roja-dove",
+      "originalFragranceName": "Amber Aoud",
+      "originalFragranceSlug": "roja-dove-amber-aoud",
+      "mistifyProductName": "Amber Oudh",
+      "mistifyProductSlug": "amber-oudh",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-oudh",
+      "publicInspiredByLabel": "Inspired by Roja Dove Amber Aoud",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime",
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-12-15PM-_1.png?v=1773460351",
+      "searchableText": "Roja Dove roja dove Roja Dove Amber Aoud Amber Oudh Oriental Spicy unisex Bergamot Lemon Lime Rose Fig Ylang-Ylang Jasmine Oud Ambergris Saffron Civet Sandalwood Musk Orris Cinnamon Patchouli Birch Oakmoss",
+      "createdAt": "2026-05-04T04:41:39.587Z",
+      "sharedNotes": [
+        "Lemon",
+        "Sandalwood",
+        "Rose",
+        "Musk",
+        "Ambergris"
+      ]
+    },
+    {
+      "id": 151,
+      "fragranceSlug": "ysl-yves-saint-laurent-exquisite-musk-151",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Exquisite Musk",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-exquisite-musk",
+      "mistifyProductName": "Exquis Musk",
+      "mistifyProductSlug": "exquis-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/exquis-musk",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Exquisite Musk",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Angelica"
+      ],
+      "middleNotes": [
+        "Iris",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Angelica",
+        "Iris",
+        "Rose",
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar22_2026_09_51_38AM.png?v=1774187508",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Exquisite Musk Exquis Musk Woody Floral Musk unisex Ginger Angelica Iris Rose Musk Ambergris Benzoin",
+      "createdAt": "2026-05-04T04:41:33.307Z",
+      "sharedNotes": [
+        "Rose",
+        "Musk",
+        "Ambergris"
+      ]
+    },
+    {
+      "id": 266,
+      "fragranceSlug": "byredo-mojave-ghost-266",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Mojave Ghost",
+      "originalFragranceSlug": "byredo-mojave-ghost",
+      "mistifyProductName": "Mojava Mist",
+      "mistifyProductSlug": "mojava-mist",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mojava-mist",
+      "publicInspiredByLabel": "Inspired by Byredo Mojave Ghost",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Sapodilla",
+        "Ambrette"
+      ],
+      "middleNotes": [
+        "Magnolia",
+        "Violet",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sapodilla",
+        "Ambrette",
+        "Magnolia",
+        "Violet",
+        "Sandalwood",
+        "Ambergris",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-07-35PM-_1.png?v=1773460344",
+      "searchableText": "Byredo byredo Byredo Mojave Ghost Mojava Mist Oriental Floral unisex Sapodilla Ambrette Magnolia Violet Sandalwood Ambergris Cedar Musk",
+      "createdAt": "2026-05-04T04:41:40.202Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Musk",
+        "Ambergris"
+      ]
+    },
+    {
+      "id": 323,
+      "fragranceSlug": "giorgio-armani-prive-musc-shamal-323",
+      "brandName": "Giorgio Armani Privé",
+      "brandSlug": "giorgio-armani-prive",
+      "originalFragranceName": "Musc Shamal",
+      "originalFragranceSlug": "giorgio-armani-prive-musc-shamal",
+      "mistifyProductName": "Musc Étoile",
+      "mistifyProductSlug": "musc-etoile",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/musc-etoile",
+      "publicInspiredByLabel": "Giorgio Armani Privé Musc Shamal",
+      "audience": null,
+      "classification": "Musky Amber / Soft Floral",
+      "topNotes": [
+        "Aldehydes",
+        "Citruses"
+      ],
+      "middleNotes": [
+        "Musk",
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Citruses",
+        "Musk",
+        "Rose",
+        "Jasmine",
+        "Amber",
+        "Vanilla",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay17_2026_10_06_01AM.png?v=1779026772",
+      "searchableText": "Giorgio Armani Privé Giorgio Armani Privé Musc Shamal Musc Étoile Musky Amber / Soft Floral Aldehydes Citruses Musk Rose Jasmine Amber Vanilla Cedar",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Citruses",
+        "Rose",
+        "Vanilla",
+        "Musk"
+      ]
+    }
+  ]
+}

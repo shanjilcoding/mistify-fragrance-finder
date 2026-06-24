@@ -1,0 +1,543 @@
+{
+  "brand": {
+    "brandName": "Dior",
+    "brandSlug": "dior",
+    "fragranceCount": 13,
+    "searchableText": "Bois d'Argent Silver Wood Dior Bois d'Argent Dior Christian Dior Bois d'Argent Silver Wood Woody Floral Iris Frankincense Myrrh Honey Musk Woody Notes Bois d’Argent Bois Argenté Dior Bois d’Argent Dior Dior Bois d’Argent Bois Argenté Woody Iris / Amber Musky Iris Cypress Juniper Berries Myrrh Patchouli Woodsy Notes Honey Vanilla Amber Resins Musk Leather Feve Delicieuse Fave Deliciosa Inspired by Dior Feve Delicieuse Dior christian dior Christian Dior Feve Delicieuse Fave Deliciosa Oriental Gourmand unisex Bergamot Tonka Bean Vanilla Caramel Praline Cocoa Woods Gris Montaigne Gris Montaire Dior Gris Montaigne Dior Dior Gris Montaigne Gris Montaire Floral Chypre / Elegant Fruity Floral Bergamot Grapefruit Rose Strawberry Jasmine Orange Blossom Ylang-Ylang Patchouli Oakmoss Sandalwood Amber Cedar White Musk Miss Dior Mademoiselle Dioré Dior Miss Dior Dior Christian Dior Miss Dior Mademoiselle Dioré Floral Fruity / Soft Gourmand Iris Peony Lily-of-the-Valley Rose Apricot Peach Vanilla Musk Tonka Bean Sandalwood Benzoin Musk Elixir Musky Elixer Inspired by Dior Musk Elixir Dior christian dior Christian Dior Musk Elixir Musky Elixer Musky/White Musk Oil unisex White Musk Oud Ispahan Rosé Ispahan Inspired by Dior Oud Ispahan Dior christian dior Christian Dior Oud Ispahan Rosé Ispahan Oriental Floral unisex Labdanum Rose Patchouli Saffron Oud Sandalwood Cedar Poison Girl Venom Femme Dior Poison Girl Dior Christian Dior Poison Girl Venom Femme Oriental Vanilla Bitter Orange Lemon Damask Rose Grasse Rose Orange Blossom Tonka Bean Vanilla Almond Sandalwood Purple Oud Violaceous Oud Inspired by Dior Purple Oud Dior christian dior Christian Dior Purple Oud Violaceous Oud Woody/Oud unisex Oud Orange Saffron Pink Pepper Sauvage Sauvagerie Dior Sauvage Dior Dior Sauvage Sauvagerie Aromatic Fresh / Woody Spicy Calabrian Bergamot Black Pepper Pink Pepper Sichuan Pepper Lavender Geranium Elemi Patchouli Vetiver Ambroxan Cedar Labdanum Sauvage Elixir Savage Elixir Inspired by Dior Sauvage Elixir Dior christian dior Christian Dior Sauvage Elixir Savage Elixir Aromatic Spicy/Woody Spicy mens Cinnamon Nutmeg Cardamom Grapefruit Lavender Licorice Sandalwood Amber Patchouli Haitian Vetiver Silver Oud Mystic Silver Dior Silver Oud Dior Christian Dior Silver Oud Mystic Silver Woody Oriental Agarwood (Oud) Cedarwood Spices Leather Vanilla Amber Vanilla Diorama Not verified Inspired by Dior Vanilla Diorama Dior christian dior Christian Dior Vanilla Diorama Not verified Oriental Vanilla Orange Pink Pepper Lemon Rum Cacao Cardamom Bourbon Vanilla Sandalwood Patchouli"
+  },
+  "fragrances": [
+    {
+      "id": 334,
+      "fragranceSlug": "dior-bois-dargent-334",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Bois d'Argent",
+      "originalFragranceSlug": "dior-bois-dargent",
+      "mistifyProductName": "Silver Wood",
+      "mistifyProductSlug": "silver-wood",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silver-wood",
+      "publicInspiredByLabel": "Dior Bois d'Argent",
+      "audience": null,
+      "classification": "Woody Floral",
+      "topNotes": [
+        "Iris",
+        "Frankincense"
+      ],
+      "middleNotes": [
+        "Myrrh",
+        "Honey"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Iris",
+        "Frankincense",
+        "Myrrh",
+        "Honey",
+        "Musk",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/SilverWood-fcdf2e8b-041b-4cd8-9ace-9e28120edef8-_1.png?v=1773460459",
+      "searchableText": "Dior Christian Dior Bois d'Argent Silver Wood Woody Floral Iris Frankincense Myrrh Honey Musk Woody Notes",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 327,
+      "fragranceSlug": "dior-bois-dargent-327",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Bois d’Argent",
+      "originalFragranceSlug": "dior-bois-dargent",
+      "mistifyProductName": "Bois Argenté",
+      "mistifyProductSlug": "bois-argente",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bois-argente",
+      "publicInspiredByLabel": "Dior Bois d’Argent",
+      "audience": null,
+      "classification": "Woody Iris / Amber Musky",
+      "topNotes": [
+        "Iris",
+        "Cypress",
+        "Juniper Berries"
+      ],
+      "middleNotes": [
+        "Myrrh",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Woodsy Notes",
+        "Honey",
+        "Vanilla",
+        "Amber",
+        "Resins",
+        "Musk",
+        "Leather"
+      ],
+      "allNotes": [
+        "Iris",
+        "Cypress",
+        "Juniper Berries",
+        "Myrrh",
+        "Patchouli",
+        "Woodsy Notes",
+        "Honey",
+        "Vanilla",
+        "Amber",
+        "Resins",
+        "Musk",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar18_2026_12_04_26PM.png?v=1773849873",
+      "searchableText": "Dior Dior Bois d’Argent Bois Argenté Woody Iris / Amber Musky Iris Cypress Juniper Berries Myrrh Patchouli Woodsy Notes Honey Vanilla Amber Resins Musk Leather",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 220,
+      "fragranceSlug": "dior-feve-delicieuse-220",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Feve Delicieuse",
+      "originalFragranceSlug": "dior-feve-delicieuse",
+      "mistifyProductName": "Fave Deliciosa",
+      "mistifyProductSlug": "fave-deliciosa",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fave-deliciosa",
+      "publicInspiredByLabel": "Inspired by Dior Feve Delicieuse",
+      "audience": "unisex",
+      "classification": "Oriental Gourmand",
+      "topNotes": [
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Caramel"
+      ],
+      "baseNotes": [
+        "Praline",
+        "Cocoa",
+        "Woods"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Tonka Bean",
+        "Vanilla",
+        "Caramel",
+        "Praline",
+        "Cocoa",
+        "Woods"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_52_44PM.png?v=1774407173",
+      "searchableText": "Dior christian dior Christian Dior Feve Delicieuse Fave Deliciosa Oriental Gourmand unisex Bergamot Tonka Bean Vanilla Caramel Praline Cocoa Woods",
+      "createdAt": "2026-05-04T04:41:37.391Z"
+    },
+    {
+      "id": 329,
+      "fragranceSlug": "dior-gris-montaigne-329",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Gris Montaigne",
+      "originalFragranceSlug": "dior-gris-montaigne",
+      "mistifyProductName": "Gris Montaire",
+      "mistifyProductSlug": "gris-montaire",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/torino-verde-copy",
+      "publicInspiredByLabel": "Dior Gris Montaigne",
+      "audience": null,
+      "classification": "Floral Chypre / Elegant Fruity Floral",
+      "topNotes": [
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Strawberry",
+        "Jasmine",
+        "Orange Blossom",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Oakmoss",
+        "Sandalwood",
+        "Amber",
+        "Cedar",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Rose",
+        "Strawberry",
+        "Jasmine",
+        "Orange Blossom",
+        "Ylang-Ylang",
+        "Patchouli",
+        "Oakmoss",
+        "Sandalwood",
+        "Amber",
+        "Cedar",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar10-2026-12-10-56PM-_1.png?v=1773460119",
+      "searchableText": "Dior Dior Gris Montaigne Gris Montaire Floral Chypre / Elegant Fruity Floral Bergamot Grapefruit Rose Strawberry Jasmine Orange Blossom Ylang-Ylang Patchouli Oakmoss Sandalwood Amber Cedar White Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 314,
+      "fragranceSlug": "dior-miss-dior-314",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Miss Dior",
+      "originalFragranceSlug": "dior-miss-dior",
+      "mistifyProductName": "Mademoiselle Dioré",
+      "mistifyProductSlug": "mademoiselle-diore",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mademoiselle-diore",
+      "publicInspiredByLabel": "Dior Miss Dior",
+      "audience": null,
+      "classification": "Floral Fruity / Soft Gourmand",
+      "topNotes": [
+        "Iris",
+        "Peony",
+        "Lily-of-the-Valley"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Apricot",
+        "Peach"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Musk",
+        "Tonka Bean",
+        "Sandalwood",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Iris",
+        "Peony",
+        "Lily-of-the-Valley",
+        "Rose",
+        "Apricot",
+        "Peach",
+        "Vanilla",
+        "Musk",
+        "Tonka Bean",
+        "Sandalwood",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_33_13AM.png?v=1781710406",
+      "searchableText": "Dior Christian Dior Miss Dior Mademoiselle Dioré Floral Fruity / Soft Gourmand Iris Peony Lily-of-the-Valley Rose Apricot Peach Vanilla Musk Tonka Bean Sandalwood Benzoin",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 221,
+      "fragranceSlug": "dior-musk-elixir-221",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Musk Elixir",
+      "originalFragranceSlug": "dior-musk-elixir",
+      "mistifyProductName": "Musky Elixer",
+      "mistifyProductSlug": "musky-elixer",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/musky-elixer",
+      "publicInspiredByLabel": "Inspired by Dior Musk Elixir",
+      "audience": "unisex",
+      "classification": "Musky/White Musk Oil",
+      "topNotes": [],
+      "middleNotes": [
+        "White Musk"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MuskyElixer-_1.png?v=1773460472",
+      "searchableText": "Dior christian dior Christian Dior Musk Elixir Musky Elixer Musky/White Musk Oil unisex White Musk",
+      "createdAt": "2026-05-04T04:41:37.451Z"
+    },
+    {
+      "id": 222,
+      "fragranceSlug": "dior-oud-ispahan-222",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Oud Ispahan",
+      "originalFragranceSlug": "dior-oud-ispahan",
+      "mistifyProductName": "Rosé Ispahan",
+      "mistifyProductSlug": "rose-ispahan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-ispahan",
+      "publicInspiredByLabel": "Inspired by Dior Oud Ispahan",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [],
+      "middleNotes": [
+        "Labdanum",
+        "Rose",
+        "Patchouli",
+        "Saffron",
+        "Oud",
+        "Sandalwood",
+        "Cedar"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Labdanum",
+        "Rose",
+        "Patchouli",
+        "Saffron",
+        "Oud",
+        "Sandalwood",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseIspahan-_1.png?v=1773460470",
+      "searchableText": "Dior christian dior Christian Dior Oud Ispahan Rosé Ispahan Oriental Floral unisex Labdanum Rose Patchouli Saffron Oud Sandalwood Cedar",
+      "createdAt": "2026-05-04T04:41:37.508Z"
+    },
+    {
+      "id": 332,
+      "fragranceSlug": "dior-poison-girl-332",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Poison Girl",
+      "originalFragranceSlug": "dior-poison-girl",
+      "mistifyProductName": "Venom Femme",
+      "mistifyProductSlug": "venom-femme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/venom-femme",
+      "publicInspiredByLabel": "Dior Poison Girl",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bitter Orange",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Damask Rose",
+        "Grasse Rose",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Almond",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bitter Orange",
+        "Lemon",
+        "Damask Rose",
+        "Grasse Rose",
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla",
+        "Almond",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-23-15AM-_1.png?v=1773460465",
+      "searchableText": "Dior Christian Dior Poison Girl Venom Femme Oriental Vanilla Bitter Orange Lemon Damask Rose Grasse Rose Orange Blossom Tonka Bean Vanilla Almond Sandalwood",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 223,
+      "fragranceSlug": "dior-purple-oud-223",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Purple Oud",
+      "originalFragranceSlug": "dior-purple-oud",
+      "mistifyProductName": "Violaceous Oud",
+      "mistifyProductSlug": "violaceous-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/violaceous-oud",
+      "publicInspiredByLabel": "Inspired by Dior Purple Oud",
+      "audience": "unisex",
+      "classification": "Woody/Oud",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Orange",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Oud",
+        "Orange",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_54_47PM.png?v=1774407295",
+      "searchableText": "Dior christian dior Christian Dior Purple Oud Violaceous Oud Woody/Oud unisex Oud Orange Saffron Pink Pepper",
+      "createdAt": "2026-05-04T04:41:37.571Z"
+    },
+    {
+      "id": 319,
+      "fragranceSlug": "dior-sauvage-319",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Sauvage",
+      "originalFragranceSlug": "dior-sauvage",
+      "mistifyProductName": "Sauvagerie",
+      "mistifyProductSlug": "sauvagerie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sauvagerie",
+      "publicInspiredByLabel": "Dior Sauvage",
+      "audience": null,
+      "classification": "Aromatic Fresh / Woody Spicy",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Black Pepper",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Sichuan Pepper",
+        "Lavender",
+        "Geranium",
+        "Elemi",
+        "Patchouli",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Cedar",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Black Pepper",
+        "Pink Pepper",
+        "Sichuan Pepper",
+        "Lavender",
+        "Geranium",
+        "Elemi",
+        "Patchouli",
+        "Vetiver",
+        "Ambroxan",
+        "Cedar",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun11_2026_07_51_31AM.png?v=1781178701",
+      "searchableText": "Dior Dior Sauvage Sauvagerie Aromatic Fresh / Woody Spicy Calabrian Bergamot Black Pepper Pink Pepper Sichuan Pepper Lavender Geranium Elemi Patchouli Vetiver Ambroxan Cedar Labdanum",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 225,
+      "fragranceSlug": "dior-sauvage-elixir-225",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Sauvage Elixir",
+      "originalFragranceSlug": "dior-sauvage-elixir",
+      "mistifyProductName": "Savage Elixir",
+      "mistifyProductSlug": "savage-elixir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/savage-elixir",
+      "publicInspiredByLabel": "Inspired by Dior Sauvage Elixir",
+      "audience": "mens",
+      "classification": "Aromatic Spicy/Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Nutmeg",
+        "Cardamom",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Licorice",
+        "Sandalwood",
+        "Amber",
+        "Patchouli",
+        "Haitian Vetiver"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Nutmeg",
+        "Cardamom",
+        "Grapefruit",
+        "Lavender",
+        "Licorice",
+        "Sandalwood",
+        "Amber",
+        "Patchouli",
+        "Haitian Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-01-16PM-_1.png?v=1773460280",
+      "searchableText": "Dior christian dior Christian Dior Sauvage Elixir Savage Elixir Aromatic Spicy/Woody Spicy mens Cinnamon Nutmeg Cardamom Grapefruit Lavender Licorice Sandalwood Amber Patchouli Haitian Vetiver",
+      "createdAt": "2026-05-04T04:41:37.693Z"
+    },
+    {
+      "id": 335,
+      "fragranceSlug": "dior-silver-oud-335",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Silver Oud",
+      "originalFragranceSlug": "dior-silver-oud",
+      "mistifyProductName": "Mystic Silver",
+      "mistifyProductSlug": "mystic-silver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mystic-silver",
+      "publicInspiredByLabel": "Dior Silver Oud",
+      "audience": null,
+      "classification": "Woody Oriental",
+      "topNotes": [
+        "Agarwood (Oud)"
+      ],
+      "middleNotes": [
+        "Cedarwood",
+        "Spices"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Vanilla",
+        "Amber"
+      ],
+      "allNotes": [
+        "Agarwood (Oud)",
+        "Cedarwood",
+        "Spices",
+        "Leather",
+        "Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MysticSilver-_1.png?v=1773460462",
+      "searchableText": "Dior Christian Dior Silver Oud Mystic Silver Woody Oriental Agarwood (Oud) Cedarwood Spices Leather Vanilla Amber",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 224,
+      "fragranceSlug": "dior-vanilla-diorama-224",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Vanilla Diorama",
+      "originalFragranceSlug": "dior-vanilla-diorama",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Dior Vanilla Diorama",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Orange",
+        "Pink Pepper",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Rum",
+        "Cacao",
+        "Cardamom"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Orange",
+        "Pink Pepper",
+        "Lemon",
+        "Rum",
+        "Cacao",
+        "Cardamom",
+        "Bourbon Vanilla",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Dior christian dior Christian Dior Vanilla Diorama Not verified Oriental Vanilla Orange Pink Pepper Lemon Rum Cacao Cardamom Bourbon Vanilla Sandalwood Patchouli",
+      "createdAt": "2026-05-04T04:41:37.634Z"
+    }
+  ]
+}

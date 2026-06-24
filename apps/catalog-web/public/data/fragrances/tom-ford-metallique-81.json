@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 81,
+    "fragranceSlug": "tom-ford-metallique-81",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Metallique",
+    "originalFragranceSlug": "tom-ford-metallique",
+    "mistifyProductName": "Metallic",
+    "mistifyProductSlug": "metallic",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/metallic",
+    "publicInspiredByLabel": "Inspired by Tom Ford Metallique",
+    "audience": "unisex",
+    "classification": "Aldehydic Floral",
+    "topNotes": [
+      "Aldehydes",
+      "Pink Pepper",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Lily-of-the-Valley",
+      "Heliotrope",
+      "Hawthorn"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Peru Balsam",
+      "Sandalwood",
+      "Ambrette"
+    ],
+    "allNotes": [
+      "Aldehydes",
+      "Pink Pepper",
+      "Bergamot",
+      "Lily-of-the-Valley",
+      "Heliotrope",
+      "Hawthorn",
+      "Vanilla",
+      "Peru Balsam",
+      "Sandalwood",
+      "Ambrette"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Metallic.png?v=1765422895",
+    "searchableText": "Tom Ford tom ford Tom Ford Metallique Metallic Aldehydic Floral unisex Aldehydes Pink Pepper Bergamot Lily-of-the-Valley Heliotrope Hawthorn Vanilla Peru Balsam Sandalwood Ambrette",
+    "createdAt": "2026-05-04T04:41:29.225Z"
+  }
+}

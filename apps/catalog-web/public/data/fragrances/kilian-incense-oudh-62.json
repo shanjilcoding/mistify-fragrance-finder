@@ -1,0 +1,53 @@
+{
+  "fragrance": {
+    "id": 62,
+    "fragranceSlug": "kilian-incense-oudh-62",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Incense Oudh",
+    "originalFragranceSlug": "kilian-incense-oudh",
+    "mistifyProductName": "Incensed Oud",
+    "mistifyProductSlug": "incensed-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/incensed-oud",
+    "publicInspiredByLabel": "Inspired by Kilian Incense Oudh",
+    "audience": "unisex",
+    "classification": "Oriental",
+    "topNotes": [
+      "Rose",
+      "Cardamom",
+      "Pink Pepper",
+      "Geranium"
+    ],
+    "middleNotes": [
+      "Patchouli",
+      "Virginia Cedar",
+      "Papyrus"
+    ],
+    "baseNotes": [
+      "Incense",
+      "Oud",
+      "Sandalwood",
+      "Oakmoss",
+      "Musk",
+      "Labdanum"
+    ],
+    "allNotes": [
+      "Rose",
+      "Cardamom",
+      "Pink Pepper",
+      "Geranium",
+      "Patchouli",
+      "Virginia Cedar",
+      "Papyrus",
+      "Incense",
+      "Oud",
+      "Sandalwood",
+      "Oakmoss",
+      "Musk",
+      "Labdanum"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/IncensedOud_dc3a368e-6d94-4f0b-b238-a8e8a4644ae1.png?v=1765422910",
+    "searchableText": "Kilian kilian By Kilian Incense Oudh Incensed Oud Oriental unisex Rose Cardamom Pink Pepper Geranium Patchouli Virginia Cedar Papyrus Incense Oud Sandalwood Oakmoss Musk Labdanum",
+    "createdAt": "2026-05-04T04:41:28.103Z"
+  }
+}

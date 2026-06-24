@@ -1,0 +1,297 @@
+{
+  "fragrances": [
+    {
+      "id": 99,
+      "fragranceSlug": "parfums-de-marly-sedley-99",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Sedley",
+      "originalFragranceSlug": "parfums-de-marly-sedley",
+      "mistifyProductName": "Sédelle",
+      "mistifyProductSlug": "sedelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sedelle",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Sedley",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange",
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum",
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar14_2026_08_56_24PM.png?v=1773536190",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Sedley Sédelle Woody Aromatic unisex Mint Bergamot Grapefruit Lemon Mandarin Orange Lavender Rosemary Geranium Olibanum Ambroxan Sandalwood Vetiver Cedar Cashmeran Patchouli",
+      "createdAt": "2026-05-04T04:41:30.270Z",
+      "sharedNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 311,
+      "fragranceSlug": "clive-christian-l-red-tea-vetiver-311",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "L Red Tea Vetiver",
+      "originalFragranceSlug": "clive-christian-l-red-tea-vetiver",
+      "mistifyProductName": "Rouge Thé Vetiver",
+      "mistifyProductSlug": "rouge-the-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rouge-the-vetiver",
+      "publicInspiredByLabel": "Clive Christian L Red Tea Vetiver",
+      "audience": null,
+      "classification": "Citrus Woody / Aromatic Tea",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Rooibos Tea",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Rooibos Tea",
+        "Vetiver",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_45_38AM.png?v=1781711148",
+      "searchableText": "Clive Christian Clive Christian L Red Tea Vetiver Rouge Thé Vetiver Citrus Woody / Aromatic Tea Bergamot Lemon Rooibos Tea Vetiver Sandalwood Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vetiver",
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 102,
+      "fragranceSlug": "parfums-de-marly-haltane-102",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Haltane",
+      "originalFragranceSlug": "parfums-de-marly-haltane",
+      "mistifyProductName": "Heltene",
+      "mistifyProductSlug": "heltene",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/heltene",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Haltane",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Praline"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Bergamot",
+        "Saffron",
+        "Praline",
+        "Oud",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-23-10PM-_1.png?v=1773460495",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Haltane Heltene Woody Aromatic mens Lavender Clary Sage Bergamot Saffron Praline Oud Cedar",
+      "createdAt": "2026-05-04T04:41:30.462Z",
+      "sharedNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 112,
+      "fragranceSlug": "parfums-de-marly-valero-112",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Valero",
+      "originalFragranceSlug": "parfums-de-marly-valero",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Valero",
+      "audience": null,
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Citron",
+        "Juniper"
+      ],
+      "middleNotes": [
+        "Geranium",
+        "Lavender",
+        "Cypress",
+        "Nutmeg"
+      ],
+      "baseNotes": [
+        "Ambrox Super",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Citron",
+        "Juniper",
+        "Geranium",
+        "Lavender",
+        "Cypress",
+        "Nutmeg",
+        "Ambrox Super",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valero Not verified Woody Aromatic Bergamot Citron Juniper Geranium Lavender Cypress Nutmeg Ambrox Super Patchouli Sandalwood",
+      "createdAt": "2026-05-04T04:41:31.034Z",
+      "sharedNotes": [
+        "Lavender",
+        "Bergamot",
+        "Patchouli",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 42,
+      "fragranceSlug": "louis-vuitton-lvers-lovers-42",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "LVERS / Lovers",
+      "originalFragranceSlug": "louis-vuitton-lvers-lovers",
+      "mistifyProductName": "LOVERS",
+      "mistifyProductSlug": "lovers",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/solar-essence",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton LVERS / Lovers",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Galbanum",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Cedarwood"
+      ],
+      "allNotes": [
+        "Galbanum",
+        "Bergamot",
+        "Ginger",
+        "Solar Notes",
+        "Sandalwood",
+        "Cedarwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton LVERS / Lovers LOVERS Woody Aromatic unisex Galbanum Bergamot Ginger Solar Notes Sandalwood Cedarwood",
+      "createdAt": "2026-05-04T04:41:26.948Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 134,
+      "fragranceSlug": "creed-viking-134",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Viking",
+      "originalFragranceSlug": "creed-viking",
+      "mistifyProductName": "Voyager",
+      "mistifyProductSlug": "voyager",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/voyager",
+      "publicInspiredByLabel": "Inspired by Creed Viking",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Pink Pepper",
+        "Bulgarian Rose",
+        "Peppermint"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Lemon",
+        "Pink Pepper",
+        "Bulgarian Rose",
+        "Peppermint",
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_32_22PM.png?v=1765422858",
+      "searchableText": "Creed creed Creed Viking Voyager Woody Aromatic mens Pink Pepper Calabrian Bergamot Lemon Pink Pepper Bulgarian Rose Peppermint Sandalwood Vetiver Patchouli Lavender",
+      "createdAt": "2026-05-04T04:41:32.311Z",
+      "sharedNotes": [
+        "Lavender",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood"
+      ]
+    }
+  ]
+}

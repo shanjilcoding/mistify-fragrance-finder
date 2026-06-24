@@ -1,0 +1,283 @@
+{
+  "fragrances": [
+    {
+      "id": 159,
+      "fragranceSlug": "initio-psychedelic-love-159",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Psychedelic Love",
+      "originalFragranceSlug": "initio-psychedelic-love",
+      "mistifyProductName": "Hypnotic Love",
+      "mistifyProductSlug": "hypnotic-love",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hypnotic-love",
+      "publicInspiredByLabel": "Inspired by Initio Psychedelic Love",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Ylang-Ylang",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Heliotrope",
+        "Hedione",
+        "Bulgarian Rose"
+      ],
+      "baseNotes": [
+        "Myrrh",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Ylang-Ylang",
+        "Bergamot",
+        "Heliotrope",
+        "Hedione",
+        "Bulgarian Rose",
+        "Myrrh",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-30-34AM-_1.png?v=1773460506",
+      "searchableText": "Initio initio parfums Initio Parfums Psychedelic Love Hypnotic Love Floral unisex Ylang-Ylang Bergamot Heliotrope Hedione Bulgarian Rose Myrrh Sandalwood",
+      "createdAt": "2026-05-04T04:41:33.764Z",
+      "sharedNotes": [
+        "Bergamot"
+      ]
+    },
+    {
+      "id": 146,
+      "fragranceSlug": "ysl-yves-saint-laurent-l-homme-ultimate-146",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "L’Homme Ultimate",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-l-homme-ultimate",
+      "mistifyProductName": "Hommes Ultimate",
+      "mistifyProductSlug": "hommes-ultimate",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hommes-ultimate",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) L’Homme Ultimate",
+      "audience": "mens",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Sage",
+        "Geranium",
+        "Apple"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Vetiver",
+        "Cashmere Wood"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot",
+        "Rose",
+        "Sage",
+        "Geranium",
+        "Apple",
+        "Cedar",
+        "Vetiver",
+        "Cashmere Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-30PM-_1.png?v=1773460429",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) L’Homme Ultimate Hommes Ultimate Woody Floral Musk mens Ginger Grapefruit Cardamom Bergamot Rose Sage Geranium Apple Cedar Vetiver Cashmere Wood",
+      "createdAt": "2026-05-04T04:41:33.006Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vetiver",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 160,
+      "fragranceSlug": "initio-rehab-160",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Rehab",
+      "originalFragranceSlug": "initio-rehab",
+      "mistifyProductName": "Rehabilitee",
+      "mistifyProductSlug": "rehabilitee",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rehabilitee",
+      "publicInspiredByLabel": "Inspired by Initio Rehab",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Rehabilitee.png?v=1765422993",
+      "searchableText": "Initio initio parfums Initio Parfums Rehab Rehabilitee Woody Aromatic unisex Lavender Bergamot Cedar Vetiver Patchouli Sandalwood Musk Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:33.822Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vetiver",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 144,
+      "fragranceSlug": "ysl-yves-saint-laurent-y-intense-144",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Y Intense",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-y-intense",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Y Intense",
+      "audience": null,
+      "classification": "Aromatic Fougere",
+      "topNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries"
+      ],
+      "middleNotes": [
+        "Sage",
+        "Geranium",
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries",
+        "Sage",
+        "Geranium",
+        "Lavender",
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Y Intense Not verified Aromatic Fougere Ginger Bergamot Juniper Berries Sage Geranium Lavender Vetiver Tonka Bean Cedar Olibanum",
+      "createdAt": "2026-05-04T04:41:32.882Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vetiver",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 268,
+      "fragranceSlug": "byredo-animalique-268",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Animalique",
+      "originalFragranceSlug": "byredo-animalique",
+      "mistifyProductName": "Animal Instincts",
+      "mistifyProductSlug": "animal-instincts",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/animal-instincts",
+      "publicInspiredByLabel": "Inspired by Byredo Animalique",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Violet",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Tobacco Leaf",
+        "Amber"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Violet",
+        "Mimosa",
+        "Suede",
+        "Tobacco Leaf",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-19-10PM-_1.png?v=1773460283",
+      "searchableText": "Byredo byredo Byredo Animalique Animal Instincts Oriental Floral unisex Bergamot Lemon Violet Mimosa Suede Tobacco Leaf Amber",
+      "createdAt": "2026-05-04T04:41:40.321Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Violet"
+      ]
+    },
+    {
+      "id": 100,
+      "fragranceSlug": "parfums-de-marly-delina-exclusif-100",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Delina Exclusif",
+      "originalFragranceSlug": "parfums-de-marly-delina-exclusif",
+      "mistifyProductName": "Deline Exclusive",
+      "mistifyProductSlug": "deline-exclusive",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/deline-exclusive?variant=49907851395391",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Delina Exclusif",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "Litchi",
+        "Pear",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Oud",
+        "Incense"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Amber",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Litchi",
+        "Pear",
+        "Bergamot",
+        "Turkish Rose",
+        "Oud",
+        "Incense",
+        "Vanilla",
+        "Amber",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-01-29AM-_1.png?v=1773460500",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Delina Exclusif Deline Exclusive Floral womens Litchi Pear Bergamot Turkish Rose Oud Incense Vanilla Amber Woody Notes",
+      "createdAt": "2026-05-04T04:41:30.328Z",
+      "sharedNotes": [
+        "Bergamot"
+      ]
+    }
+  ]
+}

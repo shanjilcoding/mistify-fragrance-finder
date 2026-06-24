@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 143,
+    "fragranceSlug": "ysl-yves-saint-laurent-libre-143",
+    "brandName": "YSL (Yves Saint Laurent)",
+    "brandSlug": "ysl-yves-saint-laurent",
+    "originalFragranceName": "Libre",
+    "originalFragranceSlug": "ysl-yves-saint-laurent-libre",
+    "mistifyProductName": "Libre Vanillé",
+    "mistifyProductSlug": "libre-vanille",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-vanille",
+    "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre",
+    "audience": "unisex",
+    "classification": "Amber Fougere",
+    "topNotes": [
+      "Lavender",
+      "Mandarin Orange",
+      "Black Currant",
+      "Petitgrain"
+    ],
+    "middleNotes": [
+      "Lavender",
+      "Orange Blossom",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Madagascar Vanilla",
+      "Musk",
+      "Cedar",
+      "Ambergris"
+    ],
+    "allNotes": [
+      "Lavender",
+      "Mandarin Orange",
+      "Black Currant",
+      "Petitgrain",
+      "Lavender",
+      "Orange Blossom",
+      "Jasmine",
+      "Madagascar Vanilla",
+      "Musk",
+      "Cedar",
+      "Ambergris"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb26-2026-12-44-22PM-_1.png?v=1773460127",
+    "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Libre Vanillé Amber Fougere unisex Lavender Mandarin Orange Black Currant Petitgrain Lavender Orange Blossom Jasmine Madagascar Vanilla Musk Cedar Ambergris",
+    "createdAt": "2026-05-04T04:41:32.824Z"
+  }
+}

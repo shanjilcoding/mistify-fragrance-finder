@@ -1,0 +1,109 @@
+{
+  "brand": {
+    "brandName": "Roberto Cavalli",
+    "brandSlug": "roberto-cavalli",
+    "fragranceCount": 3,
+    "searchableText": "Divine Oud Not verified Inspired by Roberto Cavalli Divine Oud Roberto Cavalli roberto cavalli Roberto Cavalli Divine Oud Not verified Oud/Floral Oud Oud Rose Raspberry Violet Oud Edition Not verified Inspired by Roberto Cavalli Oud Edition Roberto Cavalli roberto cavalli Roberto Cavalli Oud Edition Not verified Oriental Saffron Mandarin Orange Leather Orange Blossom Incense Oud Amber Vanilla Tiger Oud Not verified Inspired by Roberto Cavalli Tiger Oud Roberto Cavalli roberto cavalli Roberto Cavalli Tiger Oud Not verified Oriental Floral Oud Rose"
+  },
+  "fragrances": [
+    {
+      "id": 273,
+      "fragranceSlug": "roberto-cavalli-divine-oud-273",
+      "brandName": "Roberto Cavalli",
+      "brandSlug": "roberto-cavalli",
+      "originalFragranceName": "Divine Oud",
+      "originalFragranceSlug": "roberto-cavalli-divine-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Roberto Cavalli Divine Oud",
+      "audience": null,
+      "classification": "Oud/Floral Oud",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Rose",
+        "Raspberry",
+        "Violet"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Oud",
+        "Rose",
+        "Raspberry",
+        "Violet"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Roberto Cavalli roberto cavalli Roberto Cavalli Divine Oud Not verified Oud/Floral Oud Oud Rose Raspberry Violet",
+      "createdAt": "2026-05-04T04:41:40.636Z"
+    },
+    {
+      "id": 274,
+      "fragranceSlug": "roberto-cavalli-oud-edition-274",
+      "brandName": "Roberto Cavalli",
+      "brandSlug": "roberto-cavalli",
+      "originalFragranceName": "Oud Edition",
+      "originalFragranceSlug": "roberto-cavalli-oud-edition",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Roberto Cavalli Oud Edition",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Saffron",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Oud",
+        "Amber",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Mandarin Orange",
+        "Leather",
+        "Orange Blossom",
+        "Incense",
+        "Oud",
+        "Amber",
+        "Vanilla"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Roberto Cavalli roberto cavalli Roberto Cavalli Oud Edition Not verified Oriental Saffron Mandarin Orange Leather Orange Blossom Incense Oud Amber Vanilla",
+      "createdAt": "2026-05-04T04:41:40.699Z"
+    },
+    {
+      "id": 275,
+      "fragranceSlug": "roberto-cavalli-tiger-oud-275",
+      "brandName": "Roberto Cavalli",
+      "brandSlug": "roberto-cavalli",
+      "originalFragranceName": "Tiger Oud",
+      "originalFragranceSlug": "roberto-cavalli-tiger-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Roberto Cavalli Tiger Oud",
+      "audience": null,
+      "classification": "Oriental Floral",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Rose"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Oud",
+        "Rose"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Roberto Cavalli roberto cavalli Roberto Cavalli Tiger Oud Not verified Oriental Floral Oud Rose",
+      "createdAt": "2026-05-04T04:41:40.757Z"
+    }
+  ]
+}

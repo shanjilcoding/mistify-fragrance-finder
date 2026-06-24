@@ -1,0 +1,324 @@
+{
+  "fragrances": [
+    {
+      "id": 226,
+      "fragranceSlug": "clive-christian-blonde-amber-226",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Blonde Amber",
+      "originalFragranceSlug": "clive-christian-blonde-amber",
+      "mistifyProductName": "Amber Luxe",
+      "mistifyProductSlug": "amber-luxe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-luxe",
+      "publicInspiredByLabel": "Inspired by Clive Christian Blonde Amber",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit",
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris",
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-34-30PM-_1.png?v=1773460457",
+      "searchableText": "Clive Christian clive christian Clive Christian Blonde Amber Amber Luxe Oriental unisex Rum Olibanum Bitter Orange Cardamom Pink Pepper Ginger Bergamot Grapefruit Dried Fruits White Tobacco Sandalwood Tuberose Saffron Osmanthus Jasmine Orris Tonka Bean Vanilla Myrrh Labdanum Patchouli Musk Cedar Vetiver",
+      "createdAt": "2026-05-04T04:41:37.756Z",
+      "sharedNotes": [
+        "Osmanthus",
+        "Labdanum",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 161,
+      "fragranceSlug": "initio-side-effect-161",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Side Effect",
+      "originalFragranceSlug": "initio-side-effect",
+      "mistifyProductName": "Secondary Effects",
+      "mistifyProductSlug": "secondary-effects",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/secondary-effects",
+      "publicInspiredByLabel": "Inspired by Initio Side Effect",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rum",
+        "Cinnamon"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Leather"
+      ],
+      "allNotes": [
+        "Rum",
+        "Cinnamon",
+        "Tobacco",
+        "Vanilla",
+        "Musk",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_15_23PM.png?v=1765422996",
+      "searchableText": "Initio initio parfums Initio Parfums Side Effect Secondary Effects Oriental unisex Rum Cinnamon Tobacco Vanilla Musk Leather",
+      "createdAt": "2026-05-04T04:41:33.880Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 54,
+      "fragranceSlug": "kilian-back-to-black-54",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Back to Black",
+      "originalFragranceSlug": "kilian-back-to-black",
+      "mistifyProductName": "Back 2 Blacky",
+      "mistifyProductSlug": "back-2-blacky",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/back-2-black",
+      "publicInspiredByLabel": "Inspired by Kilian Back to Black",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Almond",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "allNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry",
+        "Tobacco",
+        "Almond",
+        "Vanilla",
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Back2Blacky.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Back to Black Back 2 Blacky Oriental unisex Honey Cherry Raspberry Tobacco Almond Vanilla Cedar Patchouli Amber",
+      "createdAt": "2026-05-04T04:41:27.650Z",
+      "sharedNotes": [
+        "Honey",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 257,
+      "fragranceSlug": "narciso-rodriguez-amber-musc-257",
+      "brandName": "Narciso Rodriguez",
+      "brandSlug": "narciso-rodriguez",
+      "originalFragranceName": "Amber Musc",
+      "originalFragranceSlug": "narciso-rodriguez-amber-musc",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Narciso Rodriguez Amber Musc",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Musk",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Oud",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "allNotes": [
+        "Musk",
+        "Orange Blossom",
+        "Patchouli",
+        "Oud",
+        "Leather",
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Narciso Rodriguez narciso rodriguez Narciso Rodriguez Amber Musc Not verified Oriental Musk Orange Blossom Patchouli Oud Leather Amber Vanilla Incense",
+      "createdAt": "2026-05-04T04:41:39.654Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Musk",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 163,
+      "fragranceSlug": "montale-arabians-163",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Arabians",
+      "originalFragranceSlug": "montale-arabians",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Arabians",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Cardamom",
+        "Lavender",
+        "Red Thyme"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Patchouli",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Ambergris",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Lavender",
+        "Red Thyme",
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oud",
+        "Leather",
+        "Ambergris",
+        "Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Arabians Not verified Oriental Cardamom Lavender Red Thyme Rose Patchouli Vetiver Oud Leather Ambergris Musk",
+      "createdAt": "2026-05-04T04:41:34.009Z",
+      "sharedNotes": [
+        "Ambergris",
+        "Musk",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 215,
+      "fragranceSlug": "viktor-and-rolf-flower-bomb-215",
+      "brandName": "Viktor & Rolf",
+      "brandSlug": "viktor-and-rolf",
+      "originalFragranceName": "Flower Bomb",
+      "originalFragranceSlug": "viktor-and-rolf-flower-bomb",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Viktor & Rolf Flower Bomb",
+      "audience": null,
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Tea",
+        "Bergamot",
+        "Osmanthus"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Freesia",
+        "African Orange Flower"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Tea",
+        "Bergamot",
+        "Osmanthus",
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Freesia",
+        "African Orange Flower",
+        "Patchouli",
+        "Musk",
+        "Vanilla"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Viktor & Rolf viktor and rolf Viktor & Rolf Flower Bomb Not verified Oriental Floral Tea Bergamot Osmanthus Orchid Jasmine Rose Freesia African Orange Flower Patchouli Musk Vanilla",
+      "createdAt": "2026-05-04T04:41:37.102Z",
+      "sharedNotes": [
+        "Osmanthus",
+        "Vanilla",
+        "Musk",
+        "Patchouli"
+      ]
+    }
+  ]
+}

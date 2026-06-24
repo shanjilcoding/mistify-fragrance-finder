@@ -1,0 +1,295 @@
+{
+  "fragrances": [
+    {
+      "id": 120,
+      "fragranceSlug": "bond-no-9-new-york-oud-120",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "New York Oud",
+      "originalFragranceSlug": "bond-no-9-new-york-oud",
+      "mistifyProductName": "Urban Oud",
+      "mistifyProductSlug": "urban-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-oud",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 New York Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Plum",
+        "Saffron",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root"
+      ],
+      "baseNotes": [
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Plum",
+        "Saffron",
+        "Orange",
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root",
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_18_40AM.png?v=1774325928",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 New York Oud Urban Oud Oriental unisex Plum Saffron Orange Rose Oud Patchouli Orris Root Musk White Honey Vetiver",
+      "createdAt": "2026-05-04T04:41:31.518Z",
+      "sharedNotes": [
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oud",
+        "Musk"
+      ]
+    },
+    {
+      "id": 62,
+      "fragranceSlug": "kilian-incense-oudh-62",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Incense Oudh",
+      "originalFragranceSlug": "kilian-incense-oudh",
+      "mistifyProductName": "Incensed Oud",
+      "mistifyProductSlug": "incensed-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/incensed-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Incense Oudh",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rose",
+        "Cardamom",
+        "Pink Pepper",
+        "Geranium"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Virginia Cedar",
+        "Papyrus"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Oud",
+        "Sandalwood",
+        "Oakmoss",
+        "Musk",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Rose",
+        "Cardamom",
+        "Pink Pepper",
+        "Geranium",
+        "Patchouli",
+        "Virginia Cedar",
+        "Papyrus",
+        "Incense",
+        "Oud",
+        "Sandalwood",
+        "Oakmoss",
+        "Musk",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/IncensedOud_dc3a368e-6d94-4f0b-b238-a8e8a4644ae1.png?v=1765422910",
+      "searchableText": "Kilian kilian By Kilian Incense Oudh Incensed Oud Oriental unisex Rose Cardamom Pink Pepper Geranium Patchouli Virginia Cedar Papyrus Incense Oud Sandalwood Oakmoss Musk Labdanum",
+      "createdAt": "2026-05-04T04:41:28.103Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Rose",
+        "Patchouli",
+        "Oud",
+        "Musk"
+      ]
+    },
+    {
+      "id": 257,
+      "fragranceSlug": "narciso-rodriguez-amber-musc-257",
+      "brandName": "Narciso Rodriguez",
+      "brandSlug": "narciso-rodriguez",
+      "originalFragranceName": "Amber Musc",
+      "originalFragranceSlug": "narciso-rodriguez-amber-musc",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Narciso Rodriguez Amber Musc",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Musk",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Oud",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "allNotes": [
+        "Musk",
+        "Orange Blossom",
+        "Patchouli",
+        "Oud",
+        "Leather",
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Narciso Rodriguez narciso rodriguez Narciso Rodriguez Amber Musc Not verified Oriental Musk Orange Blossom Patchouli Oud Leather Amber Vanilla Incense",
+      "createdAt": "2026-05-04T04:41:39.654Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Oud",
+        "Leather",
+        "Musk"
+      ]
+    },
+    {
+      "id": 262,
+      "fragranceSlug": "ferrari-essence-oud-262",
+      "brandName": "Ferrari",
+      "brandSlug": "ferrari",
+      "originalFragranceName": "Essence Oud",
+      "originalFragranceSlug": "ferrari-essence-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Ferrari Essence Oud",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Oud"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Olibanum",
+        "Elemi Resin",
+        "Saffron",
+        "Caraway"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Oud",
+        "Rose",
+        "Olibanum",
+        "Elemi Resin",
+        "Saffron",
+        "Caraway",
+        "Leather",
+        "Labdanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Ferrari ferrari Ferrari Essence Oud Not verified Oriental Oud Rose Olibanum Elemi Resin Saffron Caraway Leather Labdanum",
+      "createdAt": "2026-05-04T04:41:39.958Z",
+      "sharedNotes": [
+        "Rose",
+        "Oud",
+        "Leather"
+      ]
+    },
+    {
+      "id": 161,
+      "fragranceSlug": "initio-side-effect-161",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Side Effect",
+      "originalFragranceSlug": "initio-side-effect",
+      "mistifyProductName": "Secondary Effects",
+      "mistifyProductSlug": "secondary-effects",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/secondary-effects",
+      "publicInspiredByLabel": "Inspired by Initio Side Effect",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rum",
+        "Cinnamon"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Leather"
+      ],
+      "allNotes": [
+        "Rum",
+        "Cinnamon",
+        "Tobacco",
+        "Vanilla",
+        "Musk",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_15_23PM.png?v=1765422996",
+      "searchableText": "Initio initio parfums Initio Parfums Side Effect Secondary Effects Oriental unisex Rum Cinnamon Tobacco Vanilla Musk Leather",
+      "createdAt": "2026-05-04T04:41:33.880Z",
+      "sharedNotes": [
+        "Leather",
+        "Musk"
+      ]
+    },
+    {
+      "id": 160,
+      "fragranceSlug": "initio-rehab-160",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Rehab",
+      "originalFragranceSlug": "initio-rehab",
+      "mistifyProductName": "Rehabilitee",
+      "mistifyProductSlug": "rehabilitee",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rehabilitee",
+      "publicInspiredByLabel": "Inspired by Initio Rehab",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Rehabilitee.png?v=1765422993",
+      "searchableText": "Initio initio parfums Initio Parfums Rehab Rehabilitee Woody Aromatic unisex Lavender Bergamot Cedar Vetiver Patchouli Sandalwood Musk Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:33.822Z",
+      "sharedNotes": [
+        "Lavender",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ]
+    }
+  ]
+}

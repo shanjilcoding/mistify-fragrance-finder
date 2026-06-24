@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 220,
+    "fragranceSlug": "dior-feve-delicieuse-220",
+    "brandName": "Dior",
+    "brandSlug": "dior",
+    "originalFragranceName": "Feve Delicieuse",
+    "originalFragranceSlug": "dior-feve-delicieuse",
+    "mistifyProductName": "Fave Deliciosa",
+    "mistifyProductSlug": "fave-deliciosa",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/fave-deliciosa",
+    "publicInspiredByLabel": "Inspired by Dior Feve Delicieuse",
+    "audience": "unisex",
+    "classification": "Oriental Gourmand",
+    "topNotes": [
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Tonka Bean",
+      "Vanilla",
+      "Caramel"
+    ],
+    "baseNotes": [
+      "Praline",
+      "Cocoa",
+      "Woods"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Tonka Bean",
+      "Vanilla",
+      "Caramel",
+      "Praline",
+      "Cocoa",
+      "Woods"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_52_44PM.png?v=1774407173",
+    "searchableText": "Dior christian dior Christian Dior Feve Delicieuse Fave Deliciosa Oriental Gourmand unisex Bergamot Tonka Bean Vanilla Caramel Praline Cocoa Woods",
+    "createdAt": "2026-05-04T04:41:37.391Z"
+  }
+}

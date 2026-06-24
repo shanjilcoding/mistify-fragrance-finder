@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 149,
+    "fragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet-149",
+    "brandName": "YSL (Yves Saint Laurent)",
+    "brandSlug": "ysl-yves-saint-laurent",
+    "originalFragranceName": "Supreme Bouquet",
+    "originalFragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet",
+    "mistifyProductName": "Ethereal Bloom",
+    "mistifyProductSlug": "ethereal-bloom",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/ethereal-bloom",
+    "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Supreme Bouquet",
+    "audience": "womens",
+    "classification": "Amber Floral",
+    "topNotes": [
+      "Pear",
+      "Pink Pepper"
+    ],
+    "middleNotes": [
+      "Tuberose",
+      "Ylang-Ylang",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Amber",
+      "Patchouli",
+      "Musk"
+    ],
+    "allNotes": [
+      "Pear",
+      "Pink Pepper",
+      "Tuberose",
+      "Ylang-Ylang",
+      "Jasmine",
+      "Amber",
+      "Patchouli",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/EtherealBloom-_1.png?v=1773460422",
+    "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Supreme Bouquet Ethereal Bloom Amber Floral womens Pear Pink Pepper Tuberose Ylang-Ylang Jasmine Amber Patchouli Musk",
+    "createdAt": "2026-05-04T04:41:33.197Z"
+  }
+}

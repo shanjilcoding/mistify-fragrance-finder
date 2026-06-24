@@ -1,0 +1,31 @@
+{
+  "fragrance": {
+    "id": 47,
+    "fragranceSlug": "louis-vuitton-ink-mark-47",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Ink Mark",
+    "originalFragranceSlug": "louis-vuitton-ink-mark",
+    "mistifyProductName": "Ink Script",
+    "mistifyProductSlug": "ink-script",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/ink-script",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Ink Mark",
+    "audience": "unisex",
+    "classification": "Oriental Woody",
+    "topNotes": [],
+    "middleNotes": [
+      "Sandalwood",
+      "Incense",
+      "Amber"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Sandalwood",
+      "Incense",
+      "Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb3-2026-12-08-40PM-_1.png?v=1773460161",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Ink Mark Ink Script Oriental Woody unisex Sandalwood Incense Amber",
+    "createdAt": "2026-05-04T04:41:27.237Z"
+  }
+}

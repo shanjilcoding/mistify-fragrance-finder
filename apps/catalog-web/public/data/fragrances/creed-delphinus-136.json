@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 136,
+    "fragranceSlug": "creed-delphinus-136",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Delphinus",
+    "originalFragranceSlug": "creed-delphinus",
+    "mistifyProductName": "Starphinus",
+    "mistifyProductSlug": "starphinus",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/starphinus",
+    "publicInspiredByLabel": "Inspired by Creed Delphinus",
+    "audience": "unisex",
+    "classification": "Amber Spicy",
+    "topNotes": [
+      "Almond",
+      "Pink Pepper",
+      "Black Pepper"
+    ],
+    "middleNotes": [
+      "Orris",
+      "Heliotrope",
+      "Orchid"
+    ],
+    "baseNotes": [
+      "Bourbon Vanilla",
+      "Tonka Bean",
+      "Leather",
+      "Amberwood",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Almond",
+      "Pink Pepper",
+      "Black Pepper",
+      "Orris",
+      "Heliotrope",
+      "Orchid",
+      "Bourbon Vanilla",
+      "Tonka Bean",
+      "Leather",
+      "Amberwood",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-13-03AM-_1.png?v=1773460303",
+    "searchableText": "Creed creed Creed Delphinus Starphinus Amber Spicy unisex Almond Pink Pepper Black Pepper Orris Heliotrope Orchid Bourbon Vanilla Tonka Bean Leather Amberwood Patchouli",
+    "createdAt": "2026-05-04T04:41:32.427Z"
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "fragrances": [
+    {
+      "id": 56,
+      "fragranceSlug": "kilian-black-phantom-56",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Black Phantom",
+      "originalFragranceSlug": "kilian-black-phantom",
+      "mistifyProductName": "Dark Phantom",
+      "mistifyProductSlug": "dark-phantom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/dark-phantom",
+      "publicInspiredByLabel": "Inspired by Kilian Black Phantom",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Rum"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope",
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-42-32AM-_1.png?v=1773460532",
+      "searchableText": "Kilian kilian By Kilian Black Phantom Dark Phantom Oriental Vanilla unisex Rum Dark Chocolate Coffee Almond Heliotrope Caramel Sugar Cane Sandalwood Vanilla Tonka Vetiver",
+      "createdAt": "2026-05-04T04:41:27.757Z",
+      "sharedNotes": [
+        "Almond",
+        "Heliotrope",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 81,
+      "fragranceSlug": "tom-ford-metallique-81",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Metallique",
+      "originalFragranceSlug": "tom-ford-metallique",
+      "mistifyProductName": "Metallic",
+      "mistifyProductSlug": "metallic",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/metallic",
+      "publicInspiredByLabel": "Inspired by Tom Ford Metallique",
+      "audience": "unisex",
+      "classification": "Aldehydic Floral",
+      "topNotes": [
+        "Aldehydes",
+        "Pink Pepper",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Lily-of-the-Valley",
+        "Heliotrope",
+        "Hawthorn"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Peru Balsam",
+        "Sandalwood",
+        "Ambrette"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Pink Pepper",
+        "Bergamot",
+        "Lily-of-the-Valley",
+        "Heliotrope",
+        "Hawthorn",
+        "Vanilla",
+        "Peru Balsam",
+        "Sandalwood",
+        "Ambrette"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Metallic.png?v=1765422895",
+      "searchableText": "Tom Ford tom ford Tom Ford Metallique Metallic Aldehydic Floral unisex Aldehydes Pink Pepper Bergamot Lily-of-the-Valley Heliotrope Hawthorn Vanilla Peru Balsam Sandalwood Ambrette",
+      "createdAt": "2026-05-04T04:41:29.225Z",
+      "sharedNotes": [
+        "Heliotrope",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 251,
+      "fragranceSlug": "kayali-yum-pistachio-gelato-33-251",
+      "brandName": "Kayali",
+      "brandSlug": "kayali",
+      "originalFragranceName": "Yum Pistachio Gelato 33",
+      "originalFragranceSlug": "kayali-yum-pistachio-gelato-33",
+      "mistifyProductName": "Yummy Pistachio & Gelato 34",
+      "mistifyProductSlug": "yummy-pistachio-and-gelato-34",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/yummy-pistachio-gelato-34",
+      "publicInspiredByLabel": "Inspired by Kayali Yum Pistachio Gelato 33",
+      "audience": "womens",
+      "classification": "Gourmand",
+      "topNotes": [
+        "Pistachio",
+        "Hazelnut",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Gelato Accord",
+        "Jasmine",
+        "White Peony"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Whipped Cream",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Pistachio",
+        "Hazelnut",
+        "Cardamom",
+        "Gelato Accord",
+        "Jasmine",
+        "White Peony",
+        "Vanilla",
+        "Whipped Cream",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-11-22-00PM-_1.png?v=1773460382",
+      "searchableText": "Kayali kayali Kayali Yum Pistachio Gelato 33 Yummy Pistachio & Gelato 34 Gourmand womens Pistachio Hazelnut Cardamom Gelato Accord Jasmine White Peony Vanilla Whipped Cream Sandalwood",
+      "createdAt": "2026-05-04T04:41:39.281Z",
+      "sharedNotes": [
+        "Pistachio",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 53,
+      "fragranceSlug": "kilian-angels-share-53",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Angels’ Share",
+      "originalFragranceSlug": "kilian-angels-share",
+      "mistifyProductName": "Angels’ Limit",
+      "mistifyProductSlug": "angels-limit",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/angels-limit",
+      "publicInspiredByLabel": "Inspired by Kilian Angels’ Share",
+      "audience": "unisex",
+      "classification": "Gourmand",
+      "topNotes": [
+        "Cognac"
+      ],
+      "middleNotes": [
+        "Oak",
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Praline",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Cognac",
+        "Oak",
+        "Cinnamon",
+        "Tonka Bean",
+        "Sandalwood",
+        "Praline",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_27_43PM.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Angels’ Share Angels’ Limit Gourmand unisex Cognac Oak Cinnamon Tonka Bean Sandalwood Praline Vanilla",
+      "createdAt": "2026-05-04T04:41:27.592Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 106,
+      "fragranceSlug": "parfums-de-marly-pegasus-106",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Pegasus",
+      "originalFragranceSlug": "parfums-de-marly-pegasus",
+      "mistifyProductName": "Pegasi",
+      "mistifyProductSlug": "pegasi",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pegasi",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Pegasus",
+      "audience": "mens",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Heliotrope",
+        "Cumin",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Bitter Almond",
+        "Lavender",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Amber"
+      ],
+      "allNotes": [
+        "Heliotrope",
+        "Cumin",
+        "Bergamot",
+        "Bitter Almond",
+        "Lavender",
+        "Jasmine",
+        "Vanilla",
+        "Sandalwood",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-26-24PM-_1.png?v=1773460487",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Pegasus Pegasi Amber Fougere mens Heliotrope Cumin Bergamot Bitter Almond Lavender Jasmine Vanilla Sandalwood Amber",
+      "createdAt": "2026-05-04T04:41:30.688Z",
+      "sharedNotes": [
+        "Heliotrope",
+        "Vanilla",
+        "Sandalwood"
+      ]
+    }
+  ]
+}

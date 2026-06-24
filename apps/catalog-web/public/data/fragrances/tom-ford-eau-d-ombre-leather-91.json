@@ -1,0 +1,53 @@
+{
+  "fragrance": {
+    "id": 91,
+    "fragranceSlug": "tom-ford-eau-d-ombre-leather-91",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Eau d’Ombre Leather",
+    "originalFragranceSlug": "tom-ford-eau-d-ombre-leather",
+    "mistifyProductName": "Ombre Dawn",
+    "mistifyProductSlug": "ombre-dawn",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-dawn",
+    "publicInspiredByLabel": "Inspired by Tom Ford Eau d’Ombre Leather",
+    "audience": "mens",
+    "classification": "Ambery Oriental Leather",
+    "topNotes": [
+      "Cardamom",
+      "Ginger",
+      "Coriander"
+    ],
+    "middleNotes": [
+      "Leather",
+      "Vanilla",
+      "Saffron",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Tonka Bean",
+      "Ambrofix",
+      "Cedarwood",
+      "Patchouli",
+      "Sandalwood",
+      "Benzoin"
+    ],
+    "allNotes": [
+      "Cardamom",
+      "Ginger",
+      "Coriander",
+      "Leather",
+      "Vanilla",
+      "Saffron",
+      "Jasmine",
+      "Tonka Bean",
+      "Ambrofix",
+      "Cedarwood",
+      "Patchouli",
+      "Sandalwood",
+      "Benzoin"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-03-21-24PM-_1.png?v=1773460285",
+    "searchableText": "Tom Ford tom ford Tom Ford Eau d’Ombre Leather Ombre Dawn Ambery Oriental Leather mens Cardamom Ginger Coriander Leather Vanilla Saffron Jasmine Tonka Bean Ambrofix Cedarwood Patchouli Sandalwood Benzoin",
+    "createdAt": "2026-05-04T04:41:29.797Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 308,
+    "fragranceSlug": "prada-luna-rossa-carbon-308",
+    "brandName": "Prada",
+    "brandSlug": "prada",
+    "originalFragranceName": "Luna Rossa Carbon",
+    "originalFragranceSlug": "prada-luna-rossa-carbon",
+    "mistifyProductName": "Carbon Luna",
+    "mistifyProductSlug": "carbon-luna",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/carbon-luna",
+    "publicInspiredByLabel": "Prada Luna Rossa Carbon",
+    "audience": null,
+    "classification": "Aromatic Woody / Modern Amber",
+    "topNotes": [
+      "Lavender",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Licorice",
+      "Incense",
+      "Cappuccino"
+    ],
+    "baseNotes": [
+      "Cypress",
+      "Tonka Bean",
+      "Ambrofix™",
+      "Musk",
+      "Fir"
+    ],
+    "allNotes": [
+      "Lavender",
+      "Bergamot",
+      "Licorice",
+      "Incense",
+      "Cappuccino",
+      "Cypress",
+      "Tonka Bean",
+      "Ambrofix™",
+      "Musk",
+      "Fir"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_57_19AM.png?v=1781711850",
+    "searchableText": "Prada Prada Luna Rossa Carbon Carbon Luna Aromatic Woody / Modern Amber Lavender Bergamot Licorice Incense Cappuccino Cypress Tonka Bean Ambrofix™ Musk Fir",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

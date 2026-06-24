@@ -1,0 +1,267 @@
+{
+  "fragrances": [
+    {
+      "id": 199,
+      "fragranceSlug": "maison-mataha-escapade-gourmande-199",
+      "brandName": "Maison Mataha",
+      "brandSlug": "maison-mataha",
+      "originalFragranceName": "Escapade Gourmande",
+      "originalFragranceSlug": "maison-mataha-escapade-gourmande",
+      "mistifyProductName": "Gourmande Évasion",
+      "mistifyProductSlug": "gourmande-evasion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gourmande-evasion",
+      "publicInspiredByLabel": "Inspired by Maison Mataha Escapade Gourmande",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar Cane"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sugar Cane",
+        "Vanilla",
+        "Tonka Bean",
+        "Benzoin",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb24-2026-11-56-42AM-_1.png?v=1773460130",
+      "searchableText": "Maison Mataha maison mataha Maison Mataha Escapade Gourmande Gourmande Évasion Oriental Vanilla unisex Sugar Cane Vanilla Tonka Bean Benzoin Musk",
+      "createdAt": "2026-05-04T04:41:36.157Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Musk"
+      ]
+    },
+    {
+      "id": 294,
+      "fragranceSlug": "bvlgari-le-gemme-orom-294",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Le Gemme Orom",
+      "originalFragranceSlug": "bvlgari-le-gemme-orom",
+      "mistifyProductName": "Orom Vanillé",
+      "mistifyProductSlug": "orom-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orom-vanille",
+      "publicInspiredByLabel": "Inspired by Bvlgari Le Gemme Orom",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bourbon Vanilla"
+      ],
+      "middleNotes": [
+        "Siam Benzoin"
+      ],
+      "baseNotes": [
+        "Oud"
+      ],
+      "allNotes": [
+        "Bourbon Vanilla",
+        "Siam Benzoin",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr30_2026_03_16_07PM.png?v=1777576576",
+      "searchableText": "Bvlgari bvlgari Bvlgari Le Gemme Orom Orom Vanillé Oriental Vanilla unisex Bourbon Vanilla Siam Benzoin Oud",
+      "createdAt": "2026-05-04T04:41:41.897Z",
+      "sharedNotes": [
+        "Bourbon Vanilla"
+      ]
+    },
+    {
+      "id": 97,
+      "fragranceSlug": "parfums-de-marly-althair-97",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Althair",
+      "originalFragranceSlug": "parfums-de-marly-althair",
+      "mistifyProductName": "Altair",
+      "mistifyProductSlug": "altair",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/altair",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Althair",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Cinnamon",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Bourbon Vanilla",
+        "Elemi"
+      ],
+      "baseNotes": [
+        "Praline",
+        "Musk",
+        "Ambroxan",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Cinnamon",
+        "Cardamom",
+        "Bourbon Vanilla",
+        "Elemi",
+        "Praline",
+        "Musk",
+        "Ambroxan",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-10-18PM-_1.png?v=1773460503",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Althair Altair Oriental Vanilla unisex Orange Blossom Bergamot Cinnamon Cardamom Bourbon Vanilla Elemi Praline Musk Ambroxan Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:30.144Z",
+      "sharedNotes": [
+        "Bourbon Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 332,
+      "fragranceSlug": "dior-poison-girl-332",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Poison Girl",
+      "originalFragranceSlug": "dior-poison-girl",
+      "mistifyProductName": "Venom Femme",
+      "mistifyProductSlug": "venom-femme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/venom-femme",
+      "publicInspiredByLabel": "Dior Poison Girl",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bitter Orange",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Damask Rose",
+        "Grasse Rose",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Almond",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bitter Orange",
+        "Lemon",
+        "Damask Rose",
+        "Grasse Rose",
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla",
+        "Almond",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-23-15AM-_1.png?v=1773460465",
+      "searchableText": "Dior Christian Dior Poison Girl Venom Femme Oriental Vanilla Bitter Orange Lemon Damask Rose Grasse Rose Orange Blossom Tonka Bean Vanilla Almond Sandalwood",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Lemon",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 40,
+      "fragranceSlug": "louis-vuitton-sun-song-40",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Sun Song",
+      "originalFragranceSlug": "louis-vuitton-sun-song",
+      "mistifyProductName": "Solar Aura",
+      "mistifyProductSlug": "solar-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/solar-aura",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Sun Song",
+      "audience": "mens",
+      "classification": "Citrus Floral",
+      "topNotes": [
+        "Orange Blossom",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Bergamot"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Lemon",
+        "Bergamot",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-49-28PM-_1.png?v=1773460275",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Sun Song Solar Aura Citrus Floral mens Orange Blossom Lemon Bergamot Musk",
+      "createdAt": "2026-05-04T04:41:26.827Z",
+      "sharedNotes": [
+        "Lemon",
+        "Musk"
+      ]
+    },
+    {
+      "id": 187,
+      "fragranceSlug": "sabrina-carpenter-caramel-dream-187",
+      "brandName": "Sabrina Carpenter",
+      "brandSlug": "sabrina-carpenter",
+      "originalFragranceName": "Caramel Dream",
+      "originalFragranceSlug": "sabrina-carpenter-caramel-dream",
+      "mistifyProductName": "Caramel Rêverie",
+      "mistifyProductSlug": "caramel-reverie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/caramel-reverie",
+      "publicInspiredByLabel": "Inspired by Sabrina Carpenter Caramel Dream",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar",
+        "Almond Milk",
+        "Orange",
+        "Freesia",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Vanilla",
+        "Orange Blossom",
+        "Orchid"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Sugar",
+        "Almond Milk",
+        "Orange",
+        "Freesia",
+        "Lemon",
+        "Dark Chocolate",
+        "Vanilla",
+        "Orange Blossom",
+        "Orchid",
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec29-2025-01-49-19PM-_1.png?v=1773460180",
+      "searchableText": "Sabrina Carpenter sabrina carpenter Sabrina Carpenter Caramel Dream Caramel Rêverie Oriental Vanilla unisex Sugar Almond Milk Orange Freesia Lemon Dark Chocolate Vanilla Orange Blossom Orchid Caramel Patchouli Sandalwood Musk Amber",
+      "createdAt": "2026-05-04T04:41:35.407Z",
+      "sharedNotes": [
+        "Lemon",
+        "Musk"
+      ]
+    }
+  ]
+}

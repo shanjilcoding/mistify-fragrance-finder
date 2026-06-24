@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 129,
+    "fragranceSlug": "creed-millesime-imperial-129",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Millesime Imperial",
+    "originalFragranceSlug": "creed-millesime-imperial",
+    "mistifyProductName": "Vintage Imperial",
+    "mistifyProductSlug": "vintage-imperial",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/vintage-imperial",
+    "publicInspiredByLabel": "Inspired by Creed Millesime Imperial",
+    "audience": "mens",
+    "classification": "Citrus Floral",
+    "topNotes": [
+      "Sea Salt",
+      "Fruit Notes"
+    ],
+    "middleNotes": [
+      "Sicilian Lemon",
+      "Bergamot",
+      "Iris",
+      "Mandarin Orange"
+    ],
+    "baseNotes": [
+      "Sea Notes",
+      "Musk",
+      "Woody Notes"
+    ],
+    "allNotes": [
+      "Sea Salt",
+      "Fruit Notes",
+      "Sicilian Lemon",
+      "Bergamot",
+      "Iris",
+      "Mandarin Orange",
+      "Sea Notes",
+      "Musk",
+      "Woody Notes"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_03_50PM.png?v=1765422849",
+    "searchableText": "Creed creed Creed Millesime Imperial Vintage Imperial Citrus Floral mens Sea Salt Fruit Notes Sicilian Lemon Bergamot Iris Mandarin Orange Sea Notes Musk Woody Notes",
+    "createdAt": "2026-05-04T04:41:32.027Z"
+  }
+}

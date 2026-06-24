@@ -1,0 +1,311 @@
+{
+  "fragrances": [
+    {
+      "id": 255,
+      "fragranceSlug": "mugler-alien-oud-majestueux-255",
+      "brandName": "Mugler",
+      "brandSlug": "mugler",
+      "originalFragranceName": "Alien Oud Majestueux",
+      "originalFragranceSlug": "mugler-alien-oud-majestueux",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mugler Alien Oud Majestueux",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cardamom",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Cashmeran"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Amber"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Saffron",
+        "Jasmine",
+        "Cashmeran",
+        "Oud",
+        "Amber"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mugler mugler Mugler Alien Oud Majestueux Not verified Oriental Woody Cardamom Saffron Jasmine Cashmeran Oud Amber",
+      "createdAt": "2026-05-04T04:41:39.525Z",
+      "sharedNotes": [
+        "Saffron",
+        "Cardamom",
+        "Jasmine",
+        "Oud"
+      ]
+    },
+    {
+      "id": 247,
+      "fragranceSlug": "penhaligon-s-halfeti-247",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti",
+      "originalFragranceSlug": "penhaligon-s-halfeti",
+      "mistifyProductName": "Halfeti Rose",
+      "mistifyProductSlug": "halfeti-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit",
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine",
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_43_29AM.png?v=1765422933",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Halfeti Rose Oriental Woody unisex Cypress Leaf Saffron Cardamom Artemisia Bergamot Grapefruit Bulgarian Rose Nutmeg Jasmine Oud Cedar Leather Sandalwood Amber Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:39.038Z",
+      "sharedNotes": [
+        "Saffron",
+        "Cardamom",
+        "Jasmine",
+        "Oud",
+        "Leather",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 10,
+      "fragranceSlug": "guerlain-extra-habit-rouge-prive-10",
+      "brandName": "Guerlain Extra",
+      "brandSlug": "guerlain-extra",
+      "originalFragranceName": "Habit Rouge Privé",
+      "originalFragranceSlug": "guerlain-extra-habit-rouge-prive",
+      "mistifyProductName": "Rogue Privé",
+      "mistifyProductSlug": "rogue-prive",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rogue-prive",
+      "publicInspiredByLabel": "Inspired by Guerlain Extra Habit Rouge Privé",
+      "audience": "mens",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Bergamot",
+        "Lime",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose",
+        "Cinnamon"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lime",
+        "Orange",
+        "Jasmine",
+        "Rose",
+        "Cinnamon",
+        "Leather",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-39-53PM-_1.png?v=1773460367",
+      "searchableText": "Guerlain Extra guerlain extra Guerlain extra Habit Rouge Privé Rogue Privé Oriental Woody mens Bergamot Lime Orange Jasmine Rose Cinnamon Leather Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:25.095Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Leather",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 96,
+      "fragranceSlug": "tom-ford-oud-voyager-96",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Voyager",
+      "originalFragranceSlug": "tom-ford-oud-voyager",
+      "mistifyProductName": "Oud Voyagé",
+      "mistifyProductSlug": "oud-voyage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-voyage",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Voyager",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus"
+      ],
+      "middleNotes": [
+        "Red Peony",
+        "Cardamom",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "allNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus",
+        "Red Peony",
+        "Cardamom",
+        "Saffron",
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec17-2025-09-31-28AM-_1.png?v=1773460197",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Voyager Oud Voyagé Oriental Woody unisex Geranium Pink Pepper Citrus Red Peony Cardamom Saffron Oud Cypriol Patchouli Vetiver Musk",
+      "createdAt": "2026-05-04T04:41:30.090Z",
+      "sharedNotes": [
+        "Saffron",
+        "Cardamom",
+        "Oud",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 67,
+      "fragranceSlug": "kilian-pearl-oud-67",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Pearl Oud",
+      "originalFragranceSlug": "kilian-pearl-oud",
+      "mistifyProductName": "Oud Pearl",
+      "mistifyProductSlug": "oud-pearl",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-pearl",
+      "publicInspiredByLabel": "Inspired by Kilian Pearl Oud",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Saffron",
+        "Black Pepper"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Rose",
+        "Iris",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Castoreum"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Black Pepper",
+        "Turkish Rose",
+        "Rose",
+        "Iris",
+        "Ylang-Ylang",
+        "Oud",
+        "Castoreum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudPearl.png?v=1765422917",
+      "searchableText": "Kilian kilian By Kilian Pearl Oud Oud Pearl Oriental Woody unisex Saffron Black Pepper Turkish Rose Rose Iris Ylang-Ylang Oud Castoreum",
+      "createdAt": "2026-05-04T04:41:28.392Z",
+      "sharedNotes": [
+        "Saffron",
+        "Turkish Rose",
+        "Oud"
+      ]
+    },
+    {
+      "id": 21,
+      "fragranceSlug": "maison-francis-kurkdjian-oud-satin-mood-21",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Oud Satin Mood",
+      "originalFragranceSlug": "maison-francis-kurkdjian-oud-satin-mood",
+      "mistifyProductName": "Satin Moody Oud",
+      "mistifyProductSlug": "satin-moody-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/satin-moody-oud",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud Satin Mood",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Bulgarian Rose",
+        "Violet",
+        "Strawberry"
+      ],
+      "middleNotes": [
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Caramel",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Bulgarian Rose",
+        "Violet",
+        "Strawberry",
+        "Turkish Rose",
+        "Oud",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Caramel",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_13_59PM.png?v=1765422983",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Satin Mood Satin Moody Oud Oriental Woody unisex Bulgarian Rose Violet Strawberry Turkish Rose Oud Vanilla Amber Benzoin Caramel Cedar",
+      "createdAt": "2026-05-04T04:41:25.720Z",
+      "sharedNotes": [
+        "Turkish Rose",
+        "Oud",
+        "Cedar"
+      ]
+    }
+  ]
+}

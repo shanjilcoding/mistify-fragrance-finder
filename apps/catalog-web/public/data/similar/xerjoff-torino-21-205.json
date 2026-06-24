@@ -1,0 +1,290 @@
+{
+  "fragrances": [
+    {
+      "id": 15,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte-15",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Celestia Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte",
+      "mistifyProductName": "Celestial Waters",
+      "mistifyProductSlug": "celestial-waters",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/celestial-waters",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Celestia Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Currant"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Jasmine",
+        "Mimosa",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-55-26AM-_1.png?v=1773460516",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Celestia Cologne Forte Celestial Waters Citrus Aromatic unisex Bergamot Black Currant Jasmine Mimosa Musk",
+      "createdAt": "2026-05-04T04:41:25.373Z",
+      "sharedNotes": [
+        "Black Currant",
+        "Jasmine",
+        "Musk"
+      ]
+    },
+    {
+      "id": 143,
+      "fragranceSlug": "ysl-yves-saint-laurent-libre-143",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Libre",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-libre",
+      "mistifyProductName": "Libre Vanillé",
+      "mistifyProductSlug": "libre-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-vanille",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre",
+      "audience": "unisex",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Black Currant",
+        "Petitgrain"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Madagascar Vanilla",
+        "Musk",
+        "Cedar",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Black Currant",
+        "Petitgrain",
+        "Lavender",
+        "Orange Blossom",
+        "Jasmine",
+        "Madagascar Vanilla",
+        "Musk",
+        "Cedar",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb26-2026-12-44-22PM-_1.png?v=1773460127",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Libre Vanillé Amber Fougere unisex Lavender Mandarin Orange Black Currant Petitgrain Lavender Orange Blossom Jasmine Madagascar Vanilla Musk Cedar Ambergris",
+      "createdAt": "2026-05-04T04:41:32.824Z",
+      "sharedNotes": [
+        "Black Currant",
+        "Lavender",
+        "Jasmine",
+        "Musk"
+      ]
+    },
+    {
+      "id": 99,
+      "fragranceSlug": "parfums-de-marly-sedley-99",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Sedley",
+      "originalFragranceSlug": "parfums-de-marly-sedley",
+      "mistifyProductName": "Sédelle",
+      "mistifyProductSlug": "sedelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sedelle",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Sedley",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange",
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum",
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar14_2026_08_56_24PM.png?v=1773536190",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Sedley Sédelle Woody Aromatic unisex Mint Bergamot Grapefruit Lemon Mandarin Orange Lavender Rosemary Geranium Olibanum Ambroxan Sandalwood Vetiver Cedar Cashmeran Patchouli",
+      "createdAt": "2026-05-04T04:41:30.270Z",
+      "sharedNotes": [
+        "Mint",
+        "Lemon",
+        "Rosemary",
+        "Lavender"
+      ]
+    },
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Lemon",
+        "Jasmine",
+        "Musk"
+      ]
+    },
+    {
+      "id": 233,
+      "fragranceSlug": "stephane-h-lucas-god-of-fire-233",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "God of Fire",
+      "originalFragranceSlug": "stephane-h-lucas-god-of-fire",
+      "mistifyProductName": "Divine Flame",
+      "mistifyProductSlug": "divine-flame",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/divine-flame",
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas God of Fire",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Mango",
+        "Lemon",
+        "Ginger",
+        "Red Berries"
+      ],
+      "middleNotes": [
+        "Coumarin",
+        "Jasmine",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Oud",
+        "Amber",
+        "Cypriol/Nagarmotha"
+      ],
+      "allNotes": [
+        "Mango",
+        "Lemon",
+        "Ginger",
+        "Red Berries",
+        "Coumarin",
+        "Jasmine",
+        "Cedar",
+        "Musk",
+        "Oud",
+        "Amber",
+        "Cypriol/Nagarmotha"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-11-17-20PM-_1.png?v=1773460404",
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas God of Fire Divine Flame Oriental Woody unisex Mango Lemon Ginger Red Berries Coumarin Jasmine Cedar Musk Oud Amber Cypriol/Nagarmotha",
+      "createdAt": "2026-05-04T04:41:38.179Z",
+      "sharedNotes": [
+        "Lemon",
+        "Jasmine",
+        "Musk"
+      ]
+    },
+    {
+      "id": 133,
+      "fragranceSlug": "creed-sublime-vanille-133",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Sublime Vanille",
+      "originalFragranceSlug": "creed-sublime-vanille",
+      "mistifyProductName": "Superb Vanilla",
+      "mistifyProductSlug": "superb-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/superb-vanilla",
+      "publicInspiredByLabel": "Inspired by Creed Sublime Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bourbon Vanilla",
+        "Lemon"
+      ],
+      "middleNotes": [],
+      "baseNotes": [
+        "Tonka Bean",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bourbon Vanilla",
+        "Lemon",
+        "Tonka Bean",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-35-41AM-_1.png?v=1773460548",
+      "searchableText": "Creed creed Creed Sublime Vanille Superb Vanilla Oriental Vanilla unisex Bourbon Vanilla Lemon Tonka Bean Musk",
+      "createdAt": "2026-05-04T04:41:32.256Z",
+      "sharedNotes": [
+        "Lemon",
+        "Musk"
+      ]
+    }
+  ]
+}

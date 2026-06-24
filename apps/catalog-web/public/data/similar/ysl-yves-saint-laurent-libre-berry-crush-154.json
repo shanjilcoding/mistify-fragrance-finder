@@ -1,0 +1,280 @@
+{
+  "fragrances": [
+    {
+      "id": 115,
+      "fragranceSlug": "bond-no-9-greenwich-village-115",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Greenwich Village",
+      "originalFragranceSlug": "bond-no-9-greenwich-village",
+      "mistifyProductName": "Green Village",
+      "mistifyProductSlug": "green-village",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/green-village",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Greenwich Village",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Cassis",
+        "Lychee",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Peony",
+        "Jasmine",
+        "Waterlily"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Musk",
+        "Vanilla",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Cassis",
+        "Lychee",
+        "Mandarin",
+        "Peony",
+        "Jasmine",
+        "Waterlily",
+        "Ambroxan",
+        "Musk",
+        "Vanilla",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-14-18PM-_1.png?v=1773460449",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Greenwich Village Green Village Floral Fruity unisex Cassis Lychee Mandarin Peony Jasmine Waterlily Ambroxan Musk Vanilla Oakmoss",
+      "createdAt": "2026-05-04T04:41:31.214Z",
+      "sharedNotes": [
+        "Mandarin",
+        "Musk"
+      ]
+    },
+    {
+      "id": 208,
+      "fragranceSlug": "rabanne-lady-million-208",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "Lady Million",
+      "originalFragranceSlug": "rabanne-lady-million",
+      "mistifyProductName": "Lady Billion",
+      "mistifyProductSlug": "lady-billion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lady-billion",
+      "publicInspiredByLabel": "Inspired by Rabanne Lady Million",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Raspberry",
+        "Neroli",
+        "Amalfi Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Gardenia"
+      ],
+      "baseNotes": [
+        "Honey",
+        "Amber",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Neroli",
+        "Amalfi Lemon",
+        "Jasmine",
+        "Orange Blossom",
+        "Gardenia",
+        "Honey",
+        "Amber",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_12_33AM.png?v=1774325559",
+      "searchableText": "Rabanne paco rabanne Paco Rabanne Lady Million Lady Billion Floral Fruity womens Raspberry Neroli Amalfi Lemon Jasmine Orange Blossom Gardenia Honey Amber Patchouli",
+      "createdAt": "2026-05-04T04:41:36.697Z",
+      "sharedNotes": [
+        "Raspberry",
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 126,
+      "fragranceSlug": "creed-aventus-for-her-126",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus for Her",
+      "originalFragranceSlug": "creed-aventus-for-her",
+      "mistifyProductName": "Ventis For Her",
+      "mistifyProductSlug": "ventis-for-her",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ventis-for-her",
+      "publicInspiredByLabel": "Inspired by Creed Aventus for Her",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Green Apple",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Blackcurrant",
+        "Musk"
+      ],
+      "allNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Rose",
+        "Sandalwood",
+        "Blackcurrant",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Screenshot2025-12-03at3.54.35PM.png?v=1765422843",
+      "searchableText": "Creed creed Creed Aventus for Her Ventis For Her Floral Fruity womens Green Apple Bergamot Rose Sandalwood Blackcurrant Musk",
+      "createdAt": "2026-05-04T04:41:31.860Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 186,
+      "fragranceSlug": "ex-nihilo-blue-talisman-186",
+      "brandName": "Ex Nihilo",
+      "brandSlug": "ex-nihilo",
+      "originalFragranceName": "Blue Talisman",
+      "originalFragranceSlug": "ex-nihilo-blue-talisman",
+      "mistifyProductName": "Azure Talisman",
+      "mistifyProductSlug": "azure-talisman",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/azure-talisman",
+      "publicInspiredByLabel": "Inspired by Ex Nihilo Blue Talisman",
+      "audience": "unisex",
+      "classification": "Woody/Ambery Oriental",
+      "topNotes": [
+        "Pear",
+        "Bergamot",
+        "Mandarin",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Georgywood"
+      ],
+      "baseNotes": [
+        "Akigalawood",
+        "Musk",
+        "Ambrofix"
+      ],
+      "allNotes": [
+        "Pear",
+        "Bergamot",
+        "Mandarin",
+        "Ginger",
+        "Orange Blossom",
+        "Georgywood",
+        "Akigalawood",
+        "Musk",
+        "Ambrofix"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-25-00PM-_1.png?v=1773460308",
+      "searchableText": "Ex Nihilo ex nihilo Ex Nihilo Blue Talisman Azure Talisman Woody/Ambery Oriental unisex Pear Bergamot Mandarin Ginger Orange Blossom Georgywood Akigalawood Musk Ambrofix",
+      "createdAt": "2026-05-04T04:41:35.349Z",
+      "sharedNotes": [
+        "Mandarin",
+        "Orange Blossom",
+        "Musk"
+      ]
+    },
+    {
+      "id": 76,
+      "fragranceSlug": "tom-ford-electric-cherry-76",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Electric Cherry",
+      "originalFragranceSlug": "tom-ford-electric-cherry",
+      "mistifyProductName": "Cherry Spark",
+      "mistifyProductSlug": "cherry-spark",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cherry-spark",
+      "publicInspiredByLabel": "Inspired by Tom Ford Electric Cherry",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Cherry",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Pink Pepper",
+        "Musk",
+        "Ambrettolide"
+      ],
+      "allNotes": [
+        "Cherry",
+        "Ginger",
+        "Jasmine Sambac",
+        "Pink Pepper",
+        "Musk",
+        "Ambrettolide"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_10_56_01AM.png?v=1765422867",
+      "searchableText": "Tom Ford tom ford Tom Ford Electric Cherry Cherry Spark Floral Fruity unisex Cherry Ginger Jasmine Sambac Pink Pepper Musk Ambrettolide",
+      "createdAt": "2026-05-04T04:41:28.924Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 143,
+      "fragranceSlug": "ysl-yves-saint-laurent-libre-143",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Libre",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-libre",
+      "mistifyProductName": "Libre Vanillé",
+      "mistifyProductSlug": "libre-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-vanille",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre",
+      "audience": "unisex",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Black Currant",
+        "Petitgrain"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Madagascar Vanilla",
+        "Musk",
+        "Cedar",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Black Currant",
+        "Petitgrain",
+        "Lavender",
+        "Orange Blossom",
+        "Jasmine",
+        "Madagascar Vanilla",
+        "Musk",
+        "Cedar",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb26-2026-12-44-22PM-_1.png?v=1773460127",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Libre Vanillé Amber Fougere unisex Lavender Mandarin Orange Black Currant Petitgrain Lavender Orange Blossom Jasmine Madagascar Vanilla Musk Cedar Ambergris",
+      "createdAt": "2026-05-04T04:41:32.824Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Lavender",
+        "Musk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 201,
+    "fragranceSlug": "xerjoff-naxos-201",
+    "brandName": "Xerjoff",
+    "brandSlug": "xerjoff",
+    "originalFragranceName": "Naxos",
+    "originalFragranceSlug": "xerjoff-naxos",
+    "mistifyProductName": "Naxian Gold",
+    "mistifyProductSlug": "naxian-gold",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/naxian-gold",
+    "publicInspiredByLabel": "Inspired by Xerjoff Naxos",
+    "audience": "unisex",
+    "classification": "Citrus Gourmand",
+    "topNotes": [
+      "Lavender",
+      "Bergamot",
+      "Lemon"
+    ],
+    "middleNotes": [
+      "Honey",
+      "Cinnamon",
+      "Cashmeran",
+      "Jasmine Sambac"
+    ],
+    "baseNotes": [
+      "Tobacco Leaf",
+      "Vanilla",
+      "Tonka Bean"
+    ],
+    "allNotes": [
+      "Lavender",
+      "Bergamot",
+      "Lemon",
+      "Honey",
+      "Cinnamon",
+      "Cashmeran",
+      "Jasmine Sambac",
+      "Tobacco Leaf",
+      "Vanilla",
+      "Tonka Bean"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-29-20PM-_1.png?v=1773460339",
+    "searchableText": "Xerjoff xerjoff Xerjoff Naxos Naxian Gold Citrus Gourmand unisex Lavender Bergamot Lemon Honey Cinnamon Cashmeran Jasmine Sambac Tobacco Leaf Vanilla Tonka Bean",
+    "createdAt": "2026-05-04T04:41:36.283Z"
+  }
+}

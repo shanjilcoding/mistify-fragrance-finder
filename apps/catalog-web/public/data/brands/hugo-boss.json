@@ -1,0 +1,53 @@
+{
+  "brand": {
+    "brandName": "Hugo Boss",
+    "brandSlug": "hugo-boss",
+    "fragranceCount": 1,
+    "searchableText": "Boss Bottled Oud Not verified Inspired by Hugo Boss Boss Bottled Oud Hugo Boss hugo boss Hugo Boss Boss Bottled Oud Not verified Oriental Woody Apple Citruses Cinnamon Saffron Clove Labdanum Oud Sandalwood Cypriol/Nagarmotha"
+  },
+  "fragrances": [
+    {
+      "id": 288,
+      "fragranceSlug": "hugo-boss-boss-bottled-oud-288",
+      "brandName": "Hugo Boss",
+      "brandSlug": "hugo-boss",
+      "originalFragranceName": "Boss Bottled Oud",
+      "originalFragranceSlug": "hugo-boss-boss-bottled-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Hugo Boss Boss Bottled Oud",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Apple",
+        "Citruses"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Saffron",
+        "Clove",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood",
+        "Cypriol/Nagarmotha"
+      ],
+      "allNotes": [
+        "Apple",
+        "Citruses",
+        "Cinnamon",
+        "Saffron",
+        "Clove",
+        "Labdanum",
+        "Oud",
+        "Sandalwood",
+        "Cypriol/Nagarmotha"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Hugo Boss hugo boss Hugo Boss Boss Bottled Oud Not verified Oriental Woody Apple Citruses Cinnamon Saffron Clove Labdanum Oud Sandalwood Cypriol/Nagarmotha",
+      "createdAt": "2026-05-04T04:41:41.538Z"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "fragrances": [
+    {
+      "id": 146,
+      "fragranceSlug": "ysl-yves-saint-laurent-l-homme-ultimate-146",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "L’Homme Ultimate",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-l-homme-ultimate",
+      "mistifyProductName": "Hommes Ultimate",
+      "mistifyProductSlug": "hommes-ultimate",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hommes-ultimate",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) L’Homme Ultimate",
+      "audience": "mens",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Sage",
+        "Geranium",
+        "Apple"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Vetiver",
+        "Cashmere Wood"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot",
+        "Rose",
+        "Sage",
+        "Geranium",
+        "Apple",
+        "Cedar",
+        "Vetiver",
+        "Cashmere Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-30PM-_1.png?v=1773460429",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) L’Homme Ultimate Hommes Ultimate Woody Floral Musk mens Ginger Grapefruit Cardamom Bergamot Rose Sage Geranium Apple Cedar Vetiver Cashmere Wood",
+      "createdAt": "2026-05-04T04:41:33.006Z",
+      "sharedNotes": [
+        "Ginger",
+        "Bergamot",
+        "Sage",
+        "Geranium",
+        "Vetiver",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 148,
+      "fragranceSlug": "ysl-yves-saint-laurent-myslf-148",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "MYSLF",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-myslf",
+      "mistifyProductName": "MYSELF",
+      "mistifyProductSlug": "myself",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/myself",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) MYSLF",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Sage",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Ginger",
+        "Lavender",
+        "Sage",
+        "Orange Blossom",
+        "Cedarwood",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-19-50PM-_1.png?v=1773460424",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) MYSLF MYSELF Woody Aromatic mens Bergamot Ginger Lavender Sage Orange Blossom Cedarwood Ambergris",
+      "createdAt": "2026-05-04T04:41:33.134Z",
+      "sharedNotes": [
+        "Ginger",
+        "Bergamot",
+        "Sage",
+        "Lavender"
+      ]
+    },
+    {
+      "id": 99,
+      "fragranceSlug": "parfums-de-marly-sedley-99",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Sedley",
+      "originalFragranceSlug": "parfums-de-marly-sedley",
+      "mistifyProductName": "Sédelle",
+      "mistifyProductSlug": "sedelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sedelle",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Sedley",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange",
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum",
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar14_2026_08_56_24PM.png?v=1773536190",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Sedley Sédelle Woody Aromatic unisex Mint Bergamot Grapefruit Lemon Mandarin Orange Lavender Rosemary Geranium Olibanum Ambroxan Sandalwood Vetiver Cedar Cashmeran Patchouli",
+      "createdAt": "2026-05-04T04:41:30.270Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Geranium",
+        "Lavender",
+        "Vetiver",
+        "Cedar",
+        "Olibanum"
+      ]
+    },
+    {
+      "id": 283,
+      "fragranceSlug": "carolina-herrera-bad-boy-extreme-283",
+      "brandName": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "originalFragranceName": "Bad Boy Extreme",
+      "originalFragranceSlug": "carolina-herrera-bad-boy-extreme",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Carolina Herrera Bad Boy Extreme",
+      "audience": null,
+      "classification": "Not verified from source",
+      "topNotes": [
+        "Sage",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Vetiver",
+        "Cocoa"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Sage",
+        "Ginger",
+        "Vetiver",
+        "Cocoa",
+        "Tonka Bean",
+        "Patchouli"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Carolina Herrera carolina herrera Carolina Herrera Bad Boy Extreme Not verified Not verified from source Sage Ginger Vetiver Cocoa Tonka Bean Patchouli",
+      "createdAt": "2026-05-04T04:41:41.246Z",
+      "sharedNotes": [
+        "Ginger",
+        "Sage",
+        "Vetiver",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 210,
+      "fragranceSlug": "rabanne-phantom-210",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "Phantom",
+      "originalFragranceSlug": "rabanne-phantom",
+      "mistifyProductName": "Spirit",
+      "mistifyProductSlug": "spirit",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/spirit",
+      "publicInspiredByLabel": "Inspired by Rabanne Phantom",
+      "audience": "mens",
+      "classification": "Aromatic Fougere",
+      "topNotes": [
+        "Lemon",
+        "Lavender",
+        "Amalfi Lemon"
+      ],
+      "middleNotes": [
+        "Apple",
+        "Smoke"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vanilla",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Lemon",
+        "Lavender",
+        "Amalfi Lemon",
+        "Apple",
+        "Smoke",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_47_55PM.png?v=1774406882",
+      "searchableText": "Rabanne paco rabanne Paco Rabanne Phantom Spirit Aromatic Fougere mens Lemon Lavender Amalfi Lemon Apple Smoke Patchouli Vanilla Vetiver",
+      "createdAt": "2026-05-04T04:41:36.818Z",
+      "sharedNotes": [
+        "Lavender",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 267,
+      "fragranceSlug": "byredo-bal-d-afrique-267",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Bal d’Afrique",
+      "originalFragranceSlug": "byredo-bal-d-afrique",
+      "mistifyProductName": "Bali Afrique",
+      "mistifyProductSlug": "bali-afrique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bali-afrique",
+      "publicInspiredByLabel": "Inspired by Byredo Bal d’Afrique",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Bergamot",
+        "African Marigold",
+        "Buchu/Agathosma"
+      ],
+      "middleNotes": [
+        "Violet",
+        "Cyclamen"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "African Marigold",
+        "Buchu/Agathosma",
+        "Violet",
+        "Cyclamen",
+        "Vetiver",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-08-33PM-_1.png?v=1773460349",
+      "searchableText": "Byredo byredo Byredo Bal d’Afrique Bali Afrique Floral unisex Bergamot African Marigold Buchu/Agathosma Violet Cyclamen Vetiver Cedar",
+      "createdAt": "2026-05-04T04:41:40.260Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vetiver",
+        "Cedar"
+      ]
+    }
+  ]
+}

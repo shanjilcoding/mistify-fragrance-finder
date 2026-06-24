@@ -1,0 +1,53 @@
+{
+  "brand": {
+    "brandName": "Chopard",
+    "brandSlug": "chopard",
+    "fragranceCount": 1,
+    "searchableText": "Oud Malaki Not verified Inspired by Chopard Oud Malaki Chopard chopard Chopard Oud Malaki Not verified Woody Spicy Grapefruit Lavender Artemisia Tobacco Spices Leather Oud Dark Woodsy Notes Ambergris"
+  },
+  "fragrances": [
+    {
+      "id": 263,
+      "fragranceSlug": "chopard-oud-malaki-263",
+      "brandName": "Chopard",
+      "brandSlug": "chopard",
+      "originalFragranceName": "Oud Malaki",
+      "originalFragranceSlug": "chopard-oud-malaki",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Chopard Oud Malaki",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Grapefruit",
+        "Lavender",
+        "Artemisia"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Spices",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Dark Woodsy Notes",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lavender",
+        "Artemisia",
+        "Tobacco",
+        "Spices",
+        "Leather",
+        "Oud",
+        "Dark Woodsy Notes",
+        "Ambergris"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Chopard chopard Chopard Oud Malaki Not verified Woody Spicy Grapefruit Lavender Artemisia Tobacco Spices Leather Oud Dark Woodsy Notes Ambergris",
+      "createdAt": "2026-05-04T04:41:40.023Z"
+    }
+  ]
+}

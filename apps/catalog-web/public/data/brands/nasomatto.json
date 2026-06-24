@@ -1,0 +1,176 @@
+{
+  "brand": {
+    "brandName": "Nasomatto",
+    "brandSlug": "nasomatto",
+    "fragranceCount": 4,
+    "searchableText": "Black Afgano Dark Afgana Inspired by Nasomatto Black Afgano Nasomatto nasomatto Nasomatto Black Afgano Dark Afgana Woody Aromatic unisex Cannabis Green Notes Davana Saffron Thyme Resins Woodsy Notes Tobacco Coffee Cinnamon Violet Raspberry Oud Incense Amber Animal Notes Guaiac Wood Musk Tonka Cedar Gurjan Balsam Ambroxan Vanilla Duro Not verified Inspired by Nasomatto Duro Nasomatto nasomatto Nasomatto Duro Not verified Woody/Leather/Spicy Woods Leather Spices Sadonaso Sadonara Inspired by Nasomatto Sadonaso Nasomatto nasomatto Nasomatto Sadonaso Sadonara Not listed clearly by Fragrantica unisex Coffee Musk Tobacco Sandalwood Vanilla Animal Notes Amber Tonka Silver Musk Silver Muskine Inspired by Nasomatto Silver Musk Nasomatto nasomatto Nasomatto Silver Musk Silver Muskine Clean Musk/Musky unisex Musk"
+  },
+  "fragrances": [
+    {
+      "id": 237,
+      "fragranceSlug": "nasomatto-black-afgano-237",
+      "brandName": "Nasomatto",
+      "brandSlug": "nasomatto",
+      "originalFragranceName": "Black Afgano",
+      "originalFragranceSlug": "nasomatto-black-afgano",
+      "mistifyProductName": "Dark Afgana",
+      "mistifyProductSlug": "dark-afgana",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/dark-afgana",
+      "publicInspiredByLabel": "Inspired by Nasomatto Black Afgano",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cannabis",
+        "Green Notes",
+        "Davana",
+        "Saffron",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Resins",
+        "Woodsy Notes",
+        "Tobacco",
+        "Coffee",
+        "Cinnamon",
+        "Violet",
+        "Raspberry"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Incense",
+        "Amber",
+        "Animal Notes",
+        "Guaiac Wood",
+        "Musk",
+        "Tonka",
+        "Cedar",
+        "Gurjan Balsam",
+        "Ambroxan",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Cannabis",
+        "Green Notes",
+        "Davana",
+        "Saffron",
+        "Thyme",
+        "Resins",
+        "Woodsy Notes",
+        "Tobacco",
+        "Coffee",
+        "Cinnamon",
+        "Violet",
+        "Raspberry",
+        "Oud",
+        "Incense",
+        "Amber",
+        "Animal Notes",
+        "Guaiac Wood",
+        "Musk",
+        "Tonka",
+        "Cedar",
+        "Gurjan Balsam",
+        "Ambroxan",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_59_24PM.png?v=1774407573",
+      "searchableText": "Nasomatto nasomatto Nasomatto Black Afgano Dark Afgana Woody Aromatic unisex Cannabis Green Notes Davana Saffron Thyme Resins Woodsy Notes Tobacco Coffee Cinnamon Violet Raspberry Oud Incense Amber Animal Notes Guaiac Wood Musk Tonka Cedar Gurjan Balsam Ambroxan Vanilla",
+      "createdAt": "2026-05-04T04:41:38.428Z"
+    },
+    {
+      "id": 238,
+      "fragranceSlug": "nasomatto-duro-238",
+      "brandName": "Nasomatto",
+      "brandSlug": "nasomatto",
+      "originalFragranceName": "Duro",
+      "originalFragranceSlug": "nasomatto-duro",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Nasomatto Duro",
+      "audience": null,
+      "classification": "Woody/Leather/Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Woods",
+        "Leather",
+        "Spices"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Woods",
+        "Leather",
+        "Spices"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Nasomatto nasomatto Nasomatto Duro Not verified Woody/Leather/Spicy Woods Leather Spices",
+      "createdAt": "2026-05-04T04:41:38.490Z"
+    },
+    {
+      "id": 239,
+      "fragranceSlug": "nasomatto-sadonaso-239",
+      "brandName": "Nasomatto",
+      "brandSlug": "nasomatto",
+      "originalFragranceName": "Sadonaso",
+      "originalFragranceSlug": "nasomatto-sadonaso",
+      "mistifyProductName": "Sadonara",
+      "mistifyProductSlug": "sadonara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sadonara",
+      "publicInspiredByLabel": "Inspired by Nasomatto Sadonaso",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Coffee"
+      ],
+      "middleNotes": [
+        "Musk",
+        "Tobacco",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Animal Notes",
+        "Amber",
+        "Tonka"
+      ],
+      "allNotes": [
+        "Coffee",
+        "Musk",
+        "Tobacco",
+        "Sandalwood",
+        "Vanilla",
+        "Animal Notes",
+        "Amber",
+        "Tonka"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_04_24_06PM_cfd3cae7-8aeb-47b7-bea5-26c69f6e9c0d.png?v=1778617465",
+      "searchableText": "Nasomatto nasomatto Nasomatto Sadonaso Sadonara Not listed clearly by Fragrantica unisex Coffee Musk Tobacco Sandalwood Vanilla Animal Notes Amber Tonka",
+      "createdAt": "2026-05-04T04:41:38.543Z"
+    },
+    {
+      "id": 240,
+      "fragranceSlug": "nasomatto-silver-musk-240",
+      "brandName": "Nasomatto",
+      "brandSlug": "nasomatto",
+      "originalFragranceName": "Silver Musk",
+      "originalFragranceSlug": "nasomatto-silver-musk",
+      "mistifyProductName": "Silver Muskine",
+      "mistifyProductSlug": "silver-muskine",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silver-muskine",
+      "publicInspiredByLabel": "Inspired by Nasomatto Silver Musk",
+      "audience": "unisex",
+      "classification": "Clean Musk/Musky",
+      "topNotes": [],
+      "middleNotes": [
+        "Musk"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_04_16_41PM.png?v=1778617010",
+      "searchableText": "Nasomatto nasomatto Nasomatto Silver Musk Silver Muskine Clean Musk/Musky unisex Musk",
+      "createdAt": "2026-05-04T04:41:38.598Z"
+    }
+  ]
+}

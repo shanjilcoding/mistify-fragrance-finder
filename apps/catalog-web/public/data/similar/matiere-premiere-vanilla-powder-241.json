@@ -1,0 +1,239 @@
+{
+  "fragrances": [
+    {
+      "id": 199,
+      "fragranceSlug": "maison-mataha-escapade-gourmande-199",
+      "brandName": "Maison Mataha",
+      "brandSlug": "maison-mataha",
+      "originalFragranceName": "Escapade Gourmande",
+      "originalFragranceSlug": "maison-mataha-escapade-gourmande",
+      "mistifyProductName": "Gourmande Évasion",
+      "mistifyProductSlug": "gourmande-evasion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gourmande-evasion",
+      "publicInspiredByLabel": "Inspired by Maison Mataha Escapade Gourmande",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar Cane"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sugar Cane",
+        "Vanilla",
+        "Tonka Bean",
+        "Benzoin",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb24-2026-11-56-42AM-_1.png?v=1773460130",
+      "searchableText": "Maison Mataha maison mataha Maison Mataha Escapade Gourmande Gourmande Évasion Oriental Vanilla unisex Sugar Cane Vanilla Tonka Bean Benzoin Musk",
+      "createdAt": "2026-05-04T04:41:36.157Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 19,
+      "fragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold-19",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Gentle Fluidity Gold",
+      "originalFragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold",
+      "mistifyProductName": "Gently Fluid",
+      "mistifyProductSlug": "gently-fluid",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gently-fluid",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Gentle Fluidity Gold",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Juniper Berries",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Coriander",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Coriander",
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_14_05AM.png?v=1765422980",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Gentle Fluidity Gold Gently Fluid Oriental Vanilla unisex Juniper Berries Nutmeg Coriander Vanilla Amber Musk",
+      "createdAt": "2026-05-04T04:41:25.599Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 181,
+      "fragranceSlug": "mancera-roses-vanille-181",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Roses Vanille",
+      "originalFragranceSlug": "mancera-roses-vanille",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mancera Roses Vanille",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Italian Lemon"
+      ],
+      "middleNotes": [
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Italian Lemon",
+        "Turkish Rose",
+        "Vanilla",
+        "White Musk",
+        "Cedar"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mancera mancera Mancera Roses Vanille Not verified Oriental Vanilla Italian Lemon Turkish Rose Vanilla White Musk Cedar",
+      "createdAt": "2026-05-04T04:41:35.051Z",
+      "sharedNotes": [
+        "White Musk"
+      ]
+    },
+    {
+      "id": 133,
+      "fragranceSlug": "creed-sublime-vanille-133",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Sublime Vanille",
+      "originalFragranceSlug": "creed-sublime-vanille",
+      "mistifyProductName": "Superb Vanilla",
+      "mistifyProductSlug": "superb-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/superb-vanilla",
+      "publicInspiredByLabel": "Inspired by Creed Sublime Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bourbon Vanilla",
+        "Lemon"
+      ],
+      "middleNotes": [],
+      "baseNotes": [
+        "Tonka Bean",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bourbon Vanilla",
+        "Lemon",
+        "Tonka Bean",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-35-41AM-_1.png?v=1773460548",
+      "searchableText": "Creed creed Creed Sublime Vanille Superb Vanilla Oriental Vanilla unisex Bourbon Vanilla Lemon Tonka Bean Musk",
+      "createdAt": "2026-05-04T04:41:32.256Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 173,
+      "fragranceSlug": "montale-vanilla-cake-173",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Vanilla Cake",
+      "originalFragranceSlug": "montale-vanilla-cake",
+      "mistifyProductName": "Vanilla Dream",
+      "mistifyProductSlug": "vanilla-dream",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vanilla-dream",
+      "publicInspiredByLabel": "Inspired by Montale Vanilla Cake",
+      "audience": "womens",
+      "classification": "Oriental Vanilla",
+      "topNotes": [],
+      "middleNotes": [
+        "Meringue",
+        "Madagascar Vanilla",
+        "Milk",
+        "Caramel",
+        "Almond"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Meringue",
+        "Madagascar Vanilla",
+        "Milk",
+        "Caramel",
+        "Almond"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-30-52PM-_1.png?v=1773460524",
+      "searchableText": "Montale montale Montale Vanilla Cake Vanilla Dream Oriental Vanilla womens Meringue Madagascar Vanilla Milk Caramel Almond",
+      "createdAt": "2026-05-04T04:41:34.590Z",
+      "sharedNotes": [
+        "Madagascar Vanilla"
+      ]
+    },
+    {
+      "id": 97,
+      "fragranceSlug": "parfums-de-marly-althair-97",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Althair",
+      "originalFragranceSlug": "parfums-de-marly-althair",
+      "mistifyProductName": "Altair",
+      "mistifyProductSlug": "altair",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/altair",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Althair",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Cinnamon",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Bourbon Vanilla",
+        "Elemi"
+      ],
+      "baseNotes": [
+        "Praline",
+        "Musk",
+        "Ambroxan",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Cinnamon",
+        "Cardamom",
+        "Bourbon Vanilla",
+        "Elemi",
+        "Praline",
+        "Musk",
+        "Ambroxan",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-10-18PM-_1.png?v=1773460503",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Althair Altair Oriental Vanilla unisex Orange Blossom Bergamot Cinnamon Cardamom Bourbon Vanilla Elemi Praline Musk Ambroxan Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:30.144Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    }
+  ]
+}

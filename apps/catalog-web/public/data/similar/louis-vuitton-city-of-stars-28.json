@@ -1,0 +1,273 @@
+{
+  "fragrances": [
+    {
+      "id": 311,
+      "fragranceSlug": "clive-christian-l-red-tea-vetiver-311",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "L Red Tea Vetiver",
+      "originalFragranceSlug": "clive-christian-l-red-tea-vetiver",
+      "mistifyProductName": "Rouge Thé Vetiver",
+      "mistifyProductSlug": "rouge-the-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rouge-the-vetiver",
+      "publicInspiredByLabel": "Clive Christian L Red Tea Vetiver",
+      "audience": null,
+      "classification": "Citrus Woody / Aromatic Tea",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Rooibos Tea",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Rooibos Tea",
+        "Vetiver",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_45_38AM.png?v=1781711148",
+      "searchableText": "Clive Christian Clive Christian L Red Tea Vetiver Rouge Thé Vetiver Citrus Woody / Aromatic Tea Bergamot Lemon Rooibos Tea Vetiver Sandalwood Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Lemon",
+        "Bergamot",
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 15,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte-15",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Celestia Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte",
+      "mistifyProductName": "Celestial Waters",
+      "mistifyProductSlug": "celestial-waters",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/celestial-waters",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Celestia Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Currant"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Jasmine",
+        "Mimosa",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-55-26AM-_1.png?v=1773460516",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Celestia Cologne Forte Celestial Waters Citrus Aromatic unisex Bergamot Black Currant Jasmine Mimosa Musk",
+      "createdAt": "2026-05-04T04:41:25.373Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk"
+      ]
+    },
+    {
+      "id": 131,
+      "fragranceSlug": "creed-royal-oud-131",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Royal Oud",
+      "originalFragranceSlug": "creed-royal-oud",
+      "mistifyProductName": "Regal Oud",
+      "mistifyProductSlug": "regal-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/regal-oud",
+      "publicInspiredByLabel": "Inspired by Creed Royal Oud",
+      "audience": "unisex",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Galbanum",
+        "Angelica"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot",
+        "Cedar",
+        "Galbanum",
+        "Angelica",
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-35-06PM-_1.png?v=1773460550",
+      "searchableText": "Creed creed Creed Royal Oud Regal Oud Amber Fougere unisex Pink Pepper Lemon Bergamot Cedar Galbanum Angelica Oud Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.140Z",
+      "sharedNotes": [
+        "Lemon",
+        "Bergamot",
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 16,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte-16",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Vitae Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte",
+      "mistifyProductName": "Vitae Essence",
+      "mistifyProductSlug": "vitae-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vitae-essence",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Vitae Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Floral Notes",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Floral Notes",
+        "Solar Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/VitaeEssence.png?v=1765422978",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Vitae Cologne Forte Vitae Essence Citrus unisex Mandarin Orange Bergamot Floral Notes Solar Notes Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.428Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 101,
+      "fragranceSlug": "parfums-de-marly-greenley-101",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Greenley",
+      "originalFragranceSlug": "parfums-de-marly-greenley",
+      "mistifyProductName": "Greenery",
+      "mistifyProductSlug": "greenery",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/greenery",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Greenley",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Cashmeran",
+        "Cedar",
+        "Petitgrain"
+      ],
+      "baseNotes": [
+        "Oakmoss",
+        "Musk",
+        "Amberwood"
+      ],
+      "allNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Mandarin Orange",
+        "Cashmeran",
+        "Cedar",
+        "Petitgrain",
+        "Oakmoss",
+        "Musk",
+        "Amberwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-18-13AM-_1.png?v=1773460498",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Greenley Greenery Citrus Aromatic unisex Green Apple Bergamot Mandarin Orange Cashmeran Cedar Petitgrain Oakmoss Musk Amberwood",
+      "createdAt": "2026-05-04T04:41:30.400Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk"
+      ]
+    },
+    {
+      "id": 191,
+      "fragranceSlug": "dolce-and-gabbana-light-blue-191",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Light Blue",
+      "originalFragranceSlug": "dolce-and-gabbana-light-blue",
+      "mistifyProductName": "Lumine Bleu",
+      "mistifyProductSlug": "lumine-bleu",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lumine-bleu",
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Light Blue",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper",
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood",
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-04-05AM-_1.png?v=1773460205",
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Light Blue Lumine Bleu Citrus Aromatic unisex Grapefruit Bergamot Sicilian Mandarin Juniper Pepper Rosemary Brazilian Rosewood Musk Incense Oakmoss",
+      "createdAt": "2026-05-04T04:41:35.651Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk"
+      ]
+    }
+  ]
+}

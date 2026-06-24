@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 14,
+    "fragranceSlug": "maison-francis-kurkdjian-amyris-femme-14",
+    "brandName": "Maison Francis Kurkdjian",
+    "brandSlug": "maison-francis-kurkdjian",
+    "originalFragranceName": "Amyris Femme",
+    "originalFragranceSlug": "maison-francis-kurkdjian-amyris-femme",
+    "mistifyProductName": "Iris Essence",
+    "mistifyProductSlug": "iris-essence",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/iris-essence",
+    "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Amyris Femme",
+    "audience": "womens",
+    "classification": "Floral Woody/Musky Floral",
+    "topNotes": [
+      "Lemon Blossom",
+      "California Orange"
+    ],
+    "middleNotes": [
+      "Amyris",
+      "Iris"
+    ],
+    "baseNotes": [
+      "Vetiver",
+      "Musk",
+      "Amber"
+    ],
+    "allNotes": [
+      "Lemon Blossom",
+      "California Orange",
+      "Amyris",
+      "Iris",
+      "Vetiver",
+      "Musk",
+      "Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-53-31AM-_1.png?v=1773460519",
+    "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Amyris Femme Iris Essence Floral Woody/Musky Floral womens Lemon Blossom California Orange Amyris Iris Vetiver Musk Amber",
+    "createdAt": "2026-05-04T04:41:25.316Z"
+  }
+}

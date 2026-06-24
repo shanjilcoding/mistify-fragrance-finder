@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 71,
+    "fragranceSlug": "kilian-smoke-for-the-soul-71",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Smoke for the Soul",
+    "originalFragranceSlug": "kilian-smoke-for-the-soul",
+    "mistifyProductName": "Soul Smoke",
+    "mistifyProductSlug": "soul-smoke",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/soul-smoke",
+    "publicInspiredByLabel": "Inspired by Kilian Smoke for the Soul",
+    "audience": "unisex",
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Grapefruit",
+      "Eucalyptus",
+      "Cardamom"
+    ],
+    "middleNotes": [
+      "Cannabis",
+      "Mate Tea"
+    ],
+    "baseNotes": [
+      "Birch",
+      "Tobacco"
+    ],
+    "allNotes": [
+      "Grapefruit",
+      "Eucalyptus",
+      "Cardamom",
+      "Cannabis",
+      "Mate Tea",
+      "Birch",
+      "Tobacco"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_04_00_07PM.png?v=1774382423",
+    "searchableText": "Kilian kilian By Kilian Smoke for the Soul Soul Smoke Woody Aromatic unisex Grapefruit Eucalyptus Cardamom Cannabis Mate Tea Birch Tobacco",
+    "createdAt": "2026-05-04T04:41:28.640Z"
+  }
+}

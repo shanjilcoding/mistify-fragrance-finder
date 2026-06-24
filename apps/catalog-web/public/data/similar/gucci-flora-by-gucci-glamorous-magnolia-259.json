@@ -1,0 +1,275 @@
+{
+  "fragrances": [
+    {
+      "id": 135,
+      "fragranceSlug": "creed-white-amber-135",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "White Amber",
+      "originalFragranceSlug": "creed-white-amber",
+      "mistifyProductName": "Whitened Amber",
+      "mistifyProductSlug": "whitened-amber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/whitened-amber",
+      "publicInspiredByLabel": "Inspired by Creed White Amber",
+      "audience": "mens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Amber",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Benzoin"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Amber",
+        "Jasmine",
+        "Benzoin",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-37-49AM-_1.png?v=1773460545",
+      "searchableText": "Creed creed Creed White Amber Whitened Amber Floral Woody Musk mens Amber Jasmine Benzoin Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.365Z",
+      "sharedNotes": [
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 11,
+      "fragranceSlug": "maison-francis-kurkdjian-724-11",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "724",
+      "originalFragranceSlug": "maison-francis-kurkdjian-724",
+      "mistifyProductName": "Urban Glow",
+      "mistifyProductSlug": "urban-glow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-glow",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian 724",
+      "audience": "unisex",
+      "classification": "Citrus Floral",
+      "topNotes": [
+        "Aldehydes",
+        "Italian Bergamot"
+      ],
+      "middleNotes": [
+        "White Flowers",
+        "Sweet Pea",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Italian Bergamot",
+        "White Flowers",
+        "Sweet Pea",
+        "Jasmine",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_08_29PM.png?v=1765422970",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian 724 Urban Glow Citrus Floral unisex Aldehydes Italian Bergamot White Flowers Sweet Pea Jasmine Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.153Z",
+      "sharedNotes": [
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 16,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte-16",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Vitae Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte",
+      "mistifyProductName": "Vitae Essence",
+      "mistifyProductSlug": "vitae-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vitae-essence",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Vitae Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Floral Notes",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Floral Notes",
+        "Solar Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/VitaeEssence.png?v=1765422978",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Vitae Cologne Forte Vitae Essence Citrus unisex Mandarin Orange Bergamot Floral Notes Solar Notes Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.428Z",
+      "sharedNotes": [
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 311,
+      "fragranceSlug": "clive-christian-l-red-tea-vetiver-311",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "L Red Tea Vetiver",
+      "originalFragranceSlug": "clive-christian-l-red-tea-vetiver",
+      "mistifyProductName": "Rouge Thé Vetiver",
+      "mistifyProductSlug": "rouge-the-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rouge-the-vetiver",
+      "publicInspiredByLabel": "Clive Christian L Red Tea Vetiver",
+      "audience": null,
+      "classification": "Citrus Woody / Aromatic Tea",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Rooibos Tea",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Rooibos Tea",
+        "Vetiver",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_45_38AM.png?v=1781711148",
+      "searchableText": "Clive Christian Clive Christian L Red Tea Vetiver Rouge Thé Vetiver Citrus Woody / Aromatic Tea Bergamot Lemon Rooibos Tea Vetiver Sandalwood Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 266,
+      "fragranceSlug": "byredo-mojave-ghost-266",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Mojave Ghost",
+      "originalFragranceSlug": "byredo-mojave-ghost",
+      "mistifyProductName": "Mojava Mist",
+      "mistifyProductSlug": "mojava-mist",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mojava-mist",
+      "publicInspiredByLabel": "Inspired by Byredo Mojave Ghost",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Sapodilla",
+        "Ambrette"
+      ],
+      "middleNotes": [
+        "Magnolia",
+        "Violet",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sapodilla",
+        "Ambrette",
+        "Magnolia",
+        "Violet",
+        "Sandalwood",
+        "Ambergris",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-07-35PM-_1.png?v=1773460344",
+      "searchableText": "Byredo byredo Byredo Mojave Ghost Mojava Mist Oriental Floral unisex Sapodilla Ambrette Magnolia Violet Sandalwood Ambergris Cedar Musk",
+      "createdAt": "2026-05-04T04:41:40.202Z",
+      "sharedNotes": [
+        "Magnolia",
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 249,
+      "fragranceSlug": "penhaligon-s-vaara-249",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Vaara",
+      "originalFragranceSlug": "penhaligon-s-vaara",
+      "mistifyProductName": "Royal Vaara",
+      "mistifyProductSlug": "royal-vaara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/royal-vaara",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Vaara",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Quince",
+        "Rose Water",
+        "Saffron",
+        "Coriander",
+        "Carrot Seeds"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Peony",
+        "Freesia",
+        "Magnolia"
+      ],
+      "baseNotes": [
+        "Honey",
+        "White Musk",
+        "Cedar",
+        "Sandalwood",
+        "Benzoin",
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Quince",
+        "Rose Water",
+        "Saffron",
+        "Coriander",
+        "Carrot Seeds",
+        "Rose",
+        "Peony",
+        "Freesia",
+        "Magnolia",
+        "Honey",
+        "White Musk",
+        "Cedar",
+        "Sandalwood",
+        "Benzoin",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoyalVaara.png?v=1765422937",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Vaara Royal Vaara Oriental Quince Rose Water Saffron Coriander Carrot Seeds Rose Peony Freesia Magnolia Honey White Musk Cedar Sandalwood Benzoin Tonka Bean",
+      "createdAt": "2026-05-04T04:41:39.160Z",
+      "sharedNotes": [
+        "Freesia",
+        "Magnolia",
+        "Peony",
+        "Sandalwood"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 147,
+    "fragranceSlug": "ysl-yves-saint-laurent-m7-oud-absolu-147",
+    "brandName": "YSL (Yves Saint Laurent)",
+    "brandSlug": "ysl-yves-saint-laurent",
+    "originalFragranceName": "M7 Oud Absolu",
+    "originalFragranceSlug": "ysl-yves-saint-laurent-m7-oud-absolu",
+    "mistifyProductName": "Absolute Oud",
+    "mistifyProductSlug": "absolute-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/absolute-oud",
+    "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) M7 Oud Absolu",
+    "audience": "mens",
+    "classification": "Woody Amber",
+    "topNotes": [
+      "Mandarin Orange"
+    ],
+    "middleNotes": [
+      "Patchouli",
+      "Oud"
+    ],
+    "baseNotes": [
+      "Myrrh",
+      "Labdanum"
+    ],
+    "allNotes": [
+      "Mandarin Orange",
+      "Patchouli",
+      "Oud",
+      "Myrrh",
+      "Labdanum"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28-2025-12-37-15AM-_1.png?v=1773460427",
+    "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) M7 Oud Absolu Absolute Oud Woody Amber mens Mandarin Orange Patchouli Oud Myrrh Labdanum",
+    "createdAt": "2026-05-04T04:41:33.065Z"
+  }
+}

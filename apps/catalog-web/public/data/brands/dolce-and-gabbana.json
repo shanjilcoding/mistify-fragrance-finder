@@ -1,0 +1,170 @@
+{
+  "brand": {
+    "brandName": "Dolce & Gabbana",
+    "brandSlug": "dolce-and-gabbana",
+    "fragranceCount": 4,
+    "searchableText": "Light Blue Lumine Bleu Inspired by Dolce & Gabbana Light Blue Dolce & Gabbana dolce and gabbana Dolce & Gabbana Light Blue Lumine Bleu Citrus Aromatic unisex Grapefruit Bergamot Sicilian Mandarin Juniper Pepper Rosemary Brazilian Rosewood Musk Incense Oakmoss Velvet Desert Oud Desert Velvet Inspired by Dolce & Gabbana Velvet Desert Oud Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Desert Oud Desert Velvet Oriental unisex Incense Agarwood/Oud Amber Musk Velvet Oriental Musk Not verified Inspired by Dolce & Gabbana Velvet Oriental Musk Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Oriental Musk Not verified Woody/Musky/Amber Cumin Saffron Cardamom Damask Rose Cypriol Musk Amber Cedar Sandalwood Tonka Velvet Zafferano Not verified Inspired by Dolce & Gabbana Velvet Zafferano Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Zafferano Not verified Oriental Spicy Saffron Tobacco Tobacco Leaf Amber Vanilla Patchouli Labdanum"
+  },
+  "fragrances": [
+    {
+      "id": 191,
+      "fragranceSlug": "dolce-and-gabbana-light-blue-191",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Light Blue",
+      "originalFragranceSlug": "dolce-and-gabbana-light-blue",
+      "mistifyProductName": "Lumine Bleu",
+      "mistifyProductSlug": "lumine-bleu",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lumine-bleu",
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Light Blue",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper",
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood",
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-04-05AM-_1.png?v=1773460205",
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Light Blue Lumine Bleu Citrus Aromatic unisex Grapefruit Bergamot Sicilian Mandarin Juniper Pepper Rosemary Brazilian Rosewood Musk Incense Oakmoss",
+      "createdAt": "2026-05-04T04:41:35.651Z"
+    },
+    {
+      "id": 193,
+      "fragranceSlug": "dolce-and-gabbana-velvet-desert-oud-193",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Velvet Desert Oud",
+      "originalFragranceSlug": "dolce-and-gabbana-velvet-desert-oud",
+      "mistifyProductName": "Desert Velvet",
+      "mistifyProductSlug": "desert-velvet",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/desert-velvet",
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Desert Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [],
+      "middleNotes": [
+        "Incense",
+        "Agarwood/Oud",
+        "Amber",
+        "Musk"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Incense",
+        "Agarwood/Oud",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/DesertVelvet.png?v=1765422932",
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Desert Oud Desert Velvet Oriental unisex Incense Agarwood/Oud Amber Musk",
+      "createdAt": "2026-05-04T04:41:35.780Z"
+    },
+    {
+      "id": 194,
+      "fragranceSlug": "dolce-and-gabbana-velvet-oriental-musk-194",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Velvet Oriental Musk",
+      "originalFragranceSlug": "dolce-and-gabbana-velvet-oriental-musk",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Oriental Musk",
+      "audience": null,
+      "classification": "Woody/Musky/Amber",
+      "topNotes": [
+        "Cumin",
+        "Saffron",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Damask Rose",
+        "Cypriol"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Cedar",
+        "Sandalwood",
+        "Tonka"
+      ],
+      "allNotes": [
+        "Cumin",
+        "Saffron",
+        "Cardamom",
+        "Damask Rose",
+        "Cypriol",
+        "Musk",
+        "Amber",
+        "Cedar",
+        "Sandalwood",
+        "Tonka"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Oriental Musk Not verified Woody/Musky/Amber Cumin Saffron Cardamom Damask Rose Cypriol Musk Amber Cedar Sandalwood Tonka",
+      "createdAt": "2026-05-04T04:41:35.852Z"
+    },
+    {
+      "id": 192,
+      "fragranceSlug": "dolce-and-gabbana-velvet-zafferano-192",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Velvet Zafferano",
+      "originalFragranceSlug": "dolce-and-gabbana-velvet-zafferano",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Zafferano",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Tobacco Leaf"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Tobacco",
+        "Tobacco Leaf",
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Labdanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Zafferano Not verified Oriental Spicy Saffron Tobacco Tobacco Leaf Amber Vanilla Patchouli Labdanum",
+      "createdAt": "2026-05-04T04:41:35.717Z"
+    }
+  ]
+}

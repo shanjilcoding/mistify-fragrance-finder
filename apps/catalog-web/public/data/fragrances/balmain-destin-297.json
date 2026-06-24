@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 297,
+    "fragranceSlug": "balmain-destin-297",
+    "brandName": "Balmain",
+    "brandSlug": "balmain",
+    "originalFragranceName": "Destin",
+    "originalFragranceSlug": "balmain-destin",
+    "mistifyProductName": "Destiné",
+    "mistifyProductSlug": "destine",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/destine",
+    "publicInspiredByLabel": "Inspired by Balmain Destin",
+    "audience": null,
+    "classification": "Floral Fruity",
+    "topNotes": [
+      "Strawberry",
+      "Peony",
+      "Pink Pepper"
+    ],
+    "middleNotes": [
+      "Lily"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Patchouli",
+      "Sandalwood",
+      "Ambrettolide",
+      "Akigalawood"
+    ],
+    "allNotes": [
+      "Strawberry",
+      "Peony",
+      "Pink Pepper",
+      "Lily",
+      "Musk",
+      "Patchouli",
+      "Sandalwood",
+      "Ambrettolide",
+      "Akigalawood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay18_2026_06_29_31PM.png?v=1779143379",
+    "searchableText": "Balmain balmain Balmain Destin Destiné Floral Fruity Strawberry Peony Pink Pepper Lily Musk Patchouli Sandalwood Ambrettolide Akigalawood",
+    "createdAt": "2026-05-04T04:41:42.068Z"
+  }
+}

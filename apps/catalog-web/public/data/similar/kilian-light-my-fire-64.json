@@ -1,0 +1,336 @@
+{
+  "fragrances": [
+    {
+      "id": 284,
+      "fragranceSlug": "carolina-herrera-mystery-tobacco-284",
+      "brandName": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "originalFragranceName": "Mystery Tobacco",
+      "originalFragranceSlug": "carolina-herrera-mystery-tobacco",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Carolina Herrera Mystery Tobacco",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Osmanthus",
+        "Ginger",
+        "Citruses",
+        "Artemisia"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Patchouli",
+        "Guaiac Wood",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Ginger",
+        "Citruses",
+        "Artemisia",
+        "Tobacco",
+        "Patchouli",
+        "Guaiac Wood",
+        "Vetiver",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Carolina Herrera carolina herrera Carolina Herrera Mystery Tobacco Not verified Oriental Woody Osmanthus Ginger Citruses Artemisia Tobacco Patchouli Guaiac Wood Vetiver Tonka Bean",
+      "createdAt": "2026-05-04T04:41:41.303Z",
+      "sharedNotes": [
+        "Tobacco",
+        "Patchouli",
+        "Vetiver",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 83,
+      "fragranceSlug": "tom-ford-oud-wood-83",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Wood",
+      "originalFragranceSlug": "tom-ford-oud-wood",
+      "mistifyProductName": "Woody Oud",
+      "mistifyProductSlug": "woody-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/woody-oud",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Wood",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Rosewood",
+        "Cardamom",
+        "Sichuan Pepper"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Sandalwood",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Amber"
+      ],
+      "allNotes": [
+        "Rosewood",
+        "Cardamom",
+        "Sichuan Pepper",
+        "Oud",
+        "Sandalwood",
+        "Vetiver",
+        "Tonka Bean",
+        "Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_36_27PM.png?v=1765422876",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Wood Woody Oud Oriental Woody unisex Rosewood Cardamom Sichuan Pepper Oud Sandalwood Vetiver Tonka Bean Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:29.342Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Vetiver",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 54,
+      "fragranceSlug": "kilian-back-to-black-54",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Back to Black",
+      "originalFragranceSlug": "kilian-back-to-black",
+      "mistifyProductName": "Back 2 Blacky",
+      "mistifyProductSlug": "back-2-blacky",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/back-2-black",
+      "publicInspiredByLabel": "Inspired by Kilian Back to Black",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Almond",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "allNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry",
+        "Tobacco",
+        "Almond",
+        "Vanilla",
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Back2Blacky.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Back to Black Back 2 Blacky Oriental unisex Honey Cherry Raspberry Tobacco Almond Vanilla Cedar Patchouli Amber",
+      "createdAt": "2026-05-04T04:41:27.650Z",
+      "sharedNotes": [
+        "Tobacco",
+        "Honey",
+        "Patchouli",
+        "Vanilla",
+        "Almond"
+      ]
+    },
+    {
+      "id": 278,
+      "fragranceSlug": "amouage-outlands-278",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Outlands",
+      "originalFragranceSlug": "amouage-outlands",
+      "mistifyProductName": "Outland Aura",
+      "mistifyProductSlug": "outland-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/outland-aura",
+      "publicInspiredByLabel": "Inspired by Amouage Outlands",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Frankincense",
+        "Cardamom",
+        "Elemi",
+        "Lemon",
+        "Bergamot",
+        "Sichuan Pepper"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Anise",
+        "Coriander",
+        "Cumin",
+        "Saffron",
+        "Orange Blossom",
+        "Wormwood",
+        "Geranium",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Frankincense",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Oud",
+        "Opoponax",
+        "Birch",
+        "Ambergris",
+        "Labdanum",
+        "Maltol",
+        "Musk"
+      ],
+      "allNotes": [
+        "Frankincense",
+        "Cardamom",
+        "Elemi",
+        "Lemon",
+        "Bergamot",
+        "Sichuan Pepper",
+        "Patchouli",
+        "Anise",
+        "Coriander",
+        "Cumin",
+        "Saffron",
+        "Orange Blossom",
+        "Wormwood",
+        "Geranium",
+        "Rose",
+        "Frankincense",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Oud",
+        "Opoponax",
+        "Birch",
+        "Ambergris",
+        "Labdanum",
+        "Maltol",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb3-2026-06-02-40PM-_1.png?v=1773460158",
+      "searchableText": "Amouage amouage Amouage Outlands Outland Aura Oriental Woody unisex Frankincense Cardamom Elemi Lemon Bergamot Sichuan Pepper Patchouli Anise Coriander Cumin Saffron Orange Blossom Wormwood Geranium Rose Frankincense Vanilla Amber Benzoin Oud Opoponax Birch Ambergris Labdanum Maltol Musk",
+      "createdAt": "2026-05-04T04:41:40.947Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Cumin",
+        "Vanilla",
+        "Birch"
+      ]
+    },
+    {
+      "id": 96,
+      "fragranceSlug": "tom-ford-oud-voyager-96",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Voyager",
+      "originalFragranceSlug": "tom-ford-oud-voyager",
+      "mistifyProductName": "Oud Voyagé",
+      "mistifyProductSlug": "oud-voyage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-voyage",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Voyager",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus"
+      ],
+      "middleNotes": [
+        "Red Peony",
+        "Cardamom",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "allNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus",
+        "Red Peony",
+        "Cardamom",
+        "Saffron",
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec17-2025-09-31-28AM-_1.png?v=1773460197",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Voyager Oud Voyagé Oriental Woody unisex Geranium Pink Pepper Citrus Red Peony Cardamom Saffron Oud Cypriol Patchouli Vetiver Musk",
+      "createdAt": "2026-05-04T04:41:30.090Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 139,
+      "fragranceSlug": "creed-oud-zarian-139",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Oud Zarian",
+      "originalFragranceSlug": "creed-oud-zarian",
+      "mistifyProductName": "Oud Zarien",
+      "mistifyProductSlug": "oud-zarien",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-zarien",
+      "publicInspiredByLabel": "Inspired by Creed Oud Zarian",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Spices",
+        "Frankincense",
+        "Ginger",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "May Rose"
+      ],
+      "baseNotes": [
+        "Licorice",
+        "Myrrh",
+        "Oud",
+        "Tonka Bean",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Spices",
+        "Frankincense",
+        "Ginger",
+        "Bergamot",
+        "May Rose",
+        "Licorice",
+        "Myrrh",
+        "Oud",
+        "Tonka Bean",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec16-2025-10-53-37AM-_1.png?v=1773460199",
+      "searchableText": "Creed creed Creed Oud Zarian Oud Zarien Oriental Woody unisex Spices Frankincense Ginger Bergamot May Rose Licorice Myrrh Oud Tonka Bean Sandalwood Patchouli",
+      "createdAt": "2026-05-04T04:41:32.597Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Tonka Bean"
+      ]
+    }
+  ]
+}

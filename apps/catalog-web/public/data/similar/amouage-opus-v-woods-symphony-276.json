@@ -1,0 +1,262 @@
+{
+  "fragrances": [
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Rose",
+        "Jasmine"
+      ]
+    },
+    {
+      "id": 168,
+      "fragranceSlug": "montale-black-aoud-168",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Black Aoud",
+      "originalFragranceSlug": "montale-black-aoud",
+      "mistifyProductName": "Oud Noir",
+      "mistifyProductSlug": "oud-noir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-noir",
+      "publicInspiredByLabel": "Inspired by Montale Black Aoud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudNoir.png?v=1765422952",
+      "searchableText": "Montale montale Montale Black Aoud Oud Noir Woody Floral Musk unisex Rose Oud Patchouli Musk French Labdanum Mandarin Orange",
+      "createdAt": "2026-05-04T04:41:34.288Z",
+      "sharedNotes": [
+        "Rose",
+        "Oud"
+      ]
+    },
+    {
+      "id": 66,
+      "fragranceSlug": "kilian-musk-oud-66",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Musk Oud",
+      "originalFragranceSlug": "kilian-musk-oud",
+      "mistifyProductName": "Oud Musk",
+      "mistifyProductSlug": "oud-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-musk",
+      "publicInspiredByLabel": "Inspired by Kilian Musk Oud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Lemon",
+        "Cardamom",
+        "Coriander"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Cypress",
+        "Geranium",
+        "Artemisia"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Musk",
+        "Rum",
+        "Incense",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lemon",
+        "Cardamom",
+        "Coriander",
+        "Bulgarian Rose",
+        "Cypress",
+        "Geranium",
+        "Artemisia",
+        "Oud",
+        "Musk",
+        "Rum",
+        "Incense",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudMusk.png?v=1765422915",
+      "searchableText": "Kilian kilian By Kilian Musk Oud Oud Musk Woody Floral Musk unisex Lemon Cardamom Coriander Bulgarian Rose Cypress Geranium Artemisia Oud Musk Rum Incense Patchouli",
+      "createdAt": "2026-05-04T04:41:28.331Z",
+      "sharedNotes": [
+        "Rum",
+        "Oud"
+      ]
+    },
+    {
+      "id": 151,
+      "fragranceSlug": "ysl-yves-saint-laurent-exquisite-musk-151",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Exquisite Musk",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-exquisite-musk",
+      "mistifyProductName": "Exquis Musk",
+      "mistifyProductSlug": "exquis-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/exquis-musk",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Exquisite Musk",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Angelica"
+      ],
+      "middleNotes": [
+        "Iris",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Angelica",
+        "Iris",
+        "Rose",
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar22_2026_09_51_38AM.png?v=1774187508",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Exquisite Musk Exquis Musk Woody Floral Musk unisex Ginger Angelica Iris Rose Musk Ambergris Benzoin",
+      "createdAt": "2026-05-04T04:41:33.307Z",
+      "sharedNotes": [
+        "Rose"
+      ]
+    },
+    {
+      "id": 275,
+      "fragranceSlug": "roberto-cavalli-tiger-oud-275",
+      "brandName": "Roberto Cavalli",
+      "brandSlug": "roberto-cavalli",
+      "originalFragranceName": "Tiger Oud",
+      "originalFragranceSlug": "roberto-cavalli-tiger-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Roberto Cavalli Tiger Oud",
+      "audience": null,
+      "classification": "Oriental Floral",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Rose"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Oud",
+        "Rose"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Roberto Cavalli roberto cavalli Roberto Cavalli Tiger Oud Not verified Oriental Floral Oud Rose",
+      "createdAt": "2026-05-04T04:41:40.757Z",
+      "sharedNotes": [
+        "Rose",
+        "Oud"
+      ]
+    },
+    {
+      "id": 146,
+      "fragranceSlug": "ysl-yves-saint-laurent-l-homme-ultimate-146",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "L’Homme Ultimate",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-l-homme-ultimate",
+      "mistifyProductName": "Hommes Ultimate",
+      "mistifyProductSlug": "hommes-ultimate",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hommes-ultimate",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) L’Homme Ultimate",
+      "audience": "mens",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Sage",
+        "Geranium",
+        "Apple"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Vetiver",
+        "Cashmere Wood"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot",
+        "Rose",
+        "Sage",
+        "Geranium",
+        "Apple",
+        "Cedar",
+        "Vetiver",
+        "Cashmere Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-30PM-_1.png?v=1773460429",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) L’Homme Ultimate Hommes Ultimate Woody Floral Musk mens Ginger Grapefruit Cardamom Bergamot Rose Sage Geranium Apple Cedar Vetiver Cashmere Wood",
+      "createdAt": "2026-05-04T04:41:33.006Z",
+      "sharedNotes": [
+        "Rose"
+      ]
+    }
+  ]
+}

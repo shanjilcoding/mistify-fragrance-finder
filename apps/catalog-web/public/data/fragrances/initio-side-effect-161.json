@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 161,
+    "fragranceSlug": "initio-side-effect-161",
+    "brandName": "Initio",
+    "brandSlug": "initio",
+    "originalFragranceName": "Side Effect",
+    "originalFragranceSlug": "initio-side-effect",
+    "mistifyProductName": "Secondary Effects",
+    "mistifyProductSlug": "secondary-effects",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/secondary-effects",
+    "publicInspiredByLabel": "Inspired by Initio Side Effect",
+    "audience": "unisex",
+    "classification": "Oriental",
+    "topNotes": [
+      "Rum",
+      "Cinnamon"
+    ],
+    "middleNotes": [
+      "Tobacco",
+      "Vanilla"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Leather"
+    ],
+    "allNotes": [
+      "Rum",
+      "Cinnamon",
+      "Tobacco",
+      "Vanilla",
+      "Musk",
+      "Leather"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_15_23PM.png?v=1765422996",
+    "searchableText": "Initio initio parfums Initio Parfums Side Effect Secondary Effects Oriental unisex Rum Cinnamon Tobacco Vanilla Musk Leather",
+    "createdAt": "2026-05-04T04:41:33.880Z"
+  }
+}

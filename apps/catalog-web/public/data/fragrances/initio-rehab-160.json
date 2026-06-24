@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 160,
+    "fragranceSlug": "initio-rehab-160",
+    "brandName": "Initio",
+    "brandSlug": "initio",
+    "originalFragranceName": "Rehab",
+    "originalFragranceSlug": "initio-rehab",
+    "mistifyProductName": "Rehabilitee",
+    "mistifyProductSlug": "rehabilitee",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/rehabilitee",
+    "publicInspiredByLabel": "Inspired by Initio Rehab",
+    "audience": "unisex",
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Lavender",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Cedar",
+      "Vetiver",
+      "Patchouli"
+    ],
+    "baseNotes": [
+      "Sandalwood",
+      "Musk",
+      "Guaiac Wood"
+    ],
+    "allNotes": [
+      "Lavender",
+      "Bergamot",
+      "Cedar",
+      "Vetiver",
+      "Patchouli",
+      "Sandalwood",
+      "Musk",
+      "Guaiac Wood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Rehabilitee.png?v=1765422993",
+    "searchableText": "Initio initio parfums Initio Parfums Rehab Rehabilitee Woody Aromatic unisex Lavender Bergamot Cedar Vetiver Patchouli Sandalwood Musk Guaiac Wood",
+    "createdAt": "2026-05-04T04:41:33.822Z"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "fragrances": [
+    {
+      "id": 333,
+      "fragranceSlug": "armani-stronger-with-you-tobacco-333",
+      "brandName": "Armani",
+      "brandSlug": "armani",
+      "originalFragranceName": "Stronger With You Tobacco",
+      "originalFragranceSlug": "armani-stronger-with-you-tobacco",
+      "mistifyProductName": "Tobacco Strength",
+      "mistifyProductSlug": "tobacco-strength",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/tobacco-strength",
+      "publicInspiredByLabel": "Armani Stronger With You Tobacco",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Spicy Notes",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Chestnut",
+        "Amberwood"
+      ],
+      "allNotes": [
+        "Spicy Notes",
+        "Pink Pepper",
+        "Tobacco",
+        "Vanilla",
+        "Chestnut",
+        "Amberwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-16-39PM-_1.png?v=1773460354",
+      "searchableText": "Armani Armani Stronger With You Tobacco Tobacco Strength Oriental Spicy Spicy Notes Pink Pepper Tobacco Vanilla Chestnut Amberwood",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Spicy Notes",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 179,
+      "fragranceSlug": "mancera-tonka-cola-179",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Tonka Cola",
+      "originalFragranceSlug": "mancera-tonka-cola",
+      "mistifyProductName": "Cola Spice",
+      "mistifyProductSlug": "cola-spice",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cola-spice",
+      "publicInspiredByLabel": "Inspired by Mancera Tonka Cola",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Cherry",
+        "Sicilian Lemon",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Coca-Cola",
+        "Indonesian Patchouli Leaf",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Cherry",
+        "Sicilian Lemon",
+        "Nutmeg",
+        "Coca-Cola",
+        "Indonesian Patchouli Leaf",
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla",
+        "Benzoin",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_50_16PM_10d11dd4-fe8b-44fa-8349-483f0da6c265.png?v=1774407032",
+      "searchableText": "Mancera mancera Mancera Tonka Cola Cola Spice Oriental Spicy unisex Cinnamon Cherry Sicilian Lemon Nutmeg Coca-Cola Indonesian Patchouli Leaf Orange Blossom Tonka Bean Vanilla Benzoin Labdanum",
+      "createdAt": "2026-05-04T04:41:34.939Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 155,
+      "fragranceSlug": "initio-absolute-aphrodisiac-155",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Absolute Aphrodisiac",
+      "originalFragranceSlug": "initio-absolute-aphrodisiac",
+      "mistifyProductName": "Sensual Aphrodite",
+      "mistifyProductSlug": "sensual-aphrodite",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sensual-aphrodite",
+      "publicInspiredByLabel": "Inspired by Initio Absolute Aphrodisiac",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Vanilla",
+        "Amber",
+        "Castoreum",
+        "Leather",
+        "Musk",
+        "White Flowers"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-11-12-10AM-_1.png?v=1773460511",
+      "searchableText": "Initio initio parfums Initio Parfums Absolute Aphrodisiac Sensual Aphrodite Oriental Spicy unisex Vanilla Amber Castoreum Leather Musk White Flowers",
+      "createdAt": "2026-05-04T04:41:33.535Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 219,
+      "fragranceSlug": "ermenegildo-zegna-bourbon-vanilla-219",
+      "brandName": "Ermenegildo Zegna",
+      "brandSlug": "ermenegildo-zegna",
+      "originalFragranceName": "Bourbon Vanilla",
+      "originalFragranceSlug": "ermenegildo-zegna-bourbon-vanilla",
+      "mistifyProductName": "Bourbon Vanille",
+      "mistifyProductSlug": "bourbon-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bourbon-vanille",
+      "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Bourbon Vanilla",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Vanilla",
+        "Ginger",
+        "Cassis",
+        "Vetiver",
+        "Cypriol/Nagarmotha",
+        "Turkish Rose"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Vanilla",
+        "Ginger",
+        "Cassis",
+        "Vetiver",
+        "Cypriol/Nagarmotha",
+        "Turkish Rose"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar13-2026-01-28-48PM-_1.png?v=1773460116",
+      "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Bourbon Vanilla Bourbon Vanille Oriental Spicy unisex Vanilla Ginger Cassis Vetiver Cypriol/Nagarmotha Turkish Rose",
+      "createdAt": "2026-05-04T04:41:37.332Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 192,
+      "fragranceSlug": "dolce-and-gabbana-velvet-zafferano-192",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Velvet Zafferano",
+      "originalFragranceSlug": "dolce-and-gabbana-velvet-zafferano",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Zafferano",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Tobacco Leaf"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Tobacco",
+        "Tobacco Leaf",
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Labdanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Zafferano Not verified Oriental Spicy Saffron Tobacco Tobacco Leaf Amber Vanilla Patchouli Labdanum",
+      "createdAt": "2026-05-04T04:41:35.717Z",
+      "sharedNotes": [
+        "Tobacco Leaf",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 199,
+      "fragranceSlug": "maison-mataha-escapade-gourmande-199",
+      "brandName": "Maison Mataha",
+      "brandSlug": "maison-mataha",
+      "originalFragranceName": "Escapade Gourmande",
+      "originalFragranceSlug": "maison-mataha-escapade-gourmande",
+      "mistifyProductName": "Gourmande Évasion",
+      "mistifyProductSlug": "gourmande-evasion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gourmande-evasion",
+      "publicInspiredByLabel": "Inspired by Maison Mataha Escapade Gourmande",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar Cane"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sugar Cane",
+        "Vanilla",
+        "Tonka Bean",
+        "Benzoin",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb24-2026-11-56-42AM-_1.png?v=1773460130",
+      "searchableText": "Maison Mataha maison mataha Maison Mataha Escapade Gourmande Gourmande Évasion Oriental Vanilla unisex Sugar Cane Vanilla Tonka Bean Benzoin Musk",
+      "createdAt": "2026-05-04T04:41:36.157Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    }
+  ]
+}

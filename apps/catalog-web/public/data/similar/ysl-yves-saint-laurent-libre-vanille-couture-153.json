@@ -1,0 +1,242 @@
+{
+  "fragrances": [
+    {
+      "id": 29,
+      "fragranceSlug": "louis-vuitton-fleur-du-desert-29",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Fleur du Désert",
+      "originalFragranceSlug": "louis-vuitton-fleur-du-desert",
+      "mistifyProductName": "Floral de Mirage",
+      "mistifyProductSlug": "floral-de-mirage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/floral-de-mirage",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Fleur du Désert",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Jasmine",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Rose"
+      ],
+      "baseNotes": [
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Rose",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_22_06AM.png?v=1774326133",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Fleur du Désert Floral de Mirage Floral unisex Jasmine Orange Blossom Rose Sandalwood",
+      "createdAt": "2026-05-04T04:41:26.180Z",
+      "sharedNotes": [
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 43,
+      "fragranceSlug": "louis-vuitton-stellar-times-43",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Stellar Times",
+      "originalFragranceSlug": "louis-vuitton-stellar-times",
+      "mistifyProductName": "Stellara",
+      "mistifyProductSlug": "stellara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/stellara",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Stellar Times",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "White Amber"
+      ],
+      "middleNotes": [
+        "Peru Balsam"
+      ],
+      "baseNotes": [
+        "Orange Blossom"
+      ],
+      "allNotes": [
+        "White Amber",
+        "Peru Balsam",
+        "Orange Blossom"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-41-52PM-_1.png?v=1773460266",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Stellar Times Stellara Amber Floral unisex White Amber Peru Balsam Orange Blossom",
+      "createdAt": "2026-05-04T04:41:27.007Z",
+      "sharedNotes": [
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 12,
+      "fragranceSlug": "maison-francis-kurkdjian-a-p-o-m-12",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "A.P.O.M",
+      "originalFragranceSlug": "maison-francis-kurkdjian-a-p-o-m",
+      "mistifyProductName": "A Part of Aura",
+      "mistifyProductSlug": "a-part-of-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/a-part-of-aura",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian A.P.O.M",
+      "audience": "unisex",
+      "classification": "Amber Floral Fougere",
+      "topNotes": [
+        "Sweet Florals",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "allNotes": [
+        "Sweet Florals",
+        "Orange Blossom",
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom",
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-08-30AM-_1.png?v=1773460306",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian A.P.O.M A Part of Aura Amber Floral Fougere unisex Sweet Florals Orange Blossom Lavender Ylang-Ylang Orange Blossom Vanilla White Musk Light Amber",
+      "createdAt": "2026-05-04T04:41:25.206Z",
+      "sharedNotes": [
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 188,
+      "fragranceSlug": "giorgio-armani-my-way-188",
+      "brandName": "Giorgio Armani",
+      "brandSlug": "giorgio-armani",
+      "originalFragranceName": "My Way",
+      "originalFragranceSlug": "giorgio-armani-my-way",
+      "mistifyProductName": "My Voie",
+      "mistifyProductSlug": "my-voie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/my-voie",
+      "publicInspiredByLabel": "Inspired by Giorgio Armani My Way",
+      "audience": "unisex",
+      "classification": "Floral White/Soft Woody",
+      "topNotes": [
+        "Orange Blossom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Indian Jasmine"
+      ],
+      "baseNotes": [
+        "Madagascar Vanilla",
+        "White Musk",
+        "Virginian Cedar"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Tuberose",
+        "Indian Jasmine",
+        "Madagascar Vanilla",
+        "White Musk",
+        "Virginian Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec23-2025-12-30-29PM-_1.png?v=1773460185",
+      "searchableText": "Giorgio Armani giorgio armani Giorgio Armani My Way My Voie Floral White/Soft Woody unisex Orange Blossom Bergamot Tuberose Indian Jasmine Madagascar Vanilla White Musk Virginian Cedar",
+      "createdAt": "2026-05-04T04:41:35.467Z",
+      "sharedNotes": [
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 245,
+      "fragranceSlug": "maison-martin-margiela-replica-by-the-fireplace-245",
+      "brandName": "Maison Martin Margiela 'REPLICA'",
+      "brandSlug": "maison-martin-margiela-replica",
+      "originalFragranceName": "By The Fireplace",
+      "originalFragranceSlug": "maison-martin-margiela-replica-by-the-fireplace",
+      "mistifyProductName": "Fireplace Glow",
+      "mistifyProductSlug": "fireplace-glow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fireplace-glow",
+      "publicInspiredByLabel": "Inspired by Maison Martin Margiela 'REPLICA' By The Fireplace",
+      "audience": "unisex",
+      "classification": "Woody",
+      "topNotes": [
+        "Cloves",
+        "Pink Pepper",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Chestnut",
+        "Guaiac Wood",
+        "Juniper"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Peru Balsam",
+        "Cashmeran"
+      ],
+      "allNotes": [
+        "Cloves",
+        "Pink Pepper",
+        "Orange Blossom",
+        "Chestnut",
+        "Guaiac Wood",
+        "Juniper",
+        "Vanilla",
+        "Peru Balsam",
+        "Cashmeran"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-32-03PM-_1.png?v=1773460390",
+      "searchableText": "Maison Martin Margiela 'REPLICA' maison martin margiela replica Maison Martin Margiela 'REPLICA' By The Fireplace Fireplace Glow Woody unisex Cloves Pink Pepper Orange Blossom Chestnut Guaiac Wood Juniper Vanilla Peru Balsam Cashmeran",
+      "createdAt": "2026-05-04T04:41:38.913Z",
+      "sharedNotes": [
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 40,
+      "fragranceSlug": "louis-vuitton-sun-song-40",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Sun Song",
+      "originalFragranceSlug": "louis-vuitton-sun-song",
+      "mistifyProductName": "Solar Aura",
+      "mistifyProductSlug": "solar-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/solar-aura",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Sun Song",
+      "audience": "mens",
+      "classification": "Citrus Floral",
+      "topNotes": [
+        "Orange Blossom",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Bergamot"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Lemon",
+        "Bergamot",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-49-28PM-_1.png?v=1773460275",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Sun Song Solar Aura Citrus Floral mens Orange Blossom Lemon Bergamot Musk",
+      "createdAt": "2026-05-04T04:41:26.827Z",
+      "sharedNotes": [
+        "Orange Blossom"
+      ]
+    }
+  ]
+}

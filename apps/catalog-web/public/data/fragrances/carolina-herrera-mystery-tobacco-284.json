@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 284,
+    "fragranceSlug": "carolina-herrera-mystery-tobacco-284",
+    "brandName": "Carolina Herrera",
+    "brandSlug": "carolina-herrera",
+    "originalFragranceName": "Mystery Tobacco",
+    "originalFragranceSlug": "carolina-herrera-mystery-tobacco",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Carolina Herrera Mystery Tobacco",
+    "audience": null,
+    "classification": "Oriental Woody",
+    "topNotes": [
+      "Osmanthus",
+      "Ginger",
+      "Citruses",
+      "Artemisia"
+    ],
+    "middleNotes": [
+      "Tobacco",
+      "Patchouli",
+      "Guaiac Wood",
+      "Vetiver"
+    ],
+    "baseNotes": [
+      "Tonka Bean"
+    ],
+    "allNotes": [
+      "Osmanthus",
+      "Ginger",
+      "Citruses",
+      "Artemisia",
+      "Tobacco",
+      "Patchouli",
+      "Guaiac Wood",
+      "Vetiver",
+      "Tonka Bean"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Carolina Herrera carolina herrera Carolina Herrera Mystery Tobacco Not verified Oriental Woody Osmanthus Ginger Citruses Artemisia Tobacco Patchouli Guaiac Wood Vetiver Tonka Bean",
+    "createdAt": "2026-05-04T04:41:41.303Z"
+  }
+}

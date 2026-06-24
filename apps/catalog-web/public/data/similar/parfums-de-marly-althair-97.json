@@ -1,0 +1,255 @@
+{
+  "fragrances": [
+    {
+      "id": 133,
+      "fragranceSlug": "creed-sublime-vanille-133",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Sublime Vanille",
+      "originalFragranceSlug": "creed-sublime-vanille",
+      "mistifyProductName": "Superb Vanilla",
+      "mistifyProductSlug": "superb-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/superb-vanilla",
+      "publicInspiredByLabel": "Inspired by Creed Sublime Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bourbon Vanilla",
+        "Lemon"
+      ],
+      "middleNotes": [],
+      "baseNotes": [
+        "Tonka Bean",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bourbon Vanilla",
+        "Lemon",
+        "Tonka Bean",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-35-41AM-_1.png?v=1773460548",
+      "searchableText": "Creed creed Creed Sublime Vanille Superb Vanilla Oriental Vanilla unisex Bourbon Vanilla Lemon Tonka Bean Musk",
+      "createdAt": "2026-05-04T04:41:32.256Z",
+      "sharedNotes": [
+        "Bourbon Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 187,
+      "fragranceSlug": "sabrina-carpenter-caramel-dream-187",
+      "brandName": "Sabrina Carpenter",
+      "brandSlug": "sabrina-carpenter",
+      "originalFragranceName": "Caramel Dream",
+      "originalFragranceSlug": "sabrina-carpenter-caramel-dream",
+      "mistifyProductName": "Caramel Rêverie",
+      "mistifyProductSlug": "caramel-reverie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/caramel-reverie",
+      "publicInspiredByLabel": "Inspired by Sabrina Carpenter Caramel Dream",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar",
+        "Almond Milk",
+        "Orange",
+        "Freesia",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Vanilla",
+        "Orange Blossom",
+        "Orchid"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Sugar",
+        "Almond Milk",
+        "Orange",
+        "Freesia",
+        "Lemon",
+        "Dark Chocolate",
+        "Vanilla",
+        "Orange Blossom",
+        "Orchid",
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec29-2025-01-49-19PM-_1.png?v=1773460180",
+      "searchableText": "Sabrina Carpenter sabrina carpenter Sabrina Carpenter Caramel Dream Caramel Rêverie Oriental Vanilla unisex Sugar Almond Milk Orange Freesia Lemon Dark Chocolate Vanilla Orange Blossom Orchid Caramel Patchouli Sandalwood Musk Amber",
+      "createdAt": "2026-05-04T04:41:35.407Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Musk"
+      ]
+    },
+    {
+      "id": 199,
+      "fragranceSlug": "maison-mataha-escapade-gourmande-199",
+      "brandName": "Maison Mataha",
+      "brandSlug": "maison-mataha",
+      "originalFragranceName": "Escapade Gourmande",
+      "originalFragranceSlug": "maison-mataha-escapade-gourmande",
+      "mistifyProductName": "Gourmande Évasion",
+      "mistifyProductSlug": "gourmande-evasion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gourmande-evasion",
+      "publicInspiredByLabel": "Inspired by Maison Mataha Escapade Gourmande",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar Cane"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sugar Cane",
+        "Vanilla",
+        "Tonka Bean",
+        "Benzoin",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb24-2026-11-56-42AM-_1.png?v=1773460130",
+      "searchableText": "Maison Mataha maison mataha Maison Mataha Escapade Gourmande Gourmande Évasion Oriental Vanilla unisex Sugar Cane Vanilla Tonka Bean Benzoin Musk",
+      "createdAt": "2026-05-04T04:41:36.157Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 19,
+      "fragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold-19",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Gentle Fluidity Gold",
+      "originalFragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold",
+      "mistifyProductName": "Gently Fluid",
+      "mistifyProductSlug": "gently-fluid",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gently-fluid",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Gentle Fluidity Gold",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Juniper Berries",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Coriander",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Coriander",
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_14_05AM.png?v=1765422980",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Gentle Fluidity Gold Gently Fluid Oriental Vanilla unisex Juniper Berries Nutmeg Coriander Vanilla Amber Musk",
+      "createdAt": "2026-05-04T04:41:25.599Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 160,
+      "fragranceSlug": "initio-rehab-160",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Rehab",
+      "originalFragranceSlug": "initio-rehab",
+      "mistifyProductName": "Rehabilitee",
+      "mistifyProductSlug": "rehabilitee",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rehabilitee",
+      "publicInspiredByLabel": "Inspired by Initio Rehab",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Rehabilitee.png?v=1765422993",
+      "searchableText": "Initio initio parfums Initio Parfums Rehab Rehabilitee Woody Aromatic unisex Lavender Bergamot Cedar Vetiver Patchouli Sandalwood Musk Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:33.822Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Musk",
+        "Guaiac Wood"
+      ]
+    },
+    {
+      "id": 294,
+      "fragranceSlug": "bvlgari-le-gemme-orom-294",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Le Gemme Orom",
+      "originalFragranceSlug": "bvlgari-le-gemme-orom",
+      "mistifyProductName": "Orom Vanillé",
+      "mistifyProductSlug": "orom-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orom-vanille",
+      "publicInspiredByLabel": "Inspired by Bvlgari Le Gemme Orom",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bourbon Vanilla"
+      ],
+      "middleNotes": [
+        "Siam Benzoin"
+      ],
+      "baseNotes": [
+        "Oud"
+      ],
+      "allNotes": [
+        "Bourbon Vanilla",
+        "Siam Benzoin",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr30_2026_03_16_07PM.png?v=1777576576",
+      "searchableText": "Bvlgari bvlgari Bvlgari Le Gemme Orom Orom Vanillé Oriental Vanilla unisex Bourbon Vanilla Siam Benzoin Oud",
+      "createdAt": "2026-05-04T04:41:41.897Z",
+      "sharedNotes": [
+        "Bourbon Vanilla"
+      ]
+    }
+  ]
+}

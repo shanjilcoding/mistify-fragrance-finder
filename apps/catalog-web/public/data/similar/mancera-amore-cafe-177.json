@@ -1,0 +1,259 @@
+{
+  "fragrances": [
+    {
+      "id": 171,
+      "fragranceSlug": "montale-intense-cafe-171",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Intense Cafe",
+      "originalFragranceSlug": "montale-intense-cafe",
+      "mistifyProductName": "Café Rose",
+      "mistifyProductSlug": "cafe-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cafe-rose",
+      "publicInspiredByLabel": "Inspired by Montale Intense Cafe",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Floral Notes"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Coffee"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Floral Notes",
+        "Rose",
+        "Coffee",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CafeRose.png?v=1765422956",
+      "searchableText": "Montale montale Montale Intense Cafe Café Rose Oriental Vanilla unisex Floral Notes Rose Coffee Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.468Z",
+      "sharedNotes": [
+        "Coffee",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 56,
+      "fragranceSlug": "kilian-black-phantom-56",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Black Phantom",
+      "originalFragranceSlug": "kilian-black-phantom",
+      "mistifyProductName": "Dark Phantom",
+      "mistifyProductSlug": "dark-phantom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/dark-phantom",
+      "publicInspiredByLabel": "Inspired by Kilian Black Phantom",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Rum"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope",
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-42-32AM-_1.png?v=1773460532",
+      "searchableText": "Kilian kilian By Kilian Black Phantom Dark Phantom Oriental Vanilla unisex Rum Dark Chocolate Coffee Almond Heliotrope Caramel Sugar Cane Sandalwood Vanilla Tonka Vetiver",
+      "createdAt": "2026-05-04T04:41:27.757Z",
+      "sharedNotes": [
+        "Coffee",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 45,
+      "fragranceSlug": "louis-vuitton-fantasmagory-45",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Fantasmagory",
+      "originalFragranceSlug": "louis-vuitton-fantasmagory",
+      "mistifyProductName": "Fantasmique",
+      "mistifyProductSlug": "fantasmique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fantasmique",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Fantasmagory",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Anise",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Almond",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Leather"
+      ],
+      "allNotes": [
+        "Anise",
+        "Ginger",
+        "Almond",
+        "Floral Notes",
+        "Vanilla",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec18-2025-10-09-42AM-_1.png?v=1773460194",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Fantasmagory Fantasmique Oriental Vanilla unisex Anise Ginger Almond Floral Notes Vanilla Leather",
+      "createdAt": "2026-05-04T04:41:27.120Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 128,
+      "fragranceSlug": "creed-love-in-white-128",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Love in White",
+      "originalFragranceSlug": "creed-love-in-white",
+      "mistifyProductName": "White Love",
+      "mistifyProductSlug": "white-love",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/white-love",
+      "publicInspiredByLabel": "Inspired by Creed Love in White",
+      "audience": "womens",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Orange Zest"
+      ],
+      "middleNotes": [
+        "Rice",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Orange Zest",
+        "Rice",
+        "Jasmine",
+        "Vanilla",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-37-06PM-_1.png?v=1773460555",
+      "searchableText": "Creed creed Creed Love in White White Love Floral Oriental womens Orange Zest Rice Jasmine Vanilla Ambergris",
+      "createdAt": "2026-05-04T04:41:31.974Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Ambergris"
+      ]
+    },
+    {
+      "id": 181,
+      "fragranceSlug": "mancera-roses-vanille-181",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Roses Vanille",
+      "originalFragranceSlug": "mancera-roses-vanille",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mancera Roses Vanille",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Italian Lemon"
+      ],
+      "middleNotes": [
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Italian Lemon",
+        "Turkish Rose",
+        "Vanilla",
+        "White Musk",
+        "Cedar"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mancera mancera Mancera Roses Vanille Not verified Oriental Vanilla Italian Lemon Turkish Rose Vanilla White Musk Cedar",
+      "createdAt": "2026-05-04T04:41:35.051Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 332,
+      "fragranceSlug": "dior-poison-girl-332",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Poison Girl",
+      "originalFragranceSlug": "dior-poison-girl",
+      "mistifyProductName": "Venom Femme",
+      "mistifyProductSlug": "venom-femme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/venom-femme",
+      "publicInspiredByLabel": "Dior Poison Girl",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bitter Orange",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Damask Rose",
+        "Grasse Rose",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Almond",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bitter Orange",
+        "Lemon",
+        "Damask Rose",
+        "Grasse Rose",
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla",
+        "Almond",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-23-15AM-_1.png?v=1773460465",
+      "searchableText": "Dior Christian Dior Poison Girl Venom Femme Oriental Vanilla Bitter Orange Lemon Damask Rose Grasse Rose Orange Blossom Tonka Bean Vanilla Almond Sandalwood",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    }
+  ]
+}

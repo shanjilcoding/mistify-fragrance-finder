@@ -1,0 +1,348 @@
+{
+  "fragrances": [
+    {
+      "id": 247,
+      "fragranceSlug": "penhaligon-s-halfeti-247",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti",
+      "originalFragranceSlug": "penhaligon-s-halfeti",
+      "mistifyProductName": "Halfeti Rose",
+      "mistifyProductSlug": "halfeti-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit",
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine",
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_43_29AM.png?v=1765422933",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Halfeti Rose Oriental Woody unisex Cypress Leaf Saffron Cardamom Artemisia Bergamot Grapefruit Bulgarian Rose Nutmeg Jasmine Oud Cedar Leather Sandalwood Amber Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:39.038Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Oud",
+        "Tonka Bean",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 166,
+      "fragranceSlug": "montale-aoud-night-166",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Night",
+      "originalFragranceSlug": "montale-aoud-night",
+      "mistifyProductName": "Midnight Oud",
+      "mistifyProductSlug": "midnight-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/midnight-oud",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Night",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Fruity Notes",
+        "Bergamot",
+        "Sicilian Lemon"
+      ],
+      "middleNotes": [
+        "Moroccan Rose",
+        "Indonesian Patchouli Leaf"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Guaiac Wood",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Fruity Notes",
+        "Bergamot",
+        "Sicilian Lemon",
+        "Moroccan Rose",
+        "Indonesian Patchouli Leaf",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Guaiac Wood",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MidnightOud.png?v=1765422949",
+      "searchableText": "Montale montale Montale Aoud Night Midnight Oud Oriental Woody unisex Oud Fruity Notes Bergamot Sicilian Lemon Moroccan Rose Indonesian Patchouli Leaf Leather Sandalwood Amber Guaiac Wood White Musk",
+      "createdAt": "2026-05-04T04:41:34.175Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Oud",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 83,
+      "fragranceSlug": "tom-ford-oud-wood-83",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Wood",
+      "originalFragranceSlug": "tom-ford-oud-wood",
+      "mistifyProductName": "Woody Oud",
+      "mistifyProductSlug": "woody-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/woody-oud",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Wood",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Rosewood",
+        "Cardamom",
+        "Sichuan Pepper"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Sandalwood",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Amber"
+      ],
+      "allNotes": [
+        "Rosewood",
+        "Cardamom",
+        "Sichuan Pepper",
+        "Oud",
+        "Sandalwood",
+        "Vetiver",
+        "Tonka Bean",
+        "Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_36_27PM.png?v=1765422876",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Wood Woody Oud Oriental Woody unisex Rosewood Cardamom Sichuan Pepper Oud Sandalwood Vetiver Tonka Bean Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:29.342Z",
+      "sharedNotes": [
+        "Oud",
+        "Tonka Bean",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 164,
+      "fragranceSlug": "montale-arabians-tonka-164",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Arabians Tonka",
+      "originalFragranceSlug": "montale-arabians-tonka",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Arabians Tonka",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Saffron",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Bulgarian Rose"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Sugar Cane",
+        "Amber",
+        "White Musk",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Bergamot",
+        "Oud",
+        "Bulgarian Rose",
+        "Tonka Bean",
+        "Sugar Cane",
+        "Amber",
+        "White Musk",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Arabians Tonka Not verified Oriental Woody Saffron Bergamot Oud Bulgarian Rose Tonka Bean Sugar Cane Amber White Musk Oakmoss",
+      "createdAt": "2026-05-04T04:41:34.064Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Oud",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 284,
+      "fragranceSlug": "carolina-herrera-mystery-tobacco-284",
+      "brandName": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "originalFragranceName": "Mystery Tobacco",
+      "originalFragranceSlug": "carolina-herrera-mystery-tobacco",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Carolina Herrera Mystery Tobacco",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Osmanthus",
+        "Ginger",
+        "Citruses",
+        "Artemisia"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Patchouli",
+        "Guaiac Wood",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Ginger",
+        "Citruses",
+        "Artemisia",
+        "Tobacco",
+        "Patchouli",
+        "Guaiac Wood",
+        "Vetiver",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Carolina Herrera carolina herrera Carolina Herrera Mystery Tobacco Not verified Oriental Woody Osmanthus Ginger Citruses Artemisia Tobacco Patchouli Guaiac Wood Vetiver Tonka Bean",
+      "createdAt": "2026-05-04T04:41:41.303Z",
+      "sharedNotes": [
+        "Ginger",
+        "Tonka Bean",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 278,
+      "fragranceSlug": "amouage-outlands-278",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Outlands",
+      "originalFragranceSlug": "amouage-outlands",
+      "mistifyProductName": "Outland Aura",
+      "mistifyProductSlug": "outland-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/outland-aura",
+      "publicInspiredByLabel": "Inspired by Amouage Outlands",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Frankincense",
+        "Cardamom",
+        "Elemi",
+        "Lemon",
+        "Bergamot",
+        "Sichuan Pepper"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Anise",
+        "Coriander",
+        "Cumin",
+        "Saffron",
+        "Orange Blossom",
+        "Wormwood",
+        "Geranium",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Frankincense",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Oud",
+        "Opoponax",
+        "Birch",
+        "Ambergris",
+        "Labdanum",
+        "Maltol",
+        "Musk"
+      ],
+      "allNotes": [
+        "Frankincense",
+        "Cardamom",
+        "Elemi",
+        "Lemon",
+        "Bergamot",
+        "Sichuan Pepper",
+        "Patchouli",
+        "Anise",
+        "Coriander",
+        "Cumin",
+        "Saffron",
+        "Orange Blossom",
+        "Wormwood",
+        "Geranium",
+        "Rose",
+        "Frankincense",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Oud",
+        "Opoponax",
+        "Birch",
+        "Ambergris",
+        "Labdanum",
+        "Maltol",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb3-2026-06-02-40PM-_1.png?v=1773460158",
+      "searchableText": "Amouage amouage Amouage Outlands Outland Aura Oriental Woody unisex Frankincense Cardamom Elemi Lemon Bergamot Sichuan Pepper Patchouli Anise Coriander Cumin Saffron Orange Blossom Wormwood Geranium Rose Frankincense Vanilla Amber Benzoin Oud Opoponax Birch Ambergris Labdanum Maltol Musk",
+      "createdAt": "2026-05-04T04:41:40.947Z",
+      "sharedNotes": [
+        "Frankincense",
+        "Bergamot",
+        "Oud",
+        "Patchouli"
+      ]
+    }
+  ]
+}

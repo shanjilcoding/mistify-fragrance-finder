@@ -1,0 +1,311 @@
+{
+  "fragrances": [
+    {
+      "id": 20,
+      "fragranceSlug": "maison-francis-kurkdjian-oud-20",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Oud",
+      "originalFragranceSlug": "maison-francis-kurkdjian-oud",
+      "mistifyProductName": "Satin Moody Oud",
+      "mistifyProductSlug": "satin-moody-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/satin-moody-oud",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud",
+      "audience": null,
+      "classification": "Oriental Woody/Oud Woody",
+      "topNotes": [
+        "Saffron",
+        "Elemi"
+      ],
+      "middleNotes": [
+        "Agarwood/Oud"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Elemi",
+        "Agarwood/Oud",
+        "Patchouli",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_13_59PM.png?v=1765422983",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Satin Moody Oud Oriental Woody/Oud Woody Saffron Elemi Agarwood/Oud Patchouli Cedar",
+      "createdAt": "2026-05-04T04:41:25.657Z",
+      "sharedNotes": [
+        "Elemi",
+        "Saffron",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 136,
+      "fragranceSlug": "creed-delphinus-136",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Delphinus",
+      "originalFragranceSlug": "creed-delphinus",
+      "mistifyProductName": "Starphinus",
+      "mistifyProductSlug": "starphinus",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/starphinus",
+      "publicInspiredByLabel": "Inspired by Creed Delphinus",
+      "audience": "unisex",
+      "classification": "Amber Spicy",
+      "topNotes": [
+        "Almond",
+        "Pink Pepper",
+        "Black Pepper"
+      ],
+      "middleNotes": [
+        "Orris",
+        "Heliotrope",
+        "Orchid"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Tonka Bean",
+        "Leather",
+        "Amberwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Almond",
+        "Pink Pepper",
+        "Black Pepper",
+        "Orris",
+        "Heliotrope",
+        "Orchid",
+        "Bourbon Vanilla",
+        "Tonka Bean",
+        "Leather",
+        "Amberwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-13-03AM-_1.png?v=1773460303",
+      "searchableText": "Creed creed Creed Delphinus Starphinus Amber Spicy unisex Almond Pink Pepper Black Pepper Orris Heliotrope Orchid Bourbon Vanilla Tonka Bean Leather Amberwood Patchouli",
+      "createdAt": "2026-05-04T04:41:32.427Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Bourbon Vanilla"
+      ]
+    },
+    {
+      "id": 319,
+      "fragranceSlug": "dior-sauvage-319",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Sauvage",
+      "originalFragranceSlug": "dior-sauvage",
+      "mistifyProductName": "Sauvagerie",
+      "mistifyProductSlug": "sauvagerie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sauvagerie",
+      "publicInspiredByLabel": "Dior Sauvage",
+      "audience": null,
+      "classification": "Aromatic Fresh / Woody Spicy",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Black Pepper",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Sichuan Pepper",
+        "Lavender",
+        "Geranium",
+        "Elemi",
+        "Patchouli",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Cedar",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Black Pepper",
+        "Pink Pepper",
+        "Sichuan Pepper",
+        "Lavender",
+        "Geranium",
+        "Elemi",
+        "Patchouli",
+        "Vetiver",
+        "Ambroxan",
+        "Cedar",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun11_2026_07_51_31AM.png?v=1781178701",
+      "searchableText": "Dior Dior Sauvage Sauvagerie Aromatic Fresh / Woody Spicy Calabrian Bergamot Black Pepper Pink Pepper Sichuan Pepper Lavender Geranium Elemi Patchouli Vetiver Ambroxan Cedar Labdanum",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Elemi",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 88,
+      "fragranceSlug": "tom-ford-tuscan-leather-88",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Tuscan Leather",
+      "originalFragranceSlug": "tom-ford-tuscan-leather",
+      "mistifyProductName": "Leather Tuscany",
+      "mistifyProductSlug": "leather-tuscany",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/leather-tuscany",
+      "publicInspiredByLabel": "Inspired by Tom Ford Tuscan Leather",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Olibanum",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Suede",
+        "Amber",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Thyme",
+        "Olibanum",
+        "Jasmine",
+        "Leather",
+        "Suede",
+        "Amber",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Tom Ford tom ford Tom Ford Tuscan Leather Leather Tuscany Leather unisex Raspberry Saffron Thyme Olibanum Jasmine Leather Suede Amber Woody Notes",
+      "createdAt": "2026-05-04T04:41:29.625Z",
+      "sharedNotes": [
+        "Olibanum",
+        "Saffron",
+        "Suede"
+      ]
+    },
+    {
+      "id": 113,
+      "fragranceSlug": "bond-no-9-b9-113",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "B9",
+      "originalFragranceSlug": "bond-no-9-b9",
+      "mistifyProductName": "Bonded 9",
+      "mistifyProductSlug": "bonded-9",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bonded-9",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 B9",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Gardenia",
+        "Saffron",
+        "Musk",
+        "Amber",
+        "Jasmine",
+        "Orchid",
+        "Citruses",
+        "Sandalwood",
+        "Oakmoss",
+        "Vetiver",
+        "Oud"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Gardenia",
+        "Saffron",
+        "Musk",
+        "Amber",
+        "Jasmine",
+        "Orchid",
+        "Citruses",
+        "Sandalwood",
+        "Oakmoss",
+        "Vetiver",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_56_50PM.png?v=1774407417",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 B9 Bonded 9 Oriental Spicy unisex Gardenia Saffron Musk Amber Jasmine Orchid Citruses Sandalwood Oakmoss Vetiver Oud",
+      "createdAt": "2026-05-04T04:41:31.088Z",
+      "sharedNotes": [
+        "Saffron"
+      ]
+    },
+    {
+      "id": 256,
+      "fragranceSlug": "roja-dove-amber-aoud-256",
+      "brandName": "Roja Dove",
+      "brandSlug": "roja-dove",
+      "originalFragranceName": "Amber Aoud",
+      "originalFragranceSlug": "roja-dove-amber-aoud",
+      "mistifyProductName": "Amber Oudh",
+      "mistifyProductSlug": "amber-oudh",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-oudh",
+      "publicInspiredByLabel": "Inspired by Roja Dove Amber Aoud",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Lime",
+        "Rose",
+        "Fig",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Oud",
+        "Ambergris",
+        "Saffron",
+        "Civet",
+        "Sandalwood",
+        "Musk",
+        "Orris",
+        "Cinnamon",
+        "Patchouli",
+        "Birch",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-12-15PM-_1.png?v=1773460351",
+      "searchableText": "Roja Dove roja dove Roja Dove Amber Aoud Amber Oudh Oriental Spicy unisex Bergamot Lemon Lime Rose Fig Ylang-Ylang Jasmine Oud Ambergris Saffron Civet Sandalwood Musk Orris Cinnamon Patchouli Birch Oakmoss",
+      "createdAt": "2026-05-04T04:41:39.587Z",
+      "sharedNotes": [
+        "Saffron"
+      ]
+    }
+  ]
+}

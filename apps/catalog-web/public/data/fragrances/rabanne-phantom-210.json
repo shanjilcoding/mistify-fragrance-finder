@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 210,
+    "fragranceSlug": "rabanne-phantom-210",
+    "brandName": "Rabanne",
+    "brandSlug": "rabanne",
+    "originalFragranceName": "Phantom",
+    "originalFragranceSlug": "rabanne-phantom",
+    "mistifyProductName": "Spirit",
+    "mistifyProductSlug": "spirit",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/spirit",
+    "publicInspiredByLabel": "Inspired by Rabanne Phantom",
+    "audience": "mens",
+    "classification": "Aromatic Fougere",
+    "topNotes": [
+      "Lemon",
+      "Lavender",
+      "Amalfi Lemon"
+    ],
+    "middleNotes": [
+      "Apple",
+      "Smoke"
+    ],
+    "baseNotes": [
+      "Patchouli",
+      "Vanilla",
+      "Vetiver"
+    ],
+    "allNotes": [
+      "Lemon",
+      "Lavender",
+      "Amalfi Lemon",
+      "Apple",
+      "Smoke",
+      "Patchouli",
+      "Vanilla",
+      "Vetiver"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_47_55PM.png?v=1774406882",
+    "searchableText": "Rabanne paco rabanne Paco Rabanne Phantom Spirit Aromatic Fougere mens Lemon Lavender Amalfi Lemon Apple Smoke Patchouli Vanilla Vetiver",
+    "createdAt": "2026-05-04T04:41:36.818Z"
+  }
+}

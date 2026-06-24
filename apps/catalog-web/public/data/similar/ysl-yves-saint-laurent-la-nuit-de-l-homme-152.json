@@ -1,0 +1,270 @@
+{
+  "fragrances": [
+    {
+      "id": 150,
+      "fragranceSlug": "ysl-yves-saint-laurent-splendid-wood-150",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Splendid Wood",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-splendid-wood",
+      "mistifyProductName": "Majestic Timber",
+      "mistifyProductSlug": "majestic-timber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-timber",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Splendid Wood",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom",
+        "Incense"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Cypriol"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Incense",
+        "Cedar",
+        "Cypriol",
+        "Oud",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MajesticTimber-_1.png?v=1773460419",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Splendid Wood Majestic Timber Woody Spicy unisex Cardamom Incense Cedar Cypriol Oud Sandalwood",
+      "createdAt": "2026-05-04T04:41:33.251Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 254,
+      "fragranceSlug": "jo-malone-english-oak-and-hazelnut-254",
+      "brandName": "Jo Malone",
+      "brandSlug": "jo-malone",
+      "originalFragranceName": "English Oak & Hazelnut",
+      "originalFragranceSlug": "jo-malone-english-oak-and-hazelnut",
+      "mistifyProductName": "Hazelnut & Oak",
+      "mistifyProductSlug": "hazelnut-and-oak",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hazelnut-oak",
+      "publicInspiredByLabel": "Inspired by Jo Malone English Oak & Hazelnut",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Hazelnut"
+      ],
+      "middleNotes": [
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Oak"
+      ],
+      "allNotes": [
+        "Hazelnut",
+        "Cedar",
+        "Oak"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-43-44PM-_1.png?v=1773460328",
+      "searchableText": "Jo Malone jo malone Jo Malone English Oak & Hazelnut Hazelnut & Oak Woody Spicy unisex Hazelnut Cedar Oak",
+      "createdAt": "2026-05-04T04:41:39.466Z",
+      "sharedNotes": [
+        "Cedar"
+      ]
+    },
+    {
+      "id": 77,
+      "fragranceSlug": "tom-ford-grey-vetiver-77",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Grey Vetiver",
+      "originalFragranceSlug": "tom-ford-grey-vetiver",
+      "mistifyProductName": "Silver Vetiver",
+      "mistifyProductSlug": "silver-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silver-vetiver",
+      "publicInspiredByLabel": "Inspired by Tom Ford Grey Vetiver",
+      "audience": "mens",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Grapefruit",
+        "Orange Blossom",
+        "Sage"
+      ],
+      "middleNotes": [
+        "Nutmeg",
+        "Orris Root",
+        "Pimento"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Woodsy Notes",
+        "Oakmoss",
+        "Amber"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Orange Blossom",
+        "Sage",
+        "Nutmeg",
+        "Orris Root",
+        "Pimento",
+        "Vetiver",
+        "Woodsy Notes",
+        "Oakmoss",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_54_08AM.png?v=1765422869",
+      "searchableText": "Tom Ford tom ford Tom Ford Grey Vetiver Silver Vetiver Woody Spicy mens Grapefruit Orange Blossom Sage Nutmeg Orris Root Pimento Vetiver Woodsy Notes Oakmoss Amber",
+      "createdAt": "2026-05-04T04:41:28.987Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 146,
+      "fragranceSlug": "ysl-yves-saint-laurent-l-homme-ultimate-146",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "L’Homme Ultimate",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-l-homme-ultimate",
+      "mistifyProductName": "Hommes Ultimate",
+      "mistifyProductSlug": "hommes-ultimate",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hommes-ultimate",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) L’Homme Ultimate",
+      "audience": "mens",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Sage",
+        "Geranium",
+        "Apple"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Vetiver",
+        "Cashmere Wood"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot",
+        "Rose",
+        "Sage",
+        "Geranium",
+        "Apple",
+        "Cedar",
+        "Vetiver",
+        "Cashmere Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-30PM-_1.png?v=1773460429",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) L’Homme Ultimate Hommes Ultimate Woody Floral Musk mens Ginger Grapefruit Cardamom Bergamot Rose Sage Geranium Apple Cedar Vetiver Cashmere Wood",
+      "createdAt": "2026-05-04T04:41:33.006Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Cedar",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 98,
+      "fragranceSlug": "parfums-de-marly-herod-98",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Herod",
+      "originalFragranceSlug": "parfums-de-marly-herod",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Herod",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Pepperwood"
+      ],
+      "middleNotes": [
+        "Tobacco Leaf",
+        "Incense",
+        "Osmanthus",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk",
+        "Cypriol",
+        "Vetiver",
+        "Amber",
+        "Iso E Super"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Pepperwood",
+        "Tobacco Leaf",
+        "Incense",
+        "Osmanthus",
+        "Labdanum",
+        "Vanilla",
+        "Cedar",
+        "Musk",
+        "Cypriol",
+        "Vetiver",
+        "Amber",
+        "Iso E Super"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Herod Not verified Woody Spicy Cinnamon Pepperwood Tobacco Leaf Incense Osmanthus Labdanum Vanilla Cedar Musk Cypriol Vetiver Amber Iso E Super",
+      "createdAt": "2026-05-04T04:41:30.212Z",
+      "sharedNotes": [
+        "Cedar",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 218,
+      "fragranceSlug": "ermenegildo-zegna-javanese-patchouli-218",
+      "brandName": "Ermenegildo Zegna",
+      "brandSlug": "ermenegildo-zegna",
+      "originalFragranceName": "Javanese Patchouli",
+      "originalFragranceSlug": "ermenegildo-zegna-javanese-patchouli",
+      "mistifyProductName": "Mystic Pathouli",
+      "mistifyProductSlug": "mystic-pathouli",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mystic-pathouli",
+      "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Javanese Patchouli",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Patchouli",
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Cedar",
+        "Tonka Bean"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Patchouli",
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Cedar",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-31-15PM-_1.png?v=1773460478",
+      "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Javanese Patchouli Mystic Pathouli Woody Spicy unisex Patchouli Pink Pepper Calabrian Bergamot Cedar Tonka Bean",
+      "createdAt": "2026-05-04T04:41:37.272Z",
+      "sharedNotes": [
+        "Cedar"
+      ]
+    }
+  ]
+}

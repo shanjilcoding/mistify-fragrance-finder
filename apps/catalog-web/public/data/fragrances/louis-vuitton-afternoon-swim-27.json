@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 27,
+    "fragranceSlug": "louis-vuitton-afternoon-swim-27",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Afternoon Swim",
+    "originalFragranceSlug": "louis-vuitton-afternoon-swim",
+    "mistifyProductName": "Afterdawn Swim",
+    "mistifyProductSlug": "afterdawn-swim",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/afterdawn-swim",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Afternoon Swim",
+    "audience": "unisex",
+    "classification": "Citrus",
+    "topNotes": [
+      "Bergamot",
+      "Mandarin",
+      "Orange"
+    ],
+    "middleNotes": [
+      "Ginger"
+    ],
+    "baseNotes": [
+      "Ambergris"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Mandarin",
+      "Orange",
+      "Ginger",
+      "Ambergris"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_12_16_25PM.png?v=1765422821",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Afternoon Swim Afterdawn Swim Citrus unisex Bergamot Mandarin Orange Ginger Ambergris",
+    "createdAt": "2026-05-04T04:41:26.069Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 72,
+    "fragranceSlug": "kilian-straight-to-heaven-72",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Straight to Heaven",
+    "originalFragranceSlug": "kilian-straight-to-heaven",
+    "mistifyProductName": "Heaven’s Voyage",
+    "mistifyProductSlug": "heaven-s-voyage",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/heavens-voyage",
+    "publicInspiredByLabel": "Inspired by Kilian Straight to Heaven",
+    "audience": "unisex",
+    "classification": "Woody Spicy",
+    "topNotes": [
+      "Rum",
+      "Dried Fruits"
+    ],
+    "middleNotes": [
+      "Nutmeg",
+      "Cedarwood"
+    ],
+    "baseNotes": [
+      "Patchouli",
+      "Vanilla"
+    ],
+    "allNotes": [
+      "Rum",
+      "Dried Fruits",
+      "Nutmeg",
+      "Cedarwood",
+      "Patchouli",
+      "Vanilla"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_04_02_12PM.png?v=1774382538",
+    "searchableText": "Kilian kilian By Kilian Straight to Heaven Heaven’s Voyage Woody Spicy unisex Rum Dried Fruits Nutmeg Cedarwood Patchouli Vanilla",
+    "createdAt": "2026-05-04T04:41:28.698Z"
+  }
+}

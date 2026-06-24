@@ -1,0 +1,277 @@
+{
+  "fragrances": [
+    {
+      "id": 149,
+      "fragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet-149",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Supreme Bouquet",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-supreme-bouquet",
+      "mistifyProductName": "Ethereal Bloom",
+      "mistifyProductSlug": "ethereal-bloom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ethereal-bloom",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Supreme Bouquet",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pear",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pear",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/EtherealBloom-_1.png?v=1773460422",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Supreme Bouquet Ethereal Bloom Amber Floral womens Pear Pink Pepper Tuberose Ylang-Ylang Jasmine Amber Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.197Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Amber",
+        "Musk",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 200,
+      "fragranceSlug": "xerjoff-accento-200",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Accento",
+      "originalFragranceSlug": "xerjoff-accento",
+      "mistifyProductName": "Accents",
+      "mistifyProductSlug": "accents",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+      "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pineapple",
+        "Hyacinth"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Iris",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Hyacinth",
+        "Jasmine",
+        "Iris",
+        "Pink Pepper",
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+      "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:36.220Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Amber",
+        "Musk",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 236,
+      "fragranceSlug": "stephane-h-lucas-sea-my-love-236",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "Sea My Love",
+      "originalFragranceSlug": "stephane-h-lucas-sea-my-love",
+      "mistifyProductName": "Sea Siren",
+      "mistifyProductSlug": "sea-siren",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sea-siren",
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas Sea My Love",
+      "audience": "unisex",
+      "classification": "Woody Aquatic",
+      "topNotes": [
+        "Salt",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Marine Notes",
+        "Leather",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Benzoin",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Salt",
+        "Mandarin",
+        "Marine Notes",
+        "Leather",
+        "Jasmine",
+        "Amber",
+        "Benzoin",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-53-01PM-_1.png?v=1773460277",
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas Sea My Love Sea Siren Woody Aquatic unisex Salt Mandarin Marine Notes Leather Jasmine Amber Benzoin Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:38.365Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Amber",
+        "Musk",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 5,
+      "fragranceSlug": "guerlain-tobacco-honey-5",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Tobacco Honey",
+      "originalFragranceSlug": "guerlain-tobacco-honey",
+      "mistifyProductName": "Honey Tobaccoe",
+      "mistifyProductSlug": "honey-tobaccoe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/honey-tobaccoe",
+      "publicInspiredByLabel": "Inspired by Guerlain Tobacco Honey",
+      "audience": "unisex",
+      "classification": "Oriental Gourmand",
+      "topNotes": [
+        "Honey",
+        "Plum"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Cinnamon"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Honey",
+        "Plum",
+        "Tobacco",
+        "Cinnamon",
+        "Patchouli",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-30-16PM-_1.png?v=1773460364",
+      "searchableText": "Guerlain guerlain Guerlain Tobacco Honey Honey Tobaccoe Oriental Gourmand unisex Honey Plum Tobacco Cinnamon Patchouli Amber Musk",
+      "createdAt": "2026-05-04T04:41:24.794Z",
+      "sharedNotes": [
+        "Amber",
+        "Musk",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 3,
+      "fragranceSlug": "guerlain-santal-royal-3",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Santal Royal",
+      "originalFragranceSlug": "guerlain-santal-royal",
+      "mistifyProductName": "Royal Santal",
+      "mistifyProductSlug": "royal-santal",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/royal-santal",
+      "publicInspiredByLabel": "Inspired by Guerlain Santal Royal",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Neroli",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Sandalwood",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Jasmine",
+        "Sandalwood",
+        "Rose",
+        "Leather",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-20-14PM-_1.png?v=1773460356",
+      "searchableText": "Guerlain guerlain Guerlain Santal Royal Royal Santal Oriental Woody unisex Neroli Jasmine Sandalwood Rose Leather Amber Musk",
+      "createdAt": "2026-05-04T04:41:24.668Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 135,
+      "fragranceSlug": "creed-white-amber-135",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "White Amber",
+      "originalFragranceSlug": "creed-white-amber",
+      "mistifyProductName": "Whitened Amber",
+      "mistifyProductSlug": "whitened-amber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/whitened-amber",
+      "publicInspiredByLabel": "Inspired by Creed White Amber",
+      "audience": "mens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Amber",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Benzoin"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Amber",
+        "Jasmine",
+        "Benzoin",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-37-49AM-_1.png?v=1773460545",
+      "searchableText": "Creed creed Creed White Amber Whitened Amber Floral Woody Musk mens Amber Jasmine Benzoin Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.365Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Amber",
+        "Musk"
+      ]
+    }
+  ]
+}

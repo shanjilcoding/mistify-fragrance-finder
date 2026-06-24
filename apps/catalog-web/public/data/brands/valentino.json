@@ -1,0 +1,41 @@
+{
+  "brand": {
+    "brandName": "Valentino",
+    "brandSlug": "valentino",
+    "fragranceCount": 1,
+    "searchableText": "Born In Roma Intense Roma Intenso Inspired by Valentino Born In Roma Intense Valentino valentino Valentino Born In Roma Intense Roma Intenso Amber Vanilla/Aromatic Woody unisex Vanilla Infusion Lavandin Vetiver"
+  },
+  "fragrances": [
+    {
+      "id": 264,
+      "fragranceSlug": "valentino-born-in-roma-intense-264",
+      "brandName": "Valentino",
+      "brandSlug": "valentino",
+      "originalFragranceName": "Born In Roma Intense",
+      "originalFragranceSlug": "valentino-born-in-roma-intense",
+      "mistifyProductName": "Roma Intenso",
+      "mistifyProductSlug": "roma-intenso",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/roma-intenso",
+      "publicInspiredByLabel": "Inspired by Valentino Born In Roma Intense",
+      "audience": "unisex",
+      "classification": "Amber Vanilla/Aromatic Woody",
+      "topNotes": [
+        "Vanilla Infusion"
+      ],
+      "middleNotes": [
+        "Lavandin"
+      ],
+      "baseNotes": [
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Vanilla Infusion",
+        "Lavandin",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-20-40AM-_1.png?v=1773460133",
+      "searchableText": "Valentino valentino Valentino Born In Roma Intense Roma Intenso Amber Vanilla/Aromatic Woody unisex Vanilla Infusion Lavandin Vetiver",
+      "createdAt": "2026-05-04T04:41:40.078Z"
+    }
+  ]
+}

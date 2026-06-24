@@ -1,0 +1,277 @@
+{
+  "fragrances": [
+    {
+      "id": 311,
+      "fragranceSlug": "clive-christian-l-red-tea-vetiver-311",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "L Red Tea Vetiver",
+      "originalFragranceSlug": "clive-christian-l-red-tea-vetiver",
+      "mistifyProductName": "Rouge Thé Vetiver",
+      "mistifyProductSlug": "rouge-the-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rouge-the-vetiver",
+      "publicInspiredByLabel": "Clive Christian L Red Tea Vetiver",
+      "audience": null,
+      "classification": "Citrus Woody / Aromatic Tea",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Rooibos Tea",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Rooibos Tea",
+        "Vetiver",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_45_38AM.png?v=1781711148",
+      "searchableText": "Clive Christian Clive Christian L Red Tea Vetiver Rouge Thé Vetiver Citrus Woody / Aromatic Tea Bergamot Lemon Rooibos Tea Vetiver Sandalwood Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Lemon",
+        "Bergamot",
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z",
+      "sharedNotes": [
+        "Cedar",
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 160,
+      "fragranceSlug": "initio-rehab-160",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Rehab",
+      "originalFragranceSlug": "initio-rehab",
+      "mistifyProductName": "Rehabilitee",
+      "mistifyProductSlug": "rehabilitee",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rehabilitee",
+      "publicInspiredByLabel": "Inspired by Initio Rehab",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Rehabilitee.png?v=1765422993",
+      "searchableText": "Initio initio parfums Initio Parfums Rehab Rehabilitee Woody Aromatic unisex Lavender Bergamot Cedar Vetiver Patchouli Sandalwood Musk Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:33.822Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Cedar",
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 28,
+      "fragranceSlug": "louis-vuitton-city-of-stars-28",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "City of Stars",
+      "originalFragranceSlug": "louis-vuitton-city-of-stars",
+      "mistifyProductName": "Starry City",
+      "mistifyProductSlug": "starry-city",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/starry-city",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton City of Stars",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Lime",
+        "Blood Orange",
+        "Blood Mandarin",
+        "Lemon",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Tiare Flower"
+      ],
+      "baseNotes": [
+        "Powdery Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Lime",
+        "Blood Orange",
+        "Blood Mandarin",
+        "Lemon",
+        "Bergamot",
+        "Tiare Flower",
+        "Powdery Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_26_41PM.png?v=1765422822",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton City of Stars Starry City Citrus Aromatic unisex Lime Blood Orange Blood Mandarin Lemon Bergamot Tiare Flower Powdery Notes Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:26.125Z",
+      "sharedNotes": [
+        "Lemon",
+        "Bergamot",
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 16,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte-16",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Vitae Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte",
+      "mistifyProductName": "Vitae Essence",
+      "mistifyProductSlug": "vitae-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vitae-essence",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Vitae Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Floral Notes",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Floral Notes",
+        "Solar Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/VitaeEssence.png?v=1765422978",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Vitae Cologne Forte Vitae Essence Citrus unisex Mandarin Orange Bergamot Floral Notes Solar Notes Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.428Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 132,
+      "fragranceSlug": "creed-silver-mountain-water-132",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Silver Mountain Water",
+      "originalFragranceSlug": "creed-silver-mountain-water",
+      "mistifyProductName": "Mountain Heights",
+      "mistifyProductSlug": "mountain-heights",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mountain-heights",
+      "publicInspiredByLabel": "Inspired by Creed Silver Mountain Water",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Green Tea",
+        "Black Currant"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Petitgrain",
+        "Sandalwood",
+        "Galbanum"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Green Tea",
+        "Black Currant",
+        "Musk",
+        "Petitgrain",
+        "Sandalwood",
+        "Galbanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_04_03_06PM.png?v=1765422855",
+      "searchableText": "Creed creed Creed Silver Mountain Water Mountain Heights Aromatic unisex Bergamot Mandarin Orange Green Tea Black Currant Musk Petitgrain Sandalwood Galbanum",
+      "createdAt": "2026-05-04T04:41:32.199Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Galbanum",
+        "Sandalwood",
+        "Musk"
+      ]
+    }
+  ]
+}

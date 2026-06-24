@@ -1,0 +1,668 @@
+{
+  "brand": {
+    "brandName": "Maison Francis Kurkdjian",
+    "brandSlug": "maison-francis-kurkdjian",
+    "fragranceCount": 17,
+    "searchableText": "724 Urban Glow Inspired by Maison Francis Kurkdjian 724 Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian 724 Urban Glow Citrus Floral unisex Aldehydes Italian Bergamot White Flowers Sweet Pea Jasmine Musk Sandalwood A La Rose Rose Veil Inspired by Maison Francis Kurkdjian A La Rose Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian A La Rose Rose Veil Floral womens Bulgarian Damask Rose Calabrian Bergamot Orange May Rose Magnolia Musk Cedarwood A.P.O.M A Part of Aura Inspired by Maison Francis Kurkdjian A.P.O.M Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian A.P.O.M A Part of Aura Amber Floral Fougere unisex Sweet Florals Orange Blossom Lavender Ylang-Ylang Orange Blossom Vanilla White Musk Light Amber Amyris Femme Iris Essence Inspired by Maison Francis Kurkdjian Amyris Femme Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Amyris Femme Iris Essence Floral Woody/Musky Floral womens Lemon Blossom California Orange Amyris Iris Vetiver Musk Amber Aqua Celestia Cologne Forte Celestial Waters Inspired by Maison Francis Kurkdjian Aqua Celestia Cologne Forte Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Celestia Cologne Forte Celestial Waters Citrus Aromatic unisex Bergamot Black Currant Jasmine Mimosa Musk Aqua Media Cologne Forte Aqua Médié Inspired by Maison Francis Kurkdjian Aqua Media Cologne Forte Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Media Cologne Forte Aqua Médié Green Citrus/Aromatic Fresh unisex Bergamot Vervain Fennel Hedione Matcha Tea Musk Woodsy Notes Aqua Universalis Aqua Universelle Inspired by Maison Francis Kurkdjian Aqua Universalis Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Universalis Aqua Universelle Green Citrus/Aromatic Fresh unisex Bergamot Vervain Fennel Hedione Matcha Tea Musk Woodsy Notes Aqua Vitae Cologne Forte Vitae Essence Inspired by Maison Francis Kurkdjian Aqua Vitae Cologne Forte Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Vitae Cologne Forte Vitae Essence Citrus unisex Mandarin Orange Bergamot Floral Notes Solar Notes Musk Sandalwood Baccarat Rouge 540 Baccarata 440 Inspired by Maison Francis Kurkdjian Baccarat Rouge 540 Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Baccarat Rouge 540 Baccarata 440 Amber Floral unisex Saffron Jasmine Ambergris Cedar Fir Resin Baccarat Rouge 540 Extrait de Parfum Baccarata Intense 440 Inspired by Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum Baccarata Intense 440 Amber Floral Bitter Almond Saffron Egyptian Jasmine Cedar Ambergris Woody Notes Musk Gentle Fluidity Gold Gently Fluid Inspired by Maison Francis Kurkdjian Gentle Fluidity Gold Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Gentle Fluidity Gold Gently Fluid Oriental Vanilla unisex Juniper Berries Nutmeg Coriander Vanilla Amber Musk Gentle Fluidity Silver Fluidité Argent Maison Francis Kurkdjian Gentle Fluidity Silver Maison Francis Kurkdjian Maison Francis Kurkdjian Gentle Fluidity Silver Fluidité Argent Aromatic Woody / Fresh Musky Juniper Berries Nutmeg Bergamot Pineapple Coriander Musks Ambery Woods Vanilla Cedar Woody Notes Grand Soir Grand Soirelle Inspired by Maison Francis Kurkdjian Grand Soir Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Grand Soir Grand Soirelle Oriental Amber unisex Spanish Labdanum Orange Lavender Siam Benzoin Amber Vanilla Tonka Bean Musk Cedar Oud Satin Moody Oud Inspired by Maison Francis Kurkdjian Oud Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Satin Moody Oud Oriental Woody/Oud Woody Saffron Elemi Agarwood/Oud Patchouli Cedar Oud Satin Mood Satin Moody Oud Inspired by Maison Francis Kurkdjian Oud Satin Mood Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Satin Mood Satin Moody Oud Oriental Woody unisex Bulgarian Rose Violet Strawberry Turkish Rose Oud Vanilla Amber Benzoin Caramel Cedar Oud Silk Mood Silky Oud Inspired by Maison Francis Kurkdjian Oud Silk Mood Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Silk Mood Silky Oud Floral Woody/Oud Floral unisex Bulgarian Rose Chamomile Bergamot Guaiac Wood Hedione Oud Papyrus Oud Velvet Mood Velour Oud Inspired by Maison Francis Kurkdjian Oud Velvet Mood Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Velvet Mood Velour Oud Oud/Woody Leather unisex Oud Cinnamon Saffron Copahu Balm"
+  },
+  "fragrances": [
+    {
+      "id": 11,
+      "fragranceSlug": "maison-francis-kurkdjian-724-11",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "724",
+      "originalFragranceSlug": "maison-francis-kurkdjian-724",
+      "mistifyProductName": "Urban Glow",
+      "mistifyProductSlug": "urban-glow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-glow",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian 724",
+      "audience": "unisex",
+      "classification": "Citrus Floral",
+      "topNotes": [
+        "Aldehydes",
+        "Italian Bergamot"
+      ],
+      "middleNotes": [
+        "White Flowers",
+        "Sweet Pea",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Italian Bergamot",
+        "White Flowers",
+        "Sweet Pea",
+        "Jasmine",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_08_29PM.png?v=1765422970",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian 724 Urban Glow Citrus Floral unisex Aldehydes Italian Bergamot White Flowers Sweet Pea Jasmine Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.153Z"
+    },
+    {
+      "id": 13,
+      "fragranceSlug": "maison-francis-kurkdjian-a-la-rose-13",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "A La Rose",
+      "originalFragranceSlug": "maison-francis-kurkdjian-a-la-rose",
+      "mistifyProductName": "Rose Veil",
+      "mistifyProductSlug": "rose-veil",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-veil",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian A La Rose",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "Bulgarian Damask Rose",
+        "Calabrian Bergamot",
+        "Orange"
+      ],
+      "middleNotes": [
+        "May Rose",
+        "Magnolia"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Cedarwood"
+      ],
+      "allNotes": [
+        "Bulgarian Damask Rose",
+        "Calabrian Bergamot",
+        "Orange",
+        "May Rose",
+        "Magnolia",
+        "Musk",
+        "Cedarwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-28-01PM-_1.png?v=1773460522",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian A La Rose Rose Veil Floral womens Bulgarian Damask Rose Calabrian Bergamot Orange May Rose Magnolia Musk Cedarwood",
+      "createdAt": "2026-05-04T04:41:25.261Z"
+    },
+    {
+      "id": 12,
+      "fragranceSlug": "maison-francis-kurkdjian-a-p-o-m-12",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "A.P.O.M",
+      "originalFragranceSlug": "maison-francis-kurkdjian-a-p-o-m",
+      "mistifyProductName": "A Part of Aura",
+      "mistifyProductSlug": "a-part-of-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/a-part-of-aura",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian A.P.O.M",
+      "audience": "unisex",
+      "classification": "Amber Floral Fougere",
+      "topNotes": [
+        "Sweet Florals",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "allNotes": [
+        "Sweet Florals",
+        "Orange Blossom",
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom",
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-08-30AM-_1.png?v=1773460306",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian A.P.O.M A Part of Aura Amber Floral Fougere unisex Sweet Florals Orange Blossom Lavender Ylang-Ylang Orange Blossom Vanilla White Musk Light Amber",
+      "createdAt": "2026-05-04T04:41:25.206Z"
+    },
+    {
+      "id": 14,
+      "fragranceSlug": "maison-francis-kurkdjian-amyris-femme-14",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Amyris Femme",
+      "originalFragranceSlug": "maison-francis-kurkdjian-amyris-femme",
+      "mistifyProductName": "Iris Essence",
+      "mistifyProductSlug": "iris-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/iris-essence",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Amyris Femme",
+      "audience": "womens",
+      "classification": "Floral Woody/Musky Floral",
+      "topNotes": [
+        "Lemon Blossom",
+        "California Orange"
+      ],
+      "middleNotes": [
+        "Amyris",
+        "Iris"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Lemon Blossom",
+        "California Orange",
+        "Amyris",
+        "Iris",
+        "Vetiver",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-53-31AM-_1.png?v=1773460519",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Amyris Femme Iris Essence Floral Woody/Musky Floral womens Lemon Blossom California Orange Amyris Iris Vetiver Musk Amber",
+      "createdAt": "2026-05-04T04:41:25.316Z"
+    },
+    {
+      "id": 15,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte-15",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Celestia Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-celestia-cologne-forte",
+      "mistifyProductName": "Celestial Waters",
+      "mistifyProductSlug": "celestial-waters",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/celestial-waters",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Celestia Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Currant"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Jasmine",
+        "Mimosa",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-55-26AM-_1.png?v=1773460516",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Celestia Cologne Forte Celestial Waters Citrus Aromatic unisex Bergamot Black Currant Jasmine Mimosa Musk",
+      "createdAt": "2026-05-04T04:41:25.373Z"
+    },
+    {
+      "id": 24,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-media-cologne-forte-24",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Media Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-media-cologne-forte",
+      "mistifyProductName": "Aqua Médié",
+      "mistifyProductSlug": "aqua-medie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/aqua-medie",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Media Cologne Forte",
+      "audience": "unisex",
+      "classification": "Green Citrus/Aromatic Fresh",
+      "topNotes": [
+        "Bergamot",
+        "Vervain"
+      ],
+      "middleNotes": [
+        "Fennel",
+        "Hedione"
+      ],
+      "baseNotes": [
+        "Matcha Tea",
+        "Musk",
+        "Woodsy Notes"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Vervain",
+        "Fennel",
+        "Hedione",
+        "Matcha Tea",
+        "Musk",
+        "Woodsy Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan13-2026-07-36-12AM-_1.png?v=1773460175",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Media Cologne Forte Aqua Médié Green Citrus/Aromatic Fresh unisex Bergamot Vervain Fennel Hedione Matcha Tea Musk Woodsy Notes",
+      "createdAt": "2026-05-04T04:41:25.899Z"
+    },
+    {
+      "id": 25,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-universalis-25",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Universalis",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-universalis",
+      "mistifyProductName": "Aqua Universelle",
+      "mistifyProductSlug": "aqua-universelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/aqua-universelle",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Universalis",
+      "audience": "unisex",
+      "classification": "Green Citrus/Aromatic Fresh",
+      "topNotes": [
+        "Bergamot",
+        "Vervain"
+      ],
+      "middleNotes": [
+        "Fennel",
+        "Hedione"
+      ],
+      "baseNotes": [
+        "Matcha Tea",
+        "Musk",
+        "Woodsy Notes"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Vervain",
+        "Fennel",
+        "Hedione",
+        "Matcha Tea",
+        "Musk",
+        "Woodsy Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan19-2026-11-12-57AM-_1.png?v=1773460172",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Universalis Aqua Universelle Green Citrus/Aromatic Fresh unisex Bergamot Vervain Fennel Hedione Matcha Tea Musk Woodsy Notes",
+      "createdAt": "2026-05-04T04:41:25.957Z"
+    },
+    {
+      "id": 16,
+      "fragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte-16",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Aqua Vitae Cologne Forte",
+      "originalFragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte",
+      "mistifyProductName": "Vitae Essence",
+      "mistifyProductSlug": "vitae-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vitae-essence",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Vitae Cologne Forte",
+      "audience": "unisex",
+      "classification": "Citrus",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Floral Notes",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Floral Notes",
+        "Solar Notes",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/VitaeEssence.png?v=1765422978",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Vitae Cologne Forte Vitae Essence Citrus unisex Mandarin Orange Bergamot Floral Notes Solar Notes Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.428Z"
+    },
+    {
+      "id": 17,
+      "fragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-17",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Baccarat Rouge 540",
+      "originalFragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540",
+      "mistifyProductName": "Baccarata 440",
+      "mistifyProductSlug": "baccarata-440",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baccarata-440",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Baccarat Rouge 540",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Saffron",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Ambergris"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Fir Resin"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Jasmine",
+        "Ambergris",
+        "Cedar",
+        "Fir Resin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_10_54_14PM.png?v=1765422979",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Baccarat Rouge 540 Baccarata 440 Amber Floral unisex Saffron Jasmine Ambergris Cedar Fir Resin",
+      "createdAt": "2026-05-04T04:41:25.486Z"
+    },
+    {
+      "id": 18,
+      "fragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum-18",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Baccarat Rouge 540 Extrait de Parfum",
+      "originalFragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum",
+      "mistifyProductName": "Baccarata Intense 440",
+      "mistifyProductSlug": "baccarata-intense-440",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baccarata-intense-440?variant=49907830686015",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum",
+      "audience": null,
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Bitter Almond",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Egyptian Jasmine",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Woody Notes",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bitter Almond",
+        "Saffron",
+        "Egyptian Jasmine",
+        "Cedar",
+        "Ambergris",
+        "Woody Notes",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-58-36PM-_1.png?v=1773460513",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum Baccarata Intense 440 Amber Floral Bitter Almond Saffron Egyptian Jasmine Cedar Ambergris Woody Notes Musk",
+      "createdAt": "2026-05-04T04:41:25.544Z"
+    },
+    {
+      "id": 19,
+      "fragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold-19",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Gentle Fluidity Gold",
+      "originalFragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold",
+      "mistifyProductName": "Gently Fluid",
+      "mistifyProductSlug": "gently-fluid",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gently-fluid",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Gentle Fluidity Gold",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Juniper Berries",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Coriander",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Coriander",
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_14_05AM.png?v=1765422980",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Gentle Fluidity Gold Gently Fluid Oriental Vanilla unisex Juniper Berries Nutmeg Coriander Vanilla Amber Musk",
+      "createdAt": "2026-05-04T04:41:25.599Z"
+    },
+    {
+      "id": 320,
+      "fragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-silver-320",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Gentle Fluidity Silver",
+      "originalFragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-silver",
+      "mistifyProductName": "Fluidité Argent",
+      "mistifyProductSlug": "fluidite-argent",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fluidite-argent",
+      "publicInspiredByLabel": "Maison Francis Kurkdjian Gentle Fluidity Silver",
+      "audience": null,
+      "classification": "Aromatic Woody / Fresh Musky",
+      "topNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Bergamot",
+        "Pineapple"
+      ],
+      "middleNotes": [
+        "Coriander"
+      ],
+      "baseNotes": [
+        "Musks",
+        "Ambery Woods",
+        "Vanilla",
+        "Cedar",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Bergamot",
+        "Pineapple",
+        "Coriander",
+        "Musks",
+        "Ambery Woods",
+        "Vanilla",
+        "Cedar",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun9_2026_05_33_25PM.png?v=1781040812",
+      "searchableText": "Maison Francis Kurkdjian Maison Francis Kurkdjian Gentle Fluidity Silver Fluidité Argent Aromatic Woody / Fresh Musky Juniper Berries Nutmeg Bergamot Pineapple Coriander Musks Ambery Woods Vanilla Cedar Woody Notes",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 23,
+      "fragranceSlug": "maison-francis-kurkdjian-grand-soir-23",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Grand Soir",
+      "originalFragranceSlug": "maison-francis-kurkdjian-grand-soir",
+      "mistifyProductName": "Grand Soirelle",
+      "mistifyProductSlug": "grand-soirelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/grand-soirelle",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Grand Soir",
+      "audience": "unisex",
+      "classification": "Oriental Amber",
+      "topNotes": [
+        "Spanish Labdanum",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Siam Benzoin"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Spanish Labdanum",
+        "Orange",
+        "Lavender",
+        "Siam Benzoin",
+        "Amber",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov20-2025-10-17-02AM-_1.png?v=1773460207",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Grand Soir Grand Soirelle Oriental Amber unisex Spanish Labdanum Orange Lavender Siam Benzoin Amber Vanilla Tonka Bean Musk Cedar",
+      "createdAt": "2026-05-04T04:41:25.837Z"
+    },
+    {
+      "id": 20,
+      "fragranceSlug": "maison-francis-kurkdjian-oud-20",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Oud",
+      "originalFragranceSlug": "maison-francis-kurkdjian-oud",
+      "mistifyProductName": "Satin Moody Oud",
+      "mistifyProductSlug": "satin-moody-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/satin-moody-oud",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud",
+      "audience": null,
+      "classification": "Oriental Woody/Oud Woody",
+      "topNotes": [
+        "Saffron",
+        "Elemi"
+      ],
+      "middleNotes": [
+        "Agarwood/Oud"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Elemi",
+        "Agarwood/Oud",
+        "Patchouli",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_13_59PM.png?v=1765422983",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Satin Moody Oud Oriental Woody/Oud Woody Saffron Elemi Agarwood/Oud Patchouli Cedar",
+      "createdAt": "2026-05-04T04:41:25.657Z"
+    },
+    {
+      "id": 21,
+      "fragranceSlug": "maison-francis-kurkdjian-oud-satin-mood-21",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Oud Satin Mood",
+      "originalFragranceSlug": "maison-francis-kurkdjian-oud-satin-mood",
+      "mistifyProductName": "Satin Moody Oud",
+      "mistifyProductSlug": "satin-moody-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/satin-moody-oud",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud Satin Mood",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Bulgarian Rose",
+        "Violet",
+        "Strawberry"
+      ],
+      "middleNotes": [
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Caramel",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Bulgarian Rose",
+        "Violet",
+        "Strawberry",
+        "Turkish Rose",
+        "Oud",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Caramel",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_13_59PM.png?v=1765422983",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Satin Mood Satin Moody Oud Oriental Woody unisex Bulgarian Rose Violet Strawberry Turkish Rose Oud Vanilla Amber Benzoin Caramel Cedar",
+      "createdAt": "2026-05-04T04:41:25.720Z"
+    },
+    {
+      "id": 22,
+      "fragranceSlug": "maison-francis-kurkdjian-oud-silk-mood-22",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Oud Silk Mood",
+      "originalFragranceSlug": "maison-francis-kurkdjian-oud-silk-mood",
+      "mistifyProductName": "Silky Oud",
+      "mistifyProductSlug": "silky-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silky-oud",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud Silk Mood",
+      "audience": "unisex",
+      "classification": "Floral Woody/Oud Floral",
+      "topNotes": [
+        "Bulgarian Rose",
+        "Chamomile",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Guaiac Wood",
+        "Hedione"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Papyrus"
+      ],
+      "allNotes": [
+        "Bulgarian Rose",
+        "Chamomile",
+        "Bergamot",
+        "Guaiac Wood",
+        "Hedione",
+        "Oud",
+        "Papyrus"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_14_14AM.png?v=1774325661",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Silk Mood Silky Oud Floral Woody/Oud Floral unisex Bulgarian Rose Chamomile Bergamot Guaiac Wood Hedione Oud Papyrus",
+      "createdAt": "2026-05-04T04:41:25.778Z"
+    },
+    {
+      "id": 26,
+      "fragranceSlug": "maison-francis-kurkdjian-oud-velvet-mood-26",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Oud Velvet Mood",
+      "originalFragranceSlug": "maison-francis-kurkdjian-oud-velvet-mood",
+      "mistifyProductName": "Velour Oud",
+      "mistifyProductSlug": "velour-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/velour-oud",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud Velvet Mood",
+      "audience": "unisex",
+      "classification": "Oud/Woody Leather",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Cinnamon",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Copahu Balm"
+      ],
+      "allNotes": [
+        "Oud",
+        "Cinnamon",
+        "Saffron",
+        "Copahu Balm"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr24_2026_12_23_01PM.png?v=1777047799",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Velvet Mood Velour Oud Oud/Woody Leather unisex Oud Cinnamon Saffron Copahu Balm",
+      "createdAt": "2026-05-04T04:41:26.015Z"
+    }
+  ]
+}

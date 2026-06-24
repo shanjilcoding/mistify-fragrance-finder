@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 271,
+    "fragranceSlug": "diptyque-eau-rihla-271",
+    "brandName": "Diptyque",
+    "brandSlug": "diptyque",
+    "originalFragranceName": "Eau Rihla",
+    "originalFragranceSlug": "diptyque-eau-rihla",
+    "mistifyProductName": "Eau Relia",
+    "mistifyProductSlug": "eau-relia",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/eau-relia",
+    "publicInspiredByLabel": "Inspired by Diptyque Eau Rihla",
+    "audience": "unisex",
+    "classification": "Oriental Woody",
+    "topNotes": [
+      "Raspberry",
+      "Saffron",
+      "Pink Pepper"
+    ],
+    "middleNotes": [
+      "Leather",
+      "Iris",
+      "Cedar"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Musk"
+    ],
+    "allNotes": [
+      "Raspberry",
+      "Saffron",
+      "Pink Pepper",
+      "Leather",
+      "Iris",
+      "Cedar",
+      "Vanilla",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-50-51AM-_1.png?v=1773460377",
+    "searchableText": "Diptyque diptyque Diptyque Eau Rihla Eau Relia Oriental Woody unisex Raspberry Saffron Pink Pepper Leather Iris Cedar Vanilla Musk",
+    "createdAt": "2026-05-04T04:41:40.507Z"
+  }
+}

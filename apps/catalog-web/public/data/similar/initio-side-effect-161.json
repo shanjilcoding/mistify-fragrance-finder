@@ -1,0 +1,284 @@
+{
+  "fragrances": [
+    {
+      "id": 54,
+      "fragranceSlug": "kilian-back-to-black-54",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Back to Black",
+      "originalFragranceSlug": "kilian-back-to-black",
+      "mistifyProductName": "Back 2 Blacky",
+      "mistifyProductSlug": "back-2-blacky",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/back-2-black",
+      "publicInspiredByLabel": "Inspired by Kilian Back to Black",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Almond",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "allNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry",
+        "Tobacco",
+        "Almond",
+        "Vanilla",
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Back2Blacky.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Back to Black Back 2 Blacky Oriental unisex Honey Cherry Raspberry Tobacco Almond Vanilla Cedar Patchouli Amber",
+      "createdAt": "2026-05-04T04:41:27.650Z",
+      "sharedNotes": [
+        "Tobacco",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 104,
+      "fragranceSlug": "parfums-de-marly-oajan-104",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Oajan",
+      "originalFragranceSlug": "parfums-de-marly-oajan",
+      "mistifyProductName": "Oajour",
+      "mistifyProductSlug": "oajour",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oajour",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Oajan",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Cinnamon",
+        "Honey",
+        "Osmanthus"
+      ],
+      "middleNotes": [
+        "Benzoin",
+        "Labdanum",
+        "Ambergris",
+        "Artemisia"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Honey",
+        "Osmanthus",
+        "Benzoin",
+        "Labdanum",
+        "Ambergris",
+        "Artemisia",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay24_2026_09_19_57AM.png?v=1779628806",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Oajan Oajour Oriental Cinnamon Honey Osmanthus Benzoin Labdanum Ambergris Artemisia Vanilla Tonka Bean Musk Patchouli",
+      "createdAt": "2026-05-04T04:41:30.574Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 257,
+      "fragranceSlug": "narciso-rodriguez-amber-musc-257",
+      "brandName": "Narciso Rodriguez",
+      "brandSlug": "narciso-rodriguez",
+      "originalFragranceName": "Amber Musc",
+      "originalFragranceSlug": "narciso-rodriguez-amber-musc",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Narciso Rodriguez Amber Musc",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Musk",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Oud",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "allNotes": [
+        "Musk",
+        "Orange Blossom",
+        "Patchouli",
+        "Oud",
+        "Leather",
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Narciso Rodriguez narciso rodriguez Narciso Rodriguez Amber Musc Not verified Oriental Musk Orange Blossom Patchouli Oud Leather Amber Vanilla Incense",
+      "createdAt": "2026-05-04T04:41:39.654Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Musk",
+        "Leather"
+      ]
+    },
+    {
+      "id": 163,
+      "fragranceSlug": "montale-arabians-163",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Arabians",
+      "originalFragranceSlug": "montale-arabians",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Arabians",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Cardamom",
+        "Lavender",
+        "Red Thyme"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Patchouli",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Ambergris",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Lavender",
+        "Red Thyme",
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oud",
+        "Leather",
+        "Ambergris",
+        "Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Arabians Not verified Oriental Cardamom Lavender Red Thyme Rose Patchouli Vetiver Oud Leather Ambergris Musk",
+      "createdAt": "2026-05-04T04:41:34.009Z",
+      "sharedNotes": [
+        "Musk",
+        "Leather"
+      ]
+    },
+    {
+      "id": 203,
+      "fragranceSlug": "xerjoff-laylati-203",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Laylati",
+      "originalFragranceSlug": "xerjoff-laylati",
+      "mistifyProductName": "Laylatal",
+      "mistifyProductSlug": "laylatal",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/laylatal",
+      "publicInspiredByLabel": "Inspired by Xerjoff Laylati",
+      "audience": "unisex",
+      "classification": "Woody Oriental",
+      "topNotes": [
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Tobacco",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Green Notes",
+        "Cedar",
+        "Patchouli",
+        "Musk",
+        "Tobacco",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Laylatal.png?v=1765422944",
+      "searchableText": "Xerjoff xerjoff Xerjoff Laylati Laylatal Woody Oriental unisex Green Notes Cedar Patchouli Musk Tobacco Vanilla",
+      "createdAt": "2026-05-04T04:41:36.401Z",
+      "sharedNotes": [
+        "Tobacco",
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 5,
+      "fragranceSlug": "guerlain-tobacco-honey-5",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Tobacco Honey",
+      "originalFragranceSlug": "guerlain-tobacco-honey",
+      "mistifyProductName": "Honey Tobaccoe",
+      "mistifyProductSlug": "honey-tobaccoe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/honey-tobaccoe",
+      "publicInspiredByLabel": "Inspired by Guerlain Tobacco Honey",
+      "audience": "unisex",
+      "classification": "Oriental Gourmand",
+      "topNotes": [
+        "Honey",
+        "Plum"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Cinnamon"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Honey",
+        "Plum",
+        "Tobacco",
+        "Cinnamon",
+        "Patchouli",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-30-16PM-_1.png?v=1773460364",
+      "searchableText": "Guerlain guerlain Guerlain Tobacco Honey Honey Tobaccoe Oriental Gourmand unisex Honey Plum Tobacco Cinnamon Patchouli Amber Musk",
+      "createdAt": "2026-05-04T04:41:24.794Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Tobacco",
+        "Musk"
+      ]
+    }
+  ]
+}

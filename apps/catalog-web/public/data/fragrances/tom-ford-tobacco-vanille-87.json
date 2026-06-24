@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 87,
+    "fragranceSlug": "tom-ford-tobacco-vanille-87",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Tobacco Vanille",
+    "originalFragranceSlug": "tom-ford-tobacco-vanille",
+    "mistifyProductName": "Tobacco Vanilla",
+    "mistifyProductSlug": "tobacco-vanilla",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/tobacco-vanilla",
+    "publicInspiredByLabel": "Inspired by Tom Ford Tobacco Vanille",
+    "audience": "unisex",
+    "classification": "Oriental Spicy",
+    "topNotes": [
+      "Tobacco Leaf",
+      "Spicy Notes"
+    ],
+    "middleNotes": [
+      "Vanilla",
+      "Cacao",
+      "Tonka Bean",
+      "Tobacco Blossom"
+    ],
+    "baseNotes": [
+      "Dried Fruits",
+      "Woody Notes"
+    ],
+    "allNotes": [
+      "Tobacco Leaf",
+      "Spicy Notes",
+      "Vanilla",
+      "Cacao",
+      "Tonka Bean",
+      "Tobacco Blossom",
+      "Dried Fruits",
+      "Woody Notes"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_23_29PM.png?v=1765422884",
+    "searchableText": "Tom Ford tom ford Tom Ford Tobacco Vanille Tobacco Vanilla Oriental Spicy unisex Tobacco Leaf Spicy Notes Vanilla Cacao Tonka Bean Tobacco Blossom Dried Fruits Woody Notes",
+    "createdAt": "2026-05-04T04:41:29.570Z"
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "fragrances": [
+    {
+      "id": 94,
+      "fragranceSlug": "tom-ford-noir-extreme-94",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Noir Extreme",
+      "originalFragranceSlug": "tom-ford-noir-extreme",
+      "mistifyProductName": "Night Extreme",
+      "mistifyProductSlug": "night-extreme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/night-extreme",
+      "publicInspiredByLabel": "Inspired by Tom Ford Noir Extreme",
+      "audience": "mens",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Mandarin",
+        "Neroli",
+        "Saffron",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Kulfi",
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Mandarin",
+        "Neroli",
+        "Saffron",
+        "Nutmeg",
+        "Kulfi",
+        "Rose",
+        "Jasmine",
+        "Vanilla",
+        "Amber",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_51_27PM.png?v=1765422879",
+      "searchableText": "Tom Ford tom ford Tom Ford Noir Extreme Night Extreme Oriental Spicy mens Mandarin Neroli Saffron Nutmeg Kulfi Rose Jasmine Vanilla Amber Sandalwood",
+      "createdAt": "2026-05-04T04:41:29.974Z",
+      "sharedNotes": [
+        "Saffron",
+        "Amber",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 82,
+      "fragranceSlug": "tom-ford-noir-de-noir-82",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Noir de Noir",
+      "originalFragranceSlug": "tom-ford-noir-de-noir",
+      "mistifyProductName": "Noir Essence",
+      "mistifyProductSlug": "noir-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/noir-essence",
+      "publicInspiredByLabel": "Inspired by Tom Ford Noir de Noir",
+      "audience": "unisex",
+      "classification": "Chypre",
+      "topNotes": [
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Black Rose",
+        "Truffle",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vanilla",
+        "Oud",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Black Rose",
+        "Truffle",
+        "Floral Notes",
+        "Patchouli",
+        "Vanilla",
+        "Oud",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_36_42AM.png?v=1774327008",
+      "searchableText": "Tom Ford tom ford Tom Ford Noir de Noir Noir Essence Chypre unisex Saffron Black Rose Truffle Floral Notes Patchouli Vanilla Oud Oakmoss",
+      "createdAt": "2026-05-04T04:41:29.288Z",
+      "sharedNotes": [
+        "Saffron",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 54,
+      "fragranceSlug": "kilian-back-to-black-54",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Back to Black",
+      "originalFragranceSlug": "kilian-back-to-black",
+      "mistifyProductName": "Back 2 Blacky",
+      "mistifyProductSlug": "back-2-blacky",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/back-2-black",
+      "publicInspiredByLabel": "Inspired by Kilian Back to Black",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Almond",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "allNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry",
+        "Tobacco",
+        "Almond",
+        "Vanilla",
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Back2Blacky.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Back to Black Back 2 Blacky Oriental unisex Honey Cherry Raspberry Tobacco Almond Vanilla Cedar Patchouli Amber",
+      "createdAt": "2026-05-04T04:41:27.650Z",
+      "sharedNotes": [
+        "Tobacco",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 333,
+      "fragranceSlug": "armani-stronger-with-you-tobacco-333",
+      "brandName": "Armani",
+      "brandSlug": "armani",
+      "originalFragranceName": "Stronger With You Tobacco",
+      "originalFragranceSlug": "armani-stronger-with-you-tobacco",
+      "mistifyProductName": "Tobacco Strength",
+      "mistifyProductSlug": "tobacco-strength",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/tobacco-strength",
+      "publicInspiredByLabel": "Armani Stronger With You Tobacco",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Spicy Notes",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Chestnut",
+        "Amberwood"
+      ],
+      "allNotes": [
+        "Spicy Notes",
+        "Pink Pepper",
+        "Tobacco",
+        "Vanilla",
+        "Chestnut",
+        "Amberwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-16-39PM-_1.png?v=1773460354",
+      "searchableText": "Armani Armani Stronger With You Tobacco Tobacco Strength Oriental Spicy Spicy Notes Pink Pepper Tobacco Vanilla Chestnut Amberwood",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Tobacco",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 63,
+      "fragranceSlug": "kilian-intoxicated-63",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Intoxicated",
+      "originalFragranceSlug": "kilian-intoxicated",
+      "mistifyProductName": "Not verified on Mistify",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Kilian Intoxicated",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Cardamom",
+        "Coffee",
+        "Bergamot",
+        "Aldehydes"
+      ],
+      "middleNotes": [
+        "Nutmeg",
+        "Cinnamon",
+        "Tobacco",
+        "Ginger",
+        "Geranium"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Mocha",
+        "Vanilla",
+        "Balsam Fir",
+        "Patchouli",
+        "Coumarin",
+        "Sugar",
+        "Marshmallow"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Coffee",
+        "Bergamot",
+        "Aldehydes",
+        "Nutmeg",
+        "Cinnamon",
+        "Tobacco",
+        "Ginger",
+        "Geranium",
+        "Caramel",
+        "Mocha",
+        "Vanilla",
+        "Balsam Fir",
+        "Patchouli",
+        "Coumarin",
+        "Sugar",
+        "Marshmallow"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Kilian kilian By Kilian Intoxicated Not verified on Mistify Oriental Spicy Cardamom Coffee Bergamot Aldehydes Nutmeg Cinnamon Tobacco Ginger Geranium Caramel Mocha Vanilla Balsam Fir Patchouli Coumarin Sugar Marshmallow",
+      "createdAt": "2026-05-04T04:41:28.158Z",
+      "sharedNotes": [
+        "Tobacco",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 211,
+      "fragranceSlug": "rabanne-after-club-211",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "After Club",
+      "originalFragranceSlug": "rabanne-after-club",
+      "mistifyProductName": "Club Afterglow",
+      "mistifyProductSlug": "club-afterglow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/club-afterglow",
+      "publicInspiredByLabel": "Inspired by Rabanne After Club",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Vanilla",
+        "Labdanum",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-33-34PM-_1.png?v=1773460311",
+      "searchableText": "Rabanne rabanne Rabanne After Club Club Afterglow Woody Aromatic unisex Lavender Vanilla Labdanum Amber",
+      "createdAt": "2026-05-04T04:41:36.872Z",
+      "sharedNotes": [
+        "Amber",
+        "Vanilla",
+        "Labdanum"
+      ]
+    }
+  ]
+}

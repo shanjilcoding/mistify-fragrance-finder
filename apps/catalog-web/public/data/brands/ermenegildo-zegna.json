@@ -1,0 +1,144 @@
+{
+  "brand": {
+    "brandName": "Ermenegildo Zegna",
+    "brandSlug": "ermenegildo-zegna",
+    "fragranceCount": 4,
+    "searchableText": "Bourbon Vanilla Bourbon Vanille Inspired by Ermenegildo Zegna Bourbon Vanilla Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Bourbon Vanilla Bourbon Vanille Oriental Spicy unisex Vanilla Ginger Cassis Vetiver Cypriol/Nagarmotha Turkish Rose Haitian Vetiver Island Vetiver Inspired by Ermenegildo Zegna Haitian Vetiver Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Haitian Vetiver Island Vetiver Woody Aromatic mens Italian Bergamot Neroli Iris Carrot Seed Haitian Vetiver Italian Bergamot Island Vetiver Inspired by Ermenegildo Zegna Italian Bergamot Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Italian Bergamot Island Vetiver Citrus Aromatic Bergamot Neroli Rosemary Vetiver Javanese Patchouli Mystic Pathouli Inspired by Ermenegildo Zegna Javanese Patchouli Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Javanese Patchouli Mystic Pathouli Woody Spicy unisex Patchouli Pink Pepper Calabrian Bergamot Cedar Tonka Bean"
+  },
+  "fragrances": [
+    {
+      "id": 219,
+      "fragranceSlug": "ermenegildo-zegna-bourbon-vanilla-219",
+      "brandName": "Ermenegildo Zegna",
+      "brandSlug": "ermenegildo-zegna",
+      "originalFragranceName": "Bourbon Vanilla",
+      "originalFragranceSlug": "ermenegildo-zegna-bourbon-vanilla",
+      "mistifyProductName": "Bourbon Vanille",
+      "mistifyProductSlug": "bourbon-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bourbon-vanille",
+      "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Bourbon Vanilla",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Vanilla",
+        "Ginger",
+        "Cassis",
+        "Vetiver",
+        "Cypriol/Nagarmotha",
+        "Turkish Rose"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Vanilla",
+        "Ginger",
+        "Cassis",
+        "Vetiver",
+        "Cypriol/Nagarmotha",
+        "Turkish Rose"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar13-2026-01-28-48PM-_1.png?v=1773460116",
+      "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Bourbon Vanilla Bourbon Vanille Oriental Spicy unisex Vanilla Ginger Cassis Vetiver Cypriol/Nagarmotha Turkish Rose",
+      "createdAt": "2026-05-04T04:41:37.332Z"
+    },
+    {
+      "id": 216,
+      "fragranceSlug": "ermenegildo-zegna-haitian-vetiver-216",
+      "brandName": "Ermenegildo Zegna",
+      "brandSlug": "ermenegildo-zegna",
+      "originalFragranceName": "Haitian Vetiver",
+      "originalFragranceSlug": "ermenegildo-zegna-haitian-vetiver",
+      "mistifyProductName": "Island Vetiver",
+      "mistifyProductSlug": "island-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/island-vetiver",
+      "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Haitian Vetiver",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Italian Bergamot",
+        "Neroli"
+      ],
+      "middleNotes": [
+        "Iris",
+        "Carrot Seed"
+      ],
+      "baseNotes": [
+        "Haitian Vetiver"
+      ],
+      "allNotes": [
+        "Italian Bergamot",
+        "Neroli",
+        "Iris",
+        "Carrot Seed",
+        "Haitian Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_07_33AM.png?v=1774325260",
+      "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Haitian Vetiver Island Vetiver Woody Aromatic mens Italian Bergamot Neroli Iris Carrot Seed Haitian Vetiver",
+      "createdAt": "2026-05-04T04:41:37.155Z"
+    },
+    {
+      "id": 217,
+      "fragranceSlug": "ermenegildo-zegna-italian-bergamot-217",
+      "brandName": "Ermenegildo Zegna",
+      "brandSlug": "ermenegildo-zegna",
+      "originalFragranceName": "Italian Bergamot",
+      "originalFragranceSlug": "ermenegildo-zegna-italian-bergamot",
+      "mistifyProductName": "Island Vetiver",
+      "mistifyProductSlug": "island-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/island-vetiver",
+      "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Italian Bergamot",
+      "audience": null,
+      "classification": "Citrus Aromatic",
+      "topNotes": [],
+      "middleNotes": [
+        "Bergamot",
+        "Neroli",
+        "Rosemary",
+        "Vetiver"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Bergamot",
+        "Neroli",
+        "Rosemary",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_07_33AM.png?v=1774325260",
+      "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Italian Bergamot Island Vetiver Citrus Aromatic Bergamot Neroli Rosemary Vetiver",
+      "createdAt": "2026-05-04T04:41:37.209Z"
+    },
+    {
+      "id": 218,
+      "fragranceSlug": "ermenegildo-zegna-javanese-patchouli-218",
+      "brandName": "Ermenegildo Zegna",
+      "brandSlug": "ermenegildo-zegna",
+      "originalFragranceName": "Javanese Patchouli",
+      "originalFragranceSlug": "ermenegildo-zegna-javanese-patchouli",
+      "mistifyProductName": "Mystic Pathouli",
+      "mistifyProductSlug": "mystic-pathouli",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mystic-pathouli",
+      "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Javanese Patchouli",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Patchouli",
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Cedar",
+        "Tonka Bean"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Patchouli",
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Cedar",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-31-15PM-_1.png?v=1773460478",
+      "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Javanese Patchouli Mystic Pathouli Woody Spicy unisex Patchouli Pink Pepper Calabrian Bergamot Cedar Tonka Bean",
+      "createdAt": "2026-05-04T04:41:37.272Z"
+    }
+  ]
+}

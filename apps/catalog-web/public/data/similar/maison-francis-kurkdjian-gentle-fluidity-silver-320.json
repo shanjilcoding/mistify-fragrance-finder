@@ -1,0 +1,283 @@
+{
+  "fragrances": [
+    {
+      "id": 19,
+      "fragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold-19",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Gentle Fluidity Gold",
+      "originalFragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold",
+      "mistifyProductName": "Gently Fluid",
+      "mistifyProductSlug": "gently-fluid",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gently-fluid",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Gentle Fluidity Gold",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Juniper Berries",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Coriander",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Coriander",
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_14_05AM.png?v=1765422980",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Gentle Fluidity Gold Gently Fluid Oriental Vanilla unisex Juniper Berries Nutmeg Coriander Vanilla Amber Musk",
+      "createdAt": "2026-05-04T04:41:25.599Z",
+      "sharedNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Coriander",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 190,
+      "fragranceSlug": "giorgio-armani-armani-prive-musc-shamal-190",
+      "brandName": "Giorgio Armani",
+      "brandSlug": "giorgio-armani",
+      "originalFragranceName": "Armani Privé Musc Shamal",
+      "originalFragranceSlug": "giorgio-armani-armani-prive-musc-shamal",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Giorgio Armani Armani Privé Musc Shamal",
+      "audience": null,
+      "classification": "Oriental/Musky",
+      "topNotes": [
+        "Aldehydes",
+        "Elemi Oil"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musks",
+        "Vanilla",
+        "Ambery Woods"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Elemi Oil",
+        "Turkish Rose",
+        "Jasmine",
+        "Musks",
+        "Vanilla",
+        "Ambery Woods"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Giorgio Armani giorgio armani Giorgio Armani Armani Privé Musc Shamal Not verified Oriental/Musky Aldehydes Elemi Oil Turkish Rose Jasmine Musks Vanilla Ambery Woods",
+      "createdAt": "2026-05-04T04:41:35.587Z",
+      "sharedNotes": [
+        "Musks",
+        "Ambery Woods",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 100,
+      "fragranceSlug": "parfums-de-marly-delina-exclusif-100",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Delina Exclusif",
+      "originalFragranceSlug": "parfums-de-marly-delina-exclusif",
+      "mistifyProductName": "Deline Exclusive",
+      "mistifyProductSlug": "deline-exclusive",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/deline-exclusive?variant=49907851395391",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Delina Exclusif",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "Litchi",
+        "Pear",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Oud",
+        "Incense"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Amber",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Litchi",
+        "Pear",
+        "Bergamot",
+        "Turkish Rose",
+        "Oud",
+        "Incense",
+        "Vanilla",
+        "Amber",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-01-29AM-_1.png?v=1773460500",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Delina Exclusif Deline Exclusive Floral womens Litchi Pear Bergamot Turkish Rose Oud Incense Vanilla Amber Woody Notes",
+      "createdAt": "2026-05-04T04:41:30.328Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla",
+        "Woody Notes"
+      ]
+    },
+    {
+      "id": 232,
+      "fragranceSlug": "tiziana-terenzi-saiph-232",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Saiph",
+      "originalFragranceSlug": "tiziana-terenzi-saiph",
+      "mistifyProductName": "Saipha",
+      "mistifyProductSlug": "saipha",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saipha",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Saiph",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Saipha-_1.png?v=1773460407",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk",
+      "createdAt": "2026-05-04T04:41:38.116Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 158,
+      "fragranceSlug": "initio-oud-for-happiness-158",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Happiness",
+      "originalFragranceSlug": "initio-oud-for-happiness",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Initio Oud for Happiness",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Bergamot",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Licorice",
+        "Oud",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Herbal Notes",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Ginger",
+        "Licorice",
+        "Oud",
+        "Cedar",
+        "Vanilla",
+        "Herbal Notes",
+        "Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Happiness Not verified Woody Spicy Bergamot Ginger Licorice Oud Cedar Vanilla Herbal Notes Musk",
+      "createdAt": "2026-05-04T04:41:33.707Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 144,
+      "fragranceSlug": "ysl-yves-saint-laurent-y-intense-144",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Y Intense",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-y-intense",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Y Intense",
+      "audience": null,
+      "classification": "Aromatic Fougere",
+      "topNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries"
+      ],
+      "middleNotes": [
+        "Sage",
+        "Geranium",
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries",
+        "Sage",
+        "Geranium",
+        "Lavender",
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Y Intense Not verified Aromatic Fougere Ginger Bergamot Juniper Berries Sage Geranium Lavender Vetiver Tonka Bean Cedar Olibanum",
+      "createdAt": "2026-05-04T04:41:32.882Z",
+      "sharedNotes": [
+        "Juniper Berries",
+        "Bergamot",
+        "Cedar"
+      ]
+    }
+  ]
+}

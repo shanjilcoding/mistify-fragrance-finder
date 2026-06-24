@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 267,
+    "fragranceSlug": "byredo-bal-d-afrique-267",
+    "brandName": "Byredo",
+    "brandSlug": "byredo",
+    "originalFragranceName": "Bal d’Afrique",
+    "originalFragranceSlug": "byredo-bal-d-afrique",
+    "mistifyProductName": "Bali Afrique",
+    "mistifyProductSlug": "bali-afrique",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/bali-afrique",
+    "publicInspiredByLabel": "Inspired by Byredo Bal d’Afrique",
+    "audience": "unisex",
+    "classification": "Floral",
+    "topNotes": [
+      "Bergamot",
+      "African Marigold",
+      "Buchu/Agathosma"
+    ],
+    "middleNotes": [
+      "Violet",
+      "Cyclamen"
+    ],
+    "baseNotes": [
+      "Vetiver",
+      "Cedar"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "African Marigold",
+      "Buchu/Agathosma",
+      "Violet",
+      "Cyclamen",
+      "Vetiver",
+      "Cedar"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-08-33PM-_1.png?v=1773460349",
+    "searchableText": "Byredo byredo Byredo Bal d’Afrique Bali Afrique Floral unisex Bergamot African Marigold Buchu/Agathosma Violet Cyclamen Vetiver Cedar",
+    "createdAt": "2026-05-04T04:41:40.260Z"
+  }
+}

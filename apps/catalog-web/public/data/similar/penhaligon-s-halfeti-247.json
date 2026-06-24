@@ -1,0 +1,298 @@
+{
+  "fragrances": [
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z",
+      "sharedNotes": [
+        "Saffron",
+        "Oud",
+        "Cedar",
+        "Sandalwood",
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 83,
+      "fragranceSlug": "tom-ford-oud-wood-83",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Wood",
+      "originalFragranceSlug": "tom-ford-oud-wood",
+      "mistifyProductName": "Woody Oud",
+      "mistifyProductSlug": "woody-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/woody-oud",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Wood",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Rosewood",
+        "Cardamom",
+        "Sichuan Pepper"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Sandalwood",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Amber"
+      ],
+      "allNotes": [
+        "Rosewood",
+        "Cardamom",
+        "Sichuan Pepper",
+        "Oud",
+        "Sandalwood",
+        "Vetiver",
+        "Tonka Bean",
+        "Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_36_27PM.png?v=1765422876",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Wood Woody Oud Oriental Woody unisex Rosewood Cardamom Sichuan Pepper Oud Sandalwood Vetiver Tonka Bean Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:29.342Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Oud",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 164,
+      "fragranceSlug": "montale-arabians-tonka-164",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Arabians Tonka",
+      "originalFragranceSlug": "montale-arabians-tonka",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Arabians Tonka",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Saffron",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Bulgarian Rose"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Sugar Cane",
+        "Amber",
+        "White Musk",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Bergamot",
+        "Oud",
+        "Bulgarian Rose",
+        "Tonka Bean",
+        "Sugar Cane",
+        "Amber",
+        "White Musk",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Arabians Tonka Not verified Oriental Woody Saffron Bergamot Oud Bulgarian Rose Tonka Bean Sugar Cane Amber White Musk Oakmoss",
+      "createdAt": "2026-05-04T04:41:34.064Z",
+      "sharedNotes": [
+        "Saffron",
+        "Bergamot",
+        "Bulgarian Rose",
+        "Oud",
+        "Amber",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 255,
+      "fragranceSlug": "mugler-alien-oud-majestueux-255",
+      "brandName": "Mugler",
+      "brandSlug": "mugler",
+      "originalFragranceName": "Alien Oud Majestueux",
+      "originalFragranceSlug": "mugler-alien-oud-majestueux",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mugler Alien Oud Majestueux",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cardamom",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Cashmeran"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Amber"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Saffron",
+        "Jasmine",
+        "Cashmeran",
+        "Oud",
+        "Amber"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mugler mugler Mugler Alien Oud Majestueux Not verified Oriental Woody Cardamom Saffron Jasmine Cashmeran Oud Amber",
+      "createdAt": "2026-05-04T04:41:39.525Z",
+      "sharedNotes": [
+        "Saffron",
+        "Cardamom",
+        "Jasmine",
+        "Oud",
+        "Amber"
+      ]
+    },
+    {
+      "id": 213,
+      "fragranceSlug": "maison-crivelli-oud-stallion-213",
+      "brandName": "Maison Crivelli",
+      "brandSlug": "maison-crivelli",
+      "originalFragranceName": "Oud Stallion",
+      "originalFragranceSlug": "maison-crivelli-oud-stallion",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Maison Crivelli Oud Stallion",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Saffron",
+        "Cardamom",
+        "Indonesian Nutmeg"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Osmanthus",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Cedar",
+        "Patchouli",
+        "Tonka"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Cardamom",
+        "Indonesian Nutmeg",
+        "Jasmine",
+        "Osmanthus",
+        "Turkish Rose",
+        "Oud",
+        "Leather",
+        "Cedar",
+        "Patchouli",
+        "Tonka"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Maison Crivelli maison crivelli Maison Crivelli Oud Stallion Not verified Oriental Woody Saffron Cardamom Indonesian Nutmeg Jasmine Osmanthus Turkish Rose Oud Leather Cedar Patchouli Tonka",
+      "createdAt": "2026-05-04T04:41:36.980Z",
+      "sharedNotes": [
+        "Saffron",
+        "Cardamom",
+        "Jasmine",
+        "Oud",
+        "Cedar",
+        "Leather"
+      ]
+    },
+    {
+      "id": 3,
+      "fragranceSlug": "guerlain-santal-royal-3",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Santal Royal",
+      "originalFragranceSlug": "guerlain-santal-royal",
+      "mistifyProductName": "Royal Santal",
+      "mistifyProductSlug": "royal-santal",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/royal-santal",
+      "publicInspiredByLabel": "Inspired by Guerlain Santal Royal",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Neroli",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Sandalwood",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Jasmine",
+        "Sandalwood",
+        "Rose",
+        "Leather",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-20-14PM-_1.png?v=1773460356",
+      "searchableText": "Guerlain guerlain Guerlain Santal Royal Royal Santal Oriental Woody unisex Neroli Jasmine Sandalwood Rose Leather Amber Musk",
+      "createdAt": "2026-05-04T04:41:24.668Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Musk"
+      ]
+    }
+  ]
+}

@@ -44,9 +44,25 @@ export const fragrances = pgTable('fragrances', {
   inferenceReason: text('inference_reason'),
   reviewedByAdmin: boolean('reviewed_by_admin'),
   searchableText: text('searchable_text'),
+  brandName: text('brand_name'),
+  brandSlug: text('brand_slug'),
+  originalFragranceSlug: text('original_fragrance_slug'),
+  mistifyProductSlug: text('mistify_product_slug'),
+  publicInspiredByLabel: text('public_inspired_by_label'),
+  catalogImageUrl: text('catalog_image_url'),
+  isCatalogVisible: boolean('is_catalog_visible').default(false),
+  catalogSortOrder: integer('catalog_sort_order').default(0),
   createdAt: timestamp('created_at', { withTimezone: true }),
   updatedAt: timestamp('updated_at', { withTimezone: true }),
-})
+}, (table) => [
+  index('fragrances_brand_slug_idx').on(table.brandSlug),
+  index('fragrances_catalog_visible_idx').on(table.isCatalogVisible),
+  index('fragrances_catalog_brand_sort_idx').on(
+    table.brandSlug,
+    table.catalogSortOrder,
+    table.originalFragranceName,
+  ),
+])
 
 export type Fragrance = InferSelectModel<typeof fragrances>
 export type NewFragrance = InferInsertModel<typeof fragrances>

@@ -1,0 +1,307 @@
+{
+  "fragrances": [
+    {
+      "id": 91,
+      "fragranceSlug": "tom-ford-eau-d-ombre-leather-91",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Eau d’Ombre Leather",
+      "originalFragranceSlug": "tom-ford-eau-d-ombre-leather",
+      "mistifyProductName": "Ombre Dawn",
+      "mistifyProductSlug": "ombre-dawn",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-dawn",
+      "publicInspiredByLabel": "Inspired by Tom Ford Eau d’Ombre Leather",
+      "audience": "mens",
+      "classification": "Ambery Oriental Leather",
+      "topNotes": [
+        "Cardamom",
+        "Ginger",
+        "Coriander"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Vanilla",
+        "Saffron",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Ambrofix",
+        "Cedarwood",
+        "Patchouli",
+        "Sandalwood",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Ginger",
+        "Coriander",
+        "Leather",
+        "Vanilla",
+        "Saffron",
+        "Jasmine",
+        "Tonka Bean",
+        "Ambrofix",
+        "Cedarwood",
+        "Patchouli",
+        "Sandalwood",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-03-21-24PM-_1.png?v=1773460285",
+      "searchableText": "Tom Ford tom ford Tom Ford Eau d’Ombre Leather Ombre Dawn Ambery Oriental Leather mens Cardamom Ginger Coriander Leather Vanilla Saffron Jasmine Tonka Bean Ambrofix Cedarwood Patchouli Sandalwood Benzoin",
+      "createdAt": "2026-05-04T04:41:29.797Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Sandalwood",
+        "Tonka Bean",
+        "Patchouli",
+        "Benzoin"
+      ]
+    },
+    {
+      "id": 111,
+      "fragranceSlug": "parfums-de-marly-eragon-111",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Eragon",
+      "originalFragranceSlug": "parfums-de-marly-eragon",
+      "mistifyProductName": "Eragone",
+      "mistifyProductSlug": "eragone",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eragone",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Eragon",
+      "audience": "unisex",
+      "classification": "Spicy Oriental/Warm Gourmand",
+      "topNotes": [
+        "Cardamom",
+        "Mandarin",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Cypriol",
+        "Davana"
+      ],
+      "baseNotes": [
+        "Vanilla Bean",
+        "Tonka Bean",
+        "Leather",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Mandarin",
+        "Bergamot",
+        "Cinnamon",
+        "Cypriol",
+        "Davana",
+        "Vanilla Bean",
+        "Tonka Bean",
+        "Leather",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec19-2025-10-34-44AM-_1.png?v=1773460191",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Eragon Eragone Spicy Oriental/Warm Gourmand unisex Cardamom Mandarin Bergamot Cinnamon Cypriol Davana Vanilla Bean Tonka Bean Leather Patchouli",
+      "createdAt": "2026-05-04T04:41:30.975Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Davana",
+        "Tonka Bean",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 92,
+      "fragranceSlug": "tom-ford-ombre-leather-92",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Ombre Leather",
+      "originalFragranceSlug": "tom-ford-ombre-leather",
+      "mistifyProductName": "Ombre Royale",
+      "mistifyProductSlug": "ombre-royale",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-royale",
+      "publicInspiredByLabel": "Inspired by Tom Ford Ombre Leather",
+      "audience": "mens",
+      "classification": "Leather",
+      "topNotes": [
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Moss",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Jasmine Sambac",
+        "Leather",
+        "Amber",
+        "Moss",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-42-02AM-_1.png?v=1773460288",
+      "searchableText": "Tom Ford tom ford Tom Ford Ombre Leather Ombre Royale Leather mens Cardamom Jasmine Sambac Leather Amber Moss Patchouli",
+      "createdAt": "2026-05-04T04:41:29.855Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Jasmine Sambac",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 83,
+      "fragranceSlug": "tom-ford-oud-wood-83",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Wood",
+      "originalFragranceSlug": "tom-ford-oud-wood",
+      "mistifyProductName": "Woody Oud",
+      "mistifyProductSlug": "woody-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/woody-oud",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Wood",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Rosewood",
+        "Cardamom",
+        "Sichuan Pepper"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Sandalwood",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Amber"
+      ],
+      "allNotes": [
+        "Rosewood",
+        "Cardamom",
+        "Sichuan Pepper",
+        "Oud",
+        "Sandalwood",
+        "Vetiver",
+        "Tonka Bean",
+        "Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_36_27PM.png?v=1765422876",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Wood Woody Oud Oriental Woody unisex Rosewood Cardamom Sichuan Pepper Oud Sandalwood Vetiver Tonka Bean Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:29.342Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Sandalwood",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 139,
+      "fragranceSlug": "creed-oud-zarian-139",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Oud Zarian",
+      "originalFragranceSlug": "creed-oud-zarian",
+      "mistifyProductName": "Oud Zarien",
+      "mistifyProductSlug": "oud-zarien",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-zarien",
+      "publicInspiredByLabel": "Inspired by Creed Oud Zarian",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Spices",
+        "Frankincense",
+        "Ginger",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "May Rose"
+      ],
+      "baseNotes": [
+        "Licorice",
+        "Myrrh",
+        "Oud",
+        "Tonka Bean",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Spices",
+        "Frankincense",
+        "Ginger",
+        "Bergamot",
+        "May Rose",
+        "Licorice",
+        "Myrrh",
+        "Oud",
+        "Tonka Bean",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec16-2025-10-53-37AM-_1.png?v=1773460199",
+      "searchableText": "Creed creed Creed Oud Zarian Oud Zarien Oriental Woody unisex Spices Frankincense Ginger Bergamot May Rose Licorice Myrrh Oud Tonka Bean Sandalwood Patchouli",
+      "createdAt": "2026-05-04T04:41:32.597Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Tonka Bean",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 85,
+      "fragranceSlug": "tom-ford-soleil-blanc-85",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Soleil Blanc",
+      "originalFragranceSlug": "tom-ford-soleil-blanc",
+      "mistifyProductName": "Soleil Sun",
+      "mistifyProductSlug": "soleil-sun",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-sun",
+      "publicInspiredByLabel": "Inspired by Tom Ford Soleil Blanc",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pistachio",
+        "Bergamot",
+        "Cardamom",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Coconut",
+        "Amber",
+        "Tonka Bean",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Pistachio",
+        "Bergamot",
+        "Cardamom",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Coconut",
+        "Amber",
+        "Tonka Bean",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-41-35AM-_1.png?v=1773460537",
+      "searchableText": "Tom Ford tom ford Tom Ford Soleil Blanc Soleil Sun Amber Floral unisex Pistachio Bergamot Cardamom Pink Pepper Tuberose Ylang-Ylang Jasmine Coconut Amber Tonka Bean Benzoin",
+      "createdAt": "2026-05-04T04:41:29.454Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Tonka Bean",
+        "Benzoin"
+      ]
+    }
+  ]
+}

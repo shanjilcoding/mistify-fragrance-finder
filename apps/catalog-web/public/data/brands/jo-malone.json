@@ -1,0 +1,82 @@
+{
+  "brand": {
+    "brandName": "Jo Malone",
+    "brandSlug": "jo-malone",
+    "fragranceCount": 2,
+    "searchableText": "English Oak & Hazelnut Hazelnut & Oak Inspired by Jo Malone English Oak & Hazelnut Jo Malone jo malone Jo Malone English Oak & Hazelnut Hazelnut & Oak Woody Spicy unisex Hazelnut Cedar Oak English Pear & Freesia Pear Fresia Inspired by Jo Malone English Pear & Freesia Jo Malone jo malone Jo Malone English Pear & Freesia Pear Fresia Chypre Fruity unisex Pear Melon Freesia Rose Musk Patchouli Rhubarb Amber"
+  },
+  "fragrances": [
+    {
+      "id": 254,
+      "fragranceSlug": "jo-malone-english-oak-and-hazelnut-254",
+      "brandName": "Jo Malone",
+      "brandSlug": "jo-malone",
+      "originalFragranceName": "English Oak & Hazelnut",
+      "originalFragranceSlug": "jo-malone-english-oak-and-hazelnut",
+      "mistifyProductName": "Hazelnut & Oak",
+      "mistifyProductSlug": "hazelnut-and-oak",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hazelnut-oak",
+      "publicInspiredByLabel": "Inspired by Jo Malone English Oak & Hazelnut",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Hazelnut"
+      ],
+      "middleNotes": [
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Oak"
+      ],
+      "allNotes": [
+        "Hazelnut",
+        "Cedar",
+        "Oak"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-43-44PM-_1.png?v=1773460328",
+      "searchableText": "Jo Malone jo malone Jo Malone English Oak & Hazelnut Hazelnut & Oak Woody Spicy unisex Hazelnut Cedar Oak",
+      "createdAt": "2026-05-04T04:41:39.466Z"
+    },
+    {
+      "id": 253,
+      "fragranceSlug": "jo-malone-english-pear-and-freesia-253",
+      "brandName": "Jo Malone",
+      "brandSlug": "jo-malone",
+      "originalFragranceName": "English Pear & Freesia",
+      "originalFragranceSlug": "jo-malone-english-pear-and-freesia",
+      "mistifyProductName": "Pear Fresia",
+      "mistifyProductSlug": "pear-fresia",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pear-fresia",
+      "publicInspiredByLabel": "Inspired by Jo Malone English Pear & Freesia",
+      "audience": "unisex",
+      "classification": "Chypre Fruity",
+      "topNotes": [
+        "Pear",
+        "Melon"
+      ],
+      "middleNotes": [
+        "Freesia",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Patchouli",
+        "Rhubarb",
+        "Amber"
+      ],
+      "allNotes": [
+        "Pear",
+        "Melon",
+        "Freesia",
+        "Rose",
+        "Musk",
+        "Patchouli",
+        "Rhubarb",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-47-41PM-_1.png?v=1773460331",
+      "searchableText": "Jo Malone jo malone Jo Malone English Pear & Freesia Pear Fresia Chypre Fruity unisex Pear Melon Freesia Rose Musk Patchouli Rhubarb Amber",
+      "createdAt": "2026-05-04T04:41:39.407Z"
+    }
+  ]
+}

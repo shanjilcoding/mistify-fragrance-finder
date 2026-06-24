@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 321,
+    "fragranceSlug": "amouage-reflection-man-321",
+    "brandName": "Amouage",
+    "brandSlug": "amouage",
+    "originalFragranceName": "Reflection Man",
+    "originalFragranceSlug": "amouage-reflection-man",
+    "mistifyProductName": "Reflexion",
+    "mistifyProductSlug": "reflexion",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/reflexion",
+    "publicInspiredByLabel": "Amouage Reflection Man",
+    "audience": null,
+    "classification": "Floral Woody / Fresh Aromatic",
+    "topNotes": [
+      "Rosemary",
+      "Pink Pepper",
+      "Petitgrain"
+    ],
+    "middleNotes": [
+      "Jasmine",
+      "Neroli",
+      "Orris Root",
+      "Ylang-Ylang"
+    ],
+    "baseNotes": [
+      "Sandalwood",
+      "Cedar",
+      "Vetiver",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Rosemary",
+      "Pink Pepper",
+      "Petitgrain",
+      "Jasmine",
+      "Neroli",
+      "Orris Root",
+      "Ylang-Ylang",
+      "Sandalwood",
+      "Cedar",
+      "Vetiver",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun9_2026_07_43_40AM.png?v=1781005432",
+    "searchableText": "Amouage Amouage Reflection Man Reflexion Floral Woody / Fresh Aromatic Rosemary Pink Pepper Petitgrain Jasmine Neroli Orris Root Ylang-Ylang Sandalwood Cedar Vetiver Patchouli",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

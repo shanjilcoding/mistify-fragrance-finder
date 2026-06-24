@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 202,
+    "fragranceSlug": "xerjoff-erba-pura-202",
+    "brandName": "Xerjoff",
+    "brandSlug": "xerjoff",
+    "originalFragranceName": "Erba Pura",
+    "originalFragranceSlug": "xerjoff-erba-pura",
+    "mistifyProductName": "Herb Pura",
+    "mistifyProductSlug": "herb-pura",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/herb-pura",
+    "publicInspiredByLabel": "Inspired by Xerjoff Erba Pura",
+    "audience": "unisex",
+    "classification": "Oriental",
+    "topNotes": [
+      "Sicilian Orange",
+      "Calabrian Bergamot",
+      "Sicilian Lemon"
+    ],
+    "middleNotes": [
+      "Fruits"
+    ],
+    "baseNotes": [
+      "White Musk",
+      "Madagascar Vanilla",
+      "Amber"
+    ],
+    "allNotes": [
+      "Sicilian Orange",
+      "Calabrian Bergamot",
+      "Sicilian Lemon",
+      "Fruits",
+      "White Musk",
+      "Madagascar Vanilla",
+      "Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-47-48AM-_1.png?v=1773460527",
+    "searchableText": "Xerjoff xerjoff Xerjoff Erba Pura Herb Pura Oriental unisex Sicilian Orange Calabrian Bergamot Sicilian Lemon Fruits White Musk Madagascar Vanilla Amber",
+    "createdAt": "2026-05-04T04:41:36.343Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 257,
+    "fragranceSlug": "narciso-rodriguez-amber-musc-257",
+    "brandName": "Narciso Rodriguez",
+    "brandSlug": "narciso-rodriguez",
+    "originalFragranceName": "Amber Musc",
+    "originalFragranceSlug": "narciso-rodriguez-amber-musc",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Narciso Rodriguez Amber Musc",
+    "audience": null,
+    "classification": "Oriental",
+    "topNotes": [
+      "Musk",
+      "Orange Blossom"
+    ],
+    "middleNotes": [
+      "Patchouli",
+      "Oud",
+      "Leather"
+    ],
+    "baseNotes": [
+      "Amber",
+      "Vanilla",
+      "Incense"
+    ],
+    "allNotes": [
+      "Musk",
+      "Orange Blossom",
+      "Patchouli",
+      "Oud",
+      "Leather",
+      "Amber",
+      "Vanilla",
+      "Incense"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Narciso Rodriguez narciso rodriguez Narciso Rodriguez Amber Musc Not verified Oriental Musk Orange Blossom Patchouli Oud Leather Amber Vanilla Incense",
+    "createdAt": "2026-05-04T04:41:39.654Z"
+  }
+}

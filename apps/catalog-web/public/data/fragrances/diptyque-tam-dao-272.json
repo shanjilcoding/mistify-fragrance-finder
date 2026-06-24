@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 272,
+    "fragranceSlug": "diptyque-tam-dao-272",
+    "brandName": "Diptyque",
+    "brandSlug": "diptyque",
+    "originalFragranceName": "Tam Dao",
+    "originalFragranceSlug": "diptyque-tam-dao",
+    "mistifyProductName": "Tam Dar",
+    "mistifyProductSlug": "tam-dar",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/tam-dar",
+    "publicInspiredByLabel": "Inspired by Diptyque Tam Dao",
+    "audience": "unisex",
+    "classification": "Woody/Floral Woody Musk",
+    "topNotes": [
+      "Italian Cypress",
+      "Myrtle",
+      "Rose"
+    ],
+    "middleNotes": [
+      "Sandalwood",
+      "Cedar"
+    ],
+    "baseNotes": [
+      "Brazilian Rosewood",
+      "Spices",
+      "Amber",
+      "White Musk"
+    ],
+    "allNotes": [
+      "Italian Cypress",
+      "Myrtle",
+      "Rose",
+      "Sandalwood",
+      "Cedar",
+      "Brazilian Rosewood",
+      "Spices",
+      "Amber",
+      "White Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_20_24AM.png?v=1774326032",
+    "searchableText": "Diptyque diptyque Diptyque Tam Dao Tam Dar Woody/Floral Woody Musk unisex Italian Cypress Myrtle Rose Sandalwood Cedar Brazilian Rosewood Spices Amber White Musk",
+    "createdAt": "2026-05-04T04:41:40.577Z"
+  }
+}

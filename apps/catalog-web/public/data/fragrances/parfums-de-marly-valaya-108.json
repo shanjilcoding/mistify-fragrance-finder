@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 108,
+    "fragranceSlug": "parfums-de-marly-valaya-108",
+    "brandName": "Parfums de Marly",
+    "brandSlug": "parfums-de-marly",
+    "originalFragranceName": "Valaya",
+    "originalFragranceSlug": "parfums-de-marly-valaya",
+    "mistifyProductName": "Valeti",
+    "mistifyProductSlug": "valeti",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/valeti",
+    "publicInspiredByLabel": "Inspired by Parfums de Marly Valaya",
+    "audience": "womens",
+    "classification": "Floral Woody Musk",
+    "topNotes": [
+      "Bergamot",
+      "Grapefruit",
+      "Mandarin"
+    ],
+    "middleNotes": [
+      "Orange Blossom",
+      "Peach",
+      "Petalia"
+    ],
+    "baseNotes": [
+      "Ambroxan",
+      "White Musk",
+      "Akigalawood"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Grapefruit",
+      "Mandarin",
+      "Orange Blossom",
+      "Peach",
+      "Petalia",
+      "Ambroxan",
+      "White Musk",
+      "Akigalawood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-15AM-_1.png?v=1773460483",
+    "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valaya Valeti Floral Woody Musk womens Bergamot Grapefruit Mandarin Orange Blossom Peach Petalia Ambroxan White Musk Akigalawood",
+    "createdAt": "2026-05-04T04:41:30.796Z"
+  }
+}

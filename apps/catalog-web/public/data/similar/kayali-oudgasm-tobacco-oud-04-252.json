@@ -1,0 +1,296 @@
+{
+  "fragrances": [
+    {
+      "id": 82,
+      "fragranceSlug": "tom-ford-noir-de-noir-82",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Noir de Noir",
+      "originalFragranceSlug": "tom-ford-noir-de-noir",
+      "mistifyProductName": "Noir Essence",
+      "mistifyProductSlug": "noir-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/noir-essence",
+      "publicInspiredByLabel": "Inspired by Tom Ford Noir de Noir",
+      "audience": "unisex",
+      "classification": "Chypre",
+      "topNotes": [
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Black Rose",
+        "Truffle",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vanilla",
+        "Oud",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Black Rose",
+        "Truffle",
+        "Floral Notes",
+        "Patchouli",
+        "Vanilla",
+        "Oud",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_36_42AM.png?v=1774327008",
+      "searchableText": "Tom Ford tom ford Tom Ford Noir de Noir Noir Essence Chypre unisex Saffron Black Rose Truffle Floral Notes Patchouli Vanilla Oud Oakmoss",
+      "createdAt": "2026-05-04T04:41:29.288Z",
+      "sharedNotes": [
+        "Saffron",
+        "Patchouli",
+        "Vanilla",
+        "Oud"
+      ]
+    },
+    {
+      "id": 120,
+      "fragranceSlug": "bond-no-9-new-york-oud-120",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "New York Oud",
+      "originalFragranceSlug": "bond-no-9-new-york-oud",
+      "mistifyProductName": "Urban Oud",
+      "mistifyProductSlug": "urban-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-oud",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 New York Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Plum",
+        "Saffron",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root"
+      ],
+      "baseNotes": [
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Plum",
+        "Saffron",
+        "Orange",
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root",
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_18_40AM.png?v=1774325928",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 New York Oud Urban Oud Oriental unisex Plum Saffron Orange Rose Oud Patchouli Orris Root Musk White Honey Vetiver",
+      "createdAt": "2026-05-04T04:41:31.518Z",
+      "sharedNotes": [
+        "Plum",
+        "White Honey",
+        "Saffron",
+        "Patchouli",
+        "Oud"
+      ]
+    },
+    {
+      "id": 96,
+      "fragranceSlug": "tom-ford-oud-voyager-96",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Oud Voyager",
+      "originalFragranceSlug": "tom-ford-oud-voyager",
+      "mistifyProductName": "Oud Voyagé",
+      "mistifyProductSlug": "oud-voyage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-voyage",
+      "publicInspiredByLabel": "Inspired by Tom Ford Oud Voyager",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus"
+      ],
+      "middleNotes": [
+        "Red Peony",
+        "Cardamom",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "allNotes": [
+        "Geranium",
+        "Pink Pepper",
+        "Citrus",
+        "Red Peony",
+        "Cardamom",
+        "Saffron",
+        "Oud",
+        "Cypriol",
+        "Patchouli",
+        "Vetiver",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec17-2025-09-31-28AM-_1.png?v=1773460197",
+      "searchableText": "Tom Ford tom ford Tom Ford Oud Voyager Oud Voyagé Oriental Woody unisex Geranium Pink Pepper Citrus Red Peony Cardamom Saffron Oud Cypriol Patchouli Vetiver Musk",
+      "createdAt": "2026-05-04T04:41:30.090Z",
+      "sharedNotes": [
+        "Geranium",
+        "Saffron",
+        "Patchouli",
+        "Oud"
+      ]
+    },
+    {
+      "id": 52,
+      "fragranceSlug": "kilian-amber-oud-52",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Amber Oud",
+      "originalFragranceSlug": "kilian-amber-oud",
+      "mistifyProductName": "Amber Essence",
+      "mistifyProductSlug": "amber-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-essence",
+      "publicInspiredByLabel": "Inspired by Kilian Amber Oud",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Bay Leaf",
+        "Cedar"
+      ],
+      "middleNotes": [
+        "Amber",
+        "Spices"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Benzoin",
+        "Oud"
+      ],
+      "allNotes": [
+        "Bay Leaf",
+        "Cedar",
+        "Amber",
+        "Spices",
+        "Vanilla",
+        "Benzoin",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_10_42AM.png?v=1774325448",
+      "searchableText": "Kilian kilian By Kilian Amber Oud Amber Essence Oriental Woody unisex Bay Leaf Cedar Amber Spices Vanilla Benzoin Oud",
+      "createdAt": "2026-05-04T04:41:27.529Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Benzoin",
+        "Oud"
+      ]
+    },
+    {
+      "id": 102,
+      "fragranceSlug": "parfums-de-marly-haltane-102",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Haltane",
+      "originalFragranceSlug": "parfums-de-marly-haltane",
+      "mistifyProductName": "Heltene",
+      "mistifyProductSlug": "heltene",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/heltene",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Haltane",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Praline"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Bergamot",
+        "Saffron",
+        "Praline",
+        "Oud",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-23-10PM-_1.png?v=1773460495",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Haltane Heltene Woody Aromatic mens Lavender Clary Sage Bergamot Saffron Praline Oud Cedar",
+      "createdAt": "2026-05-04T04:41:30.462Z",
+      "sharedNotes": [
+        "Clary Sage",
+        "Saffron",
+        "Praline",
+        "Oud"
+      ]
+    },
+    {
+      "id": 169,
+      "fragranceSlug": "montale-crystal-aoud-169",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Crystal Aoud",
+      "originalFragranceSlug": "montale-crystal-aoud",
+      "mistifyProductName": "Crystal Oud",
+      "mistifyProductSlug": "crystal-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/crystal-oud",
+      "publicInspiredByLabel": "Inspired by Montale Crystal Aoud",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Melon",
+        "Green Apple",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Teak Wood",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Saffron",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Melon",
+        "Green Apple",
+        "Mandarin Orange",
+        "Oud",
+        "Teak Wood",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla",
+        "Saffron",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CrystalOud.png?v=1765422954",
+      "searchableText": "Montale montale Montale Crystal Aoud Crystal Oud Woody Aromatic unisex Melon Green Apple Mandarin Orange Oud Teak Wood Patchouli Sandalwood Vanilla Saffron White Musk",
+      "createdAt": "2026-05-04T04:41:34.342Z",
+      "sharedNotes": [
+        "Saffron",
+        "Patchouli",
+        "Vanilla",
+        "Oud"
+      ]
+    }
+  ]
+}

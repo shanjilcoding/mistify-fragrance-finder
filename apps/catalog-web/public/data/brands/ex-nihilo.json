@@ -1,0 +1,53 @@
+{
+  "brand": {
+    "brandName": "Ex Nihilo",
+    "brandSlug": "ex-nihilo",
+    "fragranceCount": 1,
+    "searchableText": "Blue Talisman Azure Talisman Inspired by Ex Nihilo Blue Talisman Ex Nihilo ex nihilo Ex Nihilo Blue Talisman Azure Talisman Woody/Ambery Oriental unisex Pear Bergamot Mandarin Ginger Orange Blossom Georgywood Akigalawood Musk Ambrofix"
+  },
+  "fragrances": [
+    {
+      "id": 186,
+      "fragranceSlug": "ex-nihilo-blue-talisman-186",
+      "brandName": "Ex Nihilo",
+      "brandSlug": "ex-nihilo",
+      "originalFragranceName": "Blue Talisman",
+      "originalFragranceSlug": "ex-nihilo-blue-talisman",
+      "mistifyProductName": "Azure Talisman",
+      "mistifyProductSlug": "azure-talisman",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/azure-talisman",
+      "publicInspiredByLabel": "Inspired by Ex Nihilo Blue Talisman",
+      "audience": "unisex",
+      "classification": "Woody/Ambery Oriental",
+      "topNotes": [
+        "Pear",
+        "Bergamot",
+        "Mandarin",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Georgywood"
+      ],
+      "baseNotes": [
+        "Akigalawood",
+        "Musk",
+        "Ambrofix"
+      ],
+      "allNotes": [
+        "Pear",
+        "Bergamot",
+        "Mandarin",
+        "Ginger",
+        "Orange Blossom",
+        "Georgywood",
+        "Akigalawood",
+        "Musk",
+        "Ambrofix"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-25-00PM-_1.png?v=1773460308",
+      "searchableText": "Ex Nihilo ex nihilo Ex Nihilo Blue Talisman Azure Talisman Woody/Ambery Oriental unisex Pear Bergamot Mandarin Ginger Orange Blossom Georgywood Akigalawood Musk Ambrofix",
+      "createdAt": "2026-05-04T04:41:35.349Z"
+    }
+  ]
+}

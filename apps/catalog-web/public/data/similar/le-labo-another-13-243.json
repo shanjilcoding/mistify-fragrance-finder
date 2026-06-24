@@ -1,0 +1,286 @@
+{
+  "fragrances": [
+    {
+      "id": 103,
+      "fragranceSlug": "parfums-de-marly-layton-103",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Layton",
+      "originalFragranceSlug": "parfums-de-marly-layton",
+      "mistifyProductName": "Laytonington",
+      "mistifyProductSlug": "laytonington",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/laytonington",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Layton",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Geranium",
+        "Violet",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender",
+        "Geranium",
+        "Violet",
+        "Jasmine",
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-32-05AM-_1.png?v=1773460493",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Layton Laytonington Oriental Floral unisex Apple Bergamot Lavender Geranium Violet Jasmine Vanilla Pepper Patchouli Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:30.521Z",
+      "sharedNotes": [
+        "Apple",
+        "Jasmine"
+      ]
+    },
+    {
+      "id": 265,
+      "fragranceSlug": "prada-paradoxe-265",
+      "brandName": "Prada",
+      "brandSlug": "prada",
+      "originalFragranceName": "Paradoxe",
+      "originalFragranceSlug": "prada-paradoxe",
+      "mistifyProductName": "Paradiis",
+      "mistifyProductSlug": "paradiis",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradiis",
+      "publicInspiredByLabel": "Inspired by Prada Paradoxe",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear",
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine",
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-38-29PM-_1.png?v=1773460252",
+      "searchableText": "Prada prada Prada Paradoxe Paradiis Amber Floral unisex Calabrian Bergamot Tangerine Pear Neroli Orange Blossom Jasmine Amber White Musk Benzoin Vanilla",
+      "createdAt": "2026-05-04T04:41:40.135Z",
+      "sharedNotes": [
+        "Pear",
+        "Jasmine"
+      ]
+    },
+    {
+      "id": 35,
+      "fragranceSlug": "louis-vuitton-pur-oud-35",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Pur Oud",
+      "originalFragranceSlug": "louis-vuitton-pur-oud",
+      "mistifyProductName": "Oud Essence",
+      "mistifyProductSlug": "oud-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-essence",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Pur Oud",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud",
+        "Ambrettolide",
+        "Helvetolide"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Oud",
+        "Ambrettolide",
+        "Helvetolide"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_58_54PM.png?v=1765422834",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Pur Oud Oud Essence Woody Spicy unisex Oud Ambrettolide Helvetolide",
+      "createdAt": "2026-05-04T04:41:26.533Z",
+      "sharedNotes": [
+        "Helvetolide",
+        "Ambrettolide"
+      ]
+    },
+    {
+      "id": 288,
+      "fragranceSlug": "hugo-boss-boss-bottled-oud-288",
+      "brandName": "Hugo Boss",
+      "brandSlug": "hugo-boss",
+      "originalFragranceName": "Boss Bottled Oud",
+      "originalFragranceSlug": "hugo-boss-boss-bottled-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Hugo Boss Boss Bottled Oud",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Apple",
+        "Citruses"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Saffron",
+        "Clove",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood",
+        "Cypriol/Nagarmotha"
+      ],
+      "allNotes": [
+        "Apple",
+        "Citruses",
+        "Cinnamon",
+        "Saffron",
+        "Clove",
+        "Labdanum",
+        "Oud",
+        "Sandalwood",
+        "Cypriol/Nagarmotha"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Hugo Boss hugo boss Hugo Boss Boss Bottled Oud Not verified Oriental Woody Apple Citruses Cinnamon Saffron Clove Labdanum Oud Sandalwood Cypriol/Nagarmotha",
+      "createdAt": "2026-05-04T04:41:41.538Z",
+      "sharedNotes": [
+        "Apple",
+        "Citruses"
+      ]
+    },
+    {
+      "id": 231,
+      "fragranceSlug": "tiziana-terenzi-orion-231",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Orion",
+      "originalFragranceSlug": "tiziana-terenzi-orion",
+      "mistifyProductName": "Orien",
+      "mistifyProductSlug": "orien",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orien",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Orion",
+      "audience": "unisex",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant"
+      ],
+      "middleNotes": [
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant",
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine",
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Orien-_1.png?v=1773460410",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Orion Orien Floral Woody Musk unisex Pineapple Apple Bergamot Red Currant Birch Thyme Patchouli Jasmine Cedar Incense Oud Musk Amber",
+      "createdAt": "2026-05-04T04:41:38.057Z",
+      "sharedNotes": [
+        "Apple",
+        "Jasmine"
+      ]
+    },
+    {
+      "id": 113,
+      "fragranceSlug": "bond-no-9-b9-113",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "B9",
+      "originalFragranceSlug": "bond-no-9-b9",
+      "mistifyProductName": "Bonded 9",
+      "mistifyProductSlug": "bonded-9",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bonded-9",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 B9",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Gardenia",
+        "Saffron",
+        "Musk",
+        "Amber",
+        "Jasmine",
+        "Orchid",
+        "Citruses",
+        "Sandalwood",
+        "Oakmoss",
+        "Vetiver",
+        "Oud"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Gardenia",
+        "Saffron",
+        "Musk",
+        "Amber",
+        "Jasmine",
+        "Orchid",
+        "Citruses",
+        "Sandalwood",
+        "Oakmoss",
+        "Vetiver",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_56_50PM.png?v=1774407417",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 B9 Bonded 9 Oriental Spicy unisex Gardenia Saffron Musk Amber Jasmine Orchid Citruses Sandalwood Oakmoss Vetiver Oud",
+      "createdAt": "2026-05-04T04:41:31.088Z",
+      "sharedNotes": [
+        "Citruses",
+        "Jasmine"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "fragrances": [
+    {
+      "id": 78,
+      "fragranceSlug": "tom-ford-italian-cypress-78",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Italian Cypress",
+      "originalFragranceSlug": "tom-ford-italian-cypress",
+      "mistifyProductName": "Italy Cypress",
+      "mistifyProductSlug": "italy-cypress",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/italy-cypress?variant=49898236182847",
+      "publicInspiredByLabel": "Inspired by Tom Ford Italian Cypress",
+      "audience": "unisex",
+      "classification": "Woody Chypre",
+      "topNotes": [
+        "Cypress",
+        "Basil",
+        "Mint",
+        "Citruses"
+      ],
+      "middleNotes": [],
+      "baseNotes": [
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Cypress",
+        "Basil",
+        "Mint",
+        "Citruses",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_27_51AM.png?v=1774326478",
+      "searchableText": "Tom Ford tom ford Tom Ford Italian Cypress Italy Cypress Woody Chypre unisex Cypress Basil Mint Citruses Woody Notes",
+      "createdAt": "2026-05-04T04:41:29.045Z",
+      "sharedNotes": [
+        "Woody Notes"
+      ]
+    },
+    {
+      "id": 320,
+      "fragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-silver-320",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Gentle Fluidity Silver",
+      "originalFragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-silver",
+      "mistifyProductName": "Fluidité Argent",
+      "mistifyProductSlug": "fluidite-argent",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fluidite-argent",
+      "publicInspiredByLabel": "Maison Francis Kurkdjian Gentle Fluidity Silver",
+      "audience": null,
+      "classification": "Aromatic Woody / Fresh Musky",
+      "topNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Bergamot",
+        "Pineapple"
+      ],
+      "middleNotes": [
+        "Coriander"
+      ],
+      "baseNotes": [
+        "Musks",
+        "Ambery Woods",
+        "Vanilla",
+        "Cedar",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Bergamot",
+        "Pineapple",
+        "Coriander",
+        "Musks",
+        "Ambery Woods",
+        "Vanilla",
+        "Cedar",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun9_2026_05_33_25PM.png?v=1781040812",
+      "searchableText": "Maison Francis Kurkdjian Maison Francis Kurkdjian Gentle Fluidity Silver Fluidité Argent Aromatic Woody / Fresh Musky Juniper Berries Nutmeg Bergamot Pineapple Coriander Musks Ambery Woods Vanilla Cedar Woody Notes",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Juniper Berries",
+        "Woody Notes"
+      ]
+    },
+    {
+      "id": 334,
+      "fragranceSlug": "dior-bois-dargent-334",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Bois d'Argent",
+      "originalFragranceSlug": "dior-bois-dargent",
+      "mistifyProductName": "Silver Wood",
+      "mistifyProductSlug": "silver-wood",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silver-wood",
+      "publicInspiredByLabel": "Dior Bois d'Argent",
+      "audience": null,
+      "classification": "Woody Floral",
+      "topNotes": [
+        "Iris",
+        "Frankincense"
+      ],
+      "middleNotes": [
+        "Myrrh",
+        "Honey"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Iris",
+        "Frankincense",
+        "Myrrh",
+        "Honey",
+        "Musk",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/SilverWood-fcdf2e8b-041b-4cd8-9ace-9e28120edef8-_1.png?v=1773460459",
+      "searchableText": "Dior Christian Dior Bois d'Argent Silver Wood Woody Floral Iris Frankincense Myrrh Honey Musk Woody Notes",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Woody Notes"
+      ]
+    },
+    {
+      "id": 18,
+      "fragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum-18",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Baccarat Rouge 540 Extrait de Parfum",
+      "originalFragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum",
+      "mistifyProductName": "Baccarata Intense 440",
+      "mistifyProductSlug": "baccarata-intense-440",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baccarata-intense-440?variant=49907830686015",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum",
+      "audience": null,
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Bitter Almond",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Egyptian Jasmine",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Woody Notes",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bitter Almond",
+        "Saffron",
+        "Egyptian Jasmine",
+        "Cedar",
+        "Ambergris",
+        "Woody Notes",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-58-36PM-_1.png?v=1773460513",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum Baccarata Intense 440 Amber Floral Bitter Almond Saffron Egyptian Jasmine Cedar Ambergris Woody Notes Musk",
+      "createdAt": "2026-05-04T04:41:25.544Z",
+      "sharedNotes": [
+        "Woody Notes"
+      ]
+    },
+    {
+      "id": 87,
+      "fragranceSlug": "tom-ford-tobacco-vanille-87",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Tobacco Vanille",
+      "originalFragranceSlug": "tom-ford-tobacco-vanille",
+      "mistifyProductName": "Tobacco Vanilla",
+      "mistifyProductSlug": "tobacco-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/tobacco-vanilla",
+      "publicInspiredByLabel": "Inspired by Tom Ford Tobacco Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Tobacco Leaf",
+        "Spicy Notes"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Tobacco Blossom"
+      ],
+      "baseNotes": [
+        "Dried Fruits",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Tobacco Leaf",
+        "Spicy Notes",
+        "Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Tobacco Blossom",
+        "Dried Fruits",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_23_29PM.png?v=1765422884",
+      "searchableText": "Tom Ford tom ford Tom Ford Tobacco Vanille Tobacco Vanilla Oriental Spicy unisex Tobacco Leaf Spicy Notes Vanilla Cacao Tonka Bean Tobacco Blossom Dried Fruits Woody Notes",
+      "createdAt": "2026-05-04T04:41:29.570Z",
+      "sharedNotes": [
+        "Woody Notes"
+      ]
+    },
+    {
+      "id": 100,
+      "fragranceSlug": "parfums-de-marly-delina-exclusif-100",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Delina Exclusif",
+      "originalFragranceSlug": "parfums-de-marly-delina-exclusif",
+      "mistifyProductName": "Deline Exclusive",
+      "mistifyProductSlug": "deline-exclusive",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/deline-exclusive?variant=49907851395391",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Delina Exclusif",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "Litchi",
+        "Pear",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Oud",
+        "Incense"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Amber",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Litchi",
+        "Pear",
+        "Bergamot",
+        "Turkish Rose",
+        "Oud",
+        "Incense",
+        "Vanilla",
+        "Amber",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-01-29AM-_1.png?v=1773460500",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Delina Exclusif Deline Exclusive Floral womens Litchi Pear Bergamot Turkish Rose Oud Incense Vanilla Amber Woody Notes",
+      "createdAt": "2026-05-04T04:41:30.328Z",
+      "sharedNotes": [
+        "Woody Notes"
+      ]
+    }
+  ]
+}

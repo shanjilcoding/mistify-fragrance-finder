@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 128,
+    "fragranceSlug": "creed-love-in-white-128",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Love in White",
+    "originalFragranceSlug": "creed-love-in-white",
+    "mistifyProductName": "White Love",
+    "mistifyProductSlug": "white-love",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/white-love",
+    "publicInspiredByLabel": "Inspired by Creed Love in White",
+    "audience": "womens",
+    "classification": "Floral Oriental",
+    "topNotes": [
+      "Orange Zest"
+    ],
+    "middleNotes": [
+      "Rice",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Ambergris"
+    ],
+    "allNotes": [
+      "Orange Zest",
+      "Rice",
+      "Jasmine",
+      "Vanilla",
+      "Ambergris"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-37-06PM-_1.png?v=1773460555",
+    "searchableText": "Creed creed Creed Love in White White Love Floral Oriental womens Orange Zest Rice Jasmine Vanilla Ambergris",
+    "createdAt": "2026-05-04T04:41:31.974Z"
+  }
+}

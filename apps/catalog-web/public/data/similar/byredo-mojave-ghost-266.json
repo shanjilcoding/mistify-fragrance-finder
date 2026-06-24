@@ -1,0 +1,300 @@
+{
+  "fragrances": [
+    {
+      "id": 289,
+      "fragranceSlug": "frederic-malle-portrait-of-a-lady-289",
+      "brandName": "Frederic Malle",
+      "brandSlug": "frederic-malle",
+      "originalFragranceName": "Portrait of a Lady",
+      "originalFragranceSlug": "frederic-malle-portrait-of-a-lady",
+      "mistifyProductName": "Portrait Femme",
+      "mistifyProductSlug": "portrait-femme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/portrait-femme",
+      "publicInspiredByLabel": "Inspired by Frederic Malle Portrait of a Lady",
+      "audience": "womens",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Clove",
+        "Raspberry",
+        "Black Currant",
+        "Cinnamon",
+        "Red Berries"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Patchouli",
+        "Incense",
+        "Sandalwood",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Sandalwood",
+        "Musk",
+        "Benzoin",
+        "Amber",
+        "Ambergris",
+        "Cedar",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Rose",
+        "Clove",
+        "Raspberry",
+        "Black Currant",
+        "Cinnamon",
+        "Red Berries",
+        "Turkish Rose",
+        "Patchouli",
+        "Incense",
+        "Sandalwood",
+        "Ylang-Ylang",
+        "Incense",
+        "Sandalwood",
+        "Musk",
+        "Benzoin",
+        "Amber",
+        "Ambergris",
+        "Cedar",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-55-16PM-_1.png?v=1773460336",
+      "searchableText": "Frederic Malle frederic malle Frederic Malle Portrait of a Lady Portrait Femme Oriental Floral womens Rose Clove Raspberry Black Currant Cinnamon Red Berries Turkish Rose Patchouli Incense Sandalwood Ylang-Ylang Incense Sandalwood Musk Benzoin Amber Ambergris Cedar Vanilla",
+      "createdAt": "2026-05-04T04:41:41.596Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Ambergris",
+        "Cedar",
+        "Musk"
+      ]
+    },
+    {
+      "id": 222,
+      "fragranceSlug": "dior-oud-ispahan-222",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Oud Ispahan",
+      "originalFragranceSlug": "dior-oud-ispahan",
+      "mistifyProductName": "Rosé Ispahan",
+      "mistifyProductSlug": "rose-ispahan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-ispahan",
+      "publicInspiredByLabel": "Inspired by Dior Oud Ispahan",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [],
+      "middleNotes": [
+        "Labdanum",
+        "Rose",
+        "Patchouli",
+        "Saffron",
+        "Oud",
+        "Sandalwood",
+        "Cedar"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Labdanum",
+        "Rose",
+        "Patchouli",
+        "Saffron",
+        "Oud",
+        "Sandalwood",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseIspahan-_1.png?v=1773460470",
+      "searchableText": "Dior christian dior Christian Dior Oud Ispahan Rosé Ispahan Oriental Floral unisex Labdanum Rose Patchouli Saffron Oud Sandalwood Cedar",
+      "createdAt": "2026-05-04T04:41:37.508Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 143,
+      "fragranceSlug": "ysl-yves-saint-laurent-libre-143",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Libre",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-libre",
+      "mistifyProductName": "Libre Vanillé",
+      "mistifyProductSlug": "libre-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-vanille",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre",
+      "audience": "unisex",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Black Currant",
+        "Petitgrain"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Madagascar Vanilla",
+        "Musk",
+        "Cedar",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Black Currant",
+        "Petitgrain",
+        "Lavender",
+        "Orange Blossom",
+        "Jasmine",
+        "Madagascar Vanilla",
+        "Musk",
+        "Cedar",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb26-2026-12-44-22PM-_1.png?v=1773460127",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Libre Vanillé Amber Fougere unisex Lavender Mandarin Orange Black Currant Petitgrain Lavender Orange Blossom Jasmine Madagascar Vanilla Musk Cedar Ambergris",
+      "createdAt": "2026-05-04T04:41:32.824Z",
+      "sharedNotes": [
+        "Ambergris",
+        "Cedar",
+        "Musk"
+      ]
+    },
+    {
+      "id": 114,
+      "fragranceSlug": "bond-no-9-dubai-jade-114",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Dubai Jade",
+      "originalFragranceSlug": "bond-no-9-dubai-jade",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Dubai Jade",
+      "audience": null,
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Violet Leaf",
+        "Raspberry",
+        "Cumin"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Jasmine",
+        "Lily",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Musk",
+        "Birch",
+        "Amber",
+        "Ambrette"
+      ],
+      "allNotes": [
+        "Violet Leaf",
+        "Raspberry",
+        "Cumin",
+        "Rose",
+        "Jasmine",
+        "Lily",
+        "Cedar",
+        "Oud",
+        "Musk",
+        "Birch",
+        "Amber",
+        "Ambrette"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Dubai Jade Not verified Oriental Floral Violet Leaf Raspberry Cumin Rose Jasmine Lily Cedar Oud Musk Birch Amber Ambrette",
+      "createdAt": "2026-05-04T04:41:31.156Z",
+      "sharedNotes": [
+        "Ambrette",
+        "Cedar",
+        "Musk"
+      ]
+    },
+    {
+      "id": 41,
+      "fragranceSlug": "louis-vuitton-les-sables-roses-41",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Les Sables Roses",
+      "originalFragranceSlug": "louis-vuitton-les-sables-roses",
+      "mistifyProductName": "Sable Roseux",
+      "mistifyProductSlug": "sable-roseux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sable-roseux",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Les Sables Roses",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Bulgarian Rose"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Black Pepper"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Rose",
+        "Bulgarian Rose",
+        "Saffron",
+        "Black Pepper",
+        "Oud",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-21-03PM-_1.png?v=1773460255",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Les Sables Roses Sable Roseux Oriental Floral unisex Rose Bulgarian Rose Saffron Black Pepper Oud Ambergris",
+      "createdAt": "2026-05-04T04:41:26.886Z",
+      "sharedNotes": [
+        "Ambergris"
+      ]
+    },
+    {
+      "id": 69,
+      "fragranceSlug": "kilian-rose-oud-69",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rose Oud",
+      "originalFragranceSlug": "kilian-rose-oud",
+      "mistifyProductName": "Rosy Oud",
+      "mistifyProductSlug": "rosy-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rosy-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Rose Oud",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Rose",
+        "Saffron",
+        "Oud",
+        "Cedarwood",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RosyOud_9a080a3b-9ff3-481e-8ecc-190466f11560.png?v=1765422921",
+      "searchableText": "Kilian kilian By Kilian Rose Oud Rosy Oud Oriental Floral unisex Rose Saffron Oud Cedarwood Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:28.526Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    }
+  ]
+}

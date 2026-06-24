@@ -1,0 +1,276 @@
+{
+  "fragrances": [
+    {
+      "id": 90,
+      "fragranceSlug": "tom-ford-velvet-orchid-90",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Velvet Orchid",
+      "originalFragranceSlug": "tom-ford-velvet-orchid",
+      "mistifyProductName": "Velvet Orchard",
+      "mistifyProductSlug": "velvet-orchard",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/velvet-orchard",
+      "publicInspiredByLabel": "Inspired by Tom Ford Velvet Orchid",
+      "audience": "womens",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Honey",
+        "Rum",
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Magnolia"
+      ],
+      "baseNotes": [
+        "Myrrh",
+        "Vanilla",
+        "Suede",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Honey",
+        "Rum",
+        "Mandarin Orange",
+        "Bergamot",
+        "Orchid",
+        "Jasmine",
+        "Rose",
+        "Magnolia",
+        "Myrrh",
+        "Vanilla",
+        "Suede",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_27_58AM.png?v=1765422890",
+      "searchableText": "Tom Ford tom ford Tom Ford Velvet Orchid Velvet Orchard Floral Oriental womens Honey Rum Mandarin Orange Bergamot Orchid Jasmine Rose Magnolia Myrrh Vanilla Suede Sandalwood",
+      "createdAt": "2026-05-04T04:41:29.739Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 172,
+      "fragranceSlug": "montale-rose-elixir-172",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Rose Elixir",
+      "originalFragranceSlug": "montale-rose-elixir",
+      "mistifyProductName": "Rose Delight",
+      "mistifyProductSlug": "rose-delight",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-delight",
+      "publicInspiredByLabel": "Inspired by Montale Rose Elixir",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Strawberry",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Strawberry",
+        "Orange",
+        "Rose",
+        "Jasmine",
+        "Musk",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseDelight.png?v=1765422958",
+      "searchableText": "Montale montale Montale Rose Elixir Rose Delight Floral Fruity womens Strawberry Orange Rose Jasmine Musk Vanilla",
+      "createdAt": "2026-05-04T04:41:34.530Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 68,
+      "fragranceSlug": "kilian-rolling-in-love-68",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rolling in Love",
+      "originalFragranceSlug": "kilian-rolling-in-love",
+      "mistifyProductName": "Rolling in Hearts",
+      "mistifyProductSlug": "rolling-in-hearts",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rolling-in-hearts",
+      "publicInspiredByLabel": "Inspired by Kilian Rolling in Love",
+      "audience": "unisex",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Almond Milk",
+        "Ambrette"
+      ],
+      "middleNotes": [
+        "Freesia",
+        "Iris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Almond Milk",
+        "Ambrette",
+        "Freesia",
+        "Iris",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RollinginHearts.png?v=1765422919",
+      "searchableText": "Kilian kilian By Kilian Rolling in Love Rolling in Hearts Floral Oriental unisex Almond Milk Ambrette Freesia Iris Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:28.450Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 177,
+      "fragranceSlug": "mancera-amore-cafe-177",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Amore Cafe",
+      "originalFragranceSlug": "mancera-amore-cafe",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mancera Amore Cafe",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Coffee",
+        "Amaretto"
+      ],
+      "middleNotes": [
+        "Ice Cream",
+        "Speculoos"
+      ],
+      "baseNotes": [
+        "Brown Sugar",
+        "Vanilla",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Coffee",
+        "Amaretto",
+        "Ice Cream",
+        "Speculoos",
+        "Brown Sugar",
+        "Vanilla",
+        "Ambergris"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mancera mancera Mancera Amore Cafe Not verified Oriental Vanilla Coffee Amaretto Ice Cream Speculoos Brown Sugar Vanilla Ambergris",
+      "createdAt": "2026-05-04T04:41:34.823Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Ambergris"
+      ]
+    },
+    {
+      "id": 75,
+      "fragranceSlug": "tom-ford-black-orchid-75",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Black Orchid",
+      "originalFragranceSlug": "tom-ford-black-orchid",
+      "mistifyProductName": "Black Orchard",
+      "mistifyProductSlug": "black-orchard",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/black-orchard",
+      "publicInspiredByLabel": "Inspired by Tom Ford Black Orchid",
+      "audience": "unisex",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Black Orchid",
+        "Lotus Wood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vanilla",
+        "Vetiver",
+        "Incense"
+      ],
+      "allNotes": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Bergamot",
+        "Black Orchid",
+        "Lotus Wood",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver",
+        "Incense"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-39-28AM-_1.png?v=1773460543",
+      "searchableText": "Tom Ford tom ford Tom Ford Black Orchid Black Orchard Floral Oriental unisex Black Truffle Ylang-Ylang Bergamot Black Orchid Lotus Wood Patchouli Vanilla Vetiver Incense",
+      "createdAt": "2026-05-04T04:41:28.869Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 251,
+      "fragranceSlug": "kayali-yum-pistachio-gelato-33-251",
+      "brandName": "Kayali",
+      "brandSlug": "kayali",
+      "originalFragranceName": "Yum Pistachio Gelato 33",
+      "originalFragranceSlug": "kayali-yum-pistachio-gelato-33",
+      "mistifyProductName": "Yummy Pistachio & Gelato 34",
+      "mistifyProductSlug": "yummy-pistachio-and-gelato-34",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/yummy-pistachio-gelato-34",
+      "publicInspiredByLabel": "Inspired by Kayali Yum Pistachio Gelato 33",
+      "audience": "womens",
+      "classification": "Gourmand",
+      "topNotes": [
+        "Pistachio",
+        "Hazelnut",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Gelato Accord",
+        "Jasmine",
+        "White Peony"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Whipped Cream",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Pistachio",
+        "Hazelnut",
+        "Cardamom",
+        "Gelato Accord",
+        "Jasmine",
+        "White Peony",
+        "Vanilla",
+        "Whipped Cream",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-11-22-00PM-_1.png?v=1773460382",
+      "searchableText": "Kayali kayali Kayali Yum Pistachio Gelato 33 Yummy Pistachio & Gelato 34 Gourmand womens Pistachio Hazelnut Cardamom Gelato Accord Jasmine White Peony Vanilla Whipped Cream Sandalwood",
+      "createdAt": "2026-05-04T04:41:39.281Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Vanilla"
+      ]
+    }
+  ]
+}

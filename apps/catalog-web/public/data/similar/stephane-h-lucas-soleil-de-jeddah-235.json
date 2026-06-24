@@ -1,0 +1,292 @@
+{
+  "fragrances": [
+    {
+      "id": 165,
+      "fragranceSlug": "montale-aoud-leather-165",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Leather",
+      "originalFragranceSlug": "montale-aoud-leather",
+      "mistifyProductName": "Oud Hide",
+      "mistifyProductSlug": "oud-hide",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-hide",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Leather",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [],
+      "middleNotes": [
+        "Leather",
+        "Oud",
+        "Saffron",
+        "Bergamot",
+        "Cardamom",
+        "Pepper",
+        "Ambergris"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Leather",
+        "Oud",
+        "Saffron",
+        "Bergamot",
+        "Cardamom",
+        "Pepper",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudHide_ec6fce37-d220-454a-aab8-992c47a67666.png?v=1765422947",
+      "searchableText": "Montale montale Montale Aoud Leather Oud Hide Leather unisex Leather Oud Saffron Bergamot Cardamom Pepper Ambergris",
+      "createdAt": "2026-05-04T04:41:34.121Z",
+      "sharedNotes": [
+        "Ambergris",
+        "Leather"
+      ]
+    },
+    {
+      "id": 95,
+      "fragranceSlug": "tom-ford-fucking-fabulous-95",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Fucking Fabulous",
+      "originalFragranceSlug": "tom-ford-fucking-fabulous",
+      "mistifyProductName": "Fabuleux",
+      "mistifyProductSlug": "fabuleux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fabuleux",
+      "publicInspiredByLabel": "Inspired by Tom Ford Fucking Fabulous",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Lavender",
+        "Clary Sage"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris",
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec11-2025-09-54-59AM-_1.png?v=1773460202",
+      "searchableText": "Tom Ford tom ford Tom Ford Fucking Fabulous Fabuleux Leather unisex Lavender Clary Sage Leather Bitter Almond Vanilla Orris Leather Tonka Bean Cashmeran White Woods Amber",
+      "createdAt": "2026-05-04T04:41:30.032Z",
+      "sharedNotes": [
+        "Leather",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 280,
+      "fragranceSlug": "amouage-memoir-280",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Memoir",
+      "originalFragranceSlug": "amouage-memoir",
+      "mistifyProductName": "Mémoire Femme",
+      "mistifyProductSlug": "memoire-femme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/memoire-femme",
+      "publicInspiredByLabel": "Inspired by Amouage Memoir",
+      "audience": null,
+      "classification": "Leather",
+      "topNotes": [
+        "Wormwood",
+        "Mint",
+        "Basil"
+      ],
+      "middleNotes": [
+        "Incense",
+        "Lavender",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Tobacco",
+        "Leather",
+        "Sandalwood",
+        "Guaiac Wood",
+        "Vetiver",
+        "Oakmoss",
+        "Amber",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Wormwood",
+        "Mint",
+        "Basil",
+        "Incense",
+        "Lavender",
+        "Rose",
+        "Tobacco",
+        "Leather",
+        "Sandalwood",
+        "Guaiac Wood",
+        "Vetiver",
+        "Oakmoss",
+        "Amber",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay19_2026_10_22_23AM.png?v=1779200550",
+      "searchableText": "Amouage amouage Amouage Memoir Mémoire Femme Leather Wormwood Mint Basil Incense Lavender Rose Tobacco Leather Sandalwood Guaiac Wood Vetiver Oakmoss Amber Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:41.059Z",
+      "sharedNotes": [
+        "Leather",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 207,
+      "fragranceSlug": "rabanne-1-million-golden-oud-207",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "1 Million Golden Oud",
+      "originalFragranceSlug": "rabanne-1-million-golden-oud",
+      "mistifyProductName": "Oud Millionaire",
+      "mistifyProductSlug": "oud-millionaire",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-millionaire",
+      "publicInspiredByLabel": "Inspired by Rabanne 1 Million Golden Oud",
+      "audience": "mens",
+      "classification": "Leather",
+      "topNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Black Pepper",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Sandalwood",
+        "Gurjan Balsam"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Cedarwood",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Black Pepper",
+        "Bergamot",
+        "Patchouli",
+        "Sandalwood",
+        "Gurjan Balsam",
+        "Oud",
+        "Leather",
+        "Cedarwood",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-36-58PM-_1.png?v=1773460314",
+      "searchableText": "Rabanne paco rabanne Paco Rabanne 1 Million Golden Oud Oud Millionaire Leather mens Saffron Nutmeg Black Pepper Bergamot Patchouli Sandalwood Gurjan Balsam Oud Leather Cedarwood Labdanum",
+      "createdAt": "2026-05-04T04:41:36.634Z",
+      "sharedNotes": [
+        "Leather"
+      ]
+    },
+    {
+      "id": 271,
+      "fragranceSlug": "diptyque-eau-rihla-271",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Eau Rihla",
+      "originalFragranceSlug": "diptyque-eau-rihla",
+      "mistifyProductName": "Eau Relia",
+      "mistifyProductSlug": "eau-relia",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eau-relia",
+      "publicInspiredByLabel": "Inspired by Diptyque Eau Rihla",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Iris",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper",
+        "Leather",
+        "Iris",
+        "Cedar",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-50-51AM-_1.png?v=1773460377",
+      "searchableText": "Diptyque diptyque Diptyque Eau Rihla Eau Relia Oriental Woody unisex Raspberry Saffron Pink Pepper Leather Iris Cedar Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:40.507Z",
+      "sharedNotes": [
+        "Iris",
+        "Leather",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 45,
+      "fragranceSlug": "louis-vuitton-fantasmagory-45",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Fantasmagory",
+      "originalFragranceSlug": "louis-vuitton-fantasmagory",
+      "mistifyProductName": "Fantasmique",
+      "mistifyProductSlug": "fantasmique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fantasmique",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Fantasmagory",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Anise",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Almond",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Leather"
+      ],
+      "allNotes": [
+        "Anise",
+        "Ginger",
+        "Almond",
+        "Floral Notes",
+        "Vanilla",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec18-2025-10-09-42AM-_1.png?v=1773460194",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Fantasmagory Fantasmique Oriental Vanilla unisex Anise Ginger Almond Floral Notes Vanilla Leather",
+      "createdAt": "2026-05-04T04:41:27.120Z",
+      "sharedNotes": [
+        "Leather",
+        "Vanilla"
+      ]
+    }
+  ]
+}

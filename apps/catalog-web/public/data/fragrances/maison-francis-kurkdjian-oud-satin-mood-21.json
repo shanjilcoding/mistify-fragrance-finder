@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 21,
+    "fragranceSlug": "maison-francis-kurkdjian-oud-satin-mood-21",
+    "brandName": "Maison Francis Kurkdjian",
+    "brandSlug": "maison-francis-kurkdjian",
+    "originalFragranceName": "Oud Satin Mood",
+    "originalFragranceSlug": "maison-francis-kurkdjian-oud-satin-mood",
+    "mistifyProductName": "Satin Moody Oud",
+    "mistifyProductSlug": "satin-moody-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/satin-moody-oud",
+    "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud Satin Mood",
+    "audience": "unisex",
+    "classification": "Oriental Woody",
+    "topNotes": [
+      "Bulgarian Rose",
+      "Violet",
+      "Strawberry"
+    ],
+    "middleNotes": [
+      "Turkish Rose"
+    ],
+    "baseNotes": [
+      "Oud",
+      "Vanilla",
+      "Amber",
+      "Benzoin",
+      "Caramel",
+      "Cedar"
+    ],
+    "allNotes": [
+      "Bulgarian Rose",
+      "Violet",
+      "Strawberry",
+      "Turkish Rose",
+      "Oud",
+      "Vanilla",
+      "Amber",
+      "Benzoin",
+      "Caramel",
+      "Cedar"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_13_59PM.png?v=1765422983",
+    "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Satin Mood Satin Moody Oud Oriental Woody unisex Bulgarian Rose Violet Strawberry Turkish Rose Oud Vanilla Amber Benzoin Caramel Cedar",
+    "createdAt": "2026-05-04T04:41:25.720Z"
+  }
+}

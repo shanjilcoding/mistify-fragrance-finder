@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 68,
+    "fragranceSlug": "kilian-rolling-in-love-68",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Rolling in Love",
+    "originalFragranceSlug": "kilian-rolling-in-love",
+    "mistifyProductName": "Rolling in Hearts",
+    "mistifyProductSlug": "rolling-in-hearts",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/rolling-in-hearts",
+    "publicInspiredByLabel": "Inspired by Kilian Rolling in Love",
+    "audience": "unisex",
+    "classification": "Floral Oriental",
+    "topNotes": [
+      "Almond Milk",
+      "Ambrette"
+    ],
+    "middleNotes": [
+      "Freesia",
+      "Iris"
+    ],
+    "baseNotes": [
+      "Tonka Bean",
+      "Vanilla",
+      "Musk"
+    ],
+    "allNotes": [
+      "Almond Milk",
+      "Ambrette",
+      "Freesia",
+      "Iris",
+      "Tonka Bean",
+      "Vanilla",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RollinginHearts.png?v=1765422919",
+    "searchableText": "Kilian kilian By Kilian Rolling in Love Rolling in Hearts Floral Oriental unisex Almond Milk Ambrette Freesia Iris Tonka Bean Vanilla Musk",
+    "createdAt": "2026-05-04T04:41:28.450Z"
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "fragrances": [
+    {
+      "id": 171,
+      "fragranceSlug": "montale-intense-cafe-171",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Intense Cafe",
+      "originalFragranceSlug": "montale-intense-cafe",
+      "mistifyProductName": "Café Rose",
+      "mistifyProductSlug": "cafe-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cafe-rose",
+      "publicInspiredByLabel": "Inspired by Montale Intense Cafe",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Floral Notes"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Coffee"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Floral Notes",
+        "Rose",
+        "Coffee",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CafeRose.png?v=1765422956",
+      "searchableText": "Montale montale Montale Intense Cafe Café Rose Oriental Vanilla unisex Floral Notes Rose Coffee Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.468Z",
+      "sharedNotes": [
+        "Vanilla",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 12,
+      "fragranceSlug": "maison-francis-kurkdjian-a-p-o-m-12",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "A.P.O.M",
+      "originalFragranceSlug": "maison-francis-kurkdjian-a-p-o-m",
+      "mistifyProductName": "A Part of Aura",
+      "mistifyProductSlug": "a-part-of-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/a-part-of-aura",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian A.P.O.M",
+      "audience": "unisex",
+      "classification": "Amber Floral Fougere",
+      "topNotes": [
+        "Sweet Florals",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "allNotes": [
+        "Sweet Florals",
+        "Orange Blossom",
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom",
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-08-30AM-_1.png?v=1773460306",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian A.P.O.M A Part of Aura Amber Floral Fougere unisex Sweet Florals Orange Blossom Lavender Ylang-Ylang Orange Blossom Vanilla White Musk Light Amber",
+      "createdAt": "2026-05-04T04:41:25.206Z",
+      "sharedNotes": [
+        "Vanilla",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 181,
+      "fragranceSlug": "mancera-roses-vanille-181",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Roses Vanille",
+      "originalFragranceSlug": "mancera-roses-vanille",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mancera Roses Vanille",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Italian Lemon"
+      ],
+      "middleNotes": [
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Italian Lemon",
+        "Turkish Rose",
+        "Vanilla",
+        "White Musk",
+        "Cedar"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mancera mancera Mancera Roses Vanille Not verified Oriental Vanilla Italian Lemon Turkish Rose Vanilla White Musk Cedar",
+      "createdAt": "2026-05-04T04:41:35.051Z",
+      "sharedNotes": [
+        "Vanilla",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 169,
+      "fragranceSlug": "montale-crystal-aoud-169",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Crystal Aoud",
+      "originalFragranceSlug": "montale-crystal-aoud",
+      "mistifyProductName": "Crystal Oud",
+      "mistifyProductSlug": "crystal-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/crystal-oud",
+      "publicInspiredByLabel": "Inspired by Montale Crystal Aoud",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Melon",
+        "Green Apple",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Teak Wood",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Saffron",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Melon",
+        "Green Apple",
+        "Mandarin Orange",
+        "Oud",
+        "Teak Wood",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla",
+        "Saffron",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CrystalOud.png?v=1765422954",
+      "searchableText": "Montale montale Montale Crystal Aoud Crystal Oud Woody Aromatic unisex Melon Green Apple Mandarin Orange Oud Teak Wood Patchouli Sandalwood Vanilla Saffron White Musk",
+      "createdAt": "2026-05-04T04:41:34.342Z",
+      "sharedNotes": [
+        "Vanilla",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 58,
+      "fragranceSlug": "kilian-gold-knight-58",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Knight",
+      "originalFragranceSlug": "kilian-gold-knight",
+      "mistifyProductName": "Knight in Gold",
+      "mistifyProductSlug": "knight-in-gold",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/knight-in-gold",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Knight",
+      "audience": "unisex",
+      "classification": "Amber/Sweet Spicy",
+      "topNotes": [
+        "Anise",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Honey",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Anise",
+        "Bergamot",
+        "Honey",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_39_10AM.png?v=1774327156",
+      "searchableText": "Kilian kilian By Kilian Gold Knight Knight in Gold Amber/Sweet Spicy unisex Anise Bergamot Honey Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:27.879Z",
+      "sharedNotes": [
+        "Honey",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 175,
+      "fragranceSlug": "mancera-aoud-orchid-175",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Aoud Orchid",
+      "originalFragranceSlug": "mancera-aoud-orchid",
+      "mistifyProductName": "Orchid Essence",
+      "mistifyProductSlug": "orchid-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orchid-essence",
+      "publicInspiredByLabel": "Inspired by Mancera Aoud Orchid",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange",
+        "Orchid",
+        "Patchouli",
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OrchidEssence.png?v=1765422998",
+      "searchableText": "Mancera mancera Mancera Aoud Orchid Orchid Essence Oriental Floral unisex Coconut Peach Mandarin Orange Orchid Patchouli Woody Notes Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.708Z",
+      "sharedNotes": [
+        "Vanilla",
+        "White Musk"
+      ]
+    }
+  ]
+}

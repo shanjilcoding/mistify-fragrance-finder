@@ -1,0 +1,307 @@
+{
+  "fragrances": [
+    {
+      "id": 135,
+      "fragranceSlug": "creed-white-amber-135",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "White Amber",
+      "originalFragranceSlug": "creed-white-amber",
+      "mistifyProductName": "Whitened Amber",
+      "mistifyProductSlug": "whitened-amber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/whitened-amber",
+      "publicInspiredByLabel": "Inspired by Creed White Amber",
+      "audience": "mens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Amber",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Benzoin"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Amber",
+        "Jasmine",
+        "Benzoin",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-37-49AM-_1.png?v=1773460545",
+      "searchableText": "Creed creed Creed White Amber Whitened Amber Floral Woody Musk mens Amber Jasmine Benzoin Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.365Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 292,
+      "fragranceSlug": "bvlgari-eau-parfumee-au-the-blanc-292",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Eau Parfumée Au Thé Blanc",
+      "originalFragranceSlug": "bvlgari-eau-parfumee-au-the-blanc",
+      "mistifyProductName": "Blanc Théique",
+      "mistifyProductSlug": "blanc-theique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/blanc-theique",
+      "publicInspiredByLabel": "Inspired by Bvlgari Eau Parfumée Au Thé Blanc",
+      "audience": "unisex",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Tea",
+        "Artemisia",
+        "Bergamot",
+        "Orange Blossom",
+        "Bitter Orange"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Cardamom",
+        "Coriander"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Woody Notes",
+        "Jasmine",
+        "Amber",
+        "Rose"
+      ],
+      "allNotes": [
+        "Tea",
+        "Artemisia",
+        "Bergamot",
+        "Orange Blossom",
+        "Bitter Orange",
+        "Pepper",
+        "Cardamom",
+        "Coriander",
+        "Musk",
+        "Woody Notes",
+        "Jasmine",
+        "Amber",
+        "Rose"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov14-2025-10-23-42AM-_1.png?v=1773460213",
+      "searchableText": "Bvlgari bvlgari Bvlgari Eau Parfumée Au Thé Blanc Blanc Théique Floral Woody Musk unisex Tea Artemisia Bergamot Orange Blossom Bitter Orange Pepper Cardamom Coriander Musk Woody Notes Jasmine Amber Rose",
+      "createdAt": "2026-05-04T04:41:41.776Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 231,
+      "fragranceSlug": "tiziana-terenzi-orion-231",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Orion",
+      "originalFragranceSlug": "tiziana-terenzi-orion",
+      "mistifyProductName": "Orien",
+      "mistifyProductSlug": "orien",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orien",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Orion",
+      "audience": "unisex",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant"
+      ],
+      "middleNotes": [
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant",
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine",
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Orien-_1.png?v=1773460410",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Orion Orien Floral Woody Musk unisex Pineapple Apple Bergamot Red Currant Birch Thyme Patchouli Jasmine Cedar Incense Oud Musk Amber",
+      "createdAt": "2026-05-04T04:41:38.057Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 137,
+      "fragranceSlug": "creed-wind-flowers-137",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Wind Flowers",
+      "originalFragranceSlug": "creed-wind-flowers",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Creed Wind Flowers",
+      "audience": null,
+      "classification": "Floral",
+      "topNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Peach"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac",
+        "Tuberose",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Orange Blossom",
+        "Praline",
+        "Sandalwood",
+        "Iris"
+      ],
+      "allNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Peach",
+        "Jasmine Sambac",
+        "Tuberose",
+        "Rose",
+        "Musk",
+        "Orange Blossom",
+        "Praline",
+        "Sandalwood",
+        "Iris"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Creed creed Creed Wind Flowers Not verified Floral Jasmine Orange Blossom Peach Jasmine Sambac Tuberose Rose Musk Orange Blossom Praline Sandalwood Iris",
+      "createdAt": "2026-05-04T04:41:32.485Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Peach",
+        "Tuberose",
+        "Orange Blossom",
+        "Musk"
+      ]
+    },
+    {
+      "id": 93,
+      "fragranceSlug": "tom-ford-white-suede-93",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "White Suede",
+      "originalFragranceSlug": "tom-ford-white-suede",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Tom Ford White Suede",
+      "audience": null,
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Thyme",
+        "Tea"
+      ],
+      "middleNotes": [
+        "Lily-of-the-Valley",
+        "Saffron",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Musk",
+        "Sandalwood",
+        "Amber",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Thyme",
+        "Tea",
+        "Lily-of-the-Valley",
+        "Saffron",
+        "Rose",
+        "Suede",
+        "Musk",
+        "Sandalwood",
+        "Amber",
+        "Olibanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Tom Ford tom ford Tom Ford White Suede Not verified Floral Woody Musk Thyme Tea Lily-of-the-Valley Saffron Rose Suede Musk Sandalwood Amber Olibanum",
+      "createdAt": "2026-05-04T04:41:29.912Z",
+      "sharedNotes": [
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 65,
+      "fragranceSlug": "kilian-love-don-t-be-shy-65",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Love, Don’t Be Shy",
+      "originalFragranceSlug": "kilian-love-don-t-be-shy",
+      "mistifyProductName": "Love, I’m Not Shy",
+      "mistifyProductSlug": "love-i-m-not-shy",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/love-im-not-shy",
+      "publicInspiredByLabel": "Inspired by Kilian Love, Don’t Be Shy",
+      "audience": "unisex",
+      "classification": "Floral Gourmand",
+      "topNotes": [
+        "Neroli",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Bergamot",
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom",
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-33-02PM-_1.png?v=1773460529",
+      "searchableText": "Kilian kilian By Kilian Love, Don’t Be Shy Love, I’m Not Shy Floral Gourmand unisex Neroli Bergamot Jasmine Honeysuckle Orange Blossom Vanilla Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.274Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Caramel",
+        "Musk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "fragrances": [
+    {
+      "id": 260,
+      "fragranceSlug": "gucci-gucci-bloom-260",
+      "brandName": "Gucci",
+      "brandSlug": "gucci",
+      "originalFragranceName": "Gucci Bloom",
+      "originalFragranceSlug": "gucci-gucci-bloom",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Gucci Gucci Bloom",
+      "audience": null,
+      "classification": "Floral",
+      "topNotes": [
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Tuberose"
+      ],
+      "baseNotes": [
+        "Rangoon Creeper"
+      ],
+      "allNotes": [
+        "Jasmine",
+        "Tuberose",
+        "Rangoon Creeper"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Gucci gucci Gucci Gucci Bloom Not verified Floral Jasmine Tuberose Rangoon Creeper",
+      "createdAt": "2026-05-04T04:41:39.836Z",
+      "sharedNotes": [
+        "Tuberose"
+      ]
+    },
+    {
+      "id": 270,
+      "fragranceSlug": "diptyque-do-son-270",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Do Son",
+      "originalFragranceSlug": "diptyque-do-son",
+      "mistifyProductName": "Do Sonara",
+      "mistifyProductSlug": "do-sonara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/do-sonara",
+      "publicInspiredByLabel": "Inspired by Diptyque Do Son",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "African Orange Flower",
+        "Iris",
+        "Rose"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "African Orange Flower",
+        "Iris",
+        "Rose",
+        "Tuberose",
+        "Pink Pepper",
+        "Musk",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-23-08PM-_1.png?v=1773460372",
+      "searchableText": "Diptyque diptyque Diptyque Do Son Do Sonara Floral womens African Orange Flower Iris Rose Tuberose Pink Pepper Musk Benzoin",
+      "createdAt": "2026-05-04T04:41:40.444Z",
+      "sharedNotes": [
+        "Tuberose"
+      ]
+    },
+    {
+      "id": 284,
+      "fragranceSlug": "carolina-herrera-mystery-tobacco-284",
+      "brandName": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "originalFragranceName": "Mystery Tobacco",
+      "originalFragranceSlug": "carolina-herrera-mystery-tobacco",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Carolina Herrera Mystery Tobacco",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Osmanthus",
+        "Ginger",
+        "Citruses",
+        "Artemisia"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Patchouli",
+        "Guaiac Wood",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Ginger",
+        "Citruses",
+        "Artemisia",
+        "Tobacco",
+        "Patchouli",
+        "Guaiac Wood",
+        "Vetiver",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Carolina Herrera carolina herrera Carolina Herrera Mystery Tobacco Not verified Oriental Woody Osmanthus Ginger Citruses Artemisia Tobacco Patchouli Guaiac Wood Vetiver Tonka Bean",
+      "createdAt": "2026-05-04T04:41:41.303Z",
+      "sharedNotes": [
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 303,
+      "fragranceSlug": "obvious-parfums-milk-and-matcha-303",
+      "brandName": "Obvious Parfums",
+      "brandSlug": "obvious-parfums",
+      "originalFragranceName": "Milk & Matcha",
+      "originalFragranceSlug": "obvious-parfums-milk-and-matcha",
+      "mistifyProductName": "Matcha Milk",
+      "mistifyProductSlug": "matcha-milk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/matcha-milk",
+      "publicInspiredByLabel": "Obvious Parfums Milk & Matcha",
+      "audience": null,
+      "classification": "Gourmand Tea / Creamy Citrus",
+      "topNotes": [
+        "Tangerine",
+        "Ginger",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Matcha Tea",
+        "Mate",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Peru Balsam"
+      ],
+      "allNotes": [
+        "Tangerine",
+        "Ginger",
+        "Mandarin",
+        "Matcha Tea",
+        "Mate",
+        "Orange Blossom",
+        "Tonka Bean",
+        "Vanilla",
+        "Peru Balsam"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_17_11PM.png?v=1781713040",
+      "searchableText": "Obvious Parfums Obvious Parfums Milk & Matcha Matcha Milk Gourmand Tea / Creamy Citrus Tangerine Ginger Mandarin Matcha Tea Mate Orange Blossom Tonka Bean Vanilla Peru Balsam",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Mate",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 137,
+      "fragranceSlug": "creed-wind-flowers-137",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Wind Flowers",
+      "originalFragranceSlug": "creed-wind-flowers",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Creed Wind Flowers",
+      "audience": null,
+      "classification": "Floral",
+      "topNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Peach"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac",
+        "Tuberose",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Orange Blossom",
+        "Praline",
+        "Sandalwood",
+        "Iris"
+      ],
+      "allNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Peach",
+        "Jasmine Sambac",
+        "Tuberose",
+        "Rose",
+        "Musk",
+        "Orange Blossom",
+        "Praline",
+        "Sandalwood",
+        "Iris"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Creed creed Creed Wind Flowers Not verified Floral Jasmine Orange Blossom Peach Jasmine Sambac Tuberose Rose Musk Orange Blossom Praline Sandalwood Iris",
+      "createdAt": "2026-05-04T04:41:32.485Z",
+      "sharedNotes": [
+        "Tuberose"
+      ]
+    },
+    {
+      "id": 133,
+      "fragranceSlug": "creed-sublime-vanille-133",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Sublime Vanille",
+      "originalFragranceSlug": "creed-sublime-vanille",
+      "mistifyProductName": "Superb Vanilla",
+      "mistifyProductSlug": "superb-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/superb-vanilla",
+      "publicInspiredByLabel": "Inspired by Creed Sublime Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bourbon Vanilla",
+        "Lemon"
+      ],
+      "middleNotes": [],
+      "baseNotes": [
+        "Tonka Bean",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bourbon Vanilla",
+        "Lemon",
+        "Tonka Bean",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-35-41AM-_1.png?v=1773460548",
+      "searchableText": "Creed creed Creed Sublime Vanille Superb Vanilla Oriental Vanilla unisex Bourbon Vanilla Lemon Tonka Bean Musk",
+      "createdAt": "2026-05-04T04:41:32.256Z",
+      "sharedNotes": [
+        "Tonka Bean"
+      ]
+    }
+  ]
+}

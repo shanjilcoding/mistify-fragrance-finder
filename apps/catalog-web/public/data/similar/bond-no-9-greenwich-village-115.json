@@ -1,0 +1,276 @@
+{
+  "fragrances": [
+    {
+      "id": 172,
+      "fragranceSlug": "montale-rose-elixir-172",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Rose Elixir",
+      "originalFragranceSlug": "montale-rose-elixir",
+      "mistifyProductName": "Rose Delight",
+      "mistifyProductSlug": "rose-delight",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-delight",
+      "publicInspiredByLabel": "Inspired by Montale Rose Elixir",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Strawberry",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Strawberry",
+        "Orange",
+        "Rose",
+        "Jasmine",
+        "Musk",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseDelight.png?v=1765422958",
+      "searchableText": "Montale montale Montale Rose Elixir Rose Delight Floral Fruity womens Strawberry Orange Rose Jasmine Musk Vanilla",
+      "createdAt": "2026-05-04T04:41:34.530Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Musk",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 232,
+      "fragranceSlug": "tiziana-terenzi-saiph-232",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Saiph",
+      "originalFragranceSlug": "tiziana-terenzi-saiph",
+      "mistifyProductName": "Saipha",
+      "mistifyProductSlug": "saipha",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saipha",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Saiph",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Orange",
+        "Green Notes",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Rose",
+        "Vanilla",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Saipha-_1.png?v=1773460407",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Saiph Saipha Floral Fruity unisex Bergamot Orange Green Notes Ylang-Ylang Jasmine Rose Vanilla Cedar Musk",
+      "createdAt": "2026-05-04T04:41:38.116Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Musk",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 200,
+      "fragranceSlug": "xerjoff-accento-200",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Accento",
+      "originalFragranceSlug": "xerjoff-accento",
+      "mistifyProductName": "Accents",
+      "mistifyProductSlug": "accents",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+      "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pineapple",
+        "Hyacinth"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Iris",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Hyacinth",
+        "Jasmine",
+        "Iris",
+        "Pink Pepper",
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+      "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:36.220Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Musk",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 170,
+      "fragranceSlug": "montale-dark-cherry-170",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Dark Cherry",
+      "originalFragranceSlug": "montale-dark-cherry",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Dark Cherry",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Black Cherry"
+      ],
+      "middleNotes": [
+        "Rose Petals",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Cherry",
+        "Rose Petals",
+        "Jasmine",
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Dark Cherry Not verified Floral Fruity Bergamot Black Cherry Rose Petals Jasmine Musk Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:34.405Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Musk",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 197,
+      "fragranceSlug": "sol-de-janeiro-cheirosa-40-197",
+      "brandName": "Sol De Janeiro",
+      "brandSlug": "sol-de-janeiro",
+      "originalFragranceName": "Cheirosa 40",
+      "originalFragranceSlug": "sol-de-janeiro-cheirosa-40",
+      "mistifyProductName": "Carioca 40",
+      "mistifyProductSlug": "carioca-40",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/carioca-40",
+      "publicInspiredByLabel": "Inspired by Sol De Janeiro Cheirosa 40",
+      "audience": "unisex",
+      "classification": "Floral Fruity Gourmand",
+      "topNotes": [
+        "Plum",
+        "Black Amber",
+        "Cassis"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Woodsy Notes",
+        "Musk"
+      ],
+      "allNotes": [
+        "Plum",
+        "Black Amber",
+        "Cassis",
+        "Orchid",
+        "Jasmine",
+        "Vanilla",
+        "Woodsy Notes",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb11-2026-11-15-33AM-_1.png?v=1773460147",
+      "searchableText": "Sol De Janeiro sol de janeiro Sol de Janeiro Cheirosa 40 Carioca 40 Floral Fruity Gourmand unisex Plum Black Amber Cassis Orchid Jasmine Vanilla Woodsy Notes Musk",
+      "createdAt": "2026-05-04T04:41:36.037Z",
+      "sharedNotes": [
+        "Cassis",
+        "Jasmine",
+        "Musk",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 154,
+      "fragranceSlug": "ysl-yves-saint-laurent-libre-berry-crush-154",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Libre Berry Crush",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-libre-berry-crush",
+      "mistifyProductName": "Libre Berry",
+      "mistifyProductSlug": "libre-berry",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-berry",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre Berry Crush",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Raspberry",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Musk",
+        "Coconut"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Mandarin",
+        "Orange Blossom",
+        "Lavender",
+        "Bourbon Vanilla",
+        "Musk",
+        "Coconut"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_10_01_31AM.png?v=1778594501",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Berry Crush Libre Berry Floral Fruity Raspberry Mandarin Orange Blossom Lavender Bourbon Vanilla Musk Coconut",
+      "createdAt": "2026-05-04T04:41:33.476Z",
+      "sharedNotes": [
+        "Mandarin",
+        "Musk"
+      ]
+    }
+  ]
+}

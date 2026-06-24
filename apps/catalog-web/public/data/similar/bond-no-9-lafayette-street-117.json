@@ -1,0 +1,279 @@
+{
+  "fragrances": [
+    {
+      "id": 285,
+      "fragranceSlug": "jean-paul-gaultier-le-male-elixir-285",
+      "brandName": "Jean Paul Gaultier",
+      "brandSlug": "jean-paul-gaultier",
+      "originalFragranceName": "Le Male Elixir",
+      "originalFragranceSlug": "jean-paul-gaultier-le-male-elixir",
+      "mistifyProductName": "Le Miel Elixir",
+      "mistifyProductSlug": "le-miel-elixir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/le-miel-elixir",
+      "publicInspiredByLabel": "Inspired by Jean Paul Gaultier Le Male Elixir",
+      "audience": "mens",
+      "classification": "Oriental Fougere",
+      "topNotes": [
+        "Lavender",
+        "Mint"
+      ],
+      "middleNotes": [
+        "Benzoin",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Honey",
+        "Tonka Bean",
+        "Tobacco"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Mint",
+        "Benzoin",
+        "Vanilla",
+        "Honey",
+        "Tonka Bean",
+        "Tobacco"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar22_2026_09_30_12AM.png?v=1774186218",
+      "searchableText": "Jean Paul Gaultier jean paul gaultier Jean Paul Gaultier Le Male Elixir Le Miel Elixir Oriental Fougere mens Lavender Mint Benzoin Vanilla Honey Tonka Bean Tobacco",
+      "createdAt": "2026-05-04T04:41:41.358Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 227,
+      "fragranceSlug": "clive-christian-clive-christian-v-227",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Clive Christian V",
+      "originalFragranceSlug": "clive-christian-clive-christian-v",
+      "mistifyProductName": "Vividly Christian V",
+      "mistifyProductSlug": "vividly-christian-v",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vividly-christian-v",
+      "publicInspiredByLabel": "Inspired by Clive Christian Clive Christian V",
+      "audience": "mens",
+      "classification": "Oriental Fougere",
+      "topNotes": [
+        "Black Pepper",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Olibanum"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Smoke",
+        "Amber"
+      ],
+      "allNotes": [
+        "Black Pepper",
+        "Bergamot",
+        "Olibanum",
+        "Vetiver",
+        "Smoke",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-40-13PM-_1.png?v=1773460454",
+      "searchableText": "Clive Christian clive christian Clive Christian Clive Christian V Vividly Christian V Oriental Fougere mens Black Pepper Bergamot Olibanum Vetiver Smoke Amber",
+      "createdAt": "2026-05-04T04:41:37.822Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Amber"
+      ]
+    },
+    {
+      "id": 220,
+      "fragranceSlug": "dior-feve-delicieuse-220",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Feve Delicieuse",
+      "originalFragranceSlug": "dior-feve-delicieuse",
+      "mistifyProductName": "Fave Deliciosa",
+      "mistifyProductSlug": "fave-deliciosa",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fave-deliciosa",
+      "publicInspiredByLabel": "Inspired by Dior Feve Delicieuse",
+      "audience": "unisex",
+      "classification": "Oriental Gourmand",
+      "topNotes": [
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Caramel"
+      ],
+      "baseNotes": [
+        "Praline",
+        "Cocoa",
+        "Woods"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Tonka Bean",
+        "Vanilla",
+        "Caramel",
+        "Praline",
+        "Cocoa",
+        "Woods"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_52_44PM.png?v=1774407173",
+      "searchableText": "Dior christian dior Christian Dior Feve Delicieuse Fave Deliciosa Oriental Gourmand unisex Bergamot Tonka Bean Vanilla Caramel Praline Cocoa Woods",
+      "createdAt": "2026-05-04T04:41:37.391Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 79,
+      "fragranceSlug": "tom-ford-lavender-extreme-79",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lavender Extreme",
+      "originalFragranceSlug": "tom-ford-lavender-extreme",
+      "mistifyProductName": "Lavender Extremism",
+      "mistifyProductSlug": "lavender-extremism",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lavender-extremism",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lavender Extreme",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LavenderExtremism.png?v=1765422873",
+      "searchableText": "Tom Ford tom ford Tom Ford Lavender Extreme Lavender Extremism Aromatic unisex Lavender Bergamot Cinnamon Tonka Bean Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:29.108Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 281,
+      "fragranceSlug": "amouage-decision-281",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Decision",
+      "originalFragranceSlug": "amouage-decision",
+      "mistifyProductName": "Final Say",
+      "mistifyProductSlug": "final-say",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/final-say",
+      "publicInspiredByLabel": "Inspired by Amouage Decision",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper",
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh",
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb10-2026-01-48-07PM-_1.png?v=1773460152",
+      "searchableText": "Amouage amouage Amouage Decision Final Say Woody Aromatic unisex Cardamom Bergamot Pink Pepper Frankincense Juniper Berries Myrrh Vanilla Cedarwood Patchouli",
+      "createdAt": "2026-05-04T04:41:41.123Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla",
+        "Cedarwood"
+      ]
+    },
+    {
+      "id": 91,
+      "fragranceSlug": "tom-ford-eau-d-ombre-leather-91",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Eau d’Ombre Leather",
+      "originalFragranceSlug": "tom-ford-eau-d-ombre-leather",
+      "mistifyProductName": "Ombre Dawn",
+      "mistifyProductSlug": "ombre-dawn",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-dawn",
+      "publicInspiredByLabel": "Inspired by Tom Ford Eau d’Ombre Leather",
+      "audience": "mens",
+      "classification": "Ambery Oriental Leather",
+      "topNotes": [
+        "Cardamom",
+        "Ginger",
+        "Coriander"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Vanilla",
+        "Saffron",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Ambrofix",
+        "Cedarwood",
+        "Patchouli",
+        "Sandalwood",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Ginger",
+        "Coriander",
+        "Leather",
+        "Vanilla",
+        "Saffron",
+        "Jasmine",
+        "Tonka Bean",
+        "Ambrofix",
+        "Cedarwood",
+        "Patchouli",
+        "Sandalwood",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-03-21-24PM-_1.png?v=1773460285",
+      "searchableText": "Tom Ford tom ford Tom Ford Eau d’Ombre Leather Ombre Dawn Ambery Oriental Leather mens Cardamom Ginger Coriander Leather Vanilla Saffron Jasmine Tonka Bean Ambrofix Cedarwood Patchouli Sandalwood Benzoin",
+      "createdAt": "2026-05-04T04:41:29.797Z",
+      "sharedNotes": [
+        "Coriander",
+        "Vanilla",
+        "Tonka Bean",
+        "Cedarwood"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "fragrances": [
+    {
+      "id": 211,
+      "fragranceSlug": "rabanne-after-club-211",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "After Club",
+      "originalFragranceSlug": "rabanne-after-club",
+      "mistifyProductName": "Club Afterglow",
+      "mistifyProductSlug": "club-afterglow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/club-afterglow",
+      "publicInspiredByLabel": "Inspired by Rabanne After Club",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Vanilla",
+        "Labdanum",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-33-34PM-_1.png?v=1773460311",
+      "searchableText": "Rabanne rabanne Rabanne After Club Club Afterglow Woody Aromatic unisex Lavender Vanilla Labdanum Amber",
+      "createdAt": "2026-05-04T04:41:36.872Z",
+      "sharedNotes": [
+        "Amber"
+      ]
+    },
+    {
+      "id": 237,
+      "fragranceSlug": "nasomatto-black-afgano-237",
+      "brandName": "Nasomatto",
+      "brandSlug": "nasomatto",
+      "originalFragranceName": "Black Afgano",
+      "originalFragranceSlug": "nasomatto-black-afgano",
+      "mistifyProductName": "Dark Afgana",
+      "mistifyProductSlug": "dark-afgana",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/dark-afgana",
+      "publicInspiredByLabel": "Inspired by Nasomatto Black Afgano",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cannabis",
+        "Green Notes",
+        "Davana",
+        "Saffron",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Resins",
+        "Woodsy Notes",
+        "Tobacco",
+        "Coffee",
+        "Cinnamon",
+        "Violet",
+        "Raspberry"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Incense",
+        "Amber",
+        "Animal Notes",
+        "Guaiac Wood",
+        "Musk",
+        "Tonka",
+        "Cedar",
+        "Gurjan Balsam",
+        "Ambroxan",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Cannabis",
+        "Green Notes",
+        "Davana",
+        "Saffron",
+        "Thyme",
+        "Resins",
+        "Woodsy Notes",
+        "Tobacco",
+        "Coffee",
+        "Cinnamon",
+        "Violet",
+        "Raspberry",
+        "Oud",
+        "Incense",
+        "Amber",
+        "Animal Notes",
+        "Guaiac Wood",
+        "Musk",
+        "Tonka",
+        "Cedar",
+        "Gurjan Balsam",
+        "Ambroxan",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_59_24PM.png?v=1774407573",
+      "searchableText": "Nasomatto nasomatto Nasomatto Black Afgano Dark Afgana Woody Aromatic unisex Cannabis Green Notes Davana Saffron Thyme Resins Woodsy Notes Tobacco Coffee Cinnamon Violet Raspberry Oud Incense Amber Animal Notes Guaiac Wood Musk Tonka Cedar Gurjan Balsam Ambroxan Vanilla",
+      "createdAt": "2026-05-04T04:41:38.428Z",
+      "sharedNotes": [
+        "Violet",
+        "Amber"
+      ]
+    },
+    {
+      "id": 169,
+      "fragranceSlug": "montale-crystal-aoud-169",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Crystal Aoud",
+      "originalFragranceSlug": "montale-crystal-aoud",
+      "mistifyProductName": "Crystal Oud",
+      "mistifyProductSlug": "crystal-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/crystal-oud",
+      "publicInspiredByLabel": "Inspired by Montale Crystal Aoud",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Melon",
+        "Green Apple",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Teak Wood",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Saffron",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Melon",
+        "Green Apple",
+        "Mandarin Orange",
+        "Oud",
+        "Teak Wood",
+        "Patchouli",
+        "Sandalwood",
+        "Vanilla",
+        "Saffron",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CrystalOud.png?v=1765422954",
+      "searchableText": "Montale montale Montale Crystal Aoud Crystal Oud Woody Aromatic unisex Melon Green Apple Mandarin Orange Oud Teak Wood Patchouli Sandalwood Vanilla Saffron White Musk",
+      "createdAt": "2026-05-04T04:41:34.342Z",
+      "sharedNotes": [
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 281,
+      "fragranceSlug": "amouage-decision-281",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Decision",
+      "originalFragranceSlug": "amouage-decision",
+      "mistifyProductName": "Final Say",
+      "mistifyProductSlug": "final-say",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/final-say",
+      "publicInspiredByLabel": "Inspired by Amouage Decision",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper",
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh",
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb10-2026-01-48-07PM-_1.png?v=1773460152",
+      "searchableText": "Amouage amouage Amouage Decision Final Say Woody Aromatic unisex Cardamom Bergamot Pink Pepper Frankincense Juniper Berries Myrrh Vanilla Cedarwood Patchouli",
+      "createdAt": "2026-05-04T04:41:41.123Z",
+      "sharedNotes": [
+        "Cardamom"
+      ]
+    },
+    {
+      "id": 286,
+      "fragranceSlug": "jean-paul-gaultier-le-beau-paradise-garden-286",
+      "brandName": "Jean Paul Gaultier",
+      "brandSlug": "jean-paul-gaultier",
+      "originalFragranceName": "Le Beau Paradise Garden",
+      "originalFragranceSlug": "jean-paul-gaultier-le-beau-paradise-garden",
+      "mistifyProductName": "Paradise Jardin",
+      "mistifyProductSlug": "paradise-jardin",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradise-jardin",
+      "publicInspiredByLabel": "Inspired by Jean Paul Gaultier Le Beau Paradise Garden",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Green Notes",
+        "Watery Notes",
+        "Mint",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Coconut",
+        "Fig",
+        "Salt"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Green Notes",
+        "Watery Notes",
+        "Mint",
+        "Ginger",
+        "Coconut",
+        "Fig",
+        "Salt",
+        "Tonka Bean",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar23_2026_03_22_46PM.png?v=1774293864",
+      "searchableText": "Jean Paul Gaultier jean paul gaultier Jean Paul Gaultier Le Beau Paradise Garden Paradise Jardin Woody Aromatic unisex Green Notes Watery Notes Mint Ginger Coconut Fig Salt Tonka Bean Sandalwood",
+      "createdAt": "2026-05-04T04:41:41.421Z",
+      "sharedNotes": [
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 42,
+      "fragranceSlug": "louis-vuitton-lvers-lovers-42",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "LVERS / Lovers",
+      "originalFragranceSlug": "louis-vuitton-lvers-lovers",
+      "mistifyProductName": "LOVERS",
+      "mistifyProductSlug": "lovers",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/solar-essence",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton LVERS / Lovers",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Galbanum",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Solar Notes"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Cedarwood"
+      ],
+      "allNotes": [
+        "Galbanum",
+        "Bergamot",
+        "Ginger",
+        "Solar Notes",
+        "Sandalwood",
+        "Cedarwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton LVERS / Lovers LOVERS Woody Aromatic unisex Galbanum Bergamot Ginger Solar Notes Sandalwood Cedarwood",
+      "createdAt": "2026-05-04T04:41:26.948Z",
+      "sharedNotes": [
+        "Sandalwood"
+      ]
+    }
+  ]
+}

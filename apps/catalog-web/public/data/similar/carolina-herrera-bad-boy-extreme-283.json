@@ -1,0 +1,297 @@
+{
+  "fragrances": [
+    {
+      "id": 284,
+      "fragranceSlug": "carolina-herrera-mystery-tobacco-284",
+      "brandName": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "originalFragranceName": "Mystery Tobacco",
+      "originalFragranceSlug": "carolina-herrera-mystery-tobacco",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Carolina Herrera Mystery Tobacco",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Osmanthus",
+        "Ginger",
+        "Citruses",
+        "Artemisia"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Patchouli",
+        "Guaiac Wood",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Ginger",
+        "Citruses",
+        "Artemisia",
+        "Tobacco",
+        "Patchouli",
+        "Guaiac Wood",
+        "Vetiver",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Carolina Herrera carolina herrera Carolina Herrera Mystery Tobacco Not verified Oriental Woody Osmanthus Ginger Citruses Artemisia Tobacco Patchouli Guaiac Wood Vetiver Tonka Bean",
+      "createdAt": "2026-05-04T04:41:41.303Z",
+      "sharedNotes": [
+        "Ginger",
+        "Vetiver",
+        "Tonka Bean",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 144,
+      "fragranceSlug": "ysl-yves-saint-laurent-y-intense-144",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Y Intense",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-y-intense",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Y Intense",
+      "audience": null,
+      "classification": "Aromatic Fougere",
+      "topNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries"
+      ],
+      "middleNotes": [
+        "Sage",
+        "Geranium",
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries",
+        "Sage",
+        "Geranium",
+        "Lavender",
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Y Intense Not verified Aromatic Fougere Ginger Bergamot Juniper Berries Sage Geranium Lavender Vetiver Tonka Bean Cedar Olibanum",
+      "createdAt": "2026-05-04T04:41:32.882Z",
+      "sharedNotes": [
+        "Sage",
+        "Ginger",
+        "Vetiver",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 291,
+      "fragranceSlug": "bvlgari-le-gemme-tygar-291",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Le Gemme Tygar",
+      "originalFragranceSlug": "bvlgari-le-gemme-tygar",
+      "mistifyProductName": "Tygara",
+      "mistifyProductSlug": "tygara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/castellan-copy",
+      "publicInspiredByLabel": "Inspired by Bvlgari Le Gemme Tygar",
+      "audience": "mens",
+      "classification": "Citrus Woody/Musky Amber",
+      "topNotes": [
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Ambrette"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Musk",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Ginger",
+        "Ambrette",
+        "Ambroxan",
+        "Musk",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-20-42AM-_1.png?v=1773460236",
+      "searchableText": "Bvlgari bvlgari Bvlgari Le Gemme Tygar Tygara Citrus Woody/Musky Amber mens Grapefruit Ginger Ambrette Ambroxan Musk Vetiver Patchouli",
+      "createdAt": "2026-05-04T04:41:41.717Z",
+      "sharedNotes": [
+        "Ginger",
+        "Vetiver",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 139,
+      "fragranceSlug": "creed-oud-zarian-139",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Oud Zarian",
+      "originalFragranceSlug": "creed-oud-zarian",
+      "mistifyProductName": "Oud Zarien",
+      "mistifyProductSlug": "oud-zarien",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-zarien",
+      "publicInspiredByLabel": "Inspired by Creed Oud Zarian",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Spices",
+        "Frankincense",
+        "Ginger",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "May Rose"
+      ],
+      "baseNotes": [
+        "Licorice",
+        "Myrrh",
+        "Oud",
+        "Tonka Bean",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Spices",
+        "Frankincense",
+        "Ginger",
+        "Bergamot",
+        "May Rose",
+        "Licorice",
+        "Myrrh",
+        "Oud",
+        "Tonka Bean",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec16-2025-10-53-37AM-_1.png?v=1773460199",
+      "searchableText": "Creed creed Creed Oud Zarian Oud Zarien Oriental Woody unisex Spices Frankincense Ginger Bergamot May Rose Licorice Myrrh Oud Tonka Bean Sandalwood Patchouli",
+      "createdAt": "2026-05-04T04:41:32.597Z",
+      "sharedNotes": [
+        "Ginger",
+        "Tonka Bean",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 91,
+      "fragranceSlug": "tom-ford-eau-d-ombre-leather-91",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Eau d’Ombre Leather",
+      "originalFragranceSlug": "tom-ford-eau-d-ombre-leather",
+      "mistifyProductName": "Ombre Dawn",
+      "mistifyProductSlug": "ombre-dawn",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-dawn",
+      "publicInspiredByLabel": "Inspired by Tom Ford Eau d’Ombre Leather",
+      "audience": "mens",
+      "classification": "Ambery Oriental Leather",
+      "topNotes": [
+        "Cardamom",
+        "Ginger",
+        "Coriander"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Vanilla",
+        "Saffron",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Ambrofix",
+        "Cedarwood",
+        "Patchouli",
+        "Sandalwood",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Ginger",
+        "Coriander",
+        "Leather",
+        "Vanilla",
+        "Saffron",
+        "Jasmine",
+        "Tonka Bean",
+        "Ambrofix",
+        "Cedarwood",
+        "Patchouli",
+        "Sandalwood",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-03-21-24PM-_1.png?v=1773460285",
+      "searchableText": "Tom Ford tom ford Tom Ford Eau d’Ombre Leather Ombre Dawn Ambery Oriental Leather mens Cardamom Ginger Coriander Leather Vanilla Saffron Jasmine Tonka Bean Ambrofix Cedarwood Patchouli Sandalwood Benzoin",
+      "createdAt": "2026-05-04T04:41:29.797Z",
+      "sharedNotes": [
+        "Ginger",
+        "Tonka Bean",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 79,
+      "fragranceSlug": "tom-ford-lavender-extreme-79",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lavender Extreme",
+      "originalFragranceSlug": "tom-ford-lavender-extreme",
+      "mistifyProductName": "Lavender Extremism",
+      "mistifyProductSlug": "lavender-extremism",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lavender-extremism",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lavender Extreme",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LavenderExtremism.png?v=1765422873",
+      "searchableText": "Tom Ford tom ford Tom Ford Lavender Extreme Lavender Extremism Aromatic unisex Lavender Bergamot Cinnamon Tonka Bean Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:29.108Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Patchouli"
+      ]
+    }
+  ]
+}

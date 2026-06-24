@@ -1,0 +1,57 @@
+{
+  "fragrance": {
+    "id": 249,
+    "fragranceSlug": "penhaligon-s-vaara-249",
+    "brandName": "Penhaligon's",
+    "brandSlug": "penhaligon-s",
+    "originalFragranceName": "Vaara",
+    "originalFragranceSlug": "penhaligon-s-vaara",
+    "mistifyProductName": "Royal Vaara",
+    "mistifyProductSlug": "royal-vaara",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/royal-vaara",
+    "publicInspiredByLabel": "Inspired by Penhaligon's Vaara",
+    "audience": null,
+    "classification": "Oriental",
+    "topNotes": [
+      "Quince",
+      "Rose Water",
+      "Saffron",
+      "Coriander",
+      "Carrot Seeds"
+    ],
+    "middleNotes": [
+      "Rose",
+      "Peony",
+      "Freesia",
+      "Magnolia"
+    ],
+    "baseNotes": [
+      "Honey",
+      "White Musk",
+      "Cedar",
+      "Sandalwood",
+      "Benzoin",
+      "Tonka Bean"
+    ],
+    "allNotes": [
+      "Quince",
+      "Rose Water",
+      "Saffron",
+      "Coriander",
+      "Carrot Seeds",
+      "Rose",
+      "Peony",
+      "Freesia",
+      "Magnolia",
+      "Honey",
+      "White Musk",
+      "Cedar",
+      "Sandalwood",
+      "Benzoin",
+      "Tonka Bean"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoyalVaara.png?v=1765422937",
+    "searchableText": "Penhaligon's penhaligons Penhaligon's Vaara Royal Vaara Oriental Quince Rose Water Saffron Coriander Carrot Seeds Rose Peony Freesia Magnolia Honey White Musk Cedar Sandalwood Benzoin Tonka Bean",
+    "createdAt": "2026-05-04T04:41:39.160Z"
+  }
+}

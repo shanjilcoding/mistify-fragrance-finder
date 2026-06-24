@@ -1,0 +1,292 @@
+{
+  "fragrances": [
+    {
+      "id": 3,
+      "fragranceSlug": "guerlain-santal-royal-3",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Santal Royal",
+      "originalFragranceSlug": "guerlain-santal-royal",
+      "mistifyProductName": "Royal Santal",
+      "mistifyProductSlug": "royal-santal",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/royal-santal",
+      "publicInspiredByLabel": "Inspired by Guerlain Santal Royal",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Neroli",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Sandalwood",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Jasmine",
+        "Sandalwood",
+        "Rose",
+        "Leather",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-20-14PM-_1.png?v=1773460356",
+      "searchableText": "Guerlain guerlain Guerlain Santal Royal Royal Santal Oriental Woody unisex Neroli Jasmine Sandalwood Rose Leather Amber Musk",
+      "createdAt": "2026-05-04T04:41:24.668Z",
+      "sharedNotes": [
+        "Amber",
+        "Jasmine",
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 11,
+      "fragranceSlug": "maison-francis-kurkdjian-724-11",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "724",
+      "originalFragranceSlug": "maison-francis-kurkdjian-724",
+      "mistifyProductName": "Urban Glow",
+      "mistifyProductSlug": "urban-glow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-glow",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian 724",
+      "audience": "unisex",
+      "classification": "Citrus Floral",
+      "topNotes": [
+        "Aldehydes",
+        "Italian Bergamot"
+      ],
+      "middleNotes": [
+        "White Flowers",
+        "Sweet Pea",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Italian Bergamot",
+        "White Flowers",
+        "Sweet Pea",
+        "Jasmine",
+        "Musk",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_08_29PM.png?v=1765422970",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian 724 Urban Glow Citrus Floral unisex Aldehydes Italian Bergamot White Flowers Sweet Pea Jasmine Musk Sandalwood",
+      "createdAt": "2026-05-04T04:41:25.153Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 93,
+      "fragranceSlug": "tom-ford-white-suede-93",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "White Suede",
+      "originalFragranceSlug": "tom-ford-white-suede",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Tom Ford White Suede",
+      "audience": null,
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Thyme",
+        "Tea"
+      ],
+      "middleNotes": [
+        "Lily-of-the-Valley",
+        "Saffron",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Musk",
+        "Sandalwood",
+        "Amber",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Thyme",
+        "Tea",
+        "Lily-of-the-Valley",
+        "Saffron",
+        "Rose",
+        "Suede",
+        "Musk",
+        "Sandalwood",
+        "Amber",
+        "Olibanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Tom Ford tom ford Tom Ford White Suede Not verified Floral Woody Musk Thyme Tea Lily-of-the-Valley Saffron Rose Suede Musk Sandalwood Amber Olibanum",
+      "createdAt": "2026-05-04T04:41:29.912Z",
+      "sharedNotes": [
+        "Amber",
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 170,
+      "fragranceSlug": "montale-dark-cherry-170",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Dark Cherry",
+      "originalFragranceSlug": "montale-dark-cherry",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Dark Cherry",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Black Cherry"
+      ],
+      "middleNotes": [
+        "Rose Petals",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Cherry",
+        "Rose Petals",
+        "Jasmine",
+        "Musk",
+        "Vanilla",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Dark Cherry Not verified Floral Fruity Bergamot Black Cherry Rose Petals Jasmine Musk Vanilla Sandalwood",
+      "createdAt": "2026-05-04T04:41:34.405Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 61,
+      "fragranceSlug": "kilian-good-girl-gone-bad-extreme-61",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Good Girl Gone Bad Extreme",
+      "originalFragranceSlug": "kilian-good-girl-gone-bad-extreme",
+      "mistifyProductName": "Gone Rouge",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gone-rouge?variant=53362062131519",
+      "publicInspiredByLabel": "Inspired by Kilian Good Girl Gone Bad Extreme",
+      "audience": null,
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Osmanthus",
+        "Jasmine",
+        "Rose de Mai",
+        "Peach",
+        "Cherry"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Milk",
+        "Narcissus",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Cedar Extract",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Jasmine",
+        "Rose de Mai",
+        "Peach",
+        "Cherry",
+        "Tuberose",
+        "Milk",
+        "Narcissus",
+        "Orange Blossom",
+        "Amber",
+        "White Cedar Extract",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay29_2026_02_31_49PM.png?v=1780079516",
+      "searchableText": "Kilian kilian By Kilian Good Girl Gone Bad Extreme Not verified on Mistify Floral Woody Musk Osmanthus Jasmine Rose de Mai Peach Cherry Tuberose Milk Narcissus Orange Blossom Amber White Cedar Extract Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.046Z",
+      "sharedNotes": [
+        "Amber",
+        "Jasmine",
+        "Musk"
+      ]
+    },
+    {
+      "id": 109,
+      "fragranceSlug": "parfums-de-marly-palatine-109",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Palatine",
+      "originalFragranceSlug": "parfums-de-marly-palatine",
+      "mistifyProductName": "Pala‑Majesty",
+      "mistifyProductSlug": "pala-majesty",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pala-majesty",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Palatine",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear",
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes",
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-22-44PM-_1.png?v=1773460298",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Palatine Pala‑Majesty Floral Woody Musk womens Bergamot Mandarin Orange Pear Violet Petals Lavender Floral Notes Sandalwood Musk Patchouli Vanilla",
+      "createdAt": "2026-05-04T04:41:30.859Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Musk"
+      ]
+    }
+  ]
+}

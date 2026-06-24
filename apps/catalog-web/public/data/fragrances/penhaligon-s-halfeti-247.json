@@ -1,0 +1,61 @@
+{
+  "fragrance": {
+    "id": 247,
+    "fragranceSlug": "penhaligon-s-halfeti-247",
+    "brandName": "Penhaligon's",
+    "brandSlug": "penhaligon-s",
+    "originalFragranceName": "Halfeti",
+    "originalFragranceSlug": "penhaligon-s-halfeti",
+    "mistifyProductName": "Halfeti Rose",
+    "mistifyProductSlug": "halfeti-rose",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-rose",
+    "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti",
+    "audience": "unisex",
+    "classification": "Oriental Woody",
+    "topNotes": [
+      "Cypress Leaf",
+      "Saffron",
+      "Cardamom",
+      "Artemisia",
+      "Bergamot",
+      "Grapefruit"
+    ],
+    "middleNotes": [
+      "Bulgarian Rose",
+      "Nutmeg",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Oud",
+      "Cedar",
+      "Leather",
+      "Sandalwood",
+      "Amber",
+      "Tonka Bean",
+      "Vanilla",
+      "Musk"
+    ],
+    "allNotes": [
+      "Cypress Leaf",
+      "Saffron",
+      "Cardamom",
+      "Artemisia",
+      "Bergamot",
+      "Grapefruit",
+      "Bulgarian Rose",
+      "Nutmeg",
+      "Jasmine",
+      "Oud",
+      "Cedar",
+      "Leather",
+      "Sandalwood",
+      "Amber",
+      "Tonka Bean",
+      "Vanilla",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_43_29AM.png?v=1765422933",
+    "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Halfeti Rose Oriental Woody unisex Cypress Leaf Saffron Cardamom Artemisia Bergamot Grapefruit Bulgarian Rose Nutmeg Jasmine Oud Cedar Leather Sandalwood Amber Tonka Bean Vanilla Musk",
+    "createdAt": "2026-05-04T04:41:39.038Z"
+  }
+}

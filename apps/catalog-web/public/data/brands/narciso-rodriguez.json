@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "brandName": "Narciso Rodriguez",
+    "brandSlug": "narciso-rodriguez",
+    "fragranceCount": 2,
+    "searchableText": "Amber Musc Not verified Inspired by Narciso Rodriguez Amber Musc Narciso Rodriguez narciso rodriguez Narciso Rodriguez Amber Musc Not verified Oriental Musk Orange Blossom Patchouli Oud Leather Amber Vanilla Incense Vetiver Musc Vetiver Muskine Inspired by Narciso Rodriguez Vetiver Musc Narciso Rodriguez narciso rodriguez Narciso Rodriguez Vetiver Musc Vetiver Muskine Aromatic/Woody Vetiver mens Cardamom Cypress Nutmeg Musk Geranium Seaweed Algae Vetiver Cedarwood Patchouli"
+  },
+  "fragrances": [
+    {
+      "id": 257,
+      "fragranceSlug": "narciso-rodriguez-amber-musc-257",
+      "brandName": "Narciso Rodriguez",
+      "brandSlug": "narciso-rodriguez",
+      "originalFragranceName": "Amber Musc",
+      "originalFragranceSlug": "narciso-rodriguez-amber-musc",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Narciso Rodriguez Amber Musc",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Musk",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Oud",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "allNotes": [
+        "Musk",
+        "Orange Blossom",
+        "Patchouli",
+        "Oud",
+        "Leather",
+        "Amber",
+        "Vanilla",
+        "Incense"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Narciso Rodriguez narciso rodriguez Narciso Rodriguez Amber Musc Not verified Oriental Musk Orange Blossom Patchouli Oud Leather Amber Vanilla Incense",
+      "createdAt": "2026-05-04T04:41:39.654Z"
+    },
+    {
+      "id": 258,
+      "fragranceSlug": "narciso-rodriguez-vetiver-musc-258",
+      "brandName": "Narciso Rodriguez",
+      "brandSlug": "narciso-rodriguez",
+      "originalFragranceName": "Vetiver Musc",
+      "originalFragranceSlug": "narciso-rodriguez-vetiver-musc",
+      "mistifyProductName": "Vetiver Muskine",
+      "mistifyProductSlug": "vetiver-muskine",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vetiver-muskine",
+      "publicInspiredByLabel": "Inspired by Narciso Rodriguez Vetiver Musc",
+      "audience": "mens",
+      "classification": "Aromatic/Woody Vetiver",
+      "topNotes": [
+        "Cardamom",
+        "Cypress",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Musk",
+        "Geranium",
+        "Seaweed",
+        "Algae"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Cypress",
+        "Nutmeg",
+        "Musk",
+        "Geranium",
+        "Seaweed",
+        "Algae",
+        "Vetiver",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_03_16_20PM.png?v=1778613387",
+      "searchableText": "Narciso Rodriguez narciso rodriguez Narciso Rodriguez Vetiver Musc Vetiver Muskine Aromatic/Woody Vetiver mens Cardamom Cypress Nutmeg Musk Geranium Seaweed Algae Vetiver Cedarwood Patchouli",
+      "createdAt": "2026-05-04T04:41:39.713Z"
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "fragrances": [
+    {
+      "id": 291,
+      "fragranceSlug": "bvlgari-le-gemme-tygar-291",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Le Gemme Tygar",
+      "originalFragranceSlug": "bvlgari-le-gemme-tygar",
+      "mistifyProductName": "Tygara",
+      "mistifyProductSlug": "tygara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/castellan-copy",
+      "publicInspiredByLabel": "Inspired by Bvlgari Le Gemme Tygar",
+      "audience": "mens",
+      "classification": "Citrus Woody/Musky Amber",
+      "topNotes": [
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Ambrette"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Musk",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Ginger",
+        "Ambrette",
+        "Ambroxan",
+        "Musk",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-20-42AM-_1.png?v=1773460236",
+      "searchableText": "Bvlgari bvlgari Bvlgari Le Gemme Tygar Tygara Citrus Woody/Musky Amber mens Grapefruit Ginger Ambrette Ambroxan Musk Vetiver Patchouli",
+      "createdAt": "2026-05-04T04:41:41.717Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Ambroxan",
+        "Patchouli",
+        "Musk"
+      ]
+    },
+    {
+      "id": 130,
+      "fragranceSlug": "creed-queen-of-silk-130",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Queen of Silk",
+      "originalFragranceSlug": "creed-queen-of-silk",
+      "mistifyProductName": "Silken Queen",
+      "mistifyProductSlug": "silken-queen",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silken-queen",
+      "publicInspiredByLabel": "Inspired by Creed Queen of Silk",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Osmanthus",
+        "Magnolia",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Passionfruit",
+        "Oud",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Incense",
+        "Myrrh",
+        "Ambroxan",
+        "Cedarwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Magnolia",
+        "Saffron",
+        "Tuberose",
+        "Passionfruit",
+        "Oud",
+        "Patchouli",
+        "Vanilla",
+        "Incense",
+        "Myrrh",
+        "Ambroxan",
+        "Cedarwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-33-41AM-_1.png?v=1773460553",
+      "searchableText": "Creed creed Creed Queen of Silk Silken Queen Amber Floral womens Osmanthus Magnolia Saffron Tuberose Passionfruit Oud Patchouli Vanilla Incense Myrrh Ambroxan Cedarwood Musk",
+      "createdAt": "2026-05-04T04:41:32.081Z",
+      "sharedNotes": [
+        "Ambroxan",
+        "Patchouli",
+        "Incense",
+        "Musk",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 62,
+      "fragranceSlug": "kilian-incense-oudh-62",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Incense Oudh",
+      "originalFragranceSlug": "kilian-incense-oudh",
+      "mistifyProductName": "Incensed Oud",
+      "mistifyProductSlug": "incensed-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/incensed-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Incense Oudh",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rose",
+        "Cardamom",
+        "Pink Pepper",
+        "Geranium"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Virginia Cedar",
+        "Papyrus"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Oud",
+        "Sandalwood",
+        "Oakmoss",
+        "Musk",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Rose",
+        "Cardamom",
+        "Pink Pepper",
+        "Geranium",
+        "Patchouli",
+        "Virginia Cedar",
+        "Papyrus",
+        "Incense",
+        "Oud",
+        "Sandalwood",
+        "Oakmoss",
+        "Musk",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/IncensedOud_dc3a368e-6d94-4f0b-b238-a8e8a4644ae1.png?v=1765422910",
+      "searchableText": "Kilian kilian By Kilian Incense Oudh Incensed Oud Oriental unisex Rose Cardamom Pink Pepper Geranium Patchouli Virginia Cedar Papyrus Incense Oud Sandalwood Oakmoss Musk Labdanum",
+      "createdAt": "2026-05-04T04:41:28.103Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Papyrus",
+        "Incense",
+        "Musk"
+      ]
+    },
+    {
+      "id": 191,
+      "fragranceSlug": "dolce-and-gabbana-light-blue-191",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Light Blue",
+      "originalFragranceSlug": "dolce-and-gabbana-light-blue",
+      "mistifyProductName": "Lumine Bleu",
+      "mistifyProductSlug": "lumine-bleu",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lumine-bleu",
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Light Blue",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper",
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood",
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-04-05AM-_1.png?v=1773460205",
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Light Blue Lumine Bleu Citrus Aromatic unisex Grapefruit Bergamot Sicilian Mandarin Juniper Pepper Rosemary Brazilian Rosewood Musk Incense Oakmoss",
+      "createdAt": "2026-05-04T04:41:35.651Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Incense",
+        "Musk"
+      ]
+    },
+    {
+      "id": 298,
+      "fragranceSlug": "marc-antoine-barrois-ganymede-298",
+      "brandName": "Marc-Antoine Barrois",
+      "brandSlug": "marc-antoine-barrois",
+      "originalFragranceName": "Ganymede",
+      "originalFragranceSlug": "marc-antoine-barrois-ganymede",
+      "mistifyProductName": "Mineral Suede",
+      "mistifyProductSlug": "mineral-suede",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mineral-suede",
+      "publicInspiredByLabel": "Inspired by Marc-Antoine Barrois Ganymede",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Italian Mandarin"
+      ],
+      "middleNotes": [
+        "Chinese Osmanthus",
+        "Immortelle",
+        "Violet Leaf"
+      ],
+      "baseNotes": [
+        "Mineral Notes",
+        "Suede",
+        "Akigalawood",
+        "Cedar",
+        "Musk",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Italian Mandarin",
+        "Chinese Osmanthus",
+        "Immortelle",
+        "Violet Leaf",
+        "Mineral Notes",
+        "Suede",
+        "Akigalawood",
+        "Cedar",
+        "Musk",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay20_2026_02_13_18PM.png?v=1779300809",
+      "searchableText": "Marc-Antoine Barrois marc antoine barrois Marc-Antoine Barrois Ganymede Mineral Suede Woody Spicy Saffron Italian Mandarin Chinese Osmanthus Immortelle Violet Leaf Mineral Notes Suede Akigalawood Cedar Musk Patchouli",
+      "createdAt": "2026-05-04T04:41:42.126Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Violet Leaf",
+        "Musk",
+        "Saffron"
+      ]
+    },
+    {
+      "id": 319,
+      "fragranceSlug": "dior-sauvage-319",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Sauvage",
+      "originalFragranceSlug": "dior-sauvage",
+      "mistifyProductName": "Sauvagerie",
+      "mistifyProductSlug": "sauvagerie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sauvagerie",
+      "publicInspiredByLabel": "Dior Sauvage",
+      "audience": null,
+      "classification": "Aromatic Fresh / Woody Spicy",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Black Pepper",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Sichuan Pepper",
+        "Lavender",
+        "Geranium",
+        "Elemi",
+        "Patchouli",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Cedar",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Black Pepper",
+        "Pink Pepper",
+        "Sichuan Pepper",
+        "Lavender",
+        "Geranium",
+        "Elemi",
+        "Patchouli",
+        "Vetiver",
+        "Ambroxan",
+        "Cedar",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun11_2026_07_51_31AM.png?v=1781178701",
+      "searchableText": "Dior Dior Sauvage Sauvagerie Aromatic Fresh / Woody Spicy Calabrian Bergamot Black Pepper Pink Pepper Sichuan Pepper Lavender Geranium Elemi Patchouli Vetiver Ambroxan Cedar Labdanum",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Calabrian Bergamot",
+        "Ambroxan",
+        "Black Pepper",
+        "Patchouli"
+      ]
+    }
+  ]
+}

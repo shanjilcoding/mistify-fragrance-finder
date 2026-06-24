@@ -1,0 +1,314 @@
+{
+  "fragrances": [
+    {
+      "id": 85,
+      "fragranceSlug": "tom-ford-soleil-blanc-85",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Soleil Blanc",
+      "originalFragranceSlug": "tom-ford-soleil-blanc",
+      "mistifyProductName": "Soleil Sun",
+      "mistifyProductSlug": "soleil-sun",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-sun",
+      "publicInspiredByLabel": "Inspired by Tom Ford Soleil Blanc",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pistachio",
+        "Bergamot",
+        "Cardamom",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Coconut",
+        "Amber",
+        "Tonka Bean",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Pistachio",
+        "Bergamot",
+        "Cardamom",
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Coconut",
+        "Amber",
+        "Tonka Bean",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-41-35AM-_1.png?v=1773460537",
+      "searchableText": "Tom Ford tom ford Tom Ford Soleil Blanc Soleil Sun Amber Floral unisex Pistachio Bergamot Cardamom Pink Pepper Tuberose Ylang-Ylang Jasmine Coconut Amber Tonka Bean Benzoin",
+      "createdAt": "2026-05-04T04:41:29.454Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Tuberose",
+        "Ylang-Ylang",
+        "Jasmine",
+        "Amber"
+      ]
+    },
+    {
+      "id": 200,
+      "fragranceSlug": "xerjoff-accento-200",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Accento",
+      "originalFragranceSlug": "xerjoff-accento",
+      "mistifyProductName": "Accents",
+      "mistifyProductSlug": "accents",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+      "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pineapple",
+        "Hyacinth"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Iris",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Hyacinth",
+        "Jasmine",
+        "Iris",
+        "Pink Pepper",
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+      "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:36.220Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Jasmine",
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ]
+    },
+    {
+      "id": 253,
+      "fragranceSlug": "jo-malone-english-pear-and-freesia-253",
+      "brandName": "Jo Malone",
+      "brandSlug": "jo-malone",
+      "originalFragranceName": "English Pear & Freesia",
+      "originalFragranceSlug": "jo-malone-english-pear-and-freesia",
+      "mistifyProductName": "Pear Fresia",
+      "mistifyProductSlug": "pear-fresia",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pear-fresia",
+      "publicInspiredByLabel": "Inspired by Jo Malone English Pear & Freesia",
+      "audience": "unisex",
+      "classification": "Chypre Fruity",
+      "topNotes": [
+        "Pear",
+        "Melon"
+      ],
+      "middleNotes": [
+        "Freesia",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Patchouli",
+        "Rhubarb",
+        "Amber"
+      ],
+      "allNotes": [
+        "Pear",
+        "Melon",
+        "Freesia",
+        "Rose",
+        "Musk",
+        "Patchouli",
+        "Rhubarb",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-47-41PM-_1.png?v=1773460331",
+      "searchableText": "Jo Malone jo malone Jo Malone English Pear & Freesia Pear Fresia Chypre Fruity unisex Pear Melon Freesia Rose Musk Patchouli Rhubarb Amber",
+      "createdAt": "2026-05-04T04:41:39.407Z",
+      "sharedNotes": [
+        "Pear",
+        "Amber",
+        "Patchouli",
+        "Musk"
+      ]
+    },
+    {
+      "id": 265,
+      "fragranceSlug": "prada-paradoxe-265",
+      "brandName": "Prada",
+      "brandSlug": "prada",
+      "originalFragranceName": "Paradoxe",
+      "originalFragranceSlug": "prada-paradoxe",
+      "mistifyProductName": "Paradiis",
+      "mistifyProductSlug": "paradiis",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/paradiis",
+      "publicInspiredByLabel": "Inspired by Prada Paradoxe",
+      "audience": "unisex",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Calabrian Bergamot",
+        "Tangerine",
+        "Pear",
+        "Neroli",
+        "Orange Blossom",
+        "Jasmine",
+        "Amber",
+        "White Musk",
+        "Benzoin",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-38-29PM-_1.png?v=1773460252",
+      "searchableText": "Prada prada Prada Paradoxe Paradiis Amber Floral unisex Calabrian Bergamot Tangerine Pear Neroli Orange Blossom Jasmine Amber White Musk Benzoin Vanilla",
+      "createdAt": "2026-05-04T04:41:40.135Z",
+      "sharedNotes": [
+        "Pear",
+        "Jasmine",
+        "Amber"
+      ]
+    },
+    {
+      "id": 145,
+      "fragranceSlug": "ysl-yves-saint-laurent-black-opium-145",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Black Opium",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-black-opium",
+      "mistifyProductName": "Noir Opiate",
+      "mistifyProductSlug": "noir-opiate",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/noir-opiate",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Black Opium",
+      "audience": "womens",
+      "classification": "Amber Vanilla",
+      "topNotes": [
+        "Pink Pepper",
+        "Orange Blossom",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Coffee",
+        "Jasmine",
+        "Bitter Almond",
+        "Licorice"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli",
+        "Cedar",
+        "Cashmere Wood"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Orange Blossom",
+        "Pear",
+        "Coffee",
+        "Jasmine",
+        "Bitter Almond",
+        "Licorice",
+        "Vanilla",
+        "Patchouli",
+        "Cedar",
+        "Cashmere Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-34-58PM-_1.png?v=1773460432",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Black Opium Noir Opiate Amber Vanilla womens Pink Pepper Orange Blossom Pear Coffee Jasmine Bitter Almond Licorice Vanilla Patchouli Cedar Cashmere Wood",
+      "createdAt": "2026-05-04T04:41:32.939Z",
+      "sharedNotes": [
+        "Pear",
+        "Pink Pepper",
+        "Jasmine",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 130,
+      "fragranceSlug": "creed-queen-of-silk-130",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Queen of Silk",
+      "originalFragranceSlug": "creed-queen-of-silk",
+      "mistifyProductName": "Silken Queen",
+      "mistifyProductSlug": "silken-queen",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silken-queen",
+      "publicInspiredByLabel": "Inspired by Creed Queen of Silk",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Osmanthus",
+        "Magnolia",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Passionfruit",
+        "Oud",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Incense",
+        "Myrrh",
+        "Ambroxan",
+        "Cedarwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Magnolia",
+        "Saffron",
+        "Tuberose",
+        "Passionfruit",
+        "Oud",
+        "Patchouli",
+        "Vanilla",
+        "Incense",
+        "Myrrh",
+        "Ambroxan",
+        "Cedarwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-33-41AM-_1.png?v=1773460553",
+      "searchableText": "Creed creed Creed Queen of Silk Silken Queen Amber Floral womens Osmanthus Magnolia Saffron Tuberose Passionfruit Oud Patchouli Vanilla Incense Myrrh Ambroxan Cedarwood Musk",
+      "createdAt": "2026-05-04T04:41:32.081Z",
+      "sharedNotes": [
+        "Tuberose",
+        "Patchouli",
+        "Musk"
+      ]
+    }
+  ]
+}

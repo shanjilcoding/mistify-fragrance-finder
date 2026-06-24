@@ -1,0 +1,268 @@
+{
+  "fragrances": [
+    {
+      "id": 293,
+      "fragranceSlug": "bvlgari-baciami-293",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Baciami",
+      "originalFragranceSlug": "bvlgari-baciami",
+      "mistifyProductName": "Baciâme",
+      "mistifyProductSlug": "baciame",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baciame",
+      "publicInspiredByLabel": "Inspired by Bvlgari Baciami",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Gardenia"
+      ],
+      "middleNotes": [
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Gardenia",
+        "Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan1-2026-06-46-55AM-_1.png?v=1773460177",
+      "searchableText": "Bvlgari bvlgari Bvlgari Baciami Baciâme Oriental Floral unisex Gardenia Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:41.838Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 95,
+      "fragranceSlug": "tom-ford-fucking-fabulous-95",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Fucking Fabulous",
+      "originalFragranceSlug": "tom-ford-fucking-fabulous",
+      "mistifyProductName": "Fabuleux",
+      "mistifyProductSlug": "fabuleux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fabuleux",
+      "publicInspiredByLabel": "Inspired by Tom Ford Fucking Fabulous",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Lavender",
+        "Clary Sage"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris",
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec11-2025-09-54-59AM-_1.png?v=1773460202",
+      "searchableText": "Tom Ford tom ford Tom Ford Fucking Fabulous Fabuleux Leather unisex Lavender Clary Sage Leather Bitter Almond Vanilla Orris Leather Tonka Bean Cashmeran White Woods Amber",
+      "createdAt": "2026-05-04T04:41:30.032Z",
+      "sharedNotes": [
+        "Lavender",
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 19,
+      "fragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold-19",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Gentle Fluidity Gold",
+      "originalFragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold",
+      "mistifyProductName": "Gently Fluid",
+      "mistifyProductSlug": "gently-fluid",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gently-fluid",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Gentle Fluidity Gold",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Juniper Berries",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Coriander",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Coriander",
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_14_05AM.png?v=1765422980",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Gentle Fluidity Gold Gently Fluid Oriental Vanilla unisex Juniper Berries Nutmeg Coriander Vanilla Amber Musk",
+      "createdAt": "2026-05-04T04:41:25.599Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 160,
+      "fragranceSlug": "initio-rehab-160",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Rehab",
+      "originalFragranceSlug": "initio-rehab",
+      "mistifyProductName": "Rehabilitee",
+      "mistifyProductSlug": "rehabilitee",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rehabilitee",
+      "publicInspiredByLabel": "Inspired by Initio Rehab",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Rehabilitee.png?v=1765422993",
+      "searchableText": "Initio initio parfums Initio Parfums Rehab Rehabilitee Woody Aromatic unisex Lavender Bergamot Cedar Vetiver Patchouli Sandalwood Musk Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:33.822Z",
+      "sharedNotes": [
+        "Lavender"
+      ]
+    },
+    {
+      "id": 23,
+      "fragranceSlug": "maison-francis-kurkdjian-grand-soir-23",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Grand Soir",
+      "originalFragranceSlug": "maison-francis-kurkdjian-grand-soir",
+      "mistifyProductName": "Grand Soirelle",
+      "mistifyProductSlug": "grand-soirelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/grand-soirelle",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Grand Soir",
+      "audience": "unisex",
+      "classification": "Oriental Amber",
+      "topNotes": [
+        "Spanish Labdanum",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Siam Benzoin"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Spanish Labdanum",
+        "Orange",
+        "Lavender",
+        "Siam Benzoin",
+        "Amber",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov20-2025-10-17-02AM-_1.png?v=1773460207",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Grand Soir Grand Soirelle Oriental Amber unisex Spanish Labdanum Orange Lavender Siam Benzoin Amber Vanilla Tonka Bean Musk Cedar",
+      "createdAt": "2026-05-04T04:41:25.837Z",
+      "sharedNotes": [
+        "Lavender",
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 192,
+      "fragranceSlug": "dolce-and-gabbana-velvet-zafferano-192",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Velvet Zafferano",
+      "originalFragranceSlug": "dolce-and-gabbana-velvet-zafferano",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Velvet Zafferano",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Tobacco Leaf"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Tobacco",
+        "Tobacco Leaf",
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Labdanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Velvet Zafferano Not verified Oriental Spicy Saffron Tobacco Tobacco Leaf Amber Vanilla Patchouli Labdanum",
+      "createdAt": "2026-05-04T04:41:35.717Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Labdanum",
+        "Amber"
+      ]
+    }
+  ]
+}

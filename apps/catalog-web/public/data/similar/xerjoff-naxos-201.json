@@ -1,0 +1,303 @@
+{
+  "fragrances": [
+    {
+      "id": 79,
+      "fragranceSlug": "tom-ford-lavender-extreme-79",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lavender Extreme",
+      "originalFragranceSlug": "tom-ford-lavender-extreme",
+      "mistifyProductName": "Lavender Extremism",
+      "mistifyProductSlug": "lavender-extremism",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lavender-extremism",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lavender Extreme",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LavenderExtremism.png?v=1765422873",
+      "searchableText": "Tom Ford tom ford Tom Ford Lavender Extreme Lavender Extremism Aromatic unisex Lavender Bergamot Cinnamon Tonka Bean Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:29.108Z",
+      "sharedNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cinnamon",
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 268,
+      "fragranceSlug": "byredo-animalique-268",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Animalique",
+      "originalFragranceSlug": "byredo-animalique",
+      "mistifyProductName": "Animal Instincts",
+      "mistifyProductSlug": "animal-instincts",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/animal-instincts",
+      "publicInspiredByLabel": "Inspired by Byredo Animalique",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Violet",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Tobacco Leaf",
+        "Amber"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Violet",
+        "Mimosa",
+        "Suede",
+        "Tobacco Leaf",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-19-10PM-_1.png?v=1773460283",
+      "searchableText": "Byredo byredo Byredo Animalique Animal Instincts Oriental Floral unisex Bergamot Lemon Violet Mimosa Suede Tobacco Leaf Amber",
+      "createdAt": "2026-05-04T04:41:40.321Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lemon",
+        "Tobacco Leaf"
+      ]
+    },
+    {
+      "id": 95,
+      "fragranceSlug": "tom-ford-fucking-fabulous-95",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Fucking Fabulous",
+      "originalFragranceSlug": "tom-ford-fucking-fabulous",
+      "mistifyProductName": "Fabuleux",
+      "mistifyProductSlug": "fabuleux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fabuleux",
+      "publicInspiredByLabel": "Inspired by Tom Ford Fucking Fabulous",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Lavender",
+        "Clary Sage"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris",
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec11-2025-09-54-59AM-_1.png?v=1773460202",
+      "searchableText": "Tom Ford tom ford Tom Ford Fucking Fabulous Fabuleux Leather unisex Lavender Clary Sage Leather Bitter Almond Vanilla Orris Leather Tonka Bean Cashmeran White Woods Amber",
+      "createdAt": "2026-05-04T04:41:30.032Z",
+      "sharedNotes": [
+        "Lavender",
+        "Cashmeran",
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 58,
+      "fragranceSlug": "kilian-gold-knight-58",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Knight",
+      "originalFragranceSlug": "kilian-gold-knight",
+      "mistifyProductName": "Knight in Gold",
+      "mistifyProductSlug": "knight-in-gold",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/knight-in-gold",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Knight",
+      "audience": "unisex",
+      "classification": "Amber/Sweet Spicy",
+      "topNotes": [
+        "Anise",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Honey",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Anise",
+        "Bergamot",
+        "Honey",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_39_10AM.png?v=1774327156",
+      "searchableText": "Kilian kilian By Kilian Gold Knight Knight in Gold Amber/Sweet Spicy unisex Anise Bergamot Honey Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:27.879Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Honey",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 285,
+      "fragranceSlug": "jean-paul-gaultier-le-male-elixir-285",
+      "brandName": "Jean Paul Gaultier",
+      "brandSlug": "jean-paul-gaultier",
+      "originalFragranceName": "Le Male Elixir",
+      "originalFragranceSlug": "jean-paul-gaultier-le-male-elixir",
+      "mistifyProductName": "Le Miel Elixir",
+      "mistifyProductSlug": "le-miel-elixir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/le-miel-elixir",
+      "publicInspiredByLabel": "Inspired by Jean Paul Gaultier Le Male Elixir",
+      "audience": "mens",
+      "classification": "Oriental Fougere",
+      "topNotes": [
+        "Lavender",
+        "Mint"
+      ],
+      "middleNotes": [
+        "Benzoin",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Honey",
+        "Tonka Bean",
+        "Tobacco"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Mint",
+        "Benzoin",
+        "Vanilla",
+        "Honey",
+        "Tonka Bean",
+        "Tobacco"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar22_2026_09_30_12AM.png?v=1774186218",
+      "searchableText": "Jean Paul Gaultier jean paul gaultier Jean Paul Gaultier Le Male Elixir Le Miel Elixir Oriental Fougere mens Lavender Mint Benzoin Vanilla Honey Tonka Bean Tobacco",
+      "createdAt": "2026-05-04T04:41:41.358Z",
+      "sharedNotes": [
+        "Lavender",
+        "Honey",
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 313,
+      "fragranceSlug": "carolina-herrera-good-girl-313",
+      "brandName": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "originalFragranceName": "Good Girl",
+      "originalFragranceSlug": "carolina-herrera-good-girl",
+      "mistifyProductName": "Belle Noire",
+      "mistifyProductSlug": "belle-noire",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/belle-noire",
+      "publicInspiredByLabel": "Carolina Herrera Good Girl",
+      "audience": null,
+      "classification": "Gourmand Floral / Sweet Oriental",
+      "topNotes": [
+        "Almond",
+        "Coffee",
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Jasmine Sambac",
+        "Orange Blossom",
+        "Bulgarian Rose",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Cacao",
+        "Vanilla",
+        "Praline",
+        "Sandalwood",
+        "Musk",
+        "Amber",
+        "Cashmere Wood",
+        "Patchouli",
+        "Cinnamon",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Almond",
+        "Coffee",
+        "Bergamot",
+        "Lemon",
+        "Tuberose",
+        "Jasmine Sambac",
+        "Orange Blossom",
+        "Bulgarian Rose",
+        "Orris",
+        "Tonka Bean",
+        "Cacao",
+        "Vanilla",
+        "Praline",
+        "Sandalwood",
+        "Musk",
+        "Amber",
+        "Cashmere Wood",
+        "Patchouli",
+        "Cinnamon",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_36_33AM_27cd1d8f-5bee-43bd-9919-e465da23c44f.png?v=1781710613",
+      "searchableText": "Carolina Herrera Carolina Herrera Good Girl Belle Noire Gourmand Floral / Sweet Oriental Almond Coffee Bergamot Lemon Tuberose Jasmine Sambac Orange Blossom Bulgarian Rose Orris Tonka Bean Cacao Vanilla Praline Sandalwood Musk Amber Cashmere Wood Patchouli Cinnamon Cedar",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lemon",
+        "Cinnamon",
+        "Jasmine Sambac",
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    }
+  ]
+}

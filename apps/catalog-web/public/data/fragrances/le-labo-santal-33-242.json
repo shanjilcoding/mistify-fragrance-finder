@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 242,
+    "fragranceSlug": "le-labo-santal-33-242",
+    "brandName": "Le Labo",
+    "brandSlug": "le-labo",
+    "originalFragranceName": "Santal 33",
+    "originalFragranceSlug": "le-labo-santal-33",
+    "mistifyProductName": "Santana 33",
+    "mistifyProductSlug": "santana-33",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/santana-33",
+    "publicInspiredByLabel": "Inspired by Le Labo Santal 33",
+    "audience": "unisex",
+    "classification": "Woody Aromatic",
+    "topNotes": [],
+    "middleNotes": [
+      "Sandalwood",
+      "Leather",
+      "Papyrus",
+      "Virginia Cedar",
+      "Cardamom",
+      "Violet",
+      "Iris",
+      "Amber"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Sandalwood",
+      "Leather",
+      "Papyrus",
+      "Virginia Cedar",
+      "Cardamom",
+      "Violet",
+      "Iris",
+      "Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-10-57PM-_1.png?v=1773460392",
+    "searchableText": "Le Labo le labo Le Labo Santal 33 Santana 33 Woody Aromatic unisex Sandalwood Leather Papyrus Virginia Cedar Cardamom Violet Iris Amber",
+    "createdAt": "2026-05-04T04:41:38.731Z"
+  }
+}

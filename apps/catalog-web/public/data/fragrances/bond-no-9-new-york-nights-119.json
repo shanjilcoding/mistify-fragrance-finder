@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 119,
+    "fragranceSlug": "bond-no-9-new-york-nights-119",
+    "brandName": "Bond No. 9",
+    "brandSlug": "bond-no-9",
+    "originalFragranceName": "New York Nights",
+    "originalFragranceSlug": "bond-no-9-new-york-nights",
+    "mistifyProductName": "City Nights",
+    "mistifyProductSlug": "city-nights",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/city-nights",
+    "publicInspiredByLabel": "Inspired by Bond No. 9 New York Nights",
+    "audience": "unisex",
+    "classification": "Amber Vanilla",
+    "topNotes": [
+      "Gardenia",
+      "Carnation",
+      "Jasmine"
+    ],
+    "middleNotes": [
+      "Patchouli",
+      "Flowers",
+      "Sea Notes",
+      "Sandalwood"
+    ],
+    "baseNotes": [
+      "Coffee",
+      "Caramel"
+    ],
+    "allNotes": [
+      "Gardenia",
+      "Carnation",
+      "Jasmine",
+      "Patchouli",
+      "Flowers",
+      "Sea Notes",
+      "Sandalwood",
+      "Coffee",
+      "Caramel"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-43-59PM-_1.png?v=1773460439",
+    "searchableText": "Bond No. 9 bond no 9 Bond No. 9 New York Nights City Nights Amber Vanilla unisex Gardenia Carnation Jasmine Patchouli Flowers Sea Notes Sandalwood Coffee Caramel",
+    "createdAt": "2026-05-04T04:41:31.460Z"
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "fragrances": [
+    {
+      "id": 92,
+      "fragranceSlug": "tom-ford-ombre-leather-92",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Ombre Leather",
+      "originalFragranceSlug": "tom-ford-ombre-leather",
+      "mistifyProductName": "Ombre Royale",
+      "mistifyProductSlug": "ombre-royale",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-royale",
+      "publicInspiredByLabel": "Inspired by Tom Ford Ombre Leather",
+      "audience": "mens",
+      "classification": "Leather",
+      "topNotes": [
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Moss",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Jasmine Sambac",
+        "Leather",
+        "Amber",
+        "Moss",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-42-02AM-_1.png?v=1773460288",
+      "searchableText": "Tom Ford tom ford Tom Ford Ombre Leather Ombre Royale Leather mens Cardamom Jasmine Sambac Leather Amber Moss Patchouli",
+      "createdAt": "2026-05-04T04:41:29.855Z",
+      "sharedNotes": [
+        "Leather",
+        "Moss"
+      ]
+    },
+    {
+      "id": 165,
+      "fragranceSlug": "montale-aoud-leather-165",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Leather",
+      "originalFragranceSlug": "montale-aoud-leather",
+      "mistifyProductName": "Oud Hide",
+      "mistifyProductSlug": "oud-hide",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-hide",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Leather",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [],
+      "middleNotes": [
+        "Leather",
+        "Oud",
+        "Saffron",
+        "Bergamot",
+        "Cardamom",
+        "Pepper",
+        "Ambergris"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Leather",
+        "Oud",
+        "Saffron",
+        "Bergamot",
+        "Cardamom",
+        "Pepper",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudHide_ec6fce37-d220-454a-aab8-992c47a67666.png?v=1765422947",
+      "searchableText": "Montale montale Montale Aoud Leather Oud Hide Leather unisex Leather Oud Saffron Bergamot Cardamom Pepper Ambergris",
+      "createdAt": "2026-05-04T04:41:34.121Z",
+      "sharedNotes": [
+        "Oud",
+        "Leather"
+      ]
+    },
+    {
+      "id": 207,
+      "fragranceSlug": "rabanne-1-million-golden-oud-207",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "1 Million Golden Oud",
+      "originalFragranceSlug": "rabanne-1-million-golden-oud",
+      "mistifyProductName": "Oud Millionaire",
+      "mistifyProductSlug": "oud-millionaire",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-millionaire",
+      "publicInspiredByLabel": "Inspired by Rabanne 1 Million Golden Oud",
+      "audience": "mens",
+      "classification": "Leather",
+      "topNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Black Pepper",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Sandalwood",
+        "Gurjan Balsam"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Cedarwood",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Black Pepper",
+        "Bergamot",
+        "Patchouli",
+        "Sandalwood",
+        "Gurjan Balsam",
+        "Oud",
+        "Leather",
+        "Cedarwood",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-36-58PM-_1.png?v=1773460314",
+      "searchableText": "Rabanne paco rabanne Paco Rabanne 1 Million Golden Oud Oud Millionaire Leather mens Saffron Nutmeg Black Pepper Bergamot Patchouli Sandalwood Gurjan Balsam Oud Leather Cedarwood Labdanum",
+      "createdAt": "2026-05-04T04:41:36.634Z",
+      "sharedNotes": [
+        "Oud",
+        "Leather"
+      ]
+    },
+    {
+      "id": 95,
+      "fragranceSlug": "tom-ford-fucking-fabulous-95",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Fucking Fabulous",
+      "originalFragranceSlug": "tom-ford-fucking-fabulous",
+      "mistifyProductName": "Fabuleux",
+      "mistifyProductSlug": "fabuleux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fabuleux",
+      "publicInspiredByLabel": "Inspired by Tom Ford Fucking Fabulous",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Lavender",
+        "Clary Sage"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris",
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec11-2025-09-54-59AM-_1.png?v=1773460202",
+      "searchableText": "Tom Ford tom ford Tom Ford Fucking Fabulous Fabuleux Leather unisex Lavender Clary Sage Leather Bitter Almond Vanilla Orris Leather Tonka Bean Cashmeran White Woods Amber",
+      "createdAt": "2026-05-04T04:41:30.032Z",
+      "sharedNotes": [
+        "Leather"
+      ]
+    },
+    {
+      "id": 235,
+      "fragranceSlug": "stephane-h-lucas-soleil-de-jeddah-235",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "Soleil de Jeddah",
+      "originalFragranceSlug": "stephane-h-lucas-soleil-de-jeddah",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas Soleil de Jeddah",
+      "audience": null,
+      "classification": "Leather",
+      "topNotes": [
+        "Chamomile",
+        "Osmanthus",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Ambergris",
+        "Iris",
+        "Earthy Notes"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Iris",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Chamomile",
+        "Osmanthus",
+        "Lemon",
+        "Ambergris",
+        "Iris",
+        "Earthy Notes",
+        "Leather",
+        "Iris",
+        "Vanilla"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas Soleil de Jeddah Not verified Leather Chamomile Osmanthus Lemon Ambergris Iris Earthy Notes Leather Iris Vanilla",
+      "createdAt": "2026-05-04T04:41:38.303Z",
+      "sharedNotes": [
+        "Leather"
+      ]
+    },
+    {
+      "id": 88,
+      "fragranceSlug": "tom-ford-tuscan-leather-88",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Tuscan Leather",
+      "originalFragranceSlug": "tom-ford-tuscan-leather",
+      "mistifyProductName": "Leather Tuscany",
+      "mistifyProductSlug": "leather-tuscany",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/leather-tuscany",
+      "publicInspiredByLabel": "Inspired by Tom Ford Tuscan Leather",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Olibanum",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Suede",
+        "Amber",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Thyme",
+        "Olibanum",
+        "Jasmine",
+        "Leather",
+        "Suede",
+        "Amber",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Tom Ford tom ford Tom Ford Tuscan Leather Leather Tuscany Leather unisex Raspberry Saffron Thyme Olibanum Jasmine Leather Suede Amber Woody Notes",
+      "createdAt": "2026-05-04T04:41:29.625Z",
+      "sharedNotes": [
+        "Leather"
+      ]
+    }
+  ]
+}

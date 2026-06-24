@@ -1,0 +1,259 @@
+{
+  "fragrances": [
+    {
+      "id": 171,
+      "fragranceSlug": "montale-intense-cafe-171",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Intense Cafe",
+      "originalFragranceSlug": "montale-intense-cafe",
+      "mistifyProductName": "Café Rose",
+      "mistifyProductSlug": "cafe-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cafe-rose",
+      "publicInspiredByLabel": "Inspired by Montale Intense Cafe",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Floral Notes"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Coffee"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Floral Notes",
+        "Rose",
+        "Coffee",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CafeRose.png?v=1765422956",
+      "searchableText": "Montale montale Montale Intense Cafe Café Rose Oriental Vanilla unisex Floral Notes Rose Coffee Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.468Z",
+      "sharedNotes": [
+        "Vanilla",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 21,
+      "fragranceSlug": "maison-francis-kurkdjian-oud-satin-mood-21",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Oud Satin Mood",
+      "originalFragranceSlug": "maison-francis-kurkdjian-oud-satin-mood",
+      "mistifyProductName": "Satin Moody Oud",
+      "mistifyProductSlug": "satin-moody-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/satin-moody-oud",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud Satin Mood",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Bulgarian Rose",
+        "Violet",
+        "Strawberry"
+      ],
+      "middleNotes": [
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Caramel",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Bulgarian Rose",
+        "Violet",
+        "Strawberry",
+        "Turkish Rose",
+        "Oud",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Caramel",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_13_59PM.png?v=1765422983",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Satin Mood Satin Moody Oud Oriental Woody unisex Bulgarian Rose Violet Strawberry Turkish Rose Oud Vanilla Amber Benzoin Caramel Cedar",
+      "createdAt": "2026-05-04T04:41:25.720Z",
+      "sharedNotes": [
+        "Turkish Rose",
+        "Vanilla",
+        "Cedar"
+      ]
+    },
+    {
+      "id": 195,
+      "fragranceSlug": "giardini-di-toscana-bianco-latte-195",
+      "brandName": "Giardini Di Toscana",
+      "brandSlug": "giardini-di-toscana",
+      "originalFragranceName": "Bianco Latte",
+      "originalFragranceSlug": "giardini-di-toscana-bianco-latte",
+      "mistifyProductName": "Bianco Lattéa",
+      "mistifyProductSlug": "bianco-lattea",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/valeroux",
+      "publicInspiredByLabel": "Inspired by Giardini Di Toscana Bianco Latte",
+      "audience": "unisex",
+      "classification": "Gourmand/Creamy Vanilla",
+      "topNotes": [
+        "Caramel"
+      ],
+      "middleNotes": [
+        "Coumarin",
+        "Honey"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Caramel",
+        "Coumarin",
+        "Honey",
+        "Vanilla",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec22-2025-09-52-18AM-_1.png?v=1773460188",
+      "searchableText": "Giardini Di Toscana giardini di toscana Giardini di Toscana Bianco Latte Bianco Lattéa Gourmand/Creamy Vanilla unisex Caramel Coumarin Honey Vanilla White Musk",
+      "createdAt": "2026-05-04T04:41:35.913Z",
+      "sharedNotes": [
+        "Vanilla",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 45,
+      "fragranceSlug": "louis-vuitton-fantasmagory-45",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Fantasmagory",
+      "originalFragranceSlug": "louis-vuitton-fantasmagory",
+      "mistifyProductName": "Fantasmique",
+      "mistifyProductSlug": "fantasmique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fantasmique",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Fantasmagory",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Anise",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Almond",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Leather"
+      ],
+      "allNotes": [
+        "Anise",
+        "Ginger",
+        "Almond",
+        "Floral Notes",
+        "Vanilla",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec18-2025-10-09-42AM-_1.png?v=1773460194",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Fantasmagory Fantasmique Oriental Vanilla unisex Anise Ginger Almond Floral Notes Vanilla Leather",
+      "createdAt": "2026-05-04T04:41:27.120Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 177,
+      "fragranceSlug": "mancera-amore-cafe-177",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Amore Cafe",
+      "originalFragranceSlug": "mancera-amore-cafe",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mancera Amore Cafe",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Coffee",
+        "Amaretto"
+      ],
+      "middleNotes": [
+        "Ice Cream",
+        "Speculoos"
+      ],
+      "baseNotes": [
+        "Brown Sugar",
+        "Vanilla",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Coffee",
+        "Amaretto",
+        "Ice Cream",
+        "Speculoos",
+        "Brown Sugar",
+        "Vanilla",
+        "Ambergris"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mancera mancera Mancera Amore Cafe Not verified Oriental Vanilla Coffee Amaretto Ice Cream Speculoos Brown Sugar Vanilla Ambergris",
+      "createdAt": "2026-05-04T04:41:34.823Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 190,
+      "fragranceSlug": "giorgio-armani-armani-prive-musc-shamal-190",
+      "brandName": "Giorgio Armani",
+      "brandSlug": "giorgio-armani",
+      "originalFragranceName": "Armani Privé Musc Shamal",
+      "originalFragranceSlug": "giorgio-armani-armani-prive-musc-shamal",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Giorgio Armani Armani Privé Musc Shamal",
+      "audience": null,
+      "classification": "Oriental/Musky",
+      "topNotes": [
+        "Aldehydes",
+        "Elemi Oil"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musks",
+        "Vanilla",
+        "Ambery Woods"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Elemi Oil",
+        "Turkish Rose",
+        "Jasmine",
+        "Musks",
+        "Vanilla",
+        "Ambery Woods"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Giorgio Armani giorgio armani Giorgio Armani Armani Privé Musc Shamal Not verified Oriental/Musky Aldehydes Elemi Oil Turkish Rose Jasmine Musks Vanilla Ambery Woods",
+      "createdAt": "2026-05-04T04:41:35.587Z",
+      "sharedNotes": [
+        "Turkish Rose",
+        "Vanilla"
+      ]
+    }
+  ]
+}

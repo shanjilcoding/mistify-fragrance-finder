@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "brandName": "Maison Martin Margiela 'REPLICA'",
+    "brandSlug": "maison-martin-margiela-replica",
+    "fragranceCount": 2,
+    "searchableText": "By The Fireplace Fireplace Glow Inspired by Maison Martin Margiela 'REPLICA' By The Fireplace Maison Martin Margiela 'REPLICA' maison martin margiela replica Maison Martin Margiela 'REPLICA' By The Fireplace Fireplace Glow Woody unisex Cloves Pink Pepper Orange Blossom Chestnut Guaiac Wood Juniper Vanilla Peru Balsam Cashmeran Jazz Club Jazz Lounge Inspired by Maison Martin Margiela 'REPLICA' Jazz Club Maison Martin Margiela 'REPLICA' maison martin margiela replica Maison Martin Margiela 'REPLICA' Jazz Club Jazz Lounge Oriental Woody unisex Pink Pepper Neroli Lemon Rum Java Vetiver Oil Clary Sage Tobacco Leaf Vanilla Bean Styrax"
+  },
+  "fragrances": [
+    {
+      "id": 245,
+      "fragranceSlug": "maison-martin-margiela-replica-by-the-fireplace-245",
+      "brandName": "Maison Martin Margiela 'REPLICA'",
+      "brandSlug": "maison-martin-margiela-replica",
+      "originalFragranceName": "By The Fireplace",
+      "originalFragranceSlug": "maison-martin-margiela-replica-by-the-fireplace",
+      "mistifyProductName": "Fireplace Glow",
+      "mistifyProductSlug": "fireplace-glow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fireplace-glow",
+      "publicInspiredByLabel": "Inspired by Maison Martin Margiela 'REPLICA' By The Fireplace",
+      "audience": "unisex",
+      "classification": "Woody",
+      "topNotes": [
+        "Cloves",
+        "Pink Pepper",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Chestnut",
+        "Guaiac Wood",
+        "Juniper"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Peru Balsam",
+        "Cashmeran"
+      ],
+      "allNotes": [
+        "Cloves",
+        "Pink Pepper",
+        "Orange Blossom",
+        "Chestnut",
+        "Guaiac Wood",
+        "Juniper",
+        "Vanilla",
+        "Peru Balsam",
+        "Cashmeran"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-32-03PM-_1.png?v=1773460390",
+      "searchableText": "Maison Martin Margiela 'REPLICA' maison martin margiela replica Maison Martin Margiela 'REPLICA' By The Fireplace Fireplace Glow Woody unisex Cloves Pink Pepper Orange Blossom Chestnut Guaiac Wood Juniper Vanilla Peru Balsam Cashmeran",
+      "createdAt": "2026-05-04T04:41:38.913Z"
+    },
+    {
+      "id": 246,
+      "fragranceSlug": "maison-martin-margiela-replica-jazz-club-246",
+      "brandName": "Maison Martin Margiela 'REPLICA'",
+      "brandSlug": "maison-martin-margiela-replica",
+      "originalFragranceName": "Jazz Club",
+      "originalFragranceSlug": "maison-martin-margiela-replica-jazz-club",
+      "mistifyProductName": "Jazz Lounge",
+      "mistifyProductSlug": "jazz-lounge",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/jazz-lounge",
+      "publicInspiredByLabel": "Inspired by Maison Martin Margiela 'REPLICA' Jazz Club",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Pink Pepper",
+        "Neroli",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Rum",
+        "Java Vetiver Oil",
+        "Clary Sage"
+      ],
+      "baseNotes": [
+        "Tobacco Leaf",
+        "Vanilla Bean",
+        "Styrax"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Neroli",
+        "Lemon",
+        "Rum",
+        "Java Vetiver Oil",
+        "Clary Sage",
+        "Tobacco Leaf",
+        "Vanilla Bean",
+        "Styrax"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-49-00PM-_1.png?v=1773460387",
+      "searchableText": "Maison Martin Margiela 'REPLICA' maison martin margiela replica Maison Martin Margiela 'REPLICA' Jazz Club Jazz Lounge Oriental Woody unisex Pink Pepper Neroli Lemon Rum Java Vetiver Oil Clary Sage Tobacco Leaf Vanilla Bean Styrax",
+      "createdAt": "2026-05-04T04:41:38.975Z"
+    }
+  ]
+}

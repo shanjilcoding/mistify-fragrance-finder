@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 95,
+    "fragranceSlug": "tom-ford-fucking-fabulous-95",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Fucking Fabulous",
+    "originalFragranceSlug": "tom-ford-fucking-fabulous",
+    "mistifyProductName": "Fabuleux",
+    "mistifyProductSlug": "fabuleux",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/fabuleux",
+    "publicInspiredByLabel": "Inspired by Tom Ford Fucking Fabulous",
+    "audience": "unisex",
+    "classification": "Leather",
+    "topNotes": [
+      "Lavender",
+      "Clary Sage"
+    ],
+    "middleNotes": [
+      "Leather",
+      "Bitter Almond",
+      "Vanilla",
+      "Orris"
+    ],
+    "baseNotes": [
+      "Leather",
+      "Tonka Bean",
+      "Cashmeran",
+      "White Woods",
+      "Amber"
+    ],
+    "allNotes": [
+      "Lavender",
+      "Clary Sage",
+      "Leather",
+      "Bitter Almond",
+      "Vanilla",
+      "Orris",
+      "Leather",
+      "Tonka Bean",
+      "Cashmeran",
+      "White Woods",
+      "Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec11-2025-09-54-59AM-_1.png?v=1773460202",
+    "searchableText": "Tom Ford tom ford Tom Ford Fucking Fabulous Fabuleux Leather unisex Lavender Clary Sage Leather Bitter Almond Vanilla Orris Leather Tonka Bean Cashmeran White Woods Amber",
+    "createdAt": "2026-05-04T04:41:30.032Z"
+  }
+}

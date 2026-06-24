@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 4,
+    "fragranceSlug": "guerlain-bosca-vanilla-forte-4",
+    "brandName": "Guerlain",
+    "brandSlug": "guerlain",
+    "originalFragranceName": "Bosca Vanilla Forte",
+    "originalFragranceSlug": "guerlain-bosca-vanilla-forte",
+    "mistifyProductName": "Not verified on Mistify",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Guerlain Bosca Vanilla Forte",
+    "audience": null,
+    "classification": "Oriental Woody",
+    "topNotes": [
+      "Bergamot",
+      "Eucalyptus"
+    ],
+    "middleNotes": [
+      "Solar Notes",
+      "Immortelle"
+    ],
+    "baseNotes": [
+      "Vanilla Absolute",
+      "Driftwood",
+      "Musk"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Eucalyptus",
+      "Solar Notes",
+      "Immortelle",
+      "Vanilla Absolute",
+      "Driftwood",
+      "Musk"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Guerlain guerlain Guerlain Bosca Vanilla Forte Not verified on Mistify Oriental Woody Bergamot Eucalyptus Solar Notes Immortelle Vanilla Absolute Driftwood Musk",
+    "createdAt": "2026-05-04T04:41:24.732Z"
+  }
+}

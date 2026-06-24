@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 104,
+    "fragranceSlug": "parfums-de-marly-oajan-104",
+    "brandName": "Parfums de Marly",
+    "brandSlug": "parfums-de-marly",
+    "originalFragranceName": "Oajan",
+    "originalFragranceSlug": "parfums-de-marly-oajan",
+    "mistifyProductName": "Oajour",
+    "mistifyProductSlug": "oajour",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/oajour",
+    "publicInspiredByLabel": "Inspired by Parfums de Marly Oajan",
+    "audience": null,
+    "classification": "Oriental",
+    "topNotes": [
+      "Cinnamon",
+      "Honey",
+      "Osmanthus"
+    ],
+    "middleNotes": [
+      "Benzoin",
+      "Labdanum",
+      "Ambergris",
+      "Artemisia"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Tonka Bean",
+      "Musk",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Cinnamon",
+      "Honey",
+      "Osmanthus",
+      "Benzoin",
+      "Labdanum",
+      "Ambergris",
+      "Artemisia",
+      "Vanilla",
+      "Tonka Bean",
+      "Musk",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay24_2026_09_19_57AM.png?v=1779628806",
+    "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Oajan Oajour Oriental Cinnamon Honey Osmanthus Benzoin Labdanum Ambergris Artemisia Vanilla Tonka Bean Musk Patchouli",
+    "createdAt": "2026-05-04T04:41:30.574Z"
+  }
+}

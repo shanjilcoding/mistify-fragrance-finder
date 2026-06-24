@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 121,
+    "fragranceSlug": "bond-no-9-the-scent-of-peace-121",
+    "brandName": "Bond No. 9",
+    "brandSlug": "bond-no-9",
+    "originalFragranceName": "The Scent of Peace",
+    "originalFragranceSlug": "bond-no-9-the-scent-of-peace",
+    "mistifyProductName": "Peace Accord",
+    "mistifyProductSlug": "peace-accord",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/peace-accord",
+    "publicInspiredByLabel": "Inspired by Bond No. 9 The Scent of Peace",
+    "audience": "unisex",
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Grapefruit",
+      "Black Currant"
+    ],
+    "middleNotes": [
+      "Lily-of-the-Valley"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Cedar"
+    ],
+    "allNotes": [
+      "Grapefruit",
+      "Black Currant",
+      "Lily-of-the-Valley",
+      "Musk",
+      "Cedar"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay2_2026_12_19_26AM_b14f75f2-431c-4b3b-b131-e88f0a68e598.png?v=1777695613",
+    "searchableText": "Bond No. 9 bond no 9 Bond No. 9 The Scent of Peace Peace Accord Woody Aromatic unisex Grapefruit Black Currant Lily-of-the-Valley Musk Cedar",
+    "createdAt": "2026-05-04T04:41:31.575Z"
+  }
+}

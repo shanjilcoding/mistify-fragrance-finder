@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 77,
+    "fragranceSlug": "tom-ford-grey-vetiver-77",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Grey Vetiver",
+    "originalFragranceSlug": "tom-ford-grey-vetiver",
+    "mistifyProductName": "Silver Vetiver",
+    "mistifyProductSlug": "silver-vetiver",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/silver-vetiver",
+    "publicInspiredByLabel": "Inspired by Tom Ford Grey Vetiver",
+    "audience": "mens",
+    "classification": "Woody Spicy",
+    "topNotes": [
+      "Grapefruit",
+      "Orange Blossom",
+      "Sage"
+    ],
+    "middleNotes": [
+      "Nutmeg",
+      "Orris Root",
+      "Pimento"
+    ],
+    "baseNotes": [
+      "Vetiver",
+      "Woodsy Notes",
+      "Oakmoss",
+      "Amber"
+    ],
+    "allNotes": [
+      "Grapefruit",
+      "Orange Blossom",
+      "Sage",
+      "Nutmeg",
+      "Orris Root",
+      "Pimento",
+      "Vetiver",
+      "Woodsy Notes",
+      "Oakmoss",
+      "Amber"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_54_08AM.png?v=1765422869",
+    "searchableText": "Tom Ford tom ford Tom Ford Grey Vetiver Silver Vetiver Woody Spicy mens Grapefruit Orange Blossom Sage Nutmeg Orris Root Pimento Vetiver Woodsy Notes Oakmoss Amber",
+    "createdAt": "2026-05-04T04:41:28.987Z"
+  }
+}

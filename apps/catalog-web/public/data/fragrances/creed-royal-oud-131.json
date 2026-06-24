@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 131,
+    "fragranceSlug": "creed-royal-oud-131",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Royal Oud",
+    "originalFragranceSlug": "creed-royal-oud",
+    "mistifyProductName": "Regal Oud",
+    "mistifyProductSlug": "regal-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/regal-oud",
+    "publicInspiredByLabel": "Inspired by Creed Royal Oud",
+    "audience": "unisex",
+    "classification": "Amber Fougere",
+    "topNotes": [
+      "Pink Pepper",
+      "Lemon",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Cedar",
+      "Galbanum",
+      "Angelica"
+    ],
+    "baseNotes": [
+      "Oud",
+      "Sandalwood",
+      "Musk"
+    ],
+    "allNotes": [
+      "Pink Pepper",
+      "Lemon",
+      "Bergamot",
+      "Cedar",
+      "Galbanum",
+      "Angelica",
+      "Oud",
+      "Sandalwood",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-35-06PM-_1.png?v=1773460550",
+    "searchableText": "Creed creed Creed Royal Oud Regal Oud Amber Fougere unisex Pink Pepper Lemon Bergamot Cedar Galbanum Angelica Oud Sandalwood Musk",
+    "createdAt": "2026-05-04T04:41:32.140Z"
+  }
+}

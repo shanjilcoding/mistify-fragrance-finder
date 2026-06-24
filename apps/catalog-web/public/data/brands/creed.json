@@ -1,0 +1,836 @@
+{
+  "brand": {
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "fragranceCount": 19,
+    "searchableText": "Aventus Ventis Inspired by Creed Aventus Creed creed Creed Aventus Ventis Chypre Fruity mens Bergamot Black Currant Apple Lemon Pink Pepper Pineapple Patchouli Moroccan Jasmine Birch Musk Oakmoss Ambroxan Cedarwood Aventus Absolute Absolu Crestus Inspired by Creed Aventus Absolute Creed creed Creed Aventus Absolute Absolu Crestus Chypre Fruity mens Grapefruit Bergamot Pink Pepper Black Currant Pineapple Nutmeg Cloves Ginger Cinnamon Citron Cardamom Rose Patchouli Vetiver Oakmoss Ambroxan Sandalwood Musk Tonka Evernyl Aventus for Her Ventis For Her Inspired by Creed Aventus for Her Creed creed Creed Aventus for Her Ventis For Her Floral Fruity womens Green Apple Bergamot Rose Sandalwood Blackcurrant Musk Carmina Karmina Inspired by Creed Carmina Creed creed Creed Carmina Karmina Amber Floral womens Pink Pepper Black Cherry Saffron May Rose Peony Violet Cashmere Wood Musk Ambroxan Frankincense Myrrh Centaurus Centaur Creed Centaurus Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk Delphinus Starphinus Inspired by Creed Delphinus Creed creed Creed Delphinus Starphinus Amber Spicy unisex Almond Pink Pepper Black Pepper Orris Heliotrope Orchid Bourbon Vanilla Tonka Bean Leather Amberwood Patchouli Eladaria Eladarié Inspired by Creed Eladaria Creed creed Creed Eladaria Eladarié Floral womens Pink Pepper Mandarin Orange Bergamot Rose Powdery Notes Peony Lily-of-the-Valley Musk Ambroxan Cashmere Wood Vanilla Green Irish Tweed Verdant Tweed Inspired by Creed Green Irish Tweed Creed creed Creed Green Irish Tweed Verdant Tweed Woody Floral Musk unisex Lemon Verbena Iris Violet Leaf Ambergris Sandalwood Love in White White Love Inspired by Creed Love in White Creed creed Creed Love in White White Love Floral Oriental womens Orange Zest Rice Jasmine Vanilla Ambergris Millesime Imperial Vintage Imperial Inspired by Creed Millesime Imperial Creed creed Creed Millesime Imperial Vintage Imperial Citrus Floral mens Sea Salt Fruit Notes Sicilian Lemon Bergamot Iris Mandarin Orange Sea Notes Musk Woody Notes Oud Zarian Oud Zarien Inspired by Creed Oud Zarian Creed creed Creed Oud Zarian Oud Zarien Oriental Woody unisex Spices Frankincense Ginger Bergamot May Rose Licorice Myrrh Oud Tonka Bean Sandalwood Patchouli Queen of Silk Silken Queen Inspired by Creed Queen of Silk Creed creed Creed Queen of Silk Silken Queen Amber Floral womens Osmanthus Magnolia Saffron Tuberose Passionfruit Oud Patchouli Vanilla Incense Myrrh Ambroxan Cedarwood Musk Royal Oud Regal Oud Inspired by Creed Royal Oud Creed creed Creed Royal Oud Regal Oud Amber Fougere unisex Pink Pepper Lemon Bergamot Cedar Galbanum Angelica Oud Sandalwood Musk Silver Mountain Water Mountain Heights Inspired by Creed Silver Mountain Water Creed creed Creed Silver Mountain Water Mountain Heights Aromatic unisex Bergamot Mandarin Orange Green Tea Black Currant Musk Petitgrain Sandalwood Galbanum Sublime Vanille Superb Vanilla Inspired by Creed Sublime Vanille Creed creed Creed Sublime Vanille Superb Vanilla Oriental Vanilla unisex Bourbon Vanilla Lemon Tonka Bean Musk Viking Voyager Inspired by Creed Viking Creed creed Creed Viking Voyager Woody Aromatic mens Pink Pepper Calabrian Bergamot Lemon Pink Pepper Bulgarian Rose Peppermint Sandalwood Vetiver Patchouli Lavender White Amber Whitened Amber Inspired by Creed White Amber Creed creed Creed White Amber Whitened Amber Floral Woody Musk mens Amber Jasmine Benzoin Sandalwood Musk Wild Vetiver Wild Vétiver Inspired by Creed Wild Vetiver Creed creed Creed Wild Vetiver Wild Vétiver Woody Aromatic unisex Bergamot Pink Pepper Timur Berry White Florals Vetiver Cedarwood Amberwood Wind Flowers Not verified Inspired by Creed Wind Flowers Creed creed Creed Wind Flowers Not verified Floral Jasmine Orange Blossom Peach Jasmine Sambac Tuberose Rose Musk Orange Blossom Praline Sandalwood Iris"
+  },
+  "fragrances": [
+    {
+      "id": 124,
+      "fragranceSlug": "creed-aventus-124",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus",
+      "originalFragranceSlug": "creed-aventus",
+      "mistifyProductName": "Ventis",
+      "mistifyProductSlug": "ventis",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ventis",
+      "publicInspiredByLabel": "Inspired by Creed Aventus",
+      "audience": "mens",
+      "classification": "Chypre Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Apple",
+        "Lemon",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Pineapple",
+        "Patchouli",
+        "Moroccan Jasmine"
+      ],
+      "baseNotes": [
+        "Birch",
+        "Musk",
+        "Oakmoss",
+        "Ambroxan",
+        "Cedarwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Apple",
+        "Lemon",
+        "Pink Pepper",
+        "Pineapple",
+        "Patchouli",
+        "Moroccan Jasmine",
+        "Birch",
+        "Musk",
+        "Oakmoss",
+        "Ambroxan",
+        "Cedarwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_04_13AM.png?v=1765422842",
+      "searchableText": "Creed creed Creed Aventus Ventis Chypre Fruity mens Bergamot Black Currant Apple Lemon Pink Pepper Pineapple Patchouli Moroccan Jasmine Birch Musk Oakmoss Ambroxan Cedarwood",
+      "createdAt": "2026-05-04T04:41:31.739Z"
+    },
+    {
+      "id": 125,
+      "fragranceSlug": "creed-aventus-absolute-125",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus Absolute",
+      "originalFragranceSlug": "creed-aventus-absolute",
+      "mistifyProductName": "Absolu Crestus",
+      "mistifyProductSlug": "absolu-crestus",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/absolu-crestus",
+      "publicInspiredByLabel": "Inspired by Creed Aventus Absolute",
+      "audience": "mens",
+      "classification": "Chypre Fruity",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Nutmeg",
+        "Cloves"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Cinnamon",
+        "Citron",
+        "Cardamom",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vetiver",
+        "Oakmoss",
+        "Ambroxan",
+        "Sandalwood",
+        "Musk",
+        "Tonka",
+        "Evernyl"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Nutmeg",
+        "Cloves",
+        "Ginger",
+        "Cinnamon",
+        "Citron",
+        "Cardamom",
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oakmoss",
+        "Ambroxan",
+        "Sandalwood",
+        "Musk",
+        "Tonka",
+        "Evernyl"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_34_56AM.png?v=1765422817",
+      "searchableText": "Creed creed Creed Aventus Absolute Absolu Crestus Chypre Fruity mens Grapefruit Bergamot Pink Pepper Black Currant Pineapple Nutmeg Cloves Ginger Cinnamon Citron Cardamom Rose Patchouli Vetiver Oakmoss Ambroxan Sandalwood Musk Tonka Evernyl",
+      "createdAt": "2026-05-04T04:41:31.801Z"
+    },
+    {
+      "id": 126,
+      "fragranceSlug": "creed-aventus-for-her-126",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus for Her",
+      "originalFragranceSlug": "creed-aventus-for-her",
+      "mistifyProductName": "Ventis For Her",
+      "mistifyProductSlug": "ventis-for-her",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ventis-for-her",
+      "publicInspiredByLabel": "Inspired by Creed Aventus for Her",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Green Apple",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Blackcurrant",
+        "Musk"
+      ],
+      "allNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Rose",
+        "Sandalwood",
+        "Blackcurrant",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Screenshot2025-12-03at3.54.35PM.png?v=1765422843",
+      "searchableText": "Creed creed Creed Aventus for Her Ventis For Her Floral Fruity womens Green Apple Bergamot Rose Sandalwood Blackcurrant Musk",
+      "createdAt": "2026-05-04T04:41:31.860Z"
+    },
+    {
+      "id": 127,
+      "fragranceSlug": "creed-carmina-127",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Carmina",
+      "originalFragranceSlug": "creed-carmina",
+      "mistifyProductName": "Karmina",
+      "mistifyProductSlug": "karmina",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/karmina",
+      "publicInspiredByLabel": "Inspired by Creed Carmina",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pink Pepper",
+        "Black Cherry",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "May Rose",
+        "Peony",
+        "Violet",
+        "Cashmere Wood"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambroxan",
+        "Frankincense",
+        "Myrrh"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Black Cherry",
+        "Saffron",
+        "May Rose",
+        "Peony",
+        "Violet",
+        "Cashmere Wood",
+        "Musk",
+        "Ambroxan",
+        "Frankincense",
+        "Myrrh"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_46_39PM.png?v=1765422844",
+      "searchableText": "Creed creed Creed Carmina Karmina Amber Floral womens Pink Pepper Black Cherry Saffron May Rose Peony Violet Cashmere Wood Musk Ambroxan Frankincense Myrrh",
+      "createdAt": "2026-05-04T04:41:31.917Z"
+    },
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 136,
+      "fragranceSlug": "creed-delphinus-136",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Delphinus",
+      "originalFragranceSlug": "creed-delphinus",
+      "mistifyProductName": "Starphinus",
+      "mistifyProductSlug": "starphinus",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/starphinus",
+      "publicInspiredByLabel": "Inspired by Creed Delphinus",
+      "audience": "unisex",
+      "classification": "Amber Spicy",
+      "topNotes": [
+        "Almond",
+        "Pink Pepper",
+        "Black Pepper"
+      ],
+      "middleNotes": [
+        "Orris",
+        "Heliotrope",
+        "Orchid"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Tonka Bean",
+        "Leather",
+        "Amberwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Almond",
+        "Pink Pepper",
+        "Black Pepper",
+        "Orris",
+        "Heliotrope",
+        "Orchid",
+        "Bourbon Vanilla",
+        "Tonka Bean",
+        "Leather",
+        "Amberwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-13-03AM-_1.png?v=1773460303",
+      "searchableText": "Creed creed Creed Delphinus Starphinus Amber Spicy unisex Almond Pink Pepper Black Pepper Orris Heliotrope Orchid Bourbon Vanilla Tonka Bean Leather Amberwood Patchouli",
+      "createdAt": "2026-05-04T04:41:32.427Z"
+    },
+    {
+      "id": 140,
+      "fragranceSlug": "creed-eladaria-140",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Eladaria",
+      "originalFragranceSlug": "creed-eladaria",
+      "mistifyProductName": "Eladarié",
+      "mistifyProductSlug": "eladarie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eladarie",
+      "publicInspiredByLabel": "Inspired by Creed Eladaria",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "Pink Pepper",
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Powdery Notes",
+        "Peony",
+        "Lily-of-the-Valley"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Mandarin Orange",
+        "Bergamot",
+        "Rose",
+        "Powdery Notes",
+        "Peony",
+        "Lily-of-the-Valley",
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay7_2026_04_17_24PM.png?v=1778185051",
+      "searchableText": "Creed creed Creed Eladaria Eladarié Floral womens Pink Pepper Mandarin Orange Bergamot Rose Powdery Notes Peony Lily-of-the-Valley Musk Ambroxan Cashmere Wood Vanilla",
+      "createdAt": "2026-05-04T04:41:32.651Z"
+    },
+    {
+      "id": 138,
+      "fragranceSlug": "creed-green-irish-tweed-138",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Green Irish Tweed",
+      "originalFragranceSlug": "creed-green-irish-tweed",
+      "mistifyProductName": "Verdant Tweed",
+      "mistifyProductSlug": "verdant-tweed",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/verdant-tweed",
+      "publicInspiredByLabel": "Inspired by Creed Green Irish Tweed",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Lemon Verbena",
+        "Iris"
+      ],
+      "middleNotes": [
+        "Violet Leaf"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Lemon Verbena",
+        "Iris",
+        "Violet Leaf",
+        "Ambergris",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-07-49AM-_1.png?v=1773460135",
+      "searchableText": "Creed creed Creed Green Irish Tweed Verdant Tweed Woody Floral Musk unisex Lemon Verbena Iris Violet Leaf Ambergris Sandalwood",
+      "createdAt": "2026-05-04T04:41:32.543Z"
+    },
+    {
+      "id": 128,
+      "fragranceSlug": "creed-love-in-white-128",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Love in White",
+      "originalFragranceSlug": "creed-love-in-white",
+      "mistifyProductName": "White Love",
+      "mistifyProductSlug": "white-love",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/white-love",
+      "publicInspiredByLabel": "Inspired by Creed Love in White",
+      "audience": "womens",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Orange Zest"
+      ],
+      "middleNotes": [
+        "Rice",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Orange Zest",
+        "Rice",
+        "Jasmine",
+        "Vanilla",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-37-06PM-_1.png?v=1773460555",
+      "searchableText": "Creed creed Creed Love in White White Love Floral Oriental womens Orange Zest Rice Jasmine Vanilla Ambergris",
+      "createdAt": "2026-05-04T04:41:31.974Z"
+    },
+    {
+      "id": 129,
+      "fragranceSlug": "creed-millesime-imperial-129",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Millesime Imperial",
+      "originalFragranceSlug": "creed-millesime-imperial",
+      "mistifyProductName": "Vintage Imperial",
+      "mistifyProductSlug": "vintage-imperial",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vintage-imperial",
+      "publicInspiredByLabel": "Inspired by Creed Millesime Imperial",
+      "audience": "mens",
+      "classification": "Citrus Floral",
+      "topNotes": [
+        "Sea Salt",
+        "Fruit Notes"
+      ],
+      "middleNotes": [
+        "Sicilian Lemon",
+        "Bergamot",
+        "Iris",
+        "Mandarin Orange"
+      ],
+      "baseNotes": [
+        "Sea Notes",
+        "Musk",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Sea Salt",
+        "Fruit Notes",
+        "Sicilian Lemon",
+        "Bergamot",
+        "Iris",
+        "Mandarin Orange",
+        "Sea Notes",
+        "Musk",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_03_50PM.png?v=1765422849",
+      "searchableText": "Creed creed Creed Millesime Imperial Vintage Imperial Citrus Floral mens Sea Salt Fruit Notes Sicilian Lemon Bergamot Iris Mandarin Orange Sea Notes Musk Woody Notes",
+      "createdAt": "2026-05-04T04:41:32.027Z"
+    },
+    {
+      "id": 139,
+      "fragranceSlug": "creed-oud-zarian-139",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Oud Zarian",
+      "originalFragranceSlug": "creed-oud-zarian",
+      "mistifyProductName": "Oud Zarien",
+      "mistifyProductSlug": "oud-zarien",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-zarien",
+      "publicInspiredByLabel": "Inspired by Creed Oud Zarian",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Spices",
+        "Frankincense",
+        "Ginger",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "May Rose"
+      ],
+      "baseNotes": [
+        "Licorice",
+        "Myrrh",
+        "Oud",
+        "Tonka Bean",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Spices",
+        "Frankincense",
+        "Ginger",
+        "Bergamot",
+        "May Rose",
+        "Licorice",
+        "Myrrh",
+        "Oud",
+        "Tonka Bean",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec16-2025-10-53-37AM-_1.png?v=1773460199",
+      "searchableText": "Creed creed Creed Oud Zarian Oud Zarien Oriental Woody unisex Spices Frankincense Ginger Bergamot May Rose Licorice Myrrh Oud Tonka Bean Sandalwood Patchouli",
+      "createdAt": "2026-05-04T04:41:32.597Z"
+    },
+    {
+      "id": 130,
+      "fragranceSlug": "creed-queen-of-silk-130",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Queen of Silk",
+      "originalFragranceSlug": "creed-queen-of-silk",
+      "mistifyProductName": "Silken Queen",
+      "mistifyProductSlug": "silken-queen",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silken-queen",
+      "publicInspiredByLabel": "Inspired by Creed Queen of Silk",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Osmanthus",
+        "Magnolia",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Passionfruit",
+        "Oud",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Incense",
+        "Myrrh",
+        "Ambroxan",
+        "Cedarwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Magnolia",
+        "Saffron",
+        "Tuberose",
+        "Passionfruit",
+        "Oud",
+        "Patchouli",
+        "Vanilla",
+        "Incense",
+        "Myrrh",
+        "Ambroxan",
+        "Cedarwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-33-41AM-_1.png?v=1773460553",
+      "searchableText": "Creed creed Creed Queen of Silk Silken Queen Amber Floral womens Osmanthus Magnolia Saffron Tuberose Passionfruit Oud Patchouli Vanilla Incense Myrrh Ambroxan Cedarwood Musk",
+      "createdAt": "2026-05-04T04:41:32.081Z"
+    },
+    {
+      "id": 131,
+      "fragranceSlug": "creed-royal-oud-131",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Royal Oud",
+      "originalFragranceSlug": "creed-royal-oud",
+      "mistifyProductName": "Regal Oud",
+      "mistifyProductSlug": "regal-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/regal-oud",
+      "publicInspiredByLabel": "Inspired by Creed Royal Oud",
+      "audience": "unisex",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Galbanum",
+        "Angelica"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Lemon",
+        "Bergamot",
+        "Cedar",
+        "Galbanum",
+        "Angelica",
+        "Oud",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-35-06PM-_1.png?v=1773460550",
+      "searchableText": "Creed creed Creed Royal Oud Regal Oud Amber Fougere unisex Pink Pepper Lemon Bergamot Cedar Galbanum Angelica Oud Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.140Z"
+    },
+    {
+      "id": 132,
+      "fragranceSlug": "creed-silver-mountain-water-132",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Silver Mountain Water",
+      "originalFragranceSlug": "creed-silver-mountain-water",
+      "mistifyProductName": "Mountain Heights",
+      "mistifyProductSlug": "mountain-heights",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mountain-heights",
+      "publicInspiredByLabel": "Inspired by Creed Silver Mountain Water",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Green Tea",
+        "Black Currant"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Petitgrain",
+        "Sandalwood",
+        "Galbanum"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Green Tea",
+        "Black Currant",
+        "Musk",
+        "Petitgrain",
+        "Sandalwood",
+        "Galbanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_04_03_06PM.png?v=1765422855",
+      "searchableText": "Creed creed Creed Silver Mountain Water Mountain Heights Aromatic unisex Bergamot Mandarin Orange Green Tea Black Currant Musk Petitgrain Sandalwood Galbanum",
+      "createdAt": "2026-05-04T04:41:32.199Z"
+    },
+    {
+      "id": 133,
+      "fragranceSlug": "creed-sublime-vanille-133",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Sublime Vanille",
+      "originalFragranceSlug": "creed-sublime-vanille",
+      "mistifyProductName": "Superb Vanilla",
+      "mistifyProductSlug": "superb-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/superb-vanilla",
+      "publicInspiredByLabel": "Inspired by Creed Sublime Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bourbon Vanilla",
+        "Lemon"
+      ],
+      "middleNotes": [],
+      "baseNotes": [
+        "Tonka Bean",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bourbon Vanilla",
+        "Lemon",
+        "Tonka Bean",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-35-41AM-_1.png?v=1773460548",
+      "searchableText": "Creed creed Creed Sublime Vanille Superb Vanilla Oriental Vanilla unisex Bourbon Vanilla Lemon Tonka Bean Musk",
+      "createdAt": "2026-05-04T04:41:32.256Z"
+    },
+    {
+      "id": 134,
+      "fragranceSlug": "creed-viking-134",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Viking",
+      "originalFragranceSlug": "creed-viking",
+      "mistifyProductName": "Voyager",
+      "mistifyProductSlug": "voyager",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/voyager",
+      "publicInspiredByLabel": "Inspired by Creed Viking",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Pink Pepper",
+        "Bulgarian Rose",
+        "Peppermint"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Lemon",
+        "Pink Pepper",
+        "Bulgarian Rose",
+        "Peppermint",
+        "Sandalwood",
+        "Vetiver",
+        "Patchouli",
+        "Lavender"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_32_22PM.png?v=1765422858",
+      "searchableText": "Creed creed Creed Viking Voyager Woody Aromatic mens Pink Pepper Calabrian Bergamot Lemon Pink Pepper Bulgarian Rose Peppermint Sandalwood Vetiver Patchouli Lavender",
+      "createdAt": "2026-05-04T04:41:32.311Z"
+    },
+    {
+      "id": 135,
+      "fragranceSlug": "creed-white-amber-135",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "White Amber",
+      "originalFragranceSlug": "creed-white-amber",
+      "mistifyProductName": "Whitened Amber",
+      "mistifyProductSlug": "whitened-amber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/whitened-amber",
+      "publicInspiredByLabel": "Inspired by Creed White Amber",
+      "audience": "mens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Amber",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Benzoin"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Amber",
+        "Jasmine",
+        "Benzoin",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-37-49AM-_1.png?v=1773460545",
+      "searchableText": "Creed creed Creed White Amber Whitened Amber Floral Woody Musk mens Amber Jasmine Benzoin Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:32.365Z"
+    },
+    {
+      "id": 141,
+      "fragranceSlug": "creed-wild-vetiver-141",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Wild Vetiver",
+      "originalFragranceSlug": "creed-wild-vetiver",
+      "mistifyProductName": "Wild Vétiver",
+      "mistifyProductSlug": "wild-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/wild-vetiver",
+      "publicInspiredByLabel": "Inspired by Creed Wild Vetiver",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Pink Pepper",
+        "Timur Berry"
+      ],
+      "middleNotes": [
+        "White Florals",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amberwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Pink Pepper",
+        "Timur Berry",
+        "White Florals",
+        "Vetiver",
+        "Cedarwood",
+        "Amberwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr24_2026_12_16_47PM.png?v=1777047425",
+      "searchableText": "Creed creed Creed Wild Vetiver Wild Vétiver Woody Aromatic unisex Bergamot Pink Pepper Timur Berry White Florals Vetiver Cedarwood Amberwood",
+      "createdAt": "2026-05-04T04:41:32.712Z"
+    },
+    {
+      "id": 137,
+      "fragranceSlug": "creed-wind-flowers-137",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Wind Flowers",
+      "originalFragranceSlug": "creed-wind-flowers",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Creed Wind Flowers",
+      "audience": null,
+      "classification": "Floral",
+      "topNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Peach"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac",
+        "Tuberose",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Orange Blossom",
+        "Praline",
+        "Sandalwood",
+        "Iris"
+      ],
+      "allNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Peach",
+        "Jasmine Sambac",
+        "Tuberose",
+        "Rose",
+        "Musk",
+        "Orange Blossom",
+        "Praline",
+        "Sandalwood",
+        "Iris"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Creed creed Creed Wind Flowers Not verified Floral Jasmine Orange Blossom Peach Jasmine Sambac Tuberose Rose Musk Orange Blossom Praline Sandalwood Iris",
+      "createdAt": "2026-05-04T04:41:32.485Z"
+    }
+  ]
+}

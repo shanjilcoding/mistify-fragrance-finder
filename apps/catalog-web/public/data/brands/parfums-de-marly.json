@@ -1,0 +1,748 @@
+{
+  "brand": {
+    "brandName": "Parfums de Marly",
+    "brandSlug": "parfums-de-marly",
+    "fragranceCount": 16,
+    "searchableText": "Althair Altair Inspired by Parfums de Marly Althair Parfums de Marly parfums de marly Parfums de Marly Althair Altair Oriental Vanilla unisex Orange Blossom Bergamot Cinnamon Cardamom Bourbon Vanilla Elemi Praline Musk Ambroxan Guaiac Wood Castley Castellan Inspired by Parfums de Marly Castley Parfums de Marly parfums de marly Parfums de Marly Castley Castellan Citrus Aromatic mens Bergamot Black Pepper Ginger Grapefruit Pepper Neroli Petitgrain Timur Rose Akigalawood Labdanum Benzoin Leather Delina Exclusif Deline Exclusive Inspired by Parfums de Marly Delina Exclusif Parfums de Marly parfums de marly Parfums de Marly Delina Exclusif Deline Exclusive Floral womens Litchi Pear Bergamot Turkish Rose Oud Incense Vanilla Amber Woody Notes Eragon Eragone Inspired by Parfums de Marly Eragon Parfums de Marly parfums de marly Parfums de Marly Eragon Eragone Spicy Oriental/Warm Gourmand unisex Cardamom Mandarin Bergamot Cinnamon Cypriol Davana Vanilla Bean Tonka Bean Leather Patchouli Greenley Greenery Inspired by Parfums de Marly Greenley Parfums de Marly parfums de marly Parfums de Marly Greenley Greenery Citrus Aromatic unisex Green Apple Bergamot Mandarin Orange Cashmeran Cedar Petitgrain Oakmoss Musk Amberwood Haltane Heltene Inspired by Parfums de Marly Haltane Parfums de Marly parfums de marly Parfums de Marly Haltane Heltene Woody Aromatic mens Lavender Clary Sage Bergamot Saffron Praline Oud Cedar Herod Not verified Inspired by Parfums de Marly Herod Parfums de Marly parfums de marly Parfums de Marly Herod Not verified Woody Spicy Cinnamon Pepperwood Tobacco Leaf Incense Osmanthus Labdanum Vanilla Cedar Musk Cypriol Vetiver Amber Iso E Super Layton Laytonington Inspired by Parfums de Marly Layton Parfums de Marly parfums de marly Parfums de Marly Layton Laytonington Oriental Floral unisex Apple Bergamot Lavender Geranium Violet Jasmine Vanilla Pepper Patchouli Guaiac Wood Oajan Oajour Inspired by Parfums de Marly Oajan Parfums de Marly parfums de marly Parfums de Marly Oajan Oajour Oriental Cinnamon Honey Osmanthus Benzoin Labdanum Ambergris Artemisia Vanilla Tonka Bean Musk Patchouli Oriana Oriental Inspired by Parfums de Marly Oriana Parfums de Marly parfums de marly Parfums de Marly Oriana Oriental Floral Fruity Gourmand womens Mandarin Orange Bergamot Grapefruit Orange Blossom Black Currant Raspberry Marshmallow Whipped Cream Musk Ambrette Palatine Pala‑Majesty Inspired by Parfums de Marly Palatine Parfums de Marly parfums de marly Parfums de Marly Palatine Pala‑Majesty Floral Woody Musk womens Bergamot Mandarin Orange Pear Violet Petals Lavender Floral Notes Sandalwood Musk Patchouli Vanilla Pegasus Pegasi Inspired by Parfums de Marly Pegasus Parfums de Marly parfums de marly Parfums de Marly Pegasus Pegasi Amber Fougere mens Heliotrope Cumin Bergamot Bitter Almond Lavender Jasmine Vanilla Sandalwood Amber Percival Perception Inspired by Parfums de Marly Percival Parfums de Marly parfums de marly Parfums de Marly Percival Perception Citrus Aromatic mens Lavender Mandarin Orange Bergamot Geranium Hedione Violet Jasmine Coriander Cinnamon Ambroxan Amberwood Musk Balsam Fir Clearwood Sedley Sédelle Inspired by Parfums de Marly Sedley Parfums de Marly parfums de marly Parfums de Marly Sedley Sédelle Woody Aromatic unisex Mint Bergamot Grapefruit Lemon Mandarin Orange Lavender Rosemary Geranium Olibanum Ambroxan Sandalwood Vetiver Cedar Cashmeran Patchouli Valaya Valeti Inspired by Parfums de Marly Valaya Parfums de Marly parfums de marly Parfums de Marly Valaya Valeti Floral Woody Musk womens Bergamot Grapefruit Mandarin Orange Blossom Peach Petalia Ambroxan White Musk Akigalawood Valero Not verified Inspired by Parfums de Marly Valero Parfums de Marly parfums de marly Parfums de Marly Valero Not verified Woody Aromatic Bergamot Citron Juniper Geranium Lavender Cypress Nutmeg Ambrox Super Patchouli Sandalwood"
+  },
+  "fragrances": [
+    {
+      "id": 97,
+      "fragranceSlug": "parfums-de-marly-althair-97",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Althair",
+      "originalFragranceSlug": "parfums-de-marly-althair",
+      "mistifyProductName": "Altair",
+      "mistifyProductSlug": "altair",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/altair",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Althair",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Cinnamon",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Bourbon Vanilla",
+        "Elemi"
+      ],
+      "baseNotes": [
+        "Praline",
+        "Musk",
+        "Ambroxan",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Cinnamon",
+        "Cardamom",
+        "Bourbon Vanilla",
+        "Elemi",
+        "Praline",
+        "Musk",
+        "Ambroxan",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-10-18PM-_1.png?v=1773460503",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Althair Altair Oriental Vanilla unisex Orange Blossom Bergamot Cinnamon Cardamom Bourbon Vanilla Elemi Praline Musk Ambroxan Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:30.144Z"
+    },
+    {
+      "id": 110,
+      "fragranceSlug": "parfums-de-marly-castley-110",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Castley",
+      "originalFragranceSlug": "parfums-de-marly-castley",
+      "mistifyProductName": "Castellan",
+      "mistifyProductSlug": "castellan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/castellan",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Castley",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Pepper",
+        "Ginger",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Neroli",
+        "Petitgrain",
+        "Timur",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Akigalawood",
+        "Labdanum",
+        "Benzoin",
+        "Leather"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Pepper",
+        "Ginger",
+        "Grapefruit",
+        "Pepper",
+        "Neroli",
+        "Petitgrain",
+        "Timur",
+        "Rose",
+        "Akigalawood",
+        "Labdanum",
+        "Benzoin",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-29-17AM-_1.png?v=1773460238",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Castley Castellan Citrus Aromatic mens Bergamot Black Pepper Ginger Grapefruit Pepper Neroli Petitgrain Timur Rose Akigalawood Labdanum Benzoin Leather",
+      "createdAt": "2026-05-04T04:41:30.917Z"
+    },
+    {
+      "id": 100,
+      "fragranceSlug": "parfums-de-marly-delina-exclusif-100",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Delina Exclusif",
+      "originalFragranceSlug": "parfums-de-marly-delina-exclusif",
+      "mistifyProductName": "Deline Exclusive",
+      "mistifyProductSlug": "deline-exclusive",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/deline-exclusive?variant=49907851395391",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Delina Exclusif",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "Litchi",
+        "Pear",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Oud",
+        "Incense"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Amber",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Litchi",
+        "Pear",
+        "Bergamot",
+        "Turkish Rose",
+        "Oud",
+        "Incense",
+        "Vanilla",
+        "Amber",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-01-29AM-_1.png?v=1773460500",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Delina Exclusif Deline Exclusive Floral womens Litchi Pear Bergamot Turkish Rose Oud Incense Vanilla Amber Woody Notes",
+      "createdAt": "2026-05-04T04:41:30.328Z"
+    },
+    {
+      "id": 111,
+      "fragranceSlug": "parfums-de-marly-eragon-111",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Eragon",
+      "originalFragranceSlug": "parfums-de-marly-eragon",
+      "mistifyProductName": "Eragone",
+      "mistifyProductSlug": "eragone",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eragone",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Eragon",
+      "audience": "unisex",
+      "classification": "Spicy Oriental/Warm Gourmand",
+      "topNotes": [
+        "Cardamom",
+        "Mandarin",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Cypriol",
+        "Davana"
+      ],
+      "baseNotes": [
+        "Vanilla Bean",
+        "Tonka Bean",
+        "Leather",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Mandarin",
+        "Bergamot",
+        "Cinnamon",
+        "Cypriol",
+        "Davana",
+        "Vanilla Bean",
+        "Tonka Bean",
+        "Leather",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec19-2025-10-34-44AM-_1.png?v=1773460191",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Eragon Eragone Spicy Oriental/Warm Gourmand unisex Cardamom Mandarin Bergamot Cinnamon Cypriol Davana Vanilla Bean Tonka Bean Leather Patchouli",
+      "createdAt": "2026-05-04T04:41:30.975Z"
+    },
+    {
+      "id": 101,
+      "fragranceSlug": "parfums-de-marly-greenley-101",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Greenley",
+      "originalFragranceSlug": "parfums-de-marly-greenley",
+      "mistifyProductName": "Greenery",
+      "mistifyProductSlug": "greenery",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/greenery",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Greenley",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Cashmeran",
+        "Cedar",
+        "Petitgrain"
+      ],
+      "baseNotes": [
+        "Oakmoss",
+        "Musk",
+        "Amberwood"
+      ],
+      "allNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Mandarin Orange",
+        "Cashmeran",
+        "Cedar",
+        "Petitgrain",
+        "Oakmoss",
+        "Musk",
+        "Amberwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-18-13AM-_1.png?v=1773460498",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Greenley Greenery Citrus Aromatic unisex Green Apple Bergamot Mandarin Orange Cashmeran Cedar Petitgrain Oakmoss Musk Amberwood",
+      "createdAt": "2026-05-04T04:41:30.400Z"
+    },
+    {
+      "id": 102,
+      "fragranceSlug": "parfums-de-marly-haltane-102",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Haltane",
+      "originalFragranceSlug": "parfums-de-marly-haltane",
+      "mistifyProductName": "Heltene",
+      "mistifyProductSlug": "heltene",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/heltene",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Haltane",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Saffron",
+        "Praline"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Bergamot",
+        "Saffron",
+        "Praline",
+        "Oud",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-23-10PM-_1.png?v=1773460495",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Haltane Heltene Woody Aromatic mens Lavender Clary Sage Bergamot Saffron Praline Oud Cedar",
+      "createdAt": "2026-05-04T04:41:30.462Z"
+    },
+    {
+      "id": 98,
+      "fragranceSlug": "parfums-de-marly-herod-98",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Herod",
+      "originalFragranceSlug": "parfums-de-marly-herod",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Herod",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Pepperwood"
+      ],
+      "middleNotes": [
+        "Tobacco Leaf",
+        "Incense",
+        "Osmanthus",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedar",
+        "Musk",
+        "Cypriol",
+        "Vetiver",
+        "Amber",
+        "Iso E Super"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Pepperwood",
+        "Tobacco Leaf",
+        "Incense",
+        "Osmanthus",
+        "Labdanum",
+        "Vanilla",
+        "Cedar",
+        "Musk",
+        "Cypriol",
+        "Vetiver",
+        "Amber",
+        "Iso E Super"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Herod Not verified Woody Spicy Cinnamon Pepperwood Tobacco Leaf Incense Osmanthus Labdanum Vanilla Cedar Musk Cypriol Vetiver Amber Iso E Super",
+      "createdAt": "2026-05-04T04:41:30.212Z"
+    },
+    {
+      "id": 103,
+      "fragranceSlug": "parfums-de-marly-layton-103",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Layton",
+      "originalFragranceSlug": "parfums-de-marly-layton",
+      "mistifyProductName": "Laytonington",
+      "mistifyProductSlug": "laytonington",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/laytonington",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Layton",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Geranium",
+        "Violet",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender",
+        "Geranium",
+        "Violet",
+        "Jasmine",
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-32-05AM-_1.png?v=1773460493",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Layton Laytonington Oriental Floral unisex Apple Bergamot Lavender Geranium Violet Jasmine Vanilla Pepper Patchouli Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:30.521Z"
+    },
+    {
+      "id": 104,
+      "fragranceSlug": "parfums-de-marly-oajan-104",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Oajan",
+      "originalFragranceSlug": "parfums-de-marly-oajan",
+      "mistifyProductName": "Oajour",
+      "mistifyProductSlug": "oajour",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oajour",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Oajan",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Cinnamon",
+        "Honey",
+        "Osmanthus"
+      ],
+      "middleNotes": [
+        "Benzoin",
+        "Labdanum",
+        "Ambergris",
+        "Artemisia"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Honey",
+        "Osmanthus",
+        "Benzoin",
+        "Labdanum",
+        "Ambergris",
+        "Artemisia",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay24_2026_09_19_57AM.png?v=1779628806",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Oajan Oajour Oriental Cinnamon Honey Osmanthus Benzoin Labdanum Ambergris Artemisia Vanilla Tonka Bean Musk Patchouli",
+      "createdAt": "2026-05-04T04:41:30.574Z"
+    },
+    {
+      "id": 105,
+      "fragranceSlug": "parfums-de-marly-oriana-105",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Oriana",
+      "originalFragranceSlug": "parfums-de-marly-oriana",
+      "mistifyProductName": "Oriental",
+      "mistifyProductSlug": "oriental",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oriental",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Oriana",
+      "audience": "womens",
+      "classification": "Floral Fruity Gourmand",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Black Currant",
+        "Raspberry"
+      ],
+      "baseNotes": [
+        "Marshmallow",
+        "Whipped Cream",
+        "Musk",
+        "Ambrette"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Grapefruit",
+        "Orange Blossom",
+        "Black Currant",
+        "Raspberry",
+        "Marshmallow",
+        "Whipped Cream",
+        "Musk",
+        "Ambrette"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_01_56AM.png?v=1774324934",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Oriana Oriental Floral Fruity Gourmand womens Mandarin Orange Bergamot Grapefruit Orange Blossom Black Currant Raspberry Marshmallow Whipped Cream Musk Ambrette",
+      "createdAt": "2026-05-04T04:41:30.629Z"
+    },
+    {
+      "id": 109,
+      "fragranceSlug": "parfums-de-marly-palatine-109",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Palatine",
+      "originalFragranceSlug": "parfums-de-marly-palatine",
+      "mistifyProductName": "Pala‑Majesty",
+      "mistifyProductSlug": "pala-majesty",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pala-majesty",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Palatine",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear",
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes",
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-22-44PM-_1.png?v=1773460298",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Palatine Pala‑Majesty Floral Woody Musk womens Bergamot Mandarin Orange Pear Violet Petals Lavender Floral Notes Sandalwood Musk Patchouli Vanilla",
+      "createdAt": "2026-05-04T04:41:30.859Z"
+    },
+    {
+      "id": 106,
+      "fragranceSlug": "parfums-de-marly-pegasus-106",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Pegasus",
+      "originalFragranceSlug": "parfums-de-marly-pegasus",
+      "mistifyProductName": "Pegasi",
+      "mistifyProductSlug": "pegasi",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pegasi",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Pegasus",
+      "audience": "mens",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Heliotrope",
+        "Cumin",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Bitter Almond",
+        "Lavender",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Amber"
+      ],
+      "allNotes": [
+        "Heliotrope",
+        "Cumin",
+        "Bergamot",
+        "Bitter Almond",
+        "Lavender",
+        "Jasmine",
+        "Vanilla",
+        "Sandalwood",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-26-24PM-_1.png?v=1773460487",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Pegasus Pegasi Amber Fougere mens Heliotrope Cumin Bergamot Bitter Almond Lavender Jasmine Vanilla Sandalwood Amber",
+      "createdAt": "2026-05-04T04:41:30.688Z"
+    },
+    {
+      "id": 107,
+      "fragranceSlug": "parfums-de-marly-percival-107",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Percival",
+      "originalFragranceSlug": "parfums-de-marly-percival",
+      "mistifyProductName": "Perception",
+      "mistifyProductSlug": "perception",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/perception",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Percival",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Bergamot",
+        "Geranium"
+      ],
+      "middleNotes": [
+        "Hedione",
+        "Violet",
+        "Jasmine",
+        "Coriander",
+        "Cinnamon"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Amberwood",
+        "Musk",
+        "Balsam Fir",
+        "Clearwood"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Bergamot",
+        "Geranium",
+        "Hedione",
+        "Violet",
+        "Jasmine",
+        "Coriander",
+        "Cinnamon",
+        "Ambroxan",
+        "Amberwood",
+        "Musk",
+        "Balsam Fir",
+        "Clearwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-17-46PM-_1.png?v=1773460485",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Percival Perception Citrus Aromatic mens Lavender Mandarin Orange Bergamot Geranium Hedione Violet Jasmine Coriander Cinnamon Ambroxan Amberwood Musk Balsam Fir Clearwood",
+      "createdAt": "2026-05-04T04:41:30.742Z"
+    },
+    {
+      "id": 99,
+      "fragranceSlug": "parfums-de-marly-sedley-99",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Sedley",
+      "originalFragranceSlug": "parfums-de-marly-sedley",
+      "mistifyProductName": "Sédelle",
+      "mistifyProductSlug": "sedelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sedelle",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Sedley",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Mint",
+        "Bergamot",
+        "Grapefruit",
+        "Lemon",
+        "Mandarin Orange",
+        "Lavender",
+        "Rosemary",
+        "Geranium",
+        "Olibanum",
+        "Ambroxan",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar",
+        "Cashmeran",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar14_2026_08_56_24PM.png?v=1773536190",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Sedley Sédelle Woody Aromatic unisex Mint Bergamot Grapefruit Lemon Mandarin Orange Lavender Rosemary Geranium Olibanum Ambroxan Sandalwood Vetiver Cedar Cashmeran Patchouli",
+      "createdAt": "2026-05-04T04:41:30.270Z"
+    },
+    {
+      "id": 108,
+      "fragranceSlug": "parfums-de-marly-valaya-108",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Valaya",
+      "originalFragranceSlug": "parfums-de-marly-valaya",
+      "mistifyProductName": "Valeti",
+      "mistifyProductSlug": "valeti",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/valeti",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Valaya",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Peach",
+        "Petalia"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin",
+        "Orange Blossom",
+        "Peach",
+        "Petalia",
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-15AM-_1.png?v=1773460483",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valaya Valeti Floral Woody Musk womens Bergamot Grapefruit Mandarin Orange Blossom Peach Petalia Ambroxan White Musk Akigalawood",
+      "createdAt": "2026-05-04T04:41:30.796Z"
+    },
+    {
+      "id": 112,
+      "fragranceSlug": "parfums-de-marly-valero-112",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Valero",
+      "originalFragranceSlug": "parfums-de-marly-valero",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Valero",
+      "audience": null,
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Citron",
+        "Juniper"
+      ],
+      "middleNotes": [
+        "Geranium",
+        "Lavender",
+        "Cypress",
+        "Nutmeg"
+      ],
+      "baseNotes": [
+        "Ambrox Super",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Citron",
+        "Juniper",
+        "Geranium",
+        "Lavender",
+        "Cypress",
+        "Nutmeg",
+        "Ambrox Super",
+        "Patchouli",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valero Not verified Woody Aromatic Bergamot Citron Juniper Geranium Lavender Cypress Nutmeg Ambrox Super Patchouli Sandalwood",
+      "createdAt": "2026-05-04T04:41:31.034Z"
+    }
+  ]
+}

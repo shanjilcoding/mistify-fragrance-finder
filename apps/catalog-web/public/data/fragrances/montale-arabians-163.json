@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 163,
+    "fragranceSlug": "montale-arabians-163",
+    "brandName": "Montale",
+    "brandSlug": "montale",
+    "originalFragranceName": "Arabians",
+    "originalFragranceSlug": "montale-arabians",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Montale Arabians",
+    "audience": null,
+    "classification": "Oriental",
+    "topNotes": [
+      "Cardamom",
+      "Lavender",
+      "Red Thyme"
+    ],
+    "middleNotes": [
+      "Rose",
+      "Patchouli",
+      "Vetiver"
+    ],
+    "baseNotes": [
+      "Oud",
+      "Leather",
+      "Ambergris",
+      "Musk"
+    ],
+    "allNotes": [
+      "Cardamom",
+      "Lavender",
+      "Red Thyme",
+      "Rose",
+      "Patchouli",
+      "Vetiver",
+      "Oud",
+      "Leather",
+      "Ambergris",
+      "Musk"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Montale montale Montale Arabians Not verified Oriental Cardamom Lavender Red Thyme Rose Patchouli Vetiver Oud Leather Ambergris Musk",
+    "createdAt": "2026-05-04T04:41:34.009Z"
+  }
+}

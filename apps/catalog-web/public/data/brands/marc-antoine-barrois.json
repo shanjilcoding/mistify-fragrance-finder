@@ -1,0 +1,131 @@
+{
+  "brand": {
+    "brandName": "Marc-Antoine Barrois",
+    "brandSlug": "marc-antoine-barrois",
+    "fragranceCount": 3,
+    "searchableText": "Aldebaran Aldébaré Inspired by Marc-Antoine Barrois Aldebaran Marc-Antoine Barrois marc antoine barrois Marc-Antoine Barrois Aldebaran Aldébaré Floral Tuberose Paprika Mate Tonka Bean Ganymede Mineral Suede Inspired by Marc-Antoine Barrois Ganymede Marc-Antoine Barrois marc antoine barrois Marc-Antoine Barrois Ganymede Mineral Suede Woody Spicy Saffron Italian Mandarin Chinese Osmanthus Immortelle Violet Leaf Mineral Notes Suede Akigalawood Cedar Musk Patchouli Tilia Tiliane Inspired by Marc-Antoine Barrois Tilia Marc-Antoine Barrois marc antoine barrois Marc-Antoine Barrois Tilia Tiliane Floral Woody Musk Linden Blossom Jasmine Sambac Broom Orange Blossom Heliotrope Vetiver Ambrofix Georgywood"
+  },
+  "fragrances": [
+    {
+      "id": 299,
+      "fragranceSlug": "marc-antoine-barrois-aldebaran-299",
+      "brandName": "Marc-Antoine Barrois",
+      "brandSlug": "marc-antoine-barrois",
+      "originalFragranceName": "Aldebaran",
+      "originalFragranceSlug": "marc-antoine-barrois-aldebaran",
+      "mistifyProductName": "Aldébaré",
+      "mistifyProductSlug": "aldebare",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/aldebare",
+      "publicInspiredByLabel": "Inspired by Marc-Antoine Barrois Aldebaran",
+      "audience": null,
+      "classification": "Floral",
+      "topNotes": [
+        "Tuberose"
+      ],
+      "middleNotes": [
+        "Paprika",
+        "Mate"
+      ],
+      "baseNotes": [
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Tuberose",
+        "Paprika",
+        "Mate",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay14_2026_05_02_42PM.png?v=1778792569",
+      "searchableText": "Marc-Antoine Barrois marc antoine barrois Marc-Antoine Barrois Aldebaran Aldébaré Floral Tuberose Paprika Mate Tonka Bean",
+      "createdAt": "2026-05-04T04:41:42.184Z"
+    },
+    {
+      "id": 298,
+      "fragranceSlug": "marc-antoine-barrois-ganymede-298",
+      "brandName": "Marc-Antoine Barrois",
+      "brandSlug": "marc-antoine-barrois",
+      "originalFragranceName": "Ganymede",
+      "originalFragranceSlug": "marc-antoine-barrois-ganymede",
+      "mistifyProductName": "Mineral Suede",
+      "mistifyProductSlug": "mineral-suede",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mineral-suede",
+      "publicInspiredByLabel": "Inspired by Marc-Antoine Barrois Ganymede",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Italian Mandarin"
+      ],
+      "middleNotes": [
+        "Chinese Osmanthus",
+        "Immortelle",
+        "Violet Leaf"
+      ],
+      "baseNotes": [
+        "Mineral Notes",
+        "Suede",
+        "Akigalawood",
+        "Cedar",
+        "Musk",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Italian Mandarin",
+        "Chinese Osmanthus",
+        "Immortelle",
+        "Violet Leaf",
+        "Mineral Notes",
+        "Suede",
+        "Akigalawood",
+        "Cedar",
+        "Musk",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay20_2026_02_13_18PM.png?v=1779300809",
+      "searchableText": "Marc-Antoine Barrois marc antoine barrois Marc-Antoine Barrois Ganymede Mineral Suede Woody Spicy Saffron Italian Mandarin Chinese Osmanthus Immortelle Violet Leaf Mineral Notes Suede Akigalawood Cedar Musk Patchouli",
+      "createdAt": "2026-05-04T04:41:42.126Z"
+    },
+    {
+      "id": 300,
+      "fragranceSlug": "marc-antoine-barrois-tilia-300",
+      "brandName": "Marc-Antoine Barrois",
+      "brandSlug": "marc-antoine-barrois",
+      "originalFragranceName": "Tilia",
+      "originalFragranceSlug": "marc-antoine-barrois-tilia",
+      "mistifyProductName": "Tiliane",
+      "mistifyProductSlug": "tiliane",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/tiliane",
+      "publicInspiredByLabel": "Inspired by Marc-Antoine Barrois Tilia",
+      "audience": null,
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Linden Blossom",
+        "Jasmine Sambac",
+        "Broom"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Heliotrope",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Ambrofix",
+        "Georgywood"
+      ],
+      "allNotes": [
+        "Linden Blossom",
+        "Jasmine Sambac",
+        "Broom",
+        "Orange Blossom",
+        "Heliotrope",
+        "Vetiver",
+        "Ambrofix",
+        "Georgywood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay13_2026_04_03_46PM.png?v=1778702634",
+      "searchableText": "Marc-Antoine Barrois marc antoine barrois Marc-Antoine Barrois Tilia Tiliane Floral Woody Musk Linden Blossom Jasmine Sambac Broom Orange Blossom Heliotrope Vetiver Ambrofix Georgywood",
+      "createdAt": "2026-05-04T04:41:42.248Z"
+    }
+  ]
+}

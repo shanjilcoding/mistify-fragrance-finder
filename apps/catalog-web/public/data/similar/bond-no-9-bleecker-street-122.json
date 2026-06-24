@@ -1,0 +1,279 @@
+{
+  "fragrances": [
+    {
+      "id": 200,
+      "fragranceSlug": "xerjoff-accento-200",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Accento",
+      "originalFragranceSlug": "xerjoff-accento",
+      "mistifyProductName": "Accents",
+      "mistifyProductSlug": "accents",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/accents",
+      "publicInspiredByLabel": "Inspired by Xerjoff Accento",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pineapple",
+        "Hyacinth"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Iris",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Hyacinth",
+        "Jasmine",
+        "Iris",
+        "Pink Pepper",
+        "Musk",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_39_43AM.png?v=1765422939",
+      "searchableText": "Xerjoff xerjoff Xerjoff Accento Accents Floral Fruity unisex Pineapple Hyacinth Jasmine Iris Pink Pepper Musk Amber Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:36.220Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Amber",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 88,
+      "fragranceSlug": "tom-ford-tuscan-leather-88",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Tuscan Leather",
+      "originalFragranceSlug": "tom-ford-tuscan-leather",
+      "mistifyProductName": "Leather Tuscany",
+      "mistifyProductSlug": "leather-tuscany",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/leather-tuscany",
+      "publicInspiredByLabel": "Inspired by Tom Ford Tuscan Leather",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Olibanum",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Suede",
+        "Amber",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Thyme",
+        "Olibanum",
+        "Jasmine",
+        "Leather",
+        "Suede",
+        "Amber",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Tom Ford tom ford Tom Ford Tuscan Leather Leather Tuscany Leather unisex Raspberry Saffron Thyme Olibanum Jasmine Leather Suede Amber Woody Notes",
+      "createdAt": "2026-05-04T04:41:29.625Z",
+      "sharedNotes": [
+        "Thyme",
+        "Jasmine",
+        "Suede",
+        "Amber"
+      ]
+    },
+    {
+      "id": 10,
+      "fragranceSlug": "guerlain-extra-habit-rouge-prive-10",
+      "brandName": "Guerlain Extra",
+      "brandSlug": "guerlain-extra",
+      "originalFragranceName": "Habit Rouge Privé",
+      "originalFragranceSlug": "guerlain-extra-habit-rouge-prive",
+      "mistifyProductName": "Rogue Privé",
+      "mistifyProductSlug": "rogue-prive",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rogue-prive",
+      "publicInspiredByLabel": "Inspired by Guerlain Extra Habit Rouge Privé",
+      "audience": "mens",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Bergamot",
+        "Lime",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose",
+        "Cinnamon"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lime",
+        "Orange",
+        "Jasmine",
+        "Rose",
+        "Cinnamon",
+        "Leather",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-39-53PM-_1.png?v=1773460367",
+      "searchableText": "Guerlain Extra guerlain extra Guerlain extra Habit Rouge Privé Rogue Privé Oriental Woody mens Bergamot Lime Orange Jasmine Rose Cinnamon Leather Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:25.095Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Cinnamon",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 79,
+      "fragranceSlug": "tom-ford-lavender-extreme-79",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lavender Extreme",
+      "originalFragranceSlug": "tom-ford-lavender-extreme",
+      "mistifyProductName": "Lavender Extremism",
+      "mistifyProductSlug": "lavender-extremism",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lavender-extremism",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lavender Extreme",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LavenderExtremism.png?v=1765422873",
+      "searchableText": "Tom Ford tom ford Tom Ford Lavender Extreme Lavender Extremism Aromatic unisex Lavender Bergamot Cinnamon Tonka Bean Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:29.108Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 72,
+      "fragranceSlug": "kilian-straight-to-heaven-72",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Straight to Heaven",
+      "originalFragranceSlug": "kilian-straight-to-heaven",
+      "mistifyProductName": "Heaven’s Voyage",
+      "mistifyProductSlug": "heaven-s-voyage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/heavens-voyage",
+      "publicInspiredByLabel": "Inspired by Kilian Straight to Heaven",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Rum",
+        "Dried Fruits"
+      ],
+      "middleNotes": [
+        "Nutmeg",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Rum",
+        "Dried Fruits",
+        "Nutmeg",
+        "Cedarwood",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_04_02_12PM.png?v=1774382538",
+      "searchableText": "Kilian kilian By Kilian Straight to Heaven Heaven’s Voyage Woody Spicy unisex Rum Dried Fruits Nutmeg Cedarwood Patchouli Vanilla",
+      "createdAt": "2026-05-04T04:41:28.698Z",
+      "sharedNotes": [
+        "Cedarwood",
+        "Vanilla",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 5,
+      "fragranceSlug": "guerlain-tobacco-honey-5",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Tobacco Honey",
+      "originalFragranceSlug": "guerlain-tobacco-honey",
+      "mistifyProductName": "Honey Tobaccoe",
+      "mistifyProductSlug": "honey-tobaccoe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/honey-tobaccoe",
+      "publicInspiredByLabel": "Inspired by Guerlain Tobacco Honey",
+      "audience": "unisex",
+      "classification": "Oriental Gourmand",
+      "topNotes": [
+        "Honey",
+        "Plum"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Cinnamon"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Honey",
+        "Plum",
+        "Tobacco",
+        "Cinnamon",
+        "Patchouli",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-30-16PM-_1.png?v=1773460364",
+      "searchableText": "Guerlain guerlain Guerlain Tobacco Honey Honey Tobaccoe Oriental Gourmand unisex Honey Plum Tobacco Cinnamon Patchouli Amber Musk",
+      "createdAt": "2026-05-04T04:41:24.794Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Amber",
+        "Patchouli"
+      ]
+    }
+  ]
+}

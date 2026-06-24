@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 307,
+    "fragranceSlug": "emporio-armani-stronger-with-you-intensely-307",
+    "brandName": "Emporio Armani",
+    "brandSlug": "emporio-armani",
+    "originalFragranceName": "Stronger With You Intensely",
+    "originalFragranceSlug": "emporio-armani-stronger-with-you-intensely",
+    "mistifyProductName": "Intensément",
+    "mistifyProductSlug": "intensement",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/intensement",
+    "publicInspiredByLabel": "Emporio Armani Stronger With You Intensely",
+    "audience": null,
+    "classification": "Amber Gourmand / Sweet Spicy",
+    "topNotes": [
+      "Pink Pepper",
+      "Juniper",
+      "Violet"
+    ],
+    "middleNotes": [
+      "Toffee",
+      "Cinnamon",
+      "Lavender",
+      "Sage"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Amber",
+      "Tonka Bean",
+      "Suede"
+    ],
+    "allNotes": [
+      "Pink Pepper",
+      "Juniper",
+      "Violet",
+      "Toffee",
+      "Cinnamon",
+      "Lavender",
+      "Sage",
+      "Vanilla",
+      "Amber",
+      "Tonka Bean",
+      "Suede"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_01_46PM.png?v=1781712115",
+    "searchableText": "Emporio Armani Emporio Armani Stronger With You Intensely Intensément Amber Gourmand / Sweet Spicy Pink Pepper Juniper Violet Toffee Cinnamon Lavender Sage Vanilla Amber Tonka Bean Suede",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

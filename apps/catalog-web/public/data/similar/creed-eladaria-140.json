@@ -1,0 +1,284 @@
+{
+  "fragrances": [
+    {
+      "id": 270,
+      "fragranceSlug": "diptyque-do-son-270",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Do Son",
+      "originalFragranceSlug": "diptyque-do-son",
+      "mistifyProductName": "Do Sonara",
+      "mistifyProductSlug": "do-sonara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/do-sonara",
+      "publicInspiredByLabel": "Inspired by Diptyque Do Son",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "African Orange Flower",
+        "Iris",
+        "Rose"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "African Orange Flower",
+        "Iris",
+        "Rose",
+        "Tuberose",
+        "Pink Pepper",
+        "Musk",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-23-08PM-_1.png?v=1773460372",
+      "searchableText": "Diptyque diptyque Diptyque Do Son Do Sonara Floral womens African Orange Flower Iris Rose Tuberose Pink Pepper Musk Benzoin",
+      "createdAt": "2026-05-04T04:41:40.444Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Rose",
+        "Musk"
+      ]
+    },
+    {
+      "id": 127,
+      "fragranceSlug": "creed-carmina-127",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Carmina",
+      "originalFragranceSlug": "creed-carmina",
+      "mistifyProductName": "Karmina",
+      "mistifyProductSlug": "karmina",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/karmina",
+      "publicInspiredByLabel": "Inspired by Creed Carmina",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pink Pepper",
+        "Black Cherry",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "May Rose",
+        "Peony",
+        "Violet",
+        "Cashmere Wood"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambroxan",
+        "Frankincense",
+        "Myrrh"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Black Cherry",
+        "Saffron",
+        "May Rose",
+        "Peony",
+        "Violet",
+        "Cashmere Wood",
+        "Musk",
+        "Ambroxan",
+        "Frankincense",
+        "Myrrh"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_46_39PM.png?v=1765422844",
+      "searchableText": "Creed creed Creed Carmina Karmina Amber Floral womens Pink Pepper Black Cherry Saffron May Rose Peony Violet Cashmere Wood Musk Ambroxan Frankincense Myrrh",
+      "createdAt": "2026-05-04T04:41:31.917Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Peony",
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood"
+      ]
+    },
+    {
+      "id": 100,
+      "fragranceSlug": "parfums-de-marly-delina-exclusif-100",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Delina Exclusif",
+      "originalFragranceSlug": "parfums-de-marly-delina-exclusif",
+      "mistifyProductName": "Deline Exclusive",
+      "mistifyProductSlug": "deline-exclusive",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/deline-exclusive?variant=49907851395391",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Delina Exclusif",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "Litchi",
+        "Pear",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Oud",
+        "Incense"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Amber",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Litchi",
+        "Pear",
+        "Bergamot",
+        "Turkish Rose",
+        "Oud",
+        "Incense",
+        "Vanilla",
+        "Amber",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-01-29AM-_1.png?v=1773460500",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Delina Exclusif Deline Exclusive Floral womens Litchi Pear Bergamot Turkish Rose Oud Incense Vanilla Amber Woody Notes",
+      "createdAt": "2026-05-04T04:41:30.328Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 109,
+      "fragranceSlug": "parfums-de-marly-palatine-109",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Palatine",
+      "originalFragranceSlug": "parfums-de-marly-palatine",
+      "mistifyProductName": "Pala‑Majesty",
+      "mistifyProductSlug": "pala-majesty",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pala-majesty",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Palatine",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear",
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes",
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-22-44PM-_1.png?v=1773460298",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Palatine Pala‑Majesty Floral Woody Musk womens Bergamot Mandarin Orange Pear Violet Petals Lavender Floral Notes Sandalwood Musk Patchouli Vanilla",
+      "createdAt": "2026-05-04T04:41:30.859Z",
+      "sharedNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Musk",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 172,
+      "fragranceSlug": "montale-rose-elixir-172",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Rose Elixir",
+      "originalFragranceSlug": "montale-rose-elixir",
+      "mistifyProductName": "Rose Delight",
+      "mistifyProductSlug": "rose-delight",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-delight",
+      "publicInspiredByLabel": "Inspired by Montale Rose Elixir",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Strawberry",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Strawberry",
+        "Orange",
+        "Rose",
+        "Jasmine",
+        "Musk",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseDelight.png?v=1765422958",
+      "searchableText": "Montale montale Montale Rose Elixir Rose Delight Floral Fruity womens Strawberry Orange Rose Jasmine Musk Vanilla",
+      "createdAt": "2026-05-04T04:41:34.530Z",
+      "sharedNotes": [
+        "Rose",
+        "Musk",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 13,
+      "fragranceSlug": "maison-francis-kurkdjian-a-la-rose-13",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "A La Rose",
+      "originalFragranceSlug": "maison-francis-kurkdjian-a-la-rose",
+      "mistifyProductName": "Rose Veil",
+      "mistifyProductSlug": "rose-veil",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-veil",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian A La Rose",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "Bulgarian Damask Rose",
+        "Calabrian Bergamot",
+        "Orange"
+      ],
+      "middleNotes": [
+        "May Rose",
+        "Magnolia"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Cedarwood"
+      ],
+      "allNotes": [
+        "Bulgarian Damask Rose",
+        "Calabrian Bergamot",
+        "Orange",
+        "May Rose",
+        "Magnolia",
+        "Musk",
+        "Cedarwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-28-01PM-_1.png?v=1773460522",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian A La Rose Rose Veil Floral womens Bulgarian Damask Rose Calabrian Bergamot Orange May Rose Magnolia Musk Cedarwood",
+      "createdAt": "2026-05-04T04:41:25.261Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    }
+  ]
+}

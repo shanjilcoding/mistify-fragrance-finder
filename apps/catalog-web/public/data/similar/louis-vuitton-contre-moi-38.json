@@ -1,0 +1,304 @@
+{
+  "fragrances": [
+    {
+      "id": 126,
+      "fragranceSlug": "creed-aventus-for-her-126",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus for Her",
+      "originalFragranceSlug": "creed-aventus-for-her",
+      "mistifyProductName": "Ventis For Her",
+      "mistifyProductSlug": "ventis-for-her",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ventis-for-her",
+      "publicInspiredByLabel": "Inspired by Creed Aventus for Her",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Green Apple",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Blackcurrant",
+        "Musk"
+      ],
+      "allNotes": [
+        "Green Apple",
+        "Bergamot",
+        "Rose",
+        "Sandalwood",
+        "Blackcurrant",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Screenshot2025-12-03at3.54.35PM.png?v=1765422843",
+      "searchableText": "Creed creed Creed Aventus for Her Ventis For Her Floral Fruity womens Green Apple Bergamot Rose Sandalwood Blackcurrant Musk",
+      "createdAt": "2026-05-04T04:41:31.860Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Rose",
+        "Musk"
+      ]
+    },
+    {
+      "id": 105,
+      "fragranceSlug": "parfums-de-marly-oriana-105",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Oriana",
+      "originalFragranceSlug": "parfums-de-marly-oriana",
+      "mistifyProductName": "Oriental",
+      "mistifyProductSlug": "oriental",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oriental",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Oriana",
+      "audience": "womens",
+      "classification": "Floral Fruity Gourmand",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Black Currant",
+        "Raspberry"
+      ],
+      "baseNotes": [
+        "Marshmallow",
+        "Whipped Cream",
+        "Musk",
+        "Ambrette"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Grapefruit",
+        "Orange Blossom",
+        "Black Currant",
+        "Raspberry",
+        "Marshmallow",
+        "Whipped Cream",
+        "Musk",
+        "Ambrette"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_01_56AM.png?v=1774324934",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Oriana Oriental Floral Fruity Gourmand womens Mandarin Orange Bergamot Grapefruit Orange Blossom Black Currant Raspberry Marshmallow Whipped Cream Musk Ambrette",
+      "createdAt": "2026-05-04T04:41:30.629Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Ambrette",
+        "Musk"
+      ]
+    },
+    {
+      "id": 40,
+      "fragranceSlug": "louis-vuitton-sun-song-40",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Sun Song",
+      "originalFragranceSlug": "louis-vuitton-sun-song",
+      "mistifyProductName": "Solar Aura",
+      "mistifyProductSlug": "solar-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/solar-aura",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Sun Song",
+      "audience": "mens",
+      "classification": "Citrus Floral",
+      "topNotes": [
+        "Orange Blossom",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Bergamot"
+      ],
+      "baseNotes": [
+        "Musk"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Lemon",
+        "Bergamot",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-49-28PM-_1.png?v=1773460275",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Sun Song Solar Aura Citrus Floral mens Orange Blossom Lemon Bergamot Musk",
+      "createdAt": "2026-05-04T04:41:26.827Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Musk"
+      ]
+    },
+    {
+      "id": 313,
+      "fragranceSlug": "carolina-herrera-good-girl-313",
+      "brandName": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "originalFragranceName": "Good Girl",
+      "originalFragranceSlug": "carolina-herrera-good-girl",
+      "mistifyProductName": "Belle Noire",
+      "mistifyProductSlug": "belle-noire",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/belle-noire",
+      "publicInspiredByLabel": "Carolina Herrera Good Girl",
+      "audience": null,
+      "classification": "Gourmand Floral / Sweet Oriental",
+      "topNotes": [
+        "Almond",
+        "Coffee",
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Jasmine Sambac",
+        "Orange Blossom",
+        "Bulgarian Rose",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Cacao",
+        "Vanilla",
+        "Praline",
+        "Sandalwood",
+        "Musk",
+        "Amber",
+        "Cashmere Wood",
+        "Patchouli",
+        "Cinnamon",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Almond",
+        "Coffee",
+        "Bergamot",
+        "Lemon",
+        "Tuberose",
+        "Jasmine Sambac",
+        "Orange Blossom",
+        "Bulgarian Rose",
+        "Orris",
+        "Tonka Bean",
+        "Cacao",
+        "Vanilla",
+        "Praline",
+        "Sandalwood",
+        "Musk",
+        "Amber",
+        "Cashmere Wood",
+        "Patchouli",
+        "Cinnamon",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_36_33AM_27cd1d8f-5bee-43bd-9919-e465da23c44f.png?v=1781710613",
+      "searchableText": "Carolina Herrera Carolina Herrera Good Girl Belle Noire Gourmand Floral / Sweet Oriental Almond Coffee Bergamot Lemon Tuberose Jasmine Sambac Orange Blossom Bulgarian Rose Orris Tonka Bean Cacao Vanilla Praline Sandalwood Musk Amber Cashmere Wood Patchouli Cinnamon Cedar",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Almond",
+        "Cacao",
+        "Tonka Bean",
+        "Musk"
+      ]
+    },
+    {
+      "id": 336,
+      "fragranceSlug": "creed-centaurus-336",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Centaurus",
+      "originalFragranceSlug": "creed-centaurus",
+      "mistifyProductName": "Centaur",
+      "mistifyProductSlug": "centaur",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/centaur",
+      "publicInspiredByLabel": "Creed Centaurus",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Jasmine",
+        "Rose",
+        "Cedarwood",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_23_49AM.png?v=1774326237",
+      "searchableText": "Creed Creed Centaurus Centaur Woody Floral Musk Bergamot Lemon Jasmine Rose Cedarwood Amber Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Rose",
+        "Musk"
+      ]
+    },
+    {
+      "id": 140,
+      "fragranceSlug": "creed-eladaria-140",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Eladaria",
+      "originalFragranceSlug": "creed-eladaria",
+      "mistifyProductName": "Eladarié",
+      "mistifyProductSlug": "eladarie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eladarie",
+      "publicInspiredByLabel": "Inspired by Creed Eladaria",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "Pink Pepper",
+        "Mandarin Orange",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Powdery Notes",
+        "Peony",
+        "Lily-of-the-Valley"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Mandarin Orange",
+        "Bergamot",
+        "Rose",
+        "Powdery Notes",
+        "Peony",
+        "Lily-of-the-Valley",
+        "Musk",
+        "Ambroxan",
+        "Cashmere Wood",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay7_2026_04_17_24PM.png?v=1778185051",
+      "searchableText": "Creed creed Creed Eladaria Eladarié Floral womens Pink Pepper Mandarin Orange Bergamot Rose Powdery Notes Peony Lily-of-the-Valley Musk Ambroxan Cashmere Wood Vanilla",
+      "createdAt": "2026-05-04T04:41:32.651Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Rose",
+        "Musk"
+      ]
+    }
+  ]
+}

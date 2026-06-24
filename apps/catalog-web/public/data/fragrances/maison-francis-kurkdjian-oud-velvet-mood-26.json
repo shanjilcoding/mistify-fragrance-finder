@@ -1,0 +1,34 @@
+{
+  "fragrance": {
+    "id": 26,
+    "fragranceSlug": "maison-francis-kurkdjian-oud-velvet-mood-26",
+    "brandName": "Maison Francis Kurkdjian",
+    "brandSlug": "maison-francis-kurkdjian",
+    "originalFragranceName": "Oud Velvet Mood",
+    "originalFragranceSlug": "maison-francis-kurkdjian-oud-velvet-mood",
+    "mistifyProductName": "Velour Oud",
+    "mistifyProductSlug": "velour-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/velour-oud",
+    "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud Velvet Mood",
+    "audience": "unisex",
+    "classification": "Oud/Woody Leather",
+    "topNotes": [],
+    "middleNotes": [
+      "Oud",
+      "Cinnamon",
+      "Saffron"
+    ],
+    "baseNotes": [
+      "Copahu Balm"
+    ],
+    "allNotes": [
+      "Oud",
+      "Cinnamon",
+      "Saffron",
+      "Copahu Balm"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr24_2026_12_23_01PM.png?v=1777047799",
+    "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Velvet Mood Velour Oud Oud/Woody Leather unisex Oud Cinnamon Saffron Copahu Balm",
+    "createdAt": "2026-05-04T04:41:26.015Z"
+  }
+}

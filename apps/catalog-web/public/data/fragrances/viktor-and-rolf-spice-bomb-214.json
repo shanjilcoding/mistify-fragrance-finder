@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 214,
+    "fragranceSlug": "viktor-and-rolf-spice-bomb-214",
+    "brandName": "Viktor & Rolf",
+    "brandSlug": "viktor-and-rolf",
+    "originalFragranceName": "Spice Bomb",
+    "originalFragranceSlug": "viktor-and-rolf-spice-bomb",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Viktor & Rolf Spice Bomb",
+    "audience": null,
+    "classification": "Woody Spicy",
+    "topNotes": [
+      "Pink Pepper",
+      "Elemi",
+      "Bergamot",
+      "Grapefruit"
+    ],
+    "middleNotes": [
+      "Cinnamon",
+      "Paprika",
+      "Saffron"
+    ],
+    "baseNotes": [
+      "Tobacco",
+      "Leather",
+      "Vetiver"
+    ],
+    "allNotes": [
+      "Pink Pepper",
+      "Elemi",
+      "Bergamot",
+      "Grapefruit",
+      "Cinnamon",
+      "Paprika",
+      "Saffron",
+      "Tobacco",
+      "Leather",
+      "Vetiver"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Viktor & Rolf viktor and rolf Viktor & Rolf Spice Bomb Not verified Woody Spicy Pink Pepper Elemi Bergamot Grapefruit Cinnamon Paprika Saffron Tobacco Leather Vetiver",
+    "createdAt": "2026-05-04T04:41:37.047Z"
+  }
+}

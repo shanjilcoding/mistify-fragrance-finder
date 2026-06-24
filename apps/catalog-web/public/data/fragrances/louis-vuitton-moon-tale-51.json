@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 51,
+    "fragranceSlug": "louis-vuitton-moon-tale-51",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Moon Tale",
+    "originalFragranceSlug": "louis-vuitton-moon-tale",
+    "mistifyProductName": "Moon Story",
+    "mistifyProductSlug": "moon-story",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/moon-story",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Moon Tale",
+    "audience": "unisex",
+    "classification": "Floral Fruity/Soft Romantic",
+    "topNotes": [
+      "Peony",
+      "Magnolia"
+    ],
+    "middleNotes": [
+      "Jasmine Sambac",
+      "Rose Geranium"
+    ],
+    "baseNotes": [
+      "Raspberry"
+    ],
+    "allNotes": [
+      "Peony",
+      "Magnolia",
+      "Jasmine Sambac",
+      "Rose Geranium",
+      "Raspberry"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb3-2026-12-08-37PM-_1.png?v=1773460164",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Moon Tale Moon Story Floral Fruity/Soft Romantic unisex Peony Magnolia Jasmine Sambac Rose Geranium Raspberry",
+    "createdAt": "2026-05-04T04:41:27.474Z"
+  }
+}

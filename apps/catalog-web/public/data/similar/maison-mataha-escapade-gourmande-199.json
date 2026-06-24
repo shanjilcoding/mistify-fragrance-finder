@@ -1,0 +1,270 @@
+{
+  "fragrances": [
+    {
+      "id": 19,
+      "fragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold-19",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Gentle Fluidity Gold",
+      "originalFragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-gold",
+      "mistifyProductName": "Gently Fluid",
+      "mistifyProductSlug": "gently-fluid",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gently-fluid",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Gentle Fluidity Gold",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Juniper Berries",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Coriander",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Musk"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Coriander",
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_14_05AM.png?v=1765422980",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Gentle Fluidity Gold Gently Fluid Oriental Vanilla unisex Juniper Berries Nutmeg Coriander Vanilla Amber Musk",
+      "createdAt": "2026-05-04T04:41:25.599Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 133,
+      "fragranceSlug": "creed-sublime-vanille-133",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Sublime Vanille",
+      "originalFragranceSlug": "creed-sublime-vanille",
+      "mistifyProductName": "Superb Vanilla",
+      "mistifyProductSlug": "superb-vanilla",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/superb-vanilla",
+      "publicInspiredByLabel": "Inspired by Creed Sublime Vanille",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bourbon Vanilla",
+        "Lemon"
+      ],
+      "middleNotes": [],
+      "baseNotes": [
+        "Tonka Bean",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bourbon Vanilla",
+        "Lemon",
+        "Tonka Bean",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-35-41AM-_1.png?v=1773460548",
+      "searchableText": "Creed creed Creed Sublime Vanille Superb Vanilla Oriental Vanilla unisex Bourbon Vanilla Lemon Tonka Bean Musk",
+      "createdAt": "2026-05-04T04:41:32.256Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Musk"
+      ]
+    },
+    {
+      "id": 6,
+      "fragranceSlug": "guerlain-vanille-planifolia-extrait-21-6",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Vanille Planifolia Extrait 21",
+      "originalFragranceSlug": "guerlain-vanille-planifolia-extrait-21",
+      "mistifyProductName": "Not verified on Mistify",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Guerlain Vanille Planifolia Extrait 21",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [],
+      "middleNotes": [
+        "Vanilla",
+        "Spices",
+        "Amber",
+        "Opoponax",
+        "Musk"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Vanilla",
+        "Spices",
+        "Amber",
+        "Opoponax",
+        "Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Guerlain guerlain Guerlain Vanille Planifolia Extrait 21 Not verified on Mistify Oriental Vanilla Vanilla Spices Amber Opoponax Musk",
+      "createdAt": "2026-05-04T04:41:24.857Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 187,
+      "fragranceSlug": "sabrina-carpenter-caramel-dream-187",
+      "brandName": "Sabrina Carpenter",
+      "brandSlug": "sabrina-carpenter",
+      "originalFragranceName": "Caramel Dream",
+      "originalFragranceSlug": "sabrina-carpenter-caramel-dream",
+      "mistifyProductName": "Caramel Rêverie",
+      "mistifyProductSlug": "caramel-reverie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/caramel-reverie",
+      "publicInspiredByLabel": "Inspired by Sabrina Carpenter Caramel Dream",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar",
+        "Almond Milk",
+        "Orange",
+        "Freesia",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Vanilla",
+        "Orange Blossom",
+        "Orchid"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Sugar",
+        "Almond Milk",
+        "Orange",
+        "Freesia",
+        "Lemon",
+        "Dark Chocolate",
+        "Vanilla",
+        "Orange Blossom",
+        "Orchid",
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec29-2025-01-49-19PM-_1.png?v=1773460180",
+      "searchableText": "Sabrina Carpenter sabrina carpenter Sabrina Carpenter Caramel Dream Caramel Rêverie Oriental Vanilla unisex Sugar Almond Milk Orange Freesia Lemon Dark Chocolate Vanilla Orange Blossom Orchid Caramel Patchouli Sandalwood Musk Amber",
+      "createdAt": "2026-05-04T04:41:35.407Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 68,
+      "fragranceSlug": "kilian-rolling-in-love-68",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rolling in Love",
+      "originalFragranceSlug": "kilian-rolling-in-love",
+      "mistifyProductName": "Rolling in Hearts",
+      "mistifyProductSlug": "rolling-in-hearts",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rolling-in-hearts",
+      "publicInspiredByLabel": "Inspired by Kilian Rolling in Love",
+      "audience": "unisex",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Almond Milk",
+        "Ambrette"
+      ],
+      "middleNotes": [
+        "Freesia",
+        "Iris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Almond Milk",
+        "Ambrette",
+        "Freesia",
+        "Iris",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RollinginHearts.png?v=1765422919",
+      "searchableText": "Kilian kilian By Kilian Rolling in Love Rolling in Hearts Floral Oriental unisex Almond Milk Ambrette Freesia Iris Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:28.450Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Tonka Bean",
+        "Musk"
+      ]
+    },
+    {
+      "id": 56,
+      "fragranceSlug": "kilian-black-phantom-56",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Black Phantom",
+      "originalFragranceSlug": "kilian-black-phantom",
+      "mistifyProductName": "Dark Phantom",
+      "mistifyProductSlug": "dark-phantom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/dark-phantom",
+      "publicInspiredByLabel": "Inspired by Kilian Black Phantom",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Rum"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope",
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-42-32AM-_1.png?v=1773460532",
+      "searchableText": "Kilian kilian By Kilian Black Phantom Dark Phantom Oriental Vanilla unisex Rum Dark Chocolate Coffee Almond Heliotrope Caramel Sugar Cane Sandalwood Vanilla Tonka Vetiver",
+      "createdAt": "2026-05-04T04:41:27.757Z",
+      "sharedNotes": [
+        "Sugar Cane",
+        "Vanilla"
+      ]
+    }
+  ]
+}

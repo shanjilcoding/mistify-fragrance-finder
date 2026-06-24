@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 205,
+    "fragranceSlug": "xerjoff-torino-21-205",
+    "brandName": "Xerjoff",
+    "brandSlug": "xerjoff",
+    "originalFragranceName": "Torino 21",
+    "originalFragranceSlug": "xerjoff-torino-21",
+    "mistifyProductName": "Torino Verde",
+    "mistifyProductSlug": "torino-verde",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/vanilla-veil-copy",
+    "publicInspiredByLabel": "Inspired by Xerjoff Torino 21",
+    "audience": "unisex",
+    "classification": "Aromatic Green",
+    "topNotes": [
+      "Mint",
+      "Lemon",
+      "Basil",
+      "Thyme"
+    ],
+    "middleNotes": [
+      "Black Currant",
+      "Rosemary",
+      "Lavender",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Vervain"
+    ],
+    "allNotes": [
+      "Mint",
+      "Lemon",
+      "Basil",
+      "Thyme",
+      "Black Currant",
+      "Rosemary",
+      "Lavender",
+      "Jasmine",
+      "Musk",
+      "Vervain"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar3-2026-01-09-45PM-_1.png?v=1773460122",
+    "searchableText": "Xerjoff xerjoff Xerjoff Torino 21 Torino Verde Aromatic Green unisex Mint Lemon Basil Thyme Black Currant Rosemary Lavender Jasmine Musk Vervain",
+    "createdAt": "2026-05-04T04:41:36.517Z"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "fragrance": {
+    "id": 89,
+    "fragranceSlug": "tom-ford-vanille-fatale-89",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Vanille Fatale",
+    "originalFragranceSlug": "tom-ford-vanille-fatale",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Tom Ford Vanille Fatale",
+    "audience": null,
+    "classification": "Oriental Vanilla",
+    "topNotes": [
+      "Rum",
+      "Myrrh",
+      "Olibanum",
+      "Saffron",
+      "Coriander",
+      "Orange",
+      "Lime"
+    ],
+    "middleNotes": [
+      "Barley",
+      "Coffee",
+      "Plum",
+      "Frangipani",
+      "Narcissus",
+      "Artemisia",
+      "Rose"
+    ],
+    "baseNotes": [
+      "Madagascar Vanilla",
+      "Suede",
+      "Tobacco",
+      "Mahogany",
+      "Patchouli",
+      "Oakmoss",
+      "Violet"
+    ],
+    "allNotes": [
+      "Rum",
+      "Myrrh",
+      "Olibanum",
+      "Saffron",
+      "Coriander",
+      "Orange",
+      "Lime",
+      "Barley",
+      "Coffee",
+      "Plum",
+      "Frangipani",
+      "Narcissus",
+      "Artemisia",
+      "Rose",
+      "Madagascar Vanilla",
+      "Suede",
+      "Tobacco",
+      "Mahogany",
+      "Patchouli",
+      "Oakmoss",
+      "Violet"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Tom Ford tom ford Tom Ford Vanille Fatale Not verified Oriental Vanilla Rum Myrrh Olibanum Saffron Coriander Orange Lime Barley Coffee Plum Frangipani Narcissus Artemisia Rose Madagascar Vanilla Suede Tobacco Mahogany Patchouli Oakmoss Violet",
+    "createdAt": "2026-05-04T04:41:29.681Z"
+  }
+}

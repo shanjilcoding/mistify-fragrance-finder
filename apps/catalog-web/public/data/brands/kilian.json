@@ -1,0 +1,944 @@
+{
+  "brand": {
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "fragranceCount": 22,
+    "searchableText": "Amber Oud Amber Essence Inspired by Kilian Amber Oud Kilian kilian By Kilian Amber Oud Amber Essence Oriental Woody unisex Bay Leaf Cedar Amber Spices Vanilla Benzoin Oud Angels’ Share Angels’ Limit Inspired by Kilian Angels’ Share Kilian kilian By Kilian Angels’ Share Angels’ Limit Gourmand unisex Cognac Oak Cinnamon Tonka Bean Sandalwood Praline Vanilla Back to Black Back 2 Blacky Inspired by Kilian Back to Black Kilian kilian By Kilian Back to Black Back 2 Blacky Oriental unisex Honey Cherry Raspberry Tobacco Almond Vanilla Cedar Patchouli Amber Bamboo Harmony Harmony Bamboo Inspired by Kilian Bamboo Harmony Kilian kilian By Kilian Bamboo Harmony Harmony Bamboo Citrus Aromatic unisex Bergamot Neroli Bitter Orange Tea Bamboo Mate Mimosa Spices Fig Leaf Holly Oakmoss Black Phantom Dark Phantom Inspired by Kilian Black Phantom Kilian kilian By Kilian Black Phantom Dark Phantom Oriental Vanilla unisex Rum Dark Chocolate Coffee Almond Heliotrope Caramel Sugar Cane Sandalwood Vanilla Tonka Vetiver Blue Moon Ginger Dash Blue Mooned Dashing Ginger Inspired by Kilian Blue Moon Ginger Dash Kilian kilian By Kilian Blue Moon Ginger Dash Blue Mooned Dashing Ginger Fresh Citrus/Aromatic unisex Lemon Calone Mint Aldehydes Vodka Ginger Ambroxan White Musk Extreme Oud Not verified on Mistify Inspired by Kilian Extreme Oud Kilian kilian By Kilian Extreme Oud Not verified on Mistify Oriental Woody Agarwood/Oud Guaiac Wood Cypriol Saffron Copahu Balm Gold Knight Knight in Gold Inspired by Kilian Gold Knight Kilian kilian By Kilian Gold Knight Knight in Gold Amber/Sweet Spicy unisex Anise Bergamot Honey Vanilla Patchouli Gold Oudh Golden Oud Inspired by Kilian Gold Oudh Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk Good Girl Gone Bad Extreme Gone Rouge Inspired by Kilian Good Girl Gone Bad Extreme Kilian kilian By Kilian Good Girl Gone Bad Extreme Not verified on Mistify Floral Woody Musk Osmanthus Jasmine Rose de Mai Peach Cherry Tuberose Milk Narcissus Orange Blossom Amber White Cedar Extract Caramel Musk Incense Oudh Incensed Oud Inspired by Kilian Incense Oudh Kilian kilian By Kilian Incense Oudh Incensed Oud Oriental unisex Rose Cardamom Pink Pepper Geranium Patchouli Virginia Cedar Papyrus Incense Oud Sandalwood Oakmoss Musk Labdanum Intoxicated Not verified on Mistify Inspired by Kilian Intoxicated Kilian kilian By Kilian Intoxicated Not verified on Mistify Oriental Spicy Cardamom Coffee Bergamot Aldehydes Nutmeg Cinnamon Tobacco Ginger Geranium Caramel Mocha Vanilla Balsam Fir Patchouli Coumarin Sugar Marshmallow Light My Fire Light My Flame Inspired by Kilian Light My Fire Kilian kilian By Kilian Light My Fire Light My Flame Oriental Woody unisex Tobacco Hay Honey Patchouli Cumin Vanilla Vetiver Birch Almond Tonka Bean Heliotrope Love, Don’t Be Shy Love, I’m Not Shy Inspired by Kilian Love, Don’t Be Shy Kilian kilian By Kilian Love, Don’t Be Shy Love, I’m Not Shy Floral Gourmand unisex Neroli Bergamot Jasmine Honeysuckle Orange Blossom Vanilla Caramel Musk Musk Oud Oud Musk Inspired by Kilian Musk Oud Kilian kilian By Kilian Musk Oud Oud Musk Woody Floral Musk unisex Lemon Cardamom Coriander Bulgarian Rose Cypress Geranium Artemisia Oud Musk Rum Incense Patchouli Pearl Oud Oud Pearl Inspired by Kilian Pearl Oud Kilian kilian By Kilian Pearl Oud Oud Pearl Oriental Woody unisex Saffron Black Pepper Turkish Rose Rose Iris Ylang-Ylang Oud Castoreum Rolling in Love Rolling in Hearts Inspired by Kilian Rolling in Love Kilian kilian By Kilian Rolling in Love Rolling in Hearts Floral Oriental unisex Almond Milk Ambrette Freesia Iris Tonka Bean Vanilla Musk Rose Oud Rosy Oud Inspired by Kilian Rose Oud Kilian kilian By Kilian Rose Oud Rosy Oud Oriental Floral unisex Rose Saffron Oud Cedarwood Patchouli Musk Roses on Ice Not verified on Mistify Inspired by Kilian Roses on Ice Kilian kilian By Kilian Roses on Ice Not verified on Mistify Aromatic Cucumber Juniper Berries Lime Violet Leaf Pink Pepper Rose Ozonic Notes Musk Sandalwood Ambroxan Cedar Smoke for the Soul Soul Smoke Inspired by Kilian Smoke for the Soul Kilian kilian By Kilian Smoke for the Soul Soul Smoke Woody Aromatic unisex Grapefruit Eucalyptus Cardamom Cannabis Mate Tea Birch Tobacco Straight to Heaven Heaven’s Voyage Inspired by Kilian Straight to Heaven Kilian kilian By Kilian Straight to Heaven Heaven’s Voyage Woody Spicy unisex Rum Dried Fruits Nutmeg Cedarwood Patchouli Vanilla Sweet Redemption Sweetly Redeeming Inspired by Kilian Sweet Redemption Kilian kilian By Kilian Sweet Redemption Sweetly Redeeming Oriental Floral unisex African Orange Flower Vanilla Benzoin Opoponax Myrrh Incense"
+  },
+  "fragrances": [
+    {
+      "id": 52,
+      "fragranceSlug": "kilian-amber-oud-52",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Amber Oud",
+      "originalFragranceSlug": "kilian-amber-oud",
+      "mistifyProductName": "Amber Essence",
+      "mistifyProductSlug": "amber-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-essence",
+      "publicInspiredByLabel": "Inspired by Kilian Amber Oud",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Bay Leaf",
+        "Cedar"
+      ],
+      "middleNotes": [
+        "Amber",
+        "Spices"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Benzoin",
+        "Oud"
+      ],
+      "allNotes": [
+        "Bay Leaf",
+        "Cedar",
+        "Amber",
+        "Spices",
+        "Vanilla",
+        "Benzoin",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_10_42AM.png?v=1774325448",
+      "searchableText": "Kilian kilian By Kilian Amber Oud Amber Essence Oriental Woody unisex Bay Leaf Cedar Amber Spices Vanilla Benzoin Oud",
+      "createdAt": "2026-05-04T04:41:27.529Z"
+    },
+    {
+      "id": 53,
+      "fragranceSlug": "kilian-angels-share-53",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Angels’ Share",
+      "originalFragranceSlug": "kilian-angels-share",
+      "mistifyProductName": "Angels’ Limit",
+      "mistifyProductSlug": "angels-limit",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/angels-limit",
+      "publicInspiredByLabel": "Inspired by Kilian Angels’ Share",
+      "audience": "unisex",
+      "classification": "Gourmand",
+      "topNotes": [
+        "Cognac"
+      ],
+      "middleNotes": [
+        "Oak",
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Praline",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Cognac",
+        "Oak",
+        "Cinnamon",
+        "Tonka Bean",
+        "Sandalwood",
+        "Praline",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_27_43PM.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Angels’ Share Angels’ Limit Gourmand unisex Cognac Oak Cinnamon Tonka Bean Sandalwood Praline Vanilla",
+      "createdAt": "2026-05-04T04:41:27.592Z"
+    },
+    {
+      "id": 54,
+      "fragranceSlug": "kilian-back-to-black-54",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Back to Black",
+      "originalFragranceSlug": "kilian-back-to-black",
+      "mistifyProductName": "Back 2 Blacky",
+      "mistifyProductSlug": "back-2-blacky",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/back-2-black",
+      "publicInspiredByLabel": "Inspired by Kilian Back to Black",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Almond",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "allNotes": [
+        "Honey",
+        "Cherry",
+        "Raspberry",
+        "Tobacco",
+        "Almond",
+        "Vanilla",
+        "Cedar",
+        "Patchouli",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Back2Blacky.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Back to Black Back 2 Blacky Oriental unisex Honey Cherry Raspberry Tobacco Almond Vanilla Cedar Patchouli Amber",
+      "createdAt": "2026-05-04T04:41:27.650Z"
+    },
+    {
+      "id": 55,
+      "fragranceSlug": "kilian-bamboo-harmony-55",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Bamboo Harmony",
+      "originalFragranceSlug": "kilian-bamboo-harmony",
+      "mistifyProductName": "Harmony Bamboo",
+      "mistifyProductSlug": "harmony-bamboo",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/harmony-bamboo",
+      "publicInspiredByLabel": "Inspired by Kilian Bamboo Harmony",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Neroli",
+        "Bitter Orange"
+      ],
+      "middleNotes": [
+        "Tea",
+        "Bamboo",
+        "Mate",
+        "Mimosa",
+        "Spices"
+      ],
+      "baseNotes": [
+        "Fig Leaf",
+        "Holly",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Neroli",
+        "Bitter Orange",
+        "Tea",
+        "Bamboo",
+        "Mate",
+        "Mimosa",
+        "Spices",
+        "Fig Leaf",
+        "Holly",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/HarmonyBamboo.png?v=1765422902",
+      "searchableText": "Kilian kilian By Kilian Bamboo Harmony Harmony Bamboo Citrus Aromatic unisex Bergamot Neroli Bitter Orange Tea Bamboo Mate Mimosa Spices Fig Leaf Holly Oakmoss",
+      "createdAt": "2026-05-04T04:41:27.703Z"
+    },
+    {
+      "id": 56,
+      "fragranceSlug": "kilian-black-phantom-56",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Black Phantom",
+      "originalFragranceSlug": "kilian-black-phantom",
+      "mistifyProductName": "Dark Phantom",
+      "mistifyProductSlug": "dark-phantom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/dark-phantom",
+      "publicInspiredByLabel": "Inspired by Kilian Black Phantom",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Rum"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Dark Chocolate",
+        "Coffee",
+        "Almond",
+        "Heliotrope",
+        "Caramel",
+        "Sugar Cane",
+        "Sandalwood",
+        "Vanilla",
+        "Tonka",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-42-32AM-_1.png?v=1773460532",
+      "searchableText": "Kilian kilian By Kilian Black Phantom Dark Phantom Oriental Vanilla unisex Rum Dark Chocolate Coffee Almond Heliotrope Caramel Sugar Cane Sandalwood Vanilla Tonka Vetiver",
+      "createdAt": "2026-05-04T04:41:27.757Z"
+    },
+    {
+      "id": 57,
+      "fragranceSlug": "kilian-blue-moon-ginger-dash-57",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Blue Moon Ginger Dash",
+      "originalFragranceSlug": "kilian-blue-moon-ginger-dash",
+      "mistifyProductName": "Blue Mooned Dashing Ginger",
+      "mistifyProductSlug": "blue-mooned-dashing-ginger",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/blue-mooned-dashing-ginger",
+      "publicInspiredByLabel": "Inspired by Kilian Blue Moon Ginger Dash",
+      "audience": "unisex",
+      "classification": "Fresh Citrus/Aromatic",
+      "topNotes": [
+        "Lemon",
+        "Calone",
+        "Mint",
+        "Aldehydes"
+      ],
+      "middleNotes": [
+        "Vodka",
+        "Ginger"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Lemon",
+        "Calone",
+        "Mint",
+        "Aldehydes",
+        "Vodka",
+        "Ginger",
+        "Ambroxan",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_04_04_03PM.png?v=1774382652",
+      "searchableText": "Kilian kilian By Kilian Blue Moon Ginger Dash Blue Mooned Dashing Ginger Fresh Citrus/Aromatic unisex Lemon Calone Mint Aldehydes Vodka Ginger Ambroxan White Musk",
+      "createdAt": "2026-05-04T04:41:27.820Z"
+    },
+    {
+      "id": 60,
+      "fragranceSlug": "kilian-extreme-oud-60",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Extreme Oud",
+      "originalFragranceSlug": "kilian-extreme-oud",
+      "mistifyProductName": "Not verified on Mistify",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Kilian Extreme Oud",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [],
+      "middleNotes": [
+        "Agarwood/Oud",
+        "Guaiac Wood",
+        "Cypriol",
+        "Saffron",
+        "Copahu Balm"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Agarwood/Oud",
+        "Guaiac Wood",
+        "Cypriol",
+        "Saffron",
+        "Copahu Balm"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Kilian kilian By Kilian Extreme Oud Not verified on Mistify Oriental Woody Agarwood/Oud Guaiac Wood Cypriol Saffron Copahu Balm",
+      "createdAt": "2026-05-04T04:41:27.988Z"
+    },
+    {
+      "id": 58,
+      "fragranceSlug": "kilian-gold-knight-58",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Knight",
+      "originalFragranceSlug": "kilian-gold-knight",
+      "mistifyProductName": "Knight in Gold",
+      "mistifyProductSlug": "knight-in-gold",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/knight-in-gold",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Knight",
+      "audience": "unisex",
+      "classification": "Amber/Sweet Spicy",
+      "topNotes": [
+        "Anise",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Honey",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Anise",
+        "Bergamot",
+        "Honey",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_39_10AM.png?v=1774327156",
+      "searchableText": "Kilian kilian By Kilian Gold Knight Knight in Gold Amber/Sweet Spicy unisex Anise Bergamot Honey Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:27.879Z"
+    },
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z"
+    },
+    {
+      "id": 61,
+      "fragranceSlug": "kilian-good-girl-gone-bad-extreme-61",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Good Girl Gone Bad Extreme",
+      "originalFragranceSlug": "kilian-good-girl-gone-bad-extreme",
+      "mistifyProductName": "Gone Rouge",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gone-rouge?variant=53362062131519",
+      "publicInspiredByLabel": "Inspired by Kilian Good Girl Gone Bad Extreme",
+      "audience": null,
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Osmanthus",
+        "Jasmine",
+        "Rose de Mai",
+        "Peach",
+        "Cherry"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Milk",
+        "Narcissus",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Cedar Extract",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Jasmine",
+        "Rose de Mai",
+        "Peach",
+        "Cherry",
+        "Tuberose",
+        "Milk",
+        "Narcissus",
+        "Orange Blossom",
+        "Amber",
+        "White Cedar Extract",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay29_2026_02_31_49PM.png?v=1780079516",
+      "searchableText": "Kilian kilian By Kilian Good Girl Gone Bad Extreme Not verified on Mistify Floral Woody Musk Osmanthus Jasmine Rose de Mai Peach Cherry Tuberose Milk Narcissus Orange Blossom Amber White Cedar Extract Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.046Z"
+    },
+    {
+      "id": 62,
+      "fragranceSlug": "kilian-incense-oudh-62",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Incense Oudh",
+      "originalFragranceSlug": "kilian-incense-oudh",
+      "mistifyProductName": "Incensed Oud",
+      "mistifyProductSlug": "incensed-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/incensed-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Incense Oudh",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rose",
+        "Cardamom",
+        "Pink Pepper",
+        "Geranium"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Virginia Cedar",
+        "Papyrus"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Oud",
+        "Sandalwood",
+        "Oakmoss",
+        "Musk",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Rose",
+        "Cardamom",
+        "Pink Pepper",
+        "Geranium",
+        "Patchouli",
+        "Virginia Cedar",
+        "Papyrus",
+        "Incense",
+        "Oud",
+        "Sandalwood",
+        "Oakmoss",
+        "Musk",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/IncensedOud_dc3a368e-6d94-4f0b-b238-a8e8a4644ae1.png?v=1765422910",
+      "searchableText": "Kilian kilian By Kilian Incense Oudh Incensed Oud Oriental unisex Rose Cardamom Pink Pepper Geranium Patchouli Virginia Cedar Papyrus Incense Oud Sandalwood Oakmoss Musk Labdanum",
+      "createdAt": "2026-05-04T04:41:28.103Z"
+    },
+    {
+      "id": 63,
+      "fragranceSlug": "kilian-intoxicated-63",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Intoxicated",
+      "originalFragranceSlug": "kilian-intoxicated",
+      "mistifyProductName": "Not verified on Mistify",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Kilian Intoxicated",
+      "audience": null,
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Cardamom",
+        "Coffee",
+        "Bergamot",
+        "Aldehydes"
+      ],
+      "middleNotes": [
+        "Nutmeg",
+        "Cinnamon",
+        "Tobacco",
+        "Ginger",
+        "Geranium"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Mocha",
+        "Vanilla",
+        "Balsam Fir",
+        "Patchouli",
+        "Coumarin",
+        "Sugar",
+        "Marshmallow"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Coffee",
+        "Bergamot",
+        "Aldehydes",
+        "Nutmeg",
+        "Cinnamon",
+        "Tobacco",
+        "Ginger",
+        "Geranium",
+        "Caramel",
+        "Mocha",
+        "Vanilla",
+        "Balsam Fir",
+        "Patchouli",
+        "Coumarin",
+        "Sugar",
+        "Marshmallow"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Kilian kilian By Kilian Intoxicated Not verified on Mistify Oriental Spicy Cardamom Coffee Bergamot Aldehydes Nutmeg Cinnamon Tobacco Ginger Geranium Caramel Mocha Vanilla Balsam Fir Patchouli Coumarin Sugar Marshmallow",
+      "createdAt": "2026-05-04T04:41:28.158Z"
+    },
+    {
+      "id": 64,
+      "fragranceSlug": "kilian-light-my-fire-64",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Light My Fire",
+      "originalFragranceSlug": "kilian-light-my-fire",
+      "mistifyProductName": "Light My Flame",
+      "mistifyProductSlug": "light-my-flame",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/light-my-flame",
+      "publicInspiredByLabel": "Inspired by Kilian Light My Fire",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [],
+      "middleNotes": [
+        "Tobacco",
+        "Hay",
+        "Honey",
+        "Patchouli",
+        "Cumin",
+        "Vanilla",
+        "Vetiver",
+        "Birch",
+        "Almond",
+        "Tonka Bean",
+        "Heliotrope"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Tobacco",
+        "Hay",
+        "Honey",
+        "Patchouli",
+        "Cumin",
+        "Vanilla",
+        "Vetiver",
+        "Birch",
+        "Almond",
+        "Tonka Bean",
+        "Heliotrope"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LightMyFlame.png?v=1765422911",
+      "searchableText": "Kilian kilian By Kilian Light My Fire Light My Flame Oriental Woody unisex Tobacco Hay Honey Patchouli Cumin Vanilla Vetiver Birch Almond Tonka Bean Heliotrope",
+      "createdAt": "2026-05-04T04:41:28.216Z"
+    },
+    {
+      "id": 65,
+      "fragranceSlug": "kilian-love-don-t-be-shy-65",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Love, Don’t Be Shy",
+      "originalFragranceSlug": "kilian-love-don-t-be-shy",
+      "mistifyProductName": "Love, I’m Not Shy",
+      "mistifyProductSlug": "love-i-m-not-shy",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/love-im-not-shy",
+      "publicInspiredByLabel": "Inspired by Kilian Love, Don’t Be Shy",
+      "audience": "unisex",
+      "classification": "Floral Gourmand",
+      "topNotes": [
+        "Neroli",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Bergamot",
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom",
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-33-02PM-_1.png?v=1773460529",
+      "searchableText": "Kilian kilian By Kilian Love, Don’t Be Shy Love, I’m Not Shy Floral Gourmand unisex Neroli Bergamot Jasmine Honeysuckle Orange Blossom Vanilla Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.274Z"
+    },
+    {
+      "id": 66,
+      "fragranceSlug": "kilian-musk-oud-66",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Musk Oud",
+      "originalFragranceSlug": "kilian-musk-oud",
+      "mistifyProductName": "Oud Musk",
+      "mistifyProductSlug": "oud-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-musk",
+      "publicInspiredByLabel": "Inspired by Kilian Musk Oud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Lemon",
+        "Cardamom",
+        "Coriander"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Cypress",
+        "Geranium",
+        "Artemisia"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Musk",
+        "Rum",
+        "Incense",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lemon",
+        "Cardamom",
+        "Coriander",
+        "Bulgarian Rose",
+        "Cypress",
+        "Geranium",
+        "Artemisia",
+        "Oud",
+        "Musk",
+        "Rum",
+        "Incense",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudMusk.png?v=1765422915",
+      "searchableText": "Kilian kilian By Kilian Musk Oud Oud Musk Woody Floral Musk unisex Lemon Cardamom Coriander Bulgarian Rose Cypress Geranium Artemisia Oud Musk Rum Incense Patchouli",
+      "createdAt": "2026-05-04T04:41:28.331Z"
+    },
+    {
+      "id": 67,
+      "fragranceSlug": "kilian-pearl-oud-67",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Pearl Oud",
+      "originalFragranceSlug": "kilian-pearl-oud",
+      "mistifyProductName": "Oud Pearl",
+      "mistifyProductSlug": "oud-pearl",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-pearl",
+      "publicInspiredByLabel": "Inspired by Kilian Pearl Oud",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Saffron",
+        "Black Pepper"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Rose",
+        "Iris",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Castoreum"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Black Pepper",
+        "Turkish Rose",
+        "Rose",
+        "Iris",
+        "Ylang-Ylang",
+        "Oud",
+        "Castoreum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudPearl.png?v=1765422917",
+      "searchableText": "Kilian kilian By Kilian Pearl Oud Oud Pearl Oriental Woody unisex Saffron Black Pepper Turkish Rose Rose Iris Ylang-Ylang Oud Castoreum",
+      "createdAt": "2026-05-04T04:41:28.392Z"
+    },
+    {
+      "id": 68,
+      "fragranceSlug": "kilian-rolling-in-love-68",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rolling in Love",
+      "originalFragranceSlug": "kilian-rolling-in-love",
+      "mistifyProductName": "Rolling in Hearts",
+      "mistifyProductSlug": "rolling-in-hearts",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rolling-in-hearts",
+      "publicInspiredByLabel": "Inspired by Kilian Rolling in Love",
+      "audience": "unisex",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Almond Milk",
+        "Ambrette"
+      ],
+      "middleNotes": [
+        "Freesia",
+        "Iris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Almond Milk",
+        "Ambrette",
+        "Freesia",
+        "Iris",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RollinginHearts.png?v=1765422919",
+      "searchableText": "Kilian kilian By Kilian Rolling in Love Rolling in Hearts Floral Oriental unisex Almond Milk Ambrette Freesia Iris Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:28.450Z"
+    },
+    {
+      "id": 69,
+      "fragranceSlug": "kilian-rose-oud-69",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rose Oud",
+      "originalFragranceSlug": "kilian-rose-oud",
+      "mistifyProductName": "Rosy Oud",
+      "mistifyProductSlug": "rosy-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rosy-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Rose Oud",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Rose",
+        "Saffron",
+        "Oud",
+        "Cedarwood",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RosyOud_9a080a3b-9ff3-481e-8ecc-190466f11560.png?v=1765422921",
+      "searchableText": "Kilian kilian By Kilian Rose Oud Rosy Oud Oriental Floral unisex Rose Saffron Oud Cedarwood Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:28.526Z"
+    },
+    {
+      "id": 70,
+      "fragranceSlug": "kilian-roses-on-ice-70",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Roses on Ice",
+      "originalFragranceSlug": "kilian-roses-on-ice",
+      "mistifyProductName": "Not verified on Mistify",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Kilian Roses on Ice",
+      "audience": null,
+      "classification": "Aromatic",
+      "topNotes": [
+        "Cucumber",
+        "Juniper Berries",
+        "Lime",
+        "Violet Leaf",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Ozonic Notes"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood",
+        "Ambroxan",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Cucumber",
+        "Juniper Berries",
+        "Lime",
+        "Violet Leaf",
+        "Pink Pepper",
+        "Rose",
+        "Ozonic Notes",
+        "Musk",
+        "Sandalwood",
+        "Ambroxan",
+        "Cedar"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Kilian kilian By Kilian Roses on Ice Not verified on Mistify Aromatic Cucumber Juniper Berries Lime Violet Leaf Pink Pepper Rose Ozonic Notes Musk Sandalwood Ambroxan Cedar",
+      "createdAt": "2026-05-04T04:41:28.584Z"
+    },
+    {
+      "id": 71,
+      "fragranceSlug": "kilian-smoke-for-the-soul-71",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Smoke for the Soul",
+      "originalFragranceSlug": "kilian-smoke-for-the-soul",
+      "mistifyProductName": "Soul Smoke",
+      "mistifyProductSlug": "soul-smoke",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/soul-smoke",
+      "publicInspiredByLabel": "Inspired by Kilian Smoke for the Soul",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Eucalyptus",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Cannabis",
+        "Mate Tea"
+      ],
+      "baseNotes": [
+        "Birch",
+        "Tobacco"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Eucalyptus",
+        "Cardamom",
+        "Cannabis",
+        "Mate Tea",
+        "Birch",
+        "Tobacco"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_04_00_07PM.png?v=1774382423",
+      "searchableText": "Kilian kilian By Kilian Smoke for the Soul Soul Smoke Woody Aromatic unisex Grapefruit Eucalyptus Cardamom Cannabis Mate Tea Birch Tobacco",
+      "createdAt": "2026-05-04T04:41:28.640Z"
+    },
+    {
+      "id": 72,
+      "fragranceSlug": "kilian-straight-to-heaven-72",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Straight to Heaven",
+      "originalFragranceSlug": "kilian-straight-to-heaven",
+      "mistifyProductName": "Heaven’s Voyage",
+      "mistifyProductSlug": "heaven-s-voyage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/heavens-voyage",
+      "publicInspiredByLabel": "Inspired by Kilian Straight to Heaven",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Rum",
+        "Dried Fruits"
+      ],
+      "middleNotes": [
+        "Nutmeg",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Rum",
+        "Dried Fruits",
+        "Nutmeg",
+        "Cedarwood",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_04_02_12PM.png?v=1774382538",
+      "searchableText": "Kilian kilian By Kilian Straight to Heaven Heaven’s Voyage Woody Spicy unisex Rum Dried Fruits Nutmeg Cedarwood Patchouli Vanilla",
+      "createdAt": "2026-05-04T04:41:28.698Z"
+    },
+    {
+      "id": 73,
+      "fragranceSlug": "kilian-sweet-redemption-73",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Sweet Redemption",
+      "originalFragranceSlug": "kilian-sweet-redemption",
+      "mistifyProductName": "Sweetly Redeeming",
+      "mistifyProductSlug": "sweetly-redeeming",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sweetly-redeeming",
+      "publicInspiredByLabel": "Inspired by Kilian Sweet Redemption",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [],
+      "middleNotes": [
+        "African Orange Flower",
+        "Vanilla",
+        "Benzoin",
+        "Opoponax",
+        "Myrrh",
+        "Incense"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "African Orange Flower",
+        "Vanilla",
+        "Benzoin",
+        "Opoponax",
+        "Myrrh",
+        "Incense"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/SweetlyRedeeming_ffcf336a-a710-4599-9e35-201eb0e1b9e6.png?v=1765422927",
+      "searchableText": "Kilian kilian By Kilian Sweet Redemption Sweetly Redeeming Oriental Floral unisex African Orange Flower Vanilla Benzoin Opoponax Myrrh Incense",
+      "createdAt": "2026-05-04T04:41:28.756Z"
+    }
+  ]
+}

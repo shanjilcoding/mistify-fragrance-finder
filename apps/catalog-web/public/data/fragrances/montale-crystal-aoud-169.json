@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 169,
+    "fragranceSlug": "montale-crystal-aoud-169",
+    "brandName": "Montale",
+    "brandSlug": "montale",
+    "originalFragranceName": "Crystal Aoud",
+    "originalFragranceSlug": "montale-crystal-aoud",
+    "mistifyProductName": "Crystal Oud",
+    "mistifyProductSlug": "crystal-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/crystal-oud",
+    "publicInspiredByLabel": "Inspired by Montale Crystal Aoud",
+    "audience": "unisex",
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Melon",
+      "Green Apple",
+      "Mandarin Orange"
+    ],
+    "middleNotes": [
+      "Oud",
+      "Teak Wood",
+      "Patchouli",
+      "Sandalwood"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Saffron",
+      "White Musk"
+    ],
+    "allNotes": [
+      "Melon",
+      "Green Apple",
+      "Mandarin Orange",
+      "Oud",
+      "Teak Wood",
+      "Patchouli",
+      "Sandalwood",
+      "Vanilla",
+      "Saffron",
+      "White Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CrystalOud.png?v=1765422954",
+    "searchableText": "Montale montale Montale Crystal Aoud Crystal Oud Woody Aromatic unisex Melon Green Apple Mandarin Orange Oud Teak Wood Patchouli Sandalwood Vanilla Saffron White Musk",
+    "createdAt": "2026-05-04T04:41:34.342Z"
+  }
+}

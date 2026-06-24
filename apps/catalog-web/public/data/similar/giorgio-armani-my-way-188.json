@@ -1,0 +1,288 @@
+{
+  "fragrances": [
+    {
+      "id": 180,
+      "fragranceSlug": "mancera-wild-python-180",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Wild Python",
+      "originalFragranceSlug": "mancera-wild-python",
+      "mistifyProductName": "Wild Venom",
+      "mistifyProductSlug": "wild-venom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/wild-venom",
+      "publicInspiredByLabel": "Inspired by Mancera Wild Python",
+      "audience": "unisex",
+      "classification": "Chypre Floral",
+      "topNotes": [
+        "Indian Tuberose",
+        "Osmanthus",
+        "Peach",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Patchouli Leaf"
+      ],
+      "baseNotes": [
+        "White Musk",
+        "Vanilla Pod"
+      ],
+      "allNotes": [
+        "Indian Tuberose",
+        "Osmanthus",
+        "Peach",
+        "Bergamot",
+        "Jasmine",
+        "Orange Blossom",
+        "Patchouli Leaf",
+        "White Musk",
+        "Vanilla Pod"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/WildVenom.png?v=1765423004",
+      "searchableText": "Mancera mancera Mancera Wild Python Wild Venom Chypre Floral unisex Indian Tuberose Osmanthus Peach Bergamot Jasmine Orange Blossom Patchouli Leaf White Musk Vanilla Pod",
+      "createdAt": "2026-05-04T04:41:34.994Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 202,
+      "fragranceSlug": "xerjoff-erba-pura-202",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Erba Pura",
+      "originalFragranceSlug": "xerjoff-erba-pura",
+      "mistifyProductName": "Herb Pura",
+      "mistifyProductSlug": "herb-pura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/herb-pura",
+      "publicInspiredByLabel": "Inspired by Xerjoff Erba Pura",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Sicilian Orange",
+        "Calabrian Bergamot",
+        "Sicilian Lemon"
+      ],
+      "middleNotes": [
+        "Fruits"
+      ],
+      "baseNotes": [
+        "White Musk",
+        "Madagascar Vanilla",
+        "Amber"
+      ],
+      "allNotes": [
+        "Sicilian Orange",
+        "Calabrian Bergamot",
+        "Sicilian Lemon",
+        "Fruits",
+        "White Musk",
+        "Madagascar Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-47-48AM-_1.png?v=1773460527",
+      "searchableText": "Xerjoff xerjoff Xerjoff Erba Pura Herb Pura Oriental unisex Sicilian Orange Calabrian Bergamot Sicilian Lemon Fruits White Musk Madagascar Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:36.343Z",
+      "sharedNotes": [
+        "Madagascar Vanilla",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 12,
+      "fragranceSlug": "maison-francis-kurkdjian-a-p-o-m-12",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "A.P.O.M",
+      "originalFragranceSlug": "maison-francis-kurkdjian-a-p-o-m",
+      "mistifyProductName": "A Part of Aura",
+      "mistifyProductSlug": "a-part-of-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/a-part-of-aura",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian A.P.O.M",
+      "audience": "unisex",
+      "classification": "Amber Floral Fougere",
+      "topNotes": [
+        "Sweet Florals",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "allNotes": [
+        "Sweet Florals",
+        "Orange Blossom",
+        "Lavender",
+        "Ylang-Ylang",
+        "Orange Blossom",
+        "Vanilla",
+        "White Musk",
+        "Light Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-08-30AM-_1.png?v=1773460306",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian A.P.O.M A Part of Aura Amber Floral Fougere unisex Sweet Florals Orange Blossom Lavender Ylang-Ylang Orange Blossom Vanilla White Musk Light Amber",
+      "createdAt": "2026-05-04T04:41:25.206Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 38,
+      "fragranceSlug": "louis-vuitton-contre-moi-38",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Contre Moi",
+      "originalFragranceSlug": "louis-vuitton-contre-moi",
+      "mistifyProductName": "Contre Moiême",
+      "mistifyProductSlug": "contre-moieme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/contre-moieme",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Contre Moi",
+      "audience": "womens",
+      "classification": "Floral Vanilla",
+      "topNotes": [
+        "Orange Blossom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Vanilla Orchid",
+        "Rose",
+        "Magnolia",
+        "Almond"
+      ],
+      "baseNotes": [
+        "Tahitian Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Ambrette",
+        "Musk"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Vanilla Orchid",
+        "Rose",
+        "Magnolia",
+        "Almond",
+        "Tahitian Vanilla",
+        "Cacao",
+        "Tonka Bean",
+        "Ambrette",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-45-42PM-_1.png?v=1773460269",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Contre Moi Contre Moiême Floral Vanilla womens Orange Blossom Bergamot Vanilla Orchid Rose Magnolia Almond Tahitian Vanilla Cacao Tonka Bean Ambrette Musk",
+      "createdAt": "2026-05-04T04:41:26.708Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Bergamot"
+      ]
+    },
+    {
+      "id": 108,
+      "fragranceSlug": "parfums-de-marly-valaya-108",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Valaya",
+      "originalFragranceSlug": "parfums-de-marly-valaya",
+      "mistifyProductName": "Valeti",
+      "mistifyProductSlug": "valeti",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/valeti",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Valaya",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Peach",
+        "Petalia"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin",
+        "Orange Blossom",
+        "Peach",
+        "Petalia",
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-15AM-_1.png?v=1773460483",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valaya Valeti Floral Woody Musk womens Bergamot Grapefruit Mandarin Orange Blossom Peach Petalia Ambroxan White Musk Akigalawood",
+      "createdAt": "2026-05-04T04:41:30.796Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 97,
+      "fragranceSlug": "parfums-de-marly-althair-97",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Althair",
+      "originalFragranceSlug": "parfums-de-marly-althair",
+      "mistifyProductName": "Altair",
+      "mistifyProductSlug": "altair",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/altair",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Althair",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Cinnamon",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Bourbon Vanilla",
+        "Elemi"
+      ],
+      "baseNotes": [
+        "Praline",
+        "Musk",
+        "Ambroxan",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Cinnamon",
+        "Cardamom",
+        "Bourbon Vanilla",
+        "Elemi",
+        "Praline",
+        "Musk",
+        "Ambroxan",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-10-18PM-_1.png?v=1773460503",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Althair Altair Oriental Vanilla unisex Orange Blossom Bergamot Cinnamon Cardamom Bourbon Vanilla Elemi Praline Musk Ambroxan Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:30.144Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Bergamot"
+      ]
+    }
+  ]
+}

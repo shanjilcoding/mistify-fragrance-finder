@@ -1,0 +1,57 @@
+{
+  "fragrance": {
+    "id": 280,
+    "fragranceSlug": "amouage-memoir-280",
+    "brandName": "Amouage",
+    "brandSlug": "amouage",
+    "originalFragranceName": "Memoir",
+    "originalFragranceSlug": "amouage-memoir",
+    "mistifyProductName": "Mémoire Femme",
+    "mistifyProductSlug": "memoire-femme",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/memoire-femme",
+    "publicInspiredByLabel": "Inspired by Amouage Memoir",
+    "audience": null,
+    "classification": "Leather",
+    "topNotes": [
+      "Wormwood",
+      "Mint",
+      "Basil"
+    ],
+    "middleNotes": [
+      "Incense",
+      "Lavender",
+      "Rose"
+    ],
+    "baseNotes": [
+      "Tobacco",
+      "Leather",
+      "Sandalwood",
+      "Guaiac Wood",
+      "Vetiver",
+      "Oakmoss",
+      "Amber",
+      "Vanilla",
+      "Musk"
+    ],
+    "allNotes": [
+      "Wormwood",
+      "Mint",
+      "Basil",
+      "Incense",
+      "Lavender",
+      "Rose",
+      "Tobacco",
+      "Leather",
+      "Sandalwood",
+      "Guaiac Wood",
+      "Vetiver",
+      "Oakmoss",
+      "Amber",
+      "Vanilla",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay19_2026_10_22_23AM.png?v=1779200550",
+    "searchableText": "Amouage amouage Amouage Memoir Mémoire Femme Leather Wormwood Mint Basil Incense Lavender Rose Tobacco Leather Sandalwood Guaiac Wood Vetiver Oakmoss Amber Vanilla Musk",
+    "createdAt": "2026-05-04T04:41:41.059Z"
+  }
+}

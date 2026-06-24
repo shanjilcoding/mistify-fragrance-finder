@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 41,
+    "fragranceSlug": "louis-vuitton-les-sables-roses-41",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Les Sables Roses",
+    "originalFragranceSlug": "louis-vuitton-les-sables-roses",
+    "mistifyProductName": "Sable Roseux",
+    "mistifyProductSlug": "sable-roseux",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/sable-roseux",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Les Sables Roses",
+    "audience": "unisex",
+    "classification": "Oriental Floral",
+    "topNotes": [
+      "Rose",
+      "Bulgarian Rose"
+    ],
+    "middleNotes": [
+      "Saffron",
+      "Black Pepper"
+    ],
+    "baseNotes": [
+      "Oud",
+      "Ambergris"
+    ],
+    "allNotes": [
+      "Rose",
+      "Bulgarian Rose",
+      "Saffron",
+      "Black Pepper",
+      "Oud",
+      "Ambergris"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-21-03PM-_1.png?v=1773460255",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Les Sables Roses Sable Roseux Oriental Floral unisex Rose Bulgarian Rose Saffron Black Pepper Oud Ambergris",
+    "createdAt": "2026-05-04T04:41:26.886Z"
+  }
+}

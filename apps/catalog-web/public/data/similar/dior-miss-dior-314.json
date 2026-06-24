@@ -1,0 +1,279 @@
+{
+  "fragrances": [
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z",
+      "sharedNotes": [
+        "Rose",
+        "Vanilla",
+        "Musk",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 199,
+      "fragranceSlug": "maison-mataha-escapade-gourmande-199",
+      "brandName": "Maison Mataha",
+      "brandSlug": "maison-mataha",
+      "originalFragranceName": "Escapade Gourmande",
+      "originalFragranceSlug": "maison-mataha-escapade-gourmande",
+      "mistifyProductName": "Gourmande Évasion",
+      "mistifyProductSlug": "gourmande-evasion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gourmande-evasion",
+      "publicInspiredByLabel": "Inspired by Maison Mataha Escapade Gourmande",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar Cane"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sugar Cane",
+        "Vanilla",
+        "Tonka Bean",
+        "Benzoin",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb24-2026-11-56-42AM-_1.png?v=1773460130",
+      "searchableText": "Maison Mataha maison mataha Maison Mataha Escapade Gourmande Gourmande Évasion Oriental Vanilla unisex Sugar Cane Vanilla Tonka Bean Benzoin Musk",
+      "createdAt": "2026-05-04T04:41:36.157Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Musk",
+        "Tonka Bean",
+        "Benzoin"
+      ]
+    },
+    {
+      "id": 68,
+      "fragranceSlug": "kilian-rolling-in-love-68",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rolling in Love",
+      "originalFragranceSlug": "kilian-rolling-in-love",
+      "mistifyProductName": "Rolling in Hearts",
+      "mistifyProductSlug": "rolling-in-hearts",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rolling-in-hearts",
+      "publicInspiredByLabel": "Inspired by Kilian Rolling in Love",
+      "audience": "unisex",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Almond Milk",
+        "Ambrette"
+      ],
+      "middleNotes": [
+        "Freesia",
+        "Iris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Almond Milk",
+        "Ambrette",
+        "Freesia",
+        "Iris",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RollinginHearts.png?v=1765422919",
+      "searchableText": "Kilian kilian By Kilian Rolling in Love Rolling in Hearts Floral Oriental unisex Almond Milk Ambrette Freesia Iris Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:28.450Z",
+      "sharedNotes": [
+        "Iris",
+        "Vanilla",
+        "Musk",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 270,
+      "fragranceSlug": "diptyque-do-son-270",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Do Son",
+      "originalFragranceSlug": "diptyque-do-son",
+      "mistifyProductName": "Do Sonara",
+      "mistifyProductSlug": "do-sonara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/do-sonara",
+      "publicInspiredByLabel": "Inspired by Diptyque Do Son",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "African Orange Flower",
+        "Iris",
+        "Rose"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "African Orange Flower",
+        "Iris",
+        "Rose",
+        "Tuberose",
+        "Pink Pepper",
+        "Musk",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-23-08PM-_1.png?v=1773460372",
+      "searchableText": "Diptyque diptyque Diptyque Do Son Do Sonara Floral womens African Orange Flower Iris Rose Tuberose Pink Pepper Musk Benzoin",
+      "createdAt": "2026-05-04T04:41:40.444Z",
+      "sharedNotes": [
+        "Iris",
+        "Rose",
+        "Musk",
+        "Benzoin"
+      ]
+    },
+    {
+      "id": 151,
+      "fragranceSlug": "ysl-yves-saint-laurent-exquisite-musk-151",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Exquisite Musk",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-exquisite-musk",
+      "mistifyProductName": "Exquis Musk",
+      "mistifyProductSlug": "exquis-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/exquis-musk",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Exquisite Musk",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Angelica"
+      ],
+      "middleNotes": [
+        "Iris",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Angelica",
+        "Iris",
+        "Rose",
+        "Musk",
+        "Ambergris",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar22_2026_09_51_38AM.png?v=1774187508",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Exquisite Musk Exquis Musk Woody Floral Musk unisex Ginger Angelica Iris Rose Musk Ambergris Benzoin",
+      "createdAt": "2026-05-04T04:41:33.307Z",
+      "sharedNotes": [
+        "Iris",
+        "Rose",
+        "Musk",
+        "Benzoin"
+      ]
+    },
+    {
+      "id": 137,
+      "fragranceSlug": "creed-wind-flowers-137",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Wind Flowers",
+      "originalFragranceSlug": "creed-wind-flowers",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Creed Wind Flowers",
+      "audience": null,
+      "classification": "Floral",
+      "topNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Peach"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac",
+        "Tuberose",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Orange Blossom",
+        "Praline",
+        "Sandalwood",
+        "Iris"
+      ],
+      "allNotes": [
+        "Jasmine",
+        "Orange Blossom",
+        "Peach",
+        "Jasmine Sambac",
+        "Tuberose",
+        "Rose",
+        "Musk",
+        "Orange Blossom",
+        "Praline",
+        "Sandalwood",
+        "Iris"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Creed creed Creed Wind Flowers Not verified Floral Jasmine Orange Blossom Peach Jasmine Sambac Tuberose Rose Musk Orange Blossom Praline Sandalwood Iris",
+      "createdAt": "2026-05-04T04:41:32.485Z",
+      "sharedNotes": [
+        "Iris",
+        "Rose",
+        "Peach",
+        "Musk",
+        "Sandalwood"
+      ]
+    }
+  ]
+}

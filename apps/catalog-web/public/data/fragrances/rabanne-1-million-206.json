@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 206,
+    "fragranceSlug": "rabanne-1-million-206",
+    "brandName": "Rabanne",
+    "brandSlug": "rabanne",
+    "originalFragranceName": "1 Million",
+    "originalFragranceSlug": "rabanne-1-million",
+    "mistifyProductName": "Golden Luxe",
+    "mistifyProductSlug": "golden-luxe",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-luxe?_pos=2&_sid=cb998cf94&_ss=r",
+    "publicInspiredByLabel": "Inspired by Rabanne 1 Million",
+    "audience": "mens",
+    "classification": "Woody Spicy",
+    "topNotes": [
+      "Blood Mandarin",
+      "Grapefruit",
+      "Mint"
+    ],
+    "middleNotes": [
+      "Cinnamon",
+      "Spicy Notes",
+      "Rose"
+    ],
+    "baseNotes": [
+      "Amber",
+      "Leather",
+      "Woody Notes",
+      "Indian Patchouli"
+    ],
+    "allNotes": [
+      "Blood Mandarin",
+      "Grapefruit",
+      "Mint",
+      "Cinnamon",
+      "Spicy Notes",
+      "Rose",
+      "Amber",
+      "Leather",
+      "Woody Notes",
+      "Indian Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_45_20PM_eda64bdf-de46-4f14-8adf-b3a151fd82f8.png?v=1774406735",
+    "searchableText": "Rabanne paco rabanne Paco Rabanne 1 Million Golden Luxe Woody Spicy mens Blood Mandarin Grapefruit Mint Cinnamon Spicy Notes Rose Amber Leather Woody Notes Indian Patchouli",
+    "createdAt": "2026-05-04T04:41:36.571Z"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 56,
+    "fragranceSlug": "kilian-black-phantom-56",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Black Phantom",
+    "originalFragranceSlug": "kilian-black-phantom",
+    "mistifyProductName": "Dark Phantom",
+    "mistifyProductSlug": "dark-phantom",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/dark-phantom",
+    "publicInspiredByLabel": "Inspired by Kilian Black Phantom",
+    "audience": "unisex",
+    "classification": "Oriental Vanilla",
+    "topNotes": [
+      "Rum"
+    ],
+    "middleNotes": [
+      "Dark Chocolate",
+      "Coffee",
+      "Almond",
+      "Heliotrope"
+    ],
+    "baseNotes": [
+      "Caramel",
+      "Sugar Cane",
+      "Sandalwood",
+      "Vanilla",
+      "Tonka",
+      "Vetiver"
+    ],
+    "allNotes": [
+      "Rum",
+      "Dark Chocolate",
+      "Coffee",
+      "Almond",
+      "Heliotrope",
+      "Caramel",
+      "Sugar Cane",
+      "Sandalwood",
+      "Vanilla",
+      "Tonka",
+      "Vetiver"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-42-32AM-_1.png?v=1773460532",
+    "searchableText": "Kilian kilian By Kilian Black Phantom Dark Phantom Oriental Vanilla unisex Rum Dark Chocolate Coffee Almond Heliotrope Caramel Sugar Cane Sandalwood Vanilla Tonka Vetiver",
+    "createdAt": "2026-05-04T04:41:27.757Z"
+  }
+}

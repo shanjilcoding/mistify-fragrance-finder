@@ -1,0 +1,35 @@
+{
+  "fragrance": {
+    "id": 46,
+    "fragranceSlug": "louis-vuitton-rain-tea-46",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Rain Tea",
+    "originalFragranceSlug": "louis-vuitton-rain-tea",
+    "mistifyProductName": "Rain Chai",
+    "mistifyProductSlug": "rain-chai",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/rain-chai",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Rain Tea",
+    "audience": "unisex",
+    "classification": "Fresh Citrus/Aromatic Green",
+    "topNotes": [],
+    "middleNotes": [
+      "Tea",
+      "Lemongrass",
+      "Magnolia",
+      "Woody Notes",
+      "Rose"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Tea",
+      "Lemongrass",
+      "Magnolia",
+      "Woody Notes",
+      "Rose"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb3-2026-12-08-35PM-_1.png?v=1773460166",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Rain Tea Rain Chai Fresh Citrus/Aromatic Green unisex Tea Lemongrass Magnolia Woody Notes Rose",
+    "createdAt": "2026-05-04T04:41:27.178Z"
+  }
+}

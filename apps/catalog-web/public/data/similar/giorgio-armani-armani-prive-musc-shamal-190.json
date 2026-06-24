@@ -1,0 +1,267 @@
+{
+  "fragrances": [
+    {
+      "id": 323,
+      "fragranceSlug": "giorgio-armani-prive-musc-shamal-323",
+      "brandName": "Giorgio Armani Privé",
+      "brandSlug": "giorgio-armani-prive",
+      "originalFragranceName": "Musc Shamal",
+      "originalFragranceSlug": "giorgio-armani-prive-musc-shamal",
+      "mistifyProductName": "Musc Étoile",
+      "mistifyProductSlug": "musc-etoile",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/musc-etoile",
+      "publicInspiredByLabel": "Giorgio Armani Privé Musc Shamal",
+      "audience": null,
+      "classification": "Musky Amber / Soft Floral",
+      "topNotes": [
+        "Aldehydes",
+        "Citruses"
+      ],
+      "middleNotes": [
+        "Musk",
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Citruses",
+        "Musk",
+        "Rose",
+        "Jasmine",
+        "Amber",
+        "Vanilla",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay17_2026_10_06_01AM.png?v=1779026772",
+      "searchableText": "Giorgio Armani Privé Giorgio Armani Privé Musc Shamal Musc Étoile Musky Amber / Soft Floral Aldehydes Citruses Musk Rose Jasmine Amber Vanilla Cedar",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Aldehydes",
+        "Jasmine",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 320,
+      "fragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-silver-320",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Gentle Fluidity Silver",
+      "originalFragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-silver",
+      "mistifyProductName": "Fluidité Argent",
+      "mistifyProductSlug": "fluidite-argent",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fluidite-argent",
+      "publicInspiredByLabel": "Maison Francis Kurkdjian Gentle Fluidity Silver",
+      "audience": null,
+      "classification": "Aromatic Woody / Fresh Musky",
+      "topNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Bergamot",
+        "Pineapple"
+      ],
+      "middleNotes": [
+        "Coriander"
+      ],
+      "baseNotes": [
+        "Musks",
+        "Ambery Woods",
+        "Vanilla",
+        "Cedar",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Bergamot",
+        "Pineapple",
+        "Coriander",
+        "Musks",
+        "Ambery Woods",
+        "Vanilla",
+        "Cedar",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun9_2026_05_33_25PM.png?v=1781040812",
+      "searchableText": "Maison Francis Kurkdjian Maison Francis Kurkdjian Gentle Fluidity Silver Fluidité Argent Aromatic Woody / Fresh Musky Juniper Berries Nutmeg Bergamot Pineapple Coriander Musks Ambery Woods Vanilla Cedar Woody Notes",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Musks",
+        "Vanilla",
+        "Ambery Woods"
+      ]
+    },
+    {
+      "id": 86,
+      "fragranceSlug": "tom-ford-soleil-neige-86",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Soleil Neige",
+      "originalFragranceSlug": "tom-ford-soleil-neige",
+      "mistifyProductName": "Soleil Snow",
+      "mistifyProductSlug": "soleil-snow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-snow",
+      "publicInspiredByLabel": "Inspired by Tom Ford Soleil Neige",
+      "audience": "unisex",
+      "classification": "Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Carrot Seeds"
+      ],
+      "middleNotes": [
+        "White Flowers",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Carrot Seeds",
+        "White Flowers",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose",
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_09_07AM.png?v=1774325369",
+      "searchableText": "Tom Ford tom ford Tom Ford Soleil Neige Soleil Snow Floral Musk unisex Bergamot Carrot Seeds White Flowers Jasmine Orange Blossom Turkish Rose Benzoin Vanilla Labdanum",
+      "createdAt": "2026-05-04T04:41:29.512Z",
+      "sharedNotes": [
+        "Turkish Rose",
+        "Jasmine",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 181,
+      "fragranceSlug": "mancera-roses-vanille-181",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Roses Vanille",
+      "originalFragranceSlug": "mancera-roses-vanille",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mancera Roses Vanille",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Italian Lemon"
+      ],
+      "middleNotes": [
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Italian Lemon",
+        "Turkish Rose",
+        "Vanilla",
+        "White Musk",
+        "Cedar"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mancera mancera Mancera Roses Vanille Not verified Oriental Vanilla Italian Lemon Turkish Rose Vanilla White Musk Cedar",
+      "createdAt": "2026-05-04T04:41:35.051Z",
+      "sharedNotes": [
+        "Turkish Rose",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 128,
+      "fragranceSlug": "creed-love-in-white-128",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Love in White",
+      "originalFragranceSlug": "creed-love-in-white",
+      "mistifyProductName": "White Love",
+      "mistifyProductSlug": "white-love",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/white-love",
+      "publicInspiredByLabel": "Inspired by Creed Love in White",
+      "audience": "womens",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Orange Zest"
+      ],
+      "middleNotes": [
+        "Rice",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Orange Zest",
+        "Rice",
+        "Jasmine",
+        "Vanilla",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-37-06PM-_1.png?v=1773460555",
+      "searchableText": "Creed creed Creed Love in White White Love Floral Oriental womens Orange Zest Rice Jasmine Vanilla Ambergris",
+      "createdAt": "2026-05-04T04:41:31.974Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 172,
+      "fragranceSlug": "montale-rose-elixir-172",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Rose Elixir",
+      "originalFragranceSlug": "montale-rose-elixir",
+      "mistifyProductName": "Rose Delight",
+      "mistifyProductSlug": "rose-delight",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-delight",
+      "publicInspiredByLabel": "Inspired by Montale Rose Elixir",
+      "audience": "womens",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Strawberry",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Strawberry",
+        "Orange",
+        "Rose",
+        "Jasmine",
+        "Musk",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseDelight.png?v=1765422958",
+      "searchableText": "Montale montale Montale Rose Elixir Rose Delight Floral Fruity womens Strawberry Orange Rose Jasmine Musk Vanilla",
+      "createdAt": "2026-05-04T04:41:34.530Z",
+      "sharedNotes": [
+        "Jasmine",
+        "Vanilla"
+      ]
+    }
+  ]
+}

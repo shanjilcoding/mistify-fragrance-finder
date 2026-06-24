@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 39,
+    "fragranceSlug": "louis-vuitton-cactus-garden-39",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Cactus Garden",
+    "originalFragranceSlug": "louis-vuitton-cactus-garden",
+    "mistifyProductName": "Cacté Jardin",
+    "mistifyProductSlug": "cacte-jardin",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/cacte-jardin",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Cactus Garden",
+    "audience": "mens",
+    "classification": "Citrus Aromatic/Green Tea",
+    "topNotes": [
+      "Mate",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Lemongrass",
+      "Geranium"
+    ],
+    "baseNotes": [
+      "Incense"
+    ],
+    "allNotes": [
+      "Mate",
+      "Bergamot",
+      "Lemongrass",
+      "Geranium",
+      "Incense"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-03-17-20PM-_1.png?v=1773460272",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Cactus Garden Cacté Jardin Citrus Aromatic/Green Tea mens Mate Bergamot Lemongrass Geranium Incense",
+    "createdAt": "2026-05-04T04:41:26.764Z"
+  }
+}

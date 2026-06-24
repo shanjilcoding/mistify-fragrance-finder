@@ -1,10 +1,19 @@
-import { useEffect, useMemo, useReducer, useRef } from 'react'
+import { useEffect, useMemo, useReducer, useRef, useState } from 'react'
 import type { FormEvent } from 'react'
 import {
   getAdminProducts,
   updateAdminProduct,
+  analyzeMistifySync,
+  applyMistifySync,
 } from '../api/adminApi'
 import type { AdminProduct, AdminProductsQuery } from '../api/adminApi'
+import type {
+  AnalyzeResult,
+  SyncMatchRow,
+  SyncManualReviewRow,
+  NewProductCandidate,
+  ApplyInput,
+} from '../api/adminApi'
 
 type AdminProductsPageProps = {
   token: string
@@ -88,6 +97,28 @@ const initialProductsState: ProductsState = {
   total: 0,
 }
 
+// ── Sync state types ─────────────────────────────────────────────
+
+type SyncStatus = 'idle' | 'loading' | 'analyzed' | 'applying' | 'applied' | 'error'
+
+type SyncEditedValue = {
+  mistifyProductName?: string
+  mistifyProductUrl?: string
+  catalogImageUrl?: string
+}
+
+type SyncState = {
+  status: SyncStatus
+  result: AnalyzeResult | null
+  error: string
+}
+
+function initialSyncState(): SyncState {
+  return { status: 'idle', result: null, error: '' }
+}
+
+// ── Helpers ─────────────────────────────────────────────────────
+
 const placeholderProductNames = new Set([
   'not verified',
   'not verified on mistify',
@@ -100,6 +131,26 @@ function hasValidProductName(productName: string | null) {
 
   return trimmedName !== '' && !placeholderProductNames.has(trimmedName.toLowerCase())
 }
+
+function fieldLabel(field: string) {
+  switch (field) {
+    case 'mistify_product_name': return 'Name'
+    case 'mistify_product_url': return 'URL'
+    case 'catalog_image_url': return 'Image'
+    default: return field
+  }
+}
+
+function shortUrl(url: string) {
+  try {
+    const u = new URL(url)
+    return `${u.hostname}${u.pathname.length > 30 ? u.pathname.slice(0, 30) + '…' : u.pathname}`
+  } catch {
+    return url.length > 50 ? url.slice(0, 50) + '…' : url
+  }
+}
+
+// ── Components ───────────────────────────────────────────────────
 
 function AdminMetricCard({
   label,
@@ -129,6 +180,8 @@ function toProductDraft(product: AdminProduct): Drafts[number] {
     mistifyProductUrl: product.mistifyProductUrl?.trim() ?? '',
   }
 }
+
+// ── Products reducer ─────────────────────────────────────────────
 
 function productsReducer(state: ProductsState, action: ProductsAction): ProductsState {
   if (action.type === 'setSearchText') {
@@ -321,8 +374,15 @@ function productsReducer(state: ProductsState, action: ProductsAction): Products
   return state
 }
 
+// ── Main hook ────────────────────────────────────────────────────
+
 function useAdminProductsPageContent({ token, onLogout }: AdminProductsPageProps) {
   const [state, dispatch] = useReducer(productsReducer, initialProductsState)
+  const [sync, setSync] = useState<SyncState>(initialSyncState())
+  const [syncSelected, setSyncSelected] = useState<Set<number>>(new Set())
+  const [syncEdited, setSyncEdited] = useState<Map<number, SyncEditedValue>>(new Map())
+  const [syncImportSelected, setSyncImportSelected] = useState<Set<string>>(new Set())
+  const [editingSyncId, setEditingSyncId] = useState<number | null>(null)
   const successTimers = useRef<Record<number, ReturnType<typeof setTimeout>>>({})
   const activeProductRequest = useRef<{
     key: string
@@ -472,6 +532,123 @@ function useAdminProductsPageContent({ token, onLogout }: AdminProductsPageProps
     }
   }, [])
 
+  // ── Sync handlers ──────────────────────────────────────────────
+
+  async function handleSyncAnalyze() {
+    setSync({ status: 'loading', result: null, error: '' })
+
+    try {
+      const result = await analyzeMistifySync(token)
+      // Pre-select all high-confidence matches
+      const selected = new Set(result.highConfidenceMatches.map((m) => m.fragranceId))
+      setSyncSelected(selected)
+      setSyncEdited(new Map())
+      setSync({ status: 'analyzed', result, error: '' })
+    } catch (syncError) {
+      setSync({
+        status: 'error',
+        result: null,
+        error: syncError instanceof Error ? syncError.message : 'Sync analysis failed.',
+      })
+    }
+  }
+
+  function toggleSyncMatch(fragranceId: number) {
+    setSyncSelected((prev) => {
+      const next = new Set(prev)
+      if (next.has(fragranceId)) {
+        next.delete(fragranceId)
+      } else {
+        next.add(fragranceId)
+      }
+      return next
+    })
+  }
+
+  function selectAllSyncMatches(matches: SyncMatchRow[]) {
+    setSyncSelected(new Set(matches.map((m) => m.fragranceId)))
+  }
+
+  function deselectAllSyncMatches() {
+    setSyncSelected(new Set())
+  }
+
+  function editSyncMatch(fragranceId: number, field: string, value: string) {
+    setSyncEdited((prev) => {
+      const next = new Map(prev)
+      const existing = next.get(fragranceId) ?? {}
+      next.set(fragranceId, { ...existing, [field]: value })
+      return next
+    })
+  }
+
+  async function handleSyncApply() {
+    if (sync.status !== 'analyzed' || !sync.result) return
+
+    setSync({ ...sync, status: 'applying' })
+
+    try {
+      // Build updates from selected matches
+      const allMatches = [
+        ...sync.result.highConfidenceMatches,
+        ...sync.result.manualReviewRows,
+      ]
+      const applyPayload: ApplyInput[] = []
+
+      for (const match of allMatches) {
+        if (!syncSelected.has(match.fragranceId)) continue
+
+        const edits = syncEdited.get(match.fragranceId)
+        applyPayload.push({
+          fragranceId: match.fragranceId,
+          mistifyProductName: edits?.mistifyProductName ?? match.newMistifyProductName,
+          mistifyProductUrl: edits?.mistifyProductUrl ?? match.newMistifyProductUrl,
+          catalogImageUrl: edits?.catalogImageUrl ?? match.newCatalogImageUrl,
+        })
+      }
+
+      // Build imports from selected new product candidates
+      const importPayload: NewProductCandidate[] = sync.result.newProductCandidates.filter(
+        (c) => syncImportSelected.has(c.shopHandle),
+      )
+
+      if (!applyPayload.length && !importPayload.length) {
+        setSync({ ...sync, status: 'analyzed', error: 'No updates or imports selected.' })
+        return
+      }
+
+      await applyMistifySync(token, applyPayload, importPayload)
+
+      setSync({
+        status: 'applied',
+        result: sync.result,
+        error: '',
+      })
+
+      // Reload product list after apply
+      dispatch({ type: 'loadStarted' })
+      try {
+        const resp = await getAdminProducts(token, query)
+        dispatch({ type: 'loadSucceeded', response: resp })
+      } catch {
+        dispatch({ type: 'loadFailed', message: 'Sync applied, but product list failed to reload.' })
+      }
+    } catch (applyError) {
+      setSync({
+        status: 'error',
+        result: sync.result,
+        error: applyError instanceof Error ? applyError.message : 'Sync apply failed.',
+      })
+    }
+  }
+
+  function handleSyncDismiss() {
+    setSync(initialSyncState())
+    setSyncSelected(new Set())
+    setSyncEdited(new Map())
+    setSyncImportSelected(new Set())
+  }
+
   function handleSearch(event: FormEvent<HTMLFormElement>) {
     event.preventDefault()
     dispatch({ type: 'applySearchText' })
@@ -530,6 +707,10 @@ function useAdminProductsPageContent({ token, onLogout }: AdminProductsPageProps
     verifiedOnMistify ? `Verified: ${verifiedOnMistify === 'true' ? 'Yes' : 'No'}` : '',
   ].filter(Boolean)
 
+  const selectedCount = sync.result
+    ? syncSelected.size + syncImportSelected.size
+    : 0
+
   return (
     <main className="admin-shell">
       <header className="admin-header">
@@ -540,13 +721,30 @@ function useAdminProductsPageContent({ token, onLogout }: AdminProductsPageProps
             Edit Mistify product names and product URLs.
           </p>
         </div>
-        <nav className="admin-nav" aria-label="Admin navigation">
-          <a className="active" href="/admin/products">Products</a>
-          <a href="/admin/chips">Chips</a>
-          <button type="button" onClick={onLogout}>
-            Logout
-          </button>
-        </nav>
+        <div className="admin-header-right">
+          {sync.status === 'idle' && (
+            <button className="sync-trigger-btn" type="button" onClick={handleSyncAnalyze}>
+              <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true">
+                <path d="M21 12a9 9 0 0 1-18 0 9 9 0 0 1 15.38-5.63L21 9" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
+                <path d="M21 3v6h-6" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
+              Sync from Mistify
+            </button>
+          )}
+          {sync.status !== 'idle' && sync.status !== 'applied' && (
+            <span className="sync-status-text">
+              {sync.status === 'loading' ? 'Syncing...' : sync.status === 'analyzed' ? 'Reviewing...' : sync.status === 'applying' ? 'Applying...' : ''}
+            </span>
+          )}
+          {sync.status === 'applied' && (
+            <span className="sync-status-done">Sync complete</span>
+          )}
+          <nav className="admin-nav" aria-label="Admin navigation">
+            <a className="active" href="/admin/products">Products</a>
+            <a href="/admin/chips">Chips</a>
+            <button type="button" onClick={onLogout}>Logout</button>
+          </nav>
+        </div>
       </header>
 
       <section className="admin-overview-grid" aria-label="Product workspace overview">
@@ -554,6 +752,297 @@ function useAdminProductsPageContent({ token, onLogout }: AdminProductsPageProps
         <AdminMetricCard label="Needs Name" value={currentPageNeedsName} helper="Visible rows missing a mapped product" tone={currentPageNeedsName ? 'warning' : 'success'} />
         <AdminMetricCard label="Needs URL" value={currentPageNeedsUrl} helper="Visible rows without product links" tone={currentPageNeedsUrl ? 'warning' : 'success'} />
         <AdminMetricCard label="Filters" value={activeFilterCount} helper={`Page ${page} of ${totalPages} · ${pageSize} rows`} />
+      </section>
+
+      {/* ── Sync from Mistify ─────────────────────────────────── */}
+
+      <section className="sync-section" aria-label="Mistify catalog sync">
+        {sync.status === 'loading' && (
+          <div className="admin-results-summary">
+            <p>
+              <span className="sync-loading-inline" />
+              Fetching Mistify products and analyzing matches...
+            </p>
+          </div>
+        )}
+
+        {sync.status === 'error' && sync.error && (
+          <div className="sync-error-banner">
+            <p>{sync.error}</p>
+            <button type="button" onClick={handleSyncDismiss}>Dismiss</button>
+          </div>
+        )}
+
+        {(sync.status === 'analyzed' || sync.status === 'applying') && sync.result && (
+          <>
+            <div className="admin-results-summary sync-summary">
+              <p>
+                {sync.result.shopProductsFetched} Shopify ·{' '}
+                <strong>{sync.result.highConfidenceMatches.length} matches</strong>,{' '}
+                <strong className="sync-count-warn">{sync.result.manualReviewRows.length} review</strong>,{' '}
+                <strong>{sync.result.newProductCandidates.length} new</strong>,{' '}
+                {sync.result.skippedRows.length} skipped
+              </p>
+              <div className="sync-summary-actions">
+                <button
+                  type="button"
+                  onClick={() => {
+                    selectAllSyncMatches([
+                      ...sync.result!.highConfidenceMatches,
+                      ...sync.result!.manualReviewRows,
+                    ])
+                    setSyncImportSelected(
+                      new Set(
+                        sync.result!.newProductCandidates
+                          .filter((c) => !c.duplicateReasons.length && !c.missingFields.length)
+                          .map((c) => c.shopHandle),
+                      ),
+                    )
+                  }}
+                  className="sync-link-btn"
+                >
+                  Select all ready
+                </button>
+                <button type="button" onClick={deselectAllSyncMatches} className="sync-link-btn">
+                  Deselect all
+                </button>
+              </div>
+            </div>
+
+            <div className="admin-product-table">
+              <div className="admin-product-heading sync-heading">
+                <span style={{ width: 30 }}></span>
+                <span>Fragrance / Product</span>
+                <span>Source / Brand</span>
+                <span>Update</span>
+                <span>Confidence</span>
+                <span>Actions</span>
+              </div>
+
+              {/* ── High-Confidence Matches ── */}
+              {sync.result.highConfidenceMatches.map((match) => {
+                const isSelected = syncSelected.has(match.fragranceId)
+                const edits = syncEdited.get(match.fragranceId)
+                const nameVal = edits?.mistifyProductName ?? match.newMistifyProductName
+                const urlVal = edits?.mistifyProductUrl ?? match.newMistifyProductUrl
+                const imgVal = edits?.catalogImageUrl ?? match.newCatalogImageUrl
+                const isEditing = editingSyncId === match.fragranceId
+
+                return (
+                  <article className={`admin-product-row sync-product-row ${isSelected ? 'sync-selected' : ''}`} key={`high-${match.fragranceId}`}>
+                    <div className="sync-row-check">
+                      <input type="checkbox" checked={isSelected} onChange={() => toggleSyncMatch(match.fragranceId)} />
+                    </div>
+                    <div className="admin-product-name" data-label="Fragrance">
+                      <strong>{match.originalFragranceName || 'Unknown'}</strong>
+                      {match.oldMistifyProductName && match.oldMistifyProductName !== match.newMistifyProductName && (
+                        <span className="sync-old-val">{match.oldMistifyProductName}</span>
+                      )}
+                    </div>
+                    <div data-label="Brand">
+                      {match.sourceBrandBatch}
+                      <span className="sync-confidence-tag confidence-high">{match.matchConfidence}</span>
+                    </div>
+                    <div data-label="Update">
+                      {isEditing ? (
+                        <div className="admin-edit-panel sync-edit-inline">
+                          {match.fieldsToUpdate.includes('mistify_product_name') && (
+                            <label>
+                              <span>Name</span>
+                              <input value={nameVal} onChange={(e) => editSyncMatch(match.fragranceId, 'mistifyProductName', e.target.value)} maxLength={100} />
+                            </label>
+                          )}
+                          {match.fieldsToUpdate.includes('mistify_product_url') && (
+                            <label>
+                              <span>URL</span>
+                              <input value={urlVal} onChange={(e) => editSyncMatch(match.fragranceId, 'mistifyProductUrl', e.target.value)} />
+                            </label>
+                          )}
+                          {match.fieldsToUpdate.includes('catalog_image_url') && (
+                            <label>
+                              <span>Image</span>
+                              <input value={imgVal} onChange={(e) => editSyncMatch(match.fragranceId, 'catalogImageUrl', e.target.value)} />
+                            </label>
+                          )}
+                        </div>
+                      ) : (
+                        <div className="sync-update-preview">
+                          {match.fieldsToUpdate.map((f) => {
+                            const oldKey = f === 'mistify_product_name' ? 'oldMistifyProductName' : f === 'mistify_product_url' ? 'oldMistifyProductUrl' : 'oldCatalogImageUrl'
+                            const newKey = f === 'mistify_product_name' ? 'newMistifyProductName' : f === 'mistify_product_url' ? 'newMistifyProductUrl' : 'newCatalogImageUrl'
+                            const oldV = (match as unknown as Record<string, string>)[oldKey] || ''
+                            const newV = (match as unknown as Record<string, string>)[newKey] || ''
+                            const editKey = f === 'mistify_product_name' ? 'mistifyProductName' : f === 'mistify_product_url' ? 'mistifyProductUrl' : 'catalogImageUrl'
+                            const displayV = edits?.[editKey] ?? newV
+                            return (
+                              <div key={f} className="sync-update-field">
+                                <span className="sync-update-label">{fieldLabel(f)}</span>
+                                {oldV ? <span className="sync-update-old" title={oldV}>{fieldLabel(f) === 'Image' ? shortUrl(oldV) : oldV.length > 30 ? oldV.slice(0, 30) + '…' : oldV}</span> : <span className="sync-update-empty">(empty)</span>}
+                                <span className="sync-update-arrow">→</span>
+                                <span className="sync-update-new" title={displayV}>{fieldLabel(f) === 'Image' ? shortUrl(displayV) : displayV.length > 40 ? displayV.slice(0, 40) + '…' : displayV}</span>
+                                {edits?.[editKey] !== undefined && edits[editKey] !== newV && <span className="sync-edited-mark">edited</span>}
+                              </div>
+                            )
+                          })}
+                        </div>
+                      )}
+                    </div>
+                    <div data-label="Confidence">
+                      <span className="sync-match-reason-text">{(match as SyncMatchRow).reason}</span>
+                    </div>
+                    <div className="admin-row-actions" data-label="Actions">
+                      {isEditing ? (
+                        <button type="button" onClick={() => setEditingSyncId(null)}>Done</button>
+                      ) : (
+                        <button className="secondary" type="button" onClick={() => setEditingSyncId(match.fragranceId)}>Edit</button>
+                      )}
+                    </div>
+                  </article>
+                )
+              })}
+
+              {/* ── Manual Review ── */}
+              {sync.result.manualReviewRows.map((match) => {
+                const isSelected = syncSelected.has(match.fragranceId)
+                const edits = syncEdited.get(match.fragranceId)
+                const nameVal = edits?.mistifyProductName ?? match.newMistifyProductName
+                const urlVal = edits?.mistifyProductUrl ?? match.newMistifyProductUrl
+                const imgVal = edits?.catalogImageUrl ?? match.newCatalogImageUrl
+                const isEditing = editingSyncId === match.fragranceId
+
+                return (
+                  <article className={`admin-product-row sync-product-row sync-review-row ${isSelected ? 'sync-selected' : ''}`} key={`review-${match.fragranceId}`}>
+                    <div className="sync-row-check">
+                      <input type="checkbox" checked={isSelected} onChange={() => toggleSyncMatch(match.fragranceId)} />
+                    </div>
+                    <div className="admin-product-name" data-label="Fragrance">
+                      <strong>{match.originalFragranceName || 'Unknown'}</strong>
+                      <span className="sync-review-badge">Review</span>
+                    </div>
+                    <div data-label="Brand">
+                      {match.sourceBrandBatch}
+                      <span className="sync-confidence-tag confidence-medium">{match.matchConfidence}</span>
+                    </div>
+                    <div data-label="Update">
+                      {isEditing ? (
+                        <div className="admin-edit-panel sync-edit-inline">
+                          {match.fieldsToUpdate.includes('mistify_product_name') && (
+                            <label><span>Name</span><input value={nameVal} onChange={(e) => editSyncMatch(match.fragranceId, 'mistifyProductName', e.target.value)} maxLength={100} /></label>
+                          )}
+                          {match.fieldsToUpdate.includes('mistify_product_url') && (
+                            <label><span>URL</span><input value={urlVal} onChange={(e) => editSyncMatch(match.fragranceId, 'mistifyProductUrl', e.target.value)} /></label>
+                          )}
+                          {match.fieldsToUpdate.includes('catalog_image_url') && (
+                            <label><span>Image</span><input value={imgVal} onChange={(e) => editSyncMatch(match.fragranceId, 'catalogImageUrl', e.target.value)} /></label>
+                          )}
+                        </div>
+                      ) : (
+                        <div className="sync-update-preview">
+                          {match.fieldsToUpdate.map((f) => {
+                            const oldKey = f === 'mistify_product_name' ? 'oldMistifyProductName' : f === 'mistify_product_url' ? 'oldMistifyProductUrl' : 'oldCatalogImageUrl'
+                            const newKey = f === 'mistify_product_name' ? 'newMistifyProductName' : f === 'mistify_product_url' ? 'newMistifyProductUrl' : 'newCatalogImageUrl'
+                            const oldV = (match as unknown as Record<string, string>)[oldKey] || ''
+                            const newV = (match as unknown as Record<string, string>)[newKey] || ''
+                            const editKey = f === 'mistify_product_name' ? 'mistifyProductName' : f === 'mistify_product_url' ? 'mistifyProductUrl' : 'catalogImageUrl'
+                            const displayV = edits?.[editKey] ?? newV
+                            return (
+                              <div key={f} className="sync-update-field">
+                                <span className="sync-update-label">{fieldLabel(f)}</span>
+                                {oldV ? <span className="sync-update-old" title={oldV}>{fieldLabel(f) === 'Image' ? shortUrl(oldV) : oldV.length > 30 ? oldV.slice(0, 30) + '…' : oldV}</span> : <span className="sync-update-empty">(empty)</span>}
+                                <span className="sync-update-arrow">→</span>
+                                <span className="sync-update-new" title={displayV}>{fieldLabel(f) === 'Image' ? shortUrl(displayV) : displayV.length > 40 ? displayV.slice(0, 40) + '…' : displayV}</span>
+                                {edits?.[editKey] !== undefined && edits[editKey] !== newV && <span className="sync-edited-mark">edited</span>}
+                              </div>
+                            )
+                          })}
+                        </div>
+                      )}
+                    </div>
+                    <div data-label="Confidence">
+                      <span className="sync-match-reason-text">{(match as SyncManualReviewRow).reviewReason}</span>
+                    </div>
+                    <div className="admin-row-actions" data-label="Actions">
+                      {isEditing ? (
+                        <button type="button" onClick={() => setEditingSyncId(null)}>Done</button>
+                      ) : (
+                        <button className="secondary" type="button" onClick={() => setEditingSyncId(match.fragranceId)}>Edit</button>
+                      )}
+                    </div>
+                  </article>
+                )
+              })}
+
+              {/* ── New Products ── */}
+              {sync.result.newProductCandidates.map((candidate) => {
+                const isSelected = syncImportSelected.has(candidate.shopHandle)
+                const hasIssues = candidate.duplicateReasons.length > 0 || candidate.missingFields.length > 0
+
+                return (
+                  <article className={`admin-product-row sync-product-row sync-new-row ${isSelected ? 'sync-selected' : ''} ${hasIssues ? 'sync-issue-row' : ''}`} key={candidate.shopHandle}>
+                    <div className="sync-row-check">
+                      <input type="checkbox" checked={isSelected} disabled={hasIssues} onChange={() => {
+                        setSyncImportSelected((prev) => { const n = new Set(prev); if (n.has(candidate.shopHandle)) n.delete(candidate.shopHandle); else n.add(candidate.shopHandle); return n })
+                      }} />
+                    </div>
+                    <div className="admin-product-name" data-label="Fragrance">
+                      <strong>{candidate.shopTitle}</strong>
+                      {candidate.originalFragranceName && <span>→ {candidate.originalFragranceName}</span>}
+                      {!candidate.originalFragranceName && <span className="admin-missing-value">No match</span>}
+                    </div>
+                    <div data-label="Brand">
+                      {candidate.sourceBrandBatch || candidate.brandName || <span className="admin-missing-value">(unknown)</span>}
+                      {hasIssues && <span className="sync-confidence-tag confidence-low">Issue</span>}
+                      {!hasIssues && <span className="sync-confidence-tag confidence-high">Ready</span>}
+                    </div>
+                    <div data-label="Update">
+                      <div className="sync-update-preview">
+                        <div className="sync-update-field">
+                          <span className="sync-update-label">Class</span>
+                          <span className="sync-update-new">{candidate.classification || '(missing)'}</span>
+                        </div>
+                        <div className="sync-update-field">
+                          <span className="sync-update-label">Notes</span>
+                          <span className="sync-update-new">{candidate.allNotes.length ? candidate.allNotes.slice(0, 4).join(', ') + (candidate.allNotes.length > 4 ? '…' : '') : '(missing)'}</span>
+                        </div>
+                      </div>
+                    </div>
+                    <div data-label="Confidence">
+                      {candidate.duplicateReasons.length > 0 && <span className="sync-issue-text">{candidate.duplicateReasons[0]}</span>}
+                      {!candidate.duplicateReasons.length && candidate.missingFields.length > 0 && <span className="sync-issue-text">{candidate.missingFields.join(', ')}</span>}
+                      {!hasIssues && <span className="sync-match-reason-text">{candidate.imageUrl ? 'Has image' : 'No image'}</span>}
+                    </div>
+                    <div className="admin-row-actions" data-label="Actions">
+                      {candidate.imageUrl && (
+                        <a className="admin-product-link" href={candidate.shopUrl} target="_blank" rel="noreferrer">View</a>
+                      )}
+                    </div>
+                  </article>
+                )
+              })}
+            </div>
+
+            <div className="admin-pagination" style={{ justifyContent: 'flex-end', marginTop: 12 }}>
+              <button
+                type="button"
+                disabled={selectedCount === 0 || sync.status === 'applying'}
+                onClick={handleSyncApply}
+                style={{ background: 'var(--ink-900)', color: '#fff', border: 'none' }}
+              >
+                {sync.status === 'applying' ? 'Applying...' : `Apply Selected (${selectedCount})`}
+              </button>
+              <button type="button" className="secondary" onClick={handleSyncDismiss}>
+                Dismiss
+              </button>
+            </div>
+          </>
+        )}
+
+        {sync.status === 'applied' && (
+          <div className="admin-results-summary" style={{ background: '#f6fcf6', borderColor: '#cfded0' }}>
+            <p style={{ color: '#1f3527' }}>Sync applied successfully. Product list has been refreshed.</p>
+            <button type="button" onClick={handleSyncDismiss}>Done</button>
+          </div>
+        )}
       </section>
 
       <section className="admin-toolbar admin-command-panel" aria-label="Product filters">

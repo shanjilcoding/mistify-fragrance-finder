@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 179,
+    "fragranceSlug": "mancera-tonka-cola-179",
+    "brandName": "Mancera",
+    "brandSlug": "mancera",
+    "originalFragranceName": "Tonka Cola",
+    "originalFragranceSlug": "mancera-tonka-cola",
+    "mistifyProductName": "Cola Spice",
+    "mistifyProductSlug": "cola-spice",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/cola-spice",
+    "publicInspiredByLabel": "Inspired by Mancera Tonka Cola",
+    "audience": "unisex",
+    "classification": "Oriental Spicy",
+    "topNotes": [
+      "Cinnamon",
+      "Cherry",
+      "Sicilian Lemon",
+      "Nutmeg"
+    ],
+    "middleNotes": [
+      "Coca-Cola",
+      "Indonesian Patchouli Leaf",
+      "Orange Blossom"
+    ],
+    "baseNotes": [
+      "Tonka Bean",
+      "Vanilla",
+      "Benzoin",
+      "Labdanum"
+    ],
+    "allNotes": [
+      "Cinnamon",
+      "Cherry",
+      "Sicilian Lemon",
+      "Nutmeg",
+      "Coca-Cola",
+      "Indonesian Patchouli Leaf",
+      "Orange Blossom",
+      "Tonka Bean",
+      "Vanilla",
+      "Benzoin",
+      "Labdanum"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_50_16PM_10d11dd4-fe8b-44fa-8349-483f0da6c265.png?v=1774407032",
+    "searchableText": "Mancera mancera Mancera Tonka Cola Cola Spice Oriental Spicy unisex Cinnamon Cherry Sicilian Lemon Nutmeg Coca-Cola Indonesian Patchouli Leaf Orange Blossom Tonka Bean Vanilla Benzoin Labdanum",
+    "createdAt": "2026-05-04T04:41:34.939Z"
+  }
+}

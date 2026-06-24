@@ -1,0 +1,288 @@
+{
+  "fragrances": [
+    {
+      "id": 327,
+      "fragranceSlug": "dior-bois-dargent-327",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Bois d’Argent",
+      "originalFragranceSlug": "dior-bois-dargent",
+      "mistifyProductName": "Bois Argenté",
+      "mistifyProductSlug": "bois-argente",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bois-argente",
+      "publicInspiredByLabel": "Dior Bois d’Argent",
+      "audience": null,
+      "classification": "Woody Iris / Amber Musky",
+      "topNotes": [
+        "Iris",
+        "Cypress",
+        "Juniper Berries"
+      ],
+      "middleNotes": [
+        "Myrrh",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Woodsy Notes",
+        "Honey",
+        "Vanilla",
+        "Amber",
+        "Resins",
+        "Musk",
+        "Leather"
+      ],
+      "allNotes": [
+        "Iris",
+        "Cypress",
+        "Juniper Berries",
+        "Myrrh",
+        "Patchouli",
+        "Woodsy Notes",
+        "Honey",
+        "Vanilla",
+        "Amber",
+        "Resins",
+        "Musk",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar18_2026_12_04_26PM.png?v=1773849873",
+      "searchableText": "Dior Dior Bois d’Argent Bois Argenté Woody Iris / Amber Musky Iris Cypress Juniper Berries Myrrh Patchouli Woodsy Notes Honey Vanilla Amber Resins Musk Leather",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Iris",
+        "Myrrh",
+        "Honey",
+        "Musk"
+      ]
+    },
+    {
+      "id": 129,
+      "fragranceSlug": "creed-millesime-imperial-129",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Millesime Imperial",
+      "originalFragranceSlug": "creed-millesime-imperial",
+      "mistifyProductName": "Vintage Imperial",
+      "mistifyProductSlug": "vintage-imperial",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vintage-imperial",
+      "publicInspiredByLabel": "Inspired by Creed Millesime Imperial",
+      "audience": "mens",
+      "classification": "Citrus Floral",
+      "topNotes": [
+        "Sea Salt",
+        "Fruit Notes"
+      ],
+      "middleNotes": [
+        "Sicilian Lemon",
+        "Bergamot",
+        "Iris",
+        "Mandarin Orange"
+      ],
+      "baseNotes": [
+        "Sea Notes",
+        "Musk",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Sea Salt",
+        "Fruit Notes",
+        "Sicilian Lemon",
+        "Bergamot",
+        "Iris",
+        "Mandarin Orange",
+        "Sea Notes",
+        "Musk",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_03_50PM.png?v=1765422849",
+      "searchableText": "Creed creed Creed Millesime Imperial Vintage Imperial Citrus Floral mens Sea Salt Fruit Notes Sicilian Lemon Bergamot Iris Mandarin Orange Sea Notes Musk Woody Notes",
+      "createdAt": "2026-05-04T04:41:32.027Z",
+      "sharedNotes": [
+        "Iris",
+        "Musk",
+        "Woody Notes"
+      ]
+    },
+    {
+      "id": 18,
+      "fragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum-18",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Baccarat Rouge 540 Extrait de Parfum",
+      "originalFragranceSlug": "maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum",
+      "mistifyProductName": "Baccarata Intense 440",
+      "mistifyProductSlug": "baccarata-intense-440",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baccarata-intense-440?variant=49907830686015",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum",
+      "audience": null,
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Bitter Almond",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Egyptian Jasmine",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Woody Notes",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bitter Almond",
+        "Saffron",
+        "Egyptian Jasmine",
+        "Cedar",
+        "Ambergris",
+        "Woody Notes",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-58-36PM-_1.png?v=1773460513",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum Baccarata Intense 440 Amber Floral Bitter Almond Saffron Egyptian Jasmine Cedar Ambergris Woody Notes Musk",
+      "createdAt": "2026-05-04T04:41:25.544Z",
+      "sharedNotes": [
+        "Musk",
+        "Woody Notes"
+      ]
+    },
+    {
+      "id": 270,
+      "fragranceSlug": "diptyque-do-son-270",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Do Son",
+      "originalFragranceSlug": "diptyque-do-son",
+      "mistifyProductName": "Do Sonara",
+      "mistifyProductSlug": "do-sonara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/do-sonara",
+      "publicInspiredByLabel": "Inspired by Diptyque Do Son",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "African Orange Flower",
+        "Iris",
+        "Rose"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "African Orange Flower",
+        "Iris",
+        "Rose",
+        "Tuberose",
+        "Pink Pepper",
+        "Musk",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-23-08PM-_1.png?v=1773460372",
+      "searchableText": "Diptyque diptyque Diptyque Do Son Do Sonara Floral womens African Orange Flower Iris Rose Tuberose Pink Pepper Musk Benzoin",
+      "createdAt": "2026-05-04T04:41:40.444Z",
+      "sharedNotes": [
+        "Iris",
+        "Musk"
+      ]
+    },
+    {
+      "id": 127,
+      "fragranceSlug": "creed-carmina-127",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Carmina",
+      "originalFragranceSlug": "creed-carmina",
+      "mistifyProductName": "Karmina",
+      "mistifyProductSlug": "karmina",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/karmina",
+      "publicInspiredByLabel": "Inspired by Creed Carmina",
+      "audience": "womens",
+      "classification": "Amber Floral",
+      "topNotes": [
+        "Pink Pepper",
+        "Black Cherry",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "May Rose",
+        "Peony",
+        "Violet",
+        "Cashmere Wood"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Ambroxan",
+        "Frankincense",
+        "Myrrh"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Black Cherry",
+        "Saffron",
+        "May Rose",
+        "Peony",
+        "Violet",
+        "Cashmere Wood",
+        "Musk",
+        "Ambroxan",
+        "Frankincense",
+        "Myrrh"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_46_39PM.png?v=1765422844",
+      "searchableText": "Creed creed Creed Carmina Karmina Amber Floral womens Pink Pepper Black Cherry Saffron May Rose Peony Violet Cashmere Wood Musk Ambroxan Frankincense Myrrh",
+      "createdAt": "2026-05-04T04:41:31.917Z",
+      "sharedNotes": [
+        "Frankincense",
+        "Myrrh",
+        "Musk"
+      ]
+    },
+    {
+      "id": 14,
+      "fragranceSlug": "maison-francis-kurkdjian-amyris-femme-14",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Amyris Femme",
+      "originalFragranceSlug": "maison-francis-kurkdjian-amyris-femme",
+      "mistifyProductName": "Iris Essence",
+      "mistifyProductSlug": "iris-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/iris-essence",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Amyris Femme",
+      "audience": "womens",
+      "classification": "Floral Woody/Musky Floral",
+      "topNotes": [
+        "Lemon Blossom",
+        "California Orange"
+      ],
+      "middleNotes": [
+        "Amyris",
+        "Iris"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Lemon Blossom",
+        "California Orange",
+        "Amyris",
+        "Iris",
+        "Vetiver",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-53-31AM-_1.png?v=1773460519",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Amyris Femme Iris Essence Floral Woody/Musky Floral womens Lemon Blossom California Orange Amyris Iris Vetiver Musk Amber",
+      "createdAt": "2026-05-04T04:41:25.316Z",
+      "sharedNotes": [
+        "Iris",
+        "Musk"
+      ]
+    }
+  ]
+}

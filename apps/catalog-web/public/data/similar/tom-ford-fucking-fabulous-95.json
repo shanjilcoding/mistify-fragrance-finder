@@ -1,0 +1,291 @@
+{
+  "fragrances": [
+    {
+      "id": 211,
+      "fragranceSlug": "rabanne-after-club-211",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "After Club",
+      "originalFragranceSlug": "rabanne-after-club",
+      "mistifyProductName": "Club Afterglow",
+      "mistifyProductSlug": "club-afterglow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/club-afterglow",
+      "publicInspiredByLabel": "Inspired by Rabanne After Club",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Vanilla",
+        "Labdanum",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-33-34PM-_1.png?v=1773460311",
+      "searchableText": "Rabanne rabanne Rabanne After Club Club Afterglow Woody Aromatic unisex Lavender Vanilla Labdanum Amber",
+      "createdAt": "2026-05-04T04:41:36.872Z",
+      "sharedNotes": [
+        "Lavender",
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 88,
+      "fragranceSlug": "tom-ford-tuscan-leather-88",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Tuscan Leather",
+      "originalFragranceSlug": "tom-ford-tuscan-leather",
+      "mistifyProductName": "Leather Tuscany",
+      "mistifyProductSlug": "leather-tuscany",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/leather-tuscany",
+      "publicInspiredByLabel": "Inspired by Tom Ford Tuscan Leather",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Olibanum",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Suede",
+        "Amber",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Thyme",
+        "Olibanum",
+        "Jasmine",
+        "Leather",
+        "Suede",
+        "Amber",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Tom Ford tom ford Tom Ford Tuscan Leather Leather Tuscany Leather unisex Raspberry Saffron Thyme Olibanum Jasmine Leather Suede Amber Woody Notes",
+      "createdAt": "2026-05-04T04:41:29.625Z",
+      "sharedNotes": [
+        "Leather",
+        "Amber"
+      ]
+    },
+    {
+      "id": 280,
+      "fragranceSlug": "amouage-memoir-280",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Memoir",
+      "originalFragranceSlug": "amouage-memoir",
+      "mistifyProductName": "Mémoire Femme",
+      "mistifyProductSlug": "memoire-femme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/memoire-femme",
+      "publicInspiredByLabel": "Inspired by Amouage Memoir",
+      "audience": null,
+      "classification": "Leather",
+      "topNotes": [
+        "Wormwood",
+        "Mint",
+        "Basil"
+      ],
+      "middleNotes": [
+        "Incense",
+        "Lavender",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Tobacco",
+        "Leather",
+        "Sandalwood",
+        "Guaiac Wood",
+        "Vetiver",
+        "Oakmoss",
+        "Amber",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Wormwood",
+        "Mint",
+        "Basil",
+        "Incense",
+        "Lavender",
+        "Rose",
+        "Tobacco",
+        "Leather",
+        "Sandalwood",
+        "Guaiac Wood",
+        "Vetiver",
+        "Oakmoss",
+        "Amber",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay19_2026_10_22_23AM.png?v=1779200550",
+      "searchableText": "Amouage amouage Amouage Memoir Mémoire Femme Leather Wormwood Mint Basil Incense Lavender Rose Tobacco Leather Sandalwood Guaiac Wood Vetiver Oakmoss Amber Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:41.059Z",
+      "sharedNotes": [
+        "Lavender",
+        "Leather",
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 92,
+      "fragranceSlug": "tom-ford-ombre-leather-92",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Ombre Leather",
+      "originalFragranceSlug": "tom-ford-ombre-leather",
+      "mistifyProductName": "Ombre Royale",
+      "mistifyProductSlug": "ombre-royale",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-royale",
+      "publicInspiredByLabel": "Inspired by Tom Ford Ombre Leather",
+      "audience": "mens",
+      "classification": "Leather",
+      "topNotes": [
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Moss",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Jasmine Sambac",
+        "Leather",
+        "Amber",
+        "Moss",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-42-02AM-_1.png?v=1773460288",
+      "searchableText": "Tom Ford tom ford Tom Ford Ombre Leather Ombre Royale Leather mens Cardamom Jasmine Sambac Leather Amber Moss Patchouli",
+      "createdAt": "2026-05-04T04:41:29.855Z",
+      "sharedNotes": [
+        "Leather",
+        "Amber"
+      ]
+    },
+    {
+      "id": 23,
+      "fragranceSlug": "maison-francis-kurkdjian-grand-soir-23",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Grand Soir",
+      "originalFragranceSlug": "maison-francis-kurkdjian-grand-soir",
+      "mistifyProductName": "Grand Soirelle",
+      "mistifyProductSlug": "grand-soirelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/grand-soirelle",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Grand Soir",
+      "audience": "unisex",
+      "classification": "Oriental Amber",
+      "topNotes": [
+        "Spanish Labdanum",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Siam Benzoin"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Spanish Labdanum",
+        "Orange",
+        "Lavender",
+        "Siam Benzoin",
+        "Amber",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov20-2025-10-17-02AM-_1.png?v=1773460207",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Grand Soir Grand Soirelle Oriental Amber unisex Spanish Labdanum Orange Lavender Siam Benzoin Amber Vanilla Tonka Bean Musk Cedar",
+      "createdAt": "2026-05-04T04:41:25.837Z",
+      "sharedNotes": [
+        "Lavender",
+        "Vanilla",
+        "Tonka Bean",
+        "Amber"
+      ]
+    },
+    {
+      "id": 201,
+      "fragranceSlug": "xerjoff-naxos-201",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Naxos",
+      "originalFragranceSlug": "xerjoff-naxos",
+      "mistifyProductName": "Naxian Gold",
+      "mistifyProductSlug": "naxian-gold",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/naxian-gold",
+      "publicInspiredByLabel": "Inspired by Xerjoff Naxos",
+      "audience": "unisex",
+      "classification": "Citrus Gourmand",
+      "topNotes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Honey",
+        "Cinnamon",
+        "Cashmeran",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Tobacco Leaf",
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Lemon",
+        "Honey",
+        "Cinnamon",
+        "Cashmeran",
+        "Jasmine Sambac",
+        "Tobacco Leaf",
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-29-20PM-_1.png?v=1773460339",
+      "searchableText": "Xerjoff xerjoff Xerjoff Naxos Naxian Gold Citrus Gourmand unisex Lavender Bergamot Lemon Honey Cinnamon Cashmeran Jasmine Sambac Tobacco Leaf Vanilla Tonka Bean",
+      "createdAt": "2026-05-04T04:41:36.283Z",
+      "sharedNotes": [
+        "Lavender",
+        "Vanilla",
+        "Tonka Bean",
+        "Cashmeran"
+      ]
+    }
+  ]
+}

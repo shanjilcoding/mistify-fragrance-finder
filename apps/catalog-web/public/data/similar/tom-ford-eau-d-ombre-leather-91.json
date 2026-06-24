@@ -1,0 +1,357 @@
+{
+  "fragrances": [
+    {
+      "id": 74,
+      "fragranceSlug": "tom-ford-bitter-peach-74",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Bitter Peach",
+      "originalFragranceSlug": "tom-ford-bitter-peach",
+      "mistifyProductName": "Bitter Peachy",
+      "mistifyProductSlug": "bitter-peachy",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bitter-peachy",
+      "publicInspiredByLabel": "Inspired by Tom Ford Bitter Peach",
+      "audience": "unisex",
+      "classification": "Fruity Gourmand",
+      "topNotes": [
+        "Wild Peach",
+        "Sicilian Blood Orange",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Rum Absolute",
+        "Davana",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Tonka Bean",
+        "Patchouli",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Wild Peach",
+        "Sicilian Blood Orange",
+        "Cardamom",
+        "Rum Absolute",
+        "Davana",
+        "Jasmine Sambac",
+        "Sandalwood",
+        "Tonka Bean",
+        "Patchouli",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_26_07AM.png?v=1774326374",
+      "searchableText": "Tom Ford tom ford Tom Ford Bitter Peach Bitter Peachy Fruity Gourmand unisex Wild Peach Sicilian Blood Orange Cardamom Rum Absolute Davana Jasmine Sambac Sandalwood Tonka Bean Patchouli Benzoin",
+      "createdAt": "2026-05-04T04:41:28.810Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Tonka Bean",
+        "Patchouli",
+        "Sandalwood",
+        "Benzoin"
+      ]
+    },
+    {
+      "id": 247,
+      "fragranceSlug": "penhaligon-s-halfeti-247",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti",
+      "originalFragranceSlug": "penhaligon-s-halfeti",
+      "mistifyProductName": "Halfeti Rose",
+      "mistifyProductSlug": "halfeti-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit",
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine",
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_43_29AM.png?v=1765422933",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Halfeti Rose Oriental Woody unisex Cypress Leaf Saffron Cardamom Artemisia Bergamot Grapefruit Bulgarian Rose Nutmeg Jasmine Oud Cedar Leather Sandalwood Amber Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:39.038Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Leather",
+        "Vanilla",
+        "Saffron",
+        "Jasmine",
+        "Tonka Bean",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 306,
+      "fragranceSlug": "nishane-ani-306",
+      "brandName": "Nishane",
+      "brandSlug": "nishane",
+      "originalFragranceName": "Ani",
+      "originalFragranceSlug": "nishane-ani",
+      "mistifyProductName": "Anique",
+      "mistifyProductSlug": "anique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/anique",
+      "publicInspiredByLabel": "Nishane Ani",
+      "audience": null,
+      "classification": "Spicy Vanilla / Woody Amber",
+      "topNotes": [
+        "Ginger",
+        "Bergamot",
+        "Pink Pepper",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Cardamom",
+        "Black Currant",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Benzoin",
+        "Sandalwood",
+        "Cedar",
+        "Patchouli",
+        "Ambergris",
+        "Musk"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Bergamot",
+        "Pink Pepper",
+        "Green Notes",
+        "Cardamom",
+        "Black Currant",
+        "Turkish Rose",
+        "Vanilla",
+        "Benzoin",
+        "Sandalwood",
+        "Cedar",
+        "Patchouli",
+        "Ambergris",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_05_01PM_b09c0367-8ac0-482e-8c49-bb95010362c5.png?v=1781712317",
+      "searchableText": "Nishane Nishane Ani Anique Spicy Vanilla / Woody Amber Ginger Bergamot Pink Pepper Green Notes Cardamom Black Currant Turkish Rose Vanilla Benzoin Sandalwood Cedar Patchouli Ambergris Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Ginger",
+        "Vanilla",
+        "Patchouli",
+        "Sandalwood",
+        "Benzoin"
+      ]
+    },
+    {
+      "id": 226,
+      "fragranceSlug": "clive-christian-blonde-amber-226",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Blonde Amber",
+      "originalFragranceSlug": "clive-christian-blonde-amber",
+      "mistifyProductName": "Amber Luxe",
+      "mistifyProductSlug": "amber-luxe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-luxe",
+      "publicInspiredByLabel": "Inspired by Clive Christian Blonde Amber",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit",
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris",
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-34-30PM-_1.png?v=1773460457",
+      "searchableText": "Clive Christian clive christian Clive Christian Blonde Amber Amber Luxe Oriental unisex Rum Olibanum Bitter Orange Cardamom Pink Pepper Ginger Bergamot Grapefruit Dried Fruits White Tobacco Sandalwood Tuberose Saffron Osmanthus Jasmine Orris Tonka Bean Vanilla Myrrh Labdanum Patchouli Musk Cedar Vetiver",
+      "createdAt": "2026-05-04T04:41:37.756Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Ginger",
+        "Vanilla",
+        "Saffron",
+        "Jasmine",
+        "Tonka Bean",
+        "Patchouli",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 117,
+      "fragranceSlug": "bond-no-9-lafayette-street-117",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Lafayette Street",
+      "originalFragranceSlug": "bond-no-9-lafayette-street",
+      "mistifyProductName": "Lafayette Avenue",
+      "mistifyProductSlug": "lafayette-avenue",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lafayette-avenue",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Lafayette Street",
+      "audience": "unisex",
+      "classification": "Oriental Fougere",
+      "topNotes": [
+        "Bergamot",
+        "Coriander"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Apple",
+        "Amber"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Cedarwood",
+        "Dry Wood Accord"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Coriander",
+        "Vanilla",
+        "Apple",
+        "Amber",
+        "Tonka Bean",
+        "Cedarwood",
+        "Dry Wood Accord"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-46-19AM-_1.png?v=1773460444",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Lafayette Street Lafayette Avenue Oriental Fougere unisex Bergamot Coriander Vanilla Apple Amber Tonka Bean Cedarwood Dry Wood Accord",
+      "createdAt": "2026-05-04T04:41:31.335Z",
+      "sharedNotes": [
+        "Coriander",
+        "Vanilla",
+        "Tonka Bean",
+        "Cedarwood"
+      ]
+    },
+    {
+      "id": 92,
+      "fragranceSlug": "tom-ford-ombre-leather-92",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Ombre Leather",
+      "originalFragranceSlug": "tom-ford-ombre-leather",
+      "mistifyProductName": "Ombre Royale",
+      "mistifyProductSlug": "ombre-royale",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-royale",
+      "publicInspiredByLabel": "Inspired by Tom Ford Ombre Leather",
+      "audience": "mens",
+      "classification": "Leather",
+      "topNotes": [
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Moss",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Jasmine Sambac",
+        "Leather",
+        "Amber",
+        "Moss",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-42-02AM-_1.png?v=1773460288",
+      "searchableText": "Tom Ford tom ford Tom Ford Ombre Leather Ombre Royale Leather mens Cardamom Jasmine Sambac Leather Amber Moss Patchouli",
+      "createdAt": "2026-05-04T04:41:29.855Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Leather",
+        "Patchouli"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 103,
+    "fragranceSlug": "parfums-de-marly-layton-103",
+    "brandName": "Parfums de Marly",
+    "brandSlug": "parfums-de-marly",
+    "originalFragranceName": "Layton",
+    "originalFragranceSlug": "parfums-de-marly-layton",
+    "mistifyProductName": "Laytonington",
+    "mistifyProductSlug": "laytonington",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/laytonington",
+    "publicInspiredByLabel": "Inspired by Parfums de Marly Layton",
+    "audience": "unisex",
+    "classification": "Oriental Floral",
+    "topNotes": [
+      "Apple",
+      "Bergamot",
+      "Lavender"
+    ],
+    "middleNotes": [
+      "Geranium",
+      "Violet",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Pepper",
+      "Patchouli",
+      "Guaiac Wood"
+    ],
+    "allNotes": [
+      "Apple",
+      "Bergamot",
+      "Lavender",
+      "Geranium",
+      "Violet",
+      "Jasmine",
+      "Vanilla",
+      "Pepper",
+      "Patchouli",
+      "Guaiac Wood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-32-05AM-_1.png?v=1773460493",
+    "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Layton Laytonington Oriental Floral unisex Apple Bergamot Lavender Geranium Violet Jasmine Vanilla Pepper Patchouli Guaiac Wood",
+    "createdAt": "2026-05-04T04:41:30.521Z"
+  }
+}

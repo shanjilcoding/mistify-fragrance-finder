@@ -1,0 +1,262 @@
+{
+  "fragrances": [
+    {
+      "id": 287,
+      "fragranceSlug": "jean-paul-gaultier-scandal-pour-homme-287",
+      "brandName": "Jean Paul Gaultier",
+      "brandSlug": "jean-paul-gaultier",
+      "originalFragranceName": "Scandal Pour Homme",
+      "originalFragranceSlug": "jean-paul-gaultier-scandal-pour-homme",
+      "mistifyProductName": "Scandale Homme",
+      "mistifyProductSlug": "scandale-homme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/scandale-homme",
+      "publicInspiredByLabel": "Inspired by Jean Paul Gaultier Scandal Pour Homme",
+      "audience": "mens",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Mandarin Orange",
+        "Clary Sage"
+      ],
+      "middleNotes": [
+        "Caramel",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Clary Sage",
+        "Caramel",
+        "Tonka Bean",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr30_2026_03_09_09PM.png?v=1777576157",
+      "searchableText": "Jean Paul Gaultier jean paul gaultier Jean Paul Gaultier Scandal Pour Homme Scandale Homme Oriental Woody mens Mandarin Orange Clary Sage Caramel Tonka Bean Vetiver",
+      "createdAt": "2026-05-04T04:41:41.478Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 267,
+      "fragranceSlug": "byredo-bal-d-afrique-267",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Bal d’Afrique",
+      "originalFragranceSlug": "byredo-bal-d-afrique",
+      "mistifyProductName": "Bali Afrique",
+      "mistifyProductSlug": "bali-afrique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bali-afrique",
+      "publicInspiredByLabel": "Inspired by Byredo Bal d’Afrique",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Bergamot",
+        "African Marigold",
+        "Buchu/Agathosma"
+      ],
+      "middleNotes": [
+        "Violet",
+        "Cyclamen"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "African Marigold",
+        "Buchu/Agathosma",
+        "Violet",
+        "Cyclamen",
+        "Vetiver",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-08-33PM-_1.png?v=1773460349",
+      "searchableText": "Byredo byredo Byredo Bal d’Afrique Bali Afrique Floral unisex Bergamot African Marigold Buchu/Agathosma Violet Cyclamen Vetiver Cedar",
+      "createdAt": "2026-05-04T04:41:40.260Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 152,
+      "fragranceSlug": "ysl-yves-saint-laurent-la-nuit-de-l-homme-152",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "La Nuit de l’Homme",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-la-nuit-de-l-homme",
+      "mistifyProductName": "The Night of Man",
+      "mistifyProductSlug": "the-night-of-man",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/the-night-of-man",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) La Nuit de l’Homme",
+      "audience": "mens",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Caraway"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Lavender",
+        "Cedar",
+        "Vetiver",
+        "Caraway"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-41-32AM-_1.png?v=1773460417",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) La Nuit de l’Homme The Night of Man Woody Spicy mens Cardamom Lavender Cedar Vetiver Caraway",
+      "createdAt": "2026-05-04T04:41:33.364Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 75,
+      "fragranceSlug": "tom-ford-black-orchid-75",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Black Orchid",
+      "originalFragranceSlug": "tom-ford-black-orchid",
+      "mistifyProductName": "Black Orchard",
+      "mistifyProductSlug": "black-orchard",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/black-orchard",
+      "publicInspiredByLabel": "Inspired by Tom Ford Black Orchid",
+      "audience": "unisex",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Black Orchid",
+        "Lotus Wood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vanilla",
+        "Vetiver",
+        "Incense"
+      ],
+      "allNotes": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Bergamot",
+        "Black Orchid",
+        "Lotus Wood",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver",
+        "Incense"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-39-28AM-_1.png?v=1773460543",
+      "searchableText": "Tom Ford tom ford Tom Ford Black Orchid Black Orchard Floral Oriental unisex Black Truffle Ylang-Ylang Bergamot Black Orchid Lotus Wood Patchouli Vanilla Vetiver Incense",
+      "createdAt": "2026-05-04T04:41:28.869Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 269,
+      "fragranceSlug": "byredo-black-saffron-269",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Black Saffron",
+      "originalFragranceSlug": "byredo-black-saffron",
+      "mistifyProductName": "Saffron Noir",
+      "mistifyProductSlug": "saffron-noir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saffron-noir",
+      "publicInspiredByLabel": "Inspired by Byredo Black Saffron",
+      "audience": "unisex",
+      "classification": "Amber/Leather",
+      "topNotes": [
+        "Juniper Berries",
+        "Pomelo",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Black Violet",
+        "Cristal Rose",
+        "Leather Accord"
+      ],
+      "baseNotes": [
+        "Blonde Woods",
+        "Raspberry",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Pomelo",
+        "Saffron",
+        "Black Violet",
+        "Cristal Rose",
+        "Leather Accord",
+        "Blonde Woods",
+        "Raspberry",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-04-11PM-_1.png?v=1773460347",
+      "searchableText": "Byredo byredo Byredo Black Saffron Saffron Noir Amber/Leather unisex Juniper Berries Pomelo Saffron Black Violet Cristal Rose Leather Accord Blonde Woods Raspberry Vetiver",
+      "createdAt": "2026-05-04T04:41:40.380Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 120,
+      "fragranceSlug": "bond-no-9-new-york-oud-120",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "New York Oud",
+      "originalFragranceSlug": "bond-no-9-new-york-oud",
+      "mistifyProductName": "Urban Oud",
+      "mistifyProductSlug": "urban-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-oud",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 New York Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Plum",
+        "Saffron",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root"
+      ],
+      "baseNotes": [
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Plum",
+        "Saffron",
+        "Orange",
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root",
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_18_40AM.png?v=1774325928",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 New York Oud Urban Oud Oriental unisex Plum Saffron Orange Rose Oud Patchouli Orris Root Musk White Honey Vetiver",
+      "createdAt": "2026-05-04T04:41:31.518Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    }
+  ]
+}

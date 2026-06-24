@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 325,
+    "fragranceSlug": "giorgio-armani-armani-code-ultimate-325",
+    "brandName": "Giorgio Armani",
+    "brandSlug": "giorgio-armani",
+    "originalFragranceName": "Armani Code Ultimate",
+    "originalFragranceSlug": "giorgio-armani-armani-code-ultimate",
+    "mistifyProductName": "Code Ultime",
+    "mistifyProductSlug": "code-ultime",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/code-ultime",
+    "publicInspiredByLabel": "Giorgio Armani Armani Code Ultimate",
+    "audience": null,
+    "classification": "Sweet Woody / Aromatic Vanilla",
+    "topNotes": [
+      "Star Anise",
+      "Grapefruit",
+      "Mandarin Orange"
+    ],
+    "middleNotes": [
+      "Cedar",
+      "Cypress",
+      "Olive Blossom",
+      "Heliotrope"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Tonka Bean",
+      "Guaiac Wood"
+    ],
+    "allNotes": [
+      "Star Anise",
+      "Grapefruit",
+      "Mandarin Orange",
+      "Cedar",
+      "Cypress",
+      "Olive Blossom",
+      "Heliotrope",
+      "Vanilla",
+      "Tonka Bean",
+      "Guaiac Wood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar29_2026_11_40_51AM.png?v=1774802461",
+    "searchableText": "Giorgio Armani Giorgio Armani Armani Code Ultimate Code Ultime Sweet Woody / Aromatic Vanilla Star Anise Grapefruit Mandarin Orange Cedar Cypress Olive Blossom Heliotrope Vanilla Tonka Bean Guaiac Wood",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

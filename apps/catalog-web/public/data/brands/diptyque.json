@@ -1,0 +1,133 @@
+{
+  "brand": {
+    "brandName": "Diptyque",
+    "brandSlug": "diptyque",
+    "fragranceCount": 3,
+    "searchableText": "Do Son Do Sonara Inspired by Diptyque Do Son Diptyque diptyque Diptyque Do Son Do Sonara Floral womens African Orange Flower Iris Rose Tuberose Pink Pepper Musk Benzoin Eau Rihla Eau Relia Inspired by Diptyque Eau Rihla Diptyque diptyque Diptyque Eau Rihla Eau Relia Oriental Woody unisex Raspberry Saffron Pink Pepper Leather Iris Cedar Vanilla Musk Tam Dao Tam Dar Inspired by Diptyque Tam Dao Diptyque diptyque Diptyque Tam Dao Tam Dar Woody/Floral Woody Musk unisex Italian Cypress Myrtle Rose Sandalwood Cedar Brazilian Rosewood Spices Amber White Musk"
+  },
+  "fragrances": [
+    {
+      "id": 270,
+      "fragranceSlug": "diptyque-do-son-270",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Do Son",
+      "originalFragranceSlug": "diptyque-do-son",
+      "mistifyProductName": "Do Sonara",
+      "mistifyProductSlug": "do-sonara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/do-sonara",
+      "publicInspiredByLabel": "Inspired by Diptyque Do Son",
+      "audience": "womens",
+      "classification": "Floral",
+      "topNotes": [
+        "African Orange Flower",
+        "Iris",
+        "Rose"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Pink Pepper"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "African Orange Flower",
+        "Iris",
+        "Rose",
+        "Tuberose",
+        "Pink Pepper",
+        "Musk",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-23-08PM-_1.png?v=1773460372",
+      "searchableText": "Diptyque diptyque Diptyque Do Son Do Sonara Floral womens African Orange Flower Iris Rose Tuberose Pink Pepper Musk Benzoin",
+      "createdAt": "2026-05-04T04:41:40.444Z"
+    },
+    {
+      "id": 271,
+      "fragranceSlug": "diptyque-eau-rihla-271",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Eau Rihla",
+      "originalFragranceSlug": "diptyque-eau-rihla",
+      "mistifyProductName": "Eau Relia",
+      "mistifyProductSlug": "eau-relia",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eau-relia",
+      "publicInspiredByLabel": "Inspired by Diptyque Eau Rihla",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Iris",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Saffron",
+        "Pink Pepper",
+        "Leather",
+        "Iris",
+        "Cedar",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-50-51AM-_1.png?v=1773460377",
+      "searchableText": "Diptyque diptyque Diptyque Eau Rihla Eau Relia Oriental Woody unisex Raspberry Saffron Pink Pepper Leather Iris Cedar Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:40.507Z"
+    },
+    {
+      "id": 272,
+      "fragranceSlug": "diptyque-tam-dao-272",
+      "brandName": "Diptyque",
+      "brandSlug": "diptyque",
+      "originalFragranceName": "Tam Dao",
+      "originalFragranceSlug": "diptyque-tam-dao",
+      "mistifyProductName": "Tam Dar",
+      "mistifyProductSlug": "tam-dar",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/tam-dar",
+      "publicInspiredByLabel": "Inspired by Diptyque Tam Dao",
+      "audience": "unisex",
+      "classification": "Woody/Floral Woody Musk",
+      "topNotes": [
+        "Italian Cypress",
+        "Myrtle",
+        "Rose"
+      ],
+      "middleNotes": [
+        "Sandalwood",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Brazilian Rosewood",
+        "Spices",
+        "Amber",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Italian Cypress",
+        "Myrtle",
+        "Rose",
+        "Sandalwood",
+        "Cedar",
+        "Brazilian Rosewood",
+        "Spices",
+        "Amber",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_20_24AM.png?v=1774326032",
+      "searchableText": "Diptyque diptyque Diptyque Tam Dao Tam Dar Woody/Floral Woody Musk unisex Italian Cypress Myrtle Rose Sandalwood Cedar Brazilian Rosewood Spices Amber White Musk",
+      "createdAt": "2026-05-04T04:41:40.577Z"
+    }
+  ]
+}

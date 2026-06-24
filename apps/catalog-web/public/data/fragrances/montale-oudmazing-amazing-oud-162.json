@@ -1,0 +1,51 @@
+{
+  "fragrance": {
+    "id": 162,
+    "fragranceSlug": "montale-oudmazing-amazing-oud-162",
+    "brandName": "Montale",
+    "brandSlug": "montale",
+    "originalFragranceName": "Oudmazing / Amazing Oud",
+    "originalFragranceSlug": "montale-oudmazing-amazing-oud",
+    "mistifyProductName": "Amazingly Oud",
+    "mistifyProductSlug": "amazingly-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/amazingly-oud",
+    "publicInspiredByLabel": "Inspired by Montale Oudmazing / Amazing Oud",
+    "audience": "unisex",
+    "classification": "Woody Floral Musk",
+    "topNotes": [
+      "Oud",
+      "Fig",
+      "Pear",
+      "Sicilian Orange",
+      "Sicilian Bergamot"
+    ],
+    "middleNotes": [
+      "Patchouli Leaf",
+      "Orris",
+      "Egyptian Jasmine"
+    ],
+    "baseNotes": [
+      "Grapes",
+      "Madagascar Vanilla",
+      "Leather",
+      "White Musk"
+    ],
+    "allNotes": [
+      "Oud",
+      "Fig",
+      "Pear",
+      "Sicilian Orange",
+      "Sicilian Bergamot",
+      "Patchouli Leaf",
+      "Orris",
+      "Egyptian Jasmine",
+      "Grapes",
+      "Madagascar Vanilla",
+      "Leather",
+      "White Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/AmazinglyOud.png?v=1765422945",
+    "searchableText": "Montale montale Montale Oudmazing / Amazing Oud Amazingly Oud Woody Floral Musk unisex Oud Fig Pear Sicilian Orange Sicilian Bergamot Patchouli Leaf Orris Egyptian Jasmine Grapes Madagascar Vanilla Leather White Musk",
+    "createdAt": "2026-05-04T04:41:33.944Z"
+  }
+}

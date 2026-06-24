@@ -1,0 +1,318 @@
+{
+  "fragrances": [
+    {
+      "id": 209,
+      "fragranceSlug": "rabanne-invictus-209",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "Invictus",
+      "originalFragranceSlug": "rabanne-invictus",
+      "mistifyProductName": "Victorious",
+      "mistifyProductSlug": "victorious",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/victorious",
+      "publicInspiredByLabel": "Inspired by Rabanne Invictus",
+      "audience": "mens",
+      "classification": "Woody Aquatic",
+      "topNotes": [
+        "Sea Notes",
+        "Grapefruit",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Bay Leaf",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Guaiac Wood",
+        "Oakmoss",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Sea Notes",
+        "Grapefruit",
+        "Mandarin Orange",
+        "Bay Leaf",
+        "Jasmine",
+        "Ambergris",
+        "Guaiac Wood",
+        "Oakmoss",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Screenshot2025-12-04at12.01.14PM.png?v=1765422965",
+      "searchableText": "Rabanne paco rabanne Paco Rabanne Invictus Victorious Woody Aquatic mens Sea Notes Grapefruit Mandarin Orange Bay Leaf Jasmine Ambergris Guaiac Wood Oakmoss Patchouli",
+      "createdAt": "2026-05-04T04:41:36.760Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Mandarin Orange",
+        "Guaiac Wood"
+      ]
+    },
+    {
+      "id": 23,
+      "fragranceSlug": "maison-francis-kurkdjian-grand-soir-23",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Grand Soir",
+      "originalFragranceSlug": "maison-francis-kurkdjian-grand-soir",
+      "mistifyProductName": "Grand Soirelle",
+      "mistifyProductSlug": "grand-soirelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/grand-soirelle",
+      "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Grand Soir",
+      "audience": "unisex",
+      "classification": "Oriental Amber",
+      "topNotes": [
+        "Spanish Labdanum",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Siam Benzoin"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Spanish Labdanum",
+        "Orange",
+        "Lavender",
+        "Siam Benzoin",
+        "Amber",
+        "Vanilla",
+        "Tonka Bean",
+        "Musk",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov20-2025-10-17-02AM-_1.png?v=1773460207",
+      "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Grand Soir Grand Soirelle Oriental Amber unisex Spanish Labdanum Orange Lavender Siam Benzoin Amber Vanilla Tonka Bean Musk Cedar",
+      "createdAt": "2026-05-04T04:41:25.837Z",
+      "sharedNotes": [
+        "Cedar",
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 305,
+      "fragranceSlug": "chanel-coco-mademoiselle-305",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Coco Mademoiselle",
+      "originalFragranceSlug": "chanel-coco-mademoiselle",
+      "mistifyProductName": "Cocoiselle",
+      "mistifyProductSlug": "cocoiselle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cocoiselle",
+      "publicInspiredByLabel": "Chanel Coco Mademoiselle",
+      "audience": null,
+      "classification": "Citrus Floral / Patchouli Amber",
+      "topNotes": [
+        "Orange",
+        "Mandarin Orange",
+        "Bergamot",
+        "Orange Blossom"
+      ],
+      "middleNotes": [
+        "Turkish Rose",
+        "Jasmine",
+        "Mimosa",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "White Musk",
+        "Vanilla",
+        "Vetiver",
+        "Tonka Bean",
+        "Opoponax"
+      ],
+      "allNotes": [
+        "Orange",
+        "Mandarin Orange",
+        "Bergamot",
+        "Orange Blossom",
+        "Turkish Rose",
+        "Jasmine",
+        "Mimosa",
+        "Ylang-Ylang",
+        "Patchouli",
+        "White Musk",
+        "Vanilla",
+        "Vetiver",
+        "Tonka Bean",
+        "Opoponax"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_10_27PM.png?v=1781712637",
+      "searchableText": "Chanel Chanel Coco Mademoiselle Cocoiselle Citrus Floral / Patchouli Amber Orange Mandarin Orange Bergamot Orange Blossom Turkish Rose Jasmine Mimosa Ylang-Ylang Patchouli White Musk Vanilla Vetiver Tonka Bean Opoponax",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Mandarin Orange",
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 247,
+      "fragranceSlug": "penhaligon-s-halfeti-247",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti",
+      "originalFragranceSlug": "penhaligon-s-halfeti",
+      "mistifyProductName": "Halfeti Rose",
+      "mistifyProductSlug": "halfeti-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit",
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine",
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_43_29AM.png?v=1765422933",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Halfeti Rose Oriental Woody unisex Cypress Leaf Saffron Cardamom Artemisia Bergamot Grapefruit Bulgarian Rose Nutmeg Jasmine Oud Cedar Leather Sandalwood Amber Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:39.038Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Cedar",
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 68,
+      "fragranceSlug": "kilian-rolling-in-love-68",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rolling in Love",
+      "originalFragranceSlug": "kilian-rolling-in-love",
+      "mistifyProductName": "Rolling in Hearts",
+      "mistifyProductSlug": "rolling-in-hearts",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rolling-in-hearts",
+      "publicInspiredByLabel": "Inspired by Kilian Rolling in Love",
+      "audience": "unisex",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Almond Milk",
+        "Ambrette"
+      ],
+      "middleNotes": [
+        "Freesia",
+        "Iris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Almond Milk",
+        "Ambrette",
+        "Freesia",
+        "Iris",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RollinginHearts.png?v=1765422919",
+      "searchableText": "Kilian kilian By Kilian Rolling in Love Rolling in Hearts Floral Oriental unisex Almond Milk Ambrette Freesia Iris Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:28.450Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ]
+    },
+    {
+      "id": 204,
+      "fragranceSlug": "xerjoff-uden-204",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Uden",
+      "originalFragranceSlug": "xerjoff-uden",
+      "mistifyProductName": "Udin",
+      "mistifyProductSlug": "udin",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/udin",
+      "publicInspiredByLabel": "Inspired by Xerjoff Uden",
+      "audience": "unisex",
+      "classification": "Aromatic Spicy",
+      "topNotes": [
+        "Citruses",
+        "Lemon",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Rum",
+        "Guaiac Wood",
+        "Sandalwood",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Coffee",
+        "Musk",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Citruses",
+        "Lemon",
+        "Grapefruit",
+        "Rum",
+        "Guaiac Wood",
+        "Sandalwood",
+        "Rose",
+        "Vanilla",
+        "Coffee",
+        "Musk",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-59-07PM-_1.png?v=1773460341",
+      "searchableText": "Xerjoff xerjoff Xerjoff Uden Udin Aromatic Spicy unisex Citruses Lemon Grapefruit Rum Guaiac Wood Sandalwood Rose Vanilla Coffee Musk Ambergris",
+      "createdAt": "2026-05-04T04:41:36.455Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Vanilla",
+        "Guaiac Wood"
+      ]
+    }
+  ]
+}

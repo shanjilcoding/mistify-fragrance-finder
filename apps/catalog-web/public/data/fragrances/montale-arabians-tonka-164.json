@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 164,
+    "fragranceSlug": "montale-arabians-tonka-164",
+    "brandName": "Montale",
+    "brandSlug": "montale",
+    "originalFragranceName": "Arabians Tonka",
+    "originalFragranceSlug": "montale-arabians-tonka",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Montale Arabians Tonka",
+    "audience": null,
+    "classification": "Oriental Woody",
+    "topNotes": [
+      "Saffron",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Oud",
+      "Bulgarian Rose"
+    ],
+    "baseNotes": [
+      "Tonka Bean",
+      "Sugar Cane",
+      "Amber",
+      "White Musk",
+      "Oakmoss"
+    ],
+    "allNotes": [
+      "Saffron",
+      "Bergamot",
+      "Oud",
+      "Bulgarian Rose",
+      "Tonka Bean",
+      "Sugar Cane",
+      "Amber",
+      "White Musk",
+      "Oakmoss"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Montale montale Montale Arabians Tonka Not verified Oriental Woody Saffron Bergamot Oud Bulgarian Rose Tonka Bean Sugar Cane Amber White Musk Oakmoss",
+    "createdAt": "2026-05-04T04:41:34.064Z"
+  }
+}

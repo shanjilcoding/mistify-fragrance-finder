@@ -1,0 +1,96 @@
+{
+  "brand": {
+    "brandName": "Maison Crivelli",
+    "brandSlug": "maison-crivelli",
+    "fragranceCount": 2,
+    "searchableText": "Hibiscus Mahajad Hibi-Majesty Inspired by Maison Crivelli Hibiscus Mahajad Maison Crivelli maison crivelli Maison Crivelli Hibiscus Mahajad Hibi-Majesty Floral Oriental Fruity unisex Hibiscus Damask Rose Vanilla Cassis Leather Peppermint Ambrette Cinnamon Oud Stallion Not verified Inspired by Maison Crivelli Oud Stallion Maison Crivelli maison crivelli Maison Crivelli Oud Stallion Not verified Oriental Woody Saffron Cardamom Indonesian Nutmeg Jasmine Osmanthus Turkish Rose Oud Leather Cedar Patchouli Tonka"
+  },
+  "fragrances": [
+    {
+      "id": 212,
+      "fragranceSlug": "maison-crivelli-hibiscus-mahajad-212",
+      "brandName": "Maison Crivelli",
+      "brandSlug": "maison-crivelli",
+      "originalFragranceName": "Hibiscus Mahajad",
+      "originalFragranceSlug": "maison-crivelli-hibiscus-mahajad",
+      "mistifyProductName": "Hibi-Majesty",
+      "mistifyProductSlug": "hibi-majesty",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hibi-majesty",
+      "publicInspiredByLabel": "Inspired by Maison Crivelli Hibiscus Mahajad",
+      "audience": "unisex",
+      "classification": "Floral Oriental Fruity",
+      "topNotes": [],
+      "middleNotes": [
+        "Hibiscus",
+        "Damask Rose",
+        "Vanilla",
+        "Cassis",
+        "Leather",
+        "Peppermint",
+        "Ambrette",
+        "Cinnamon"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Hibiscus",
+        "Damask Rose",
+        "Vanilla",
+        "Cassis",
+        "Leather",
+        "Peppermint",
+        "Ambrette",
+        "Cinnamon"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-29-44PM-_1.png?v=1773460300",
+      "searchableText": "Maison Crivelli maison crivelli Maison Crivelli Hibiscus Mahajad Hibi-Majesty Floral Oriental Fruity unisex Hibiscus Damask Rose Vanilla Cassis Leather Peppermint Ambrette Cinnamon",
+      "createdAt": "2026-05-04T04:41:36.926Z"
+    },
+    {
+      "id": 213,
+      "fragranceSlug": "maison-crivelli-oud-stallion-213",
+      "brandName": "Maison Crivelli",
+      "brandSlug": "maison-crivelli",
+      "originalFragranceName": "Oud Stallion",
+      "originalFragranceSlug": "maison-crivelli-oud-stallion",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Maison Crivelli Oud Stallion",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Saffron",
+        "Cardamom",
+        "Indonesian Nutmeg"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Osmanthus",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Cedar",
+        "Patchouli",
+        "Tonka"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Cardamom",
+        "Indonesian Nutmeg",
+        "Jasmine",
+        "Osmanthus",
+        "Turkish Rose",
+        "Oud",
+        "Leather",
+        "Cedar",
+        "Patchouli",
+        "Tonka"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Maison Crivelli maison crivelli Maison Crivelli Oud Stallion Not verified Oriental Woody Saffron Cardamom Indonesian Nutmeg Jasmine Osmanthus Turkish Rose Oud Leather Cedar Patchouli Tonka",
+      "createdAt": "2026-05-04T04:41:36.980Z"
+    }
+  ]
+}

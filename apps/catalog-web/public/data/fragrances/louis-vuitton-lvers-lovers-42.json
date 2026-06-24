@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 42,
+    "fragranceSlug": "louis-vuitton-lvers-lovers-42",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "LVERS / Lovers",
+    "originalFragranceSlug": "louis-vuitton-lvers-lovers",
+    "mistifyProductName": "LOVERS",
+    "mistifyProductSlug": "lovers",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/solar-essence",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton LVERS / Lovers",
+    "audience": "unisex",
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Galbanum",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Ginger",
+      "Solar Notes"
+    ],
+    "baseNotes": [
+      "Sandalwood",
+      "Cedarwood"
+    ],
+    "allNotes": [
+      "Galbanum",
+      "Bergamot",
+      "Ginger",
+      "Solar Notes",
+      "Sandalwood",
+      "Cedarwood"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton LVERS / Lovers LOVERS Woody Aromatic unisex Galbanum Bergamot Ginger Solar Notes Sandalwood Cedarwood",
+    "createdAt": "2026-05-04T04:41:26.948Z"
+  }
+}

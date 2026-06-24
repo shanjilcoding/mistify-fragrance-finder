@@ -1,0 +1,306 @@
+{
+  "brand": {
+    "brandName": "Kayali",
+    "brandSlug": "kayali",
+    "fragranceCount": 6,
+    "searchableText": "Lovefest Burning Cherry 48 Loving Flaming Cherry 49 Inspired by Kayali Lovefest Burning Cherry 48 Kayali kayali Kayali Lovefest Burning Cherry 48 Loving Flaming Cherry 49 Floral Fruity Gourmand/Warm Sweet Gourmand unisex Black Cherry Raspberry Bergamot Rose Damascena Jasmine Sambac Heliotrope Praline Palo Santo Patchouli Ambrettolide Peru Balsam Vetiver Guaiac Wood Oudgasm Tobacco Oud 04 Oudgasma Tobaccoe Inspired by Kayali Oudgasm Tobacco Oud 04 Kayali kayali Kayali Oudgasm Tobacco Oud 04 Oudgasma Tobaccoe Woody/Earthy,Oud Tobacco unisex Mandarin Clary Sage Plum White Honey Geranium Clove Saffron Tobacco Leaf Patchouli Vanilla Benzoin Praline Oud Vanilla 28 Vanille 28 Kayali Vanilla 28 Kayali Kayali Vanilla 28 Vanille 28 Amber Vanilla / Gourmand Vanilla Orchid Jasmine Brown Sugar Tonka Bean Amber Amberwood Musk Patchouli Vanilla Candy Rock Sugar | 42 Sugar Vanilla 42 Kayali Vanilla Candy Rock Sugar | 42 Kayali Kayali Vanilla Candy Rock Sugar | 42 Sugar Vanilla 42 Gourmand / Sweet Amber Vanilla Pear Marshmallow Rum Violet Leaves Ylang-Ylang Bubble Gum Jellybean Caramel Jasmine Labdanum Sugar Patchouli Tonka Cashmere Wood Sandalwood Vetiver Yum Boujee Marshmallow Boujee Mallows Kayali Yum Boujee Marshmallow Kayali Kayali Yum Boujee Marshmallow Boujee Mallows Floral Fruity Gourmand Freesia Italian Lemon Nectarine Blossom Apple Marshmallow Strawberry Coconut Orange Blossom Whipped Vanilla Sugar Musk Raspberry Ambroxan Yum Pistachio Gelato 33 Yummy Pistachio & Gelato 34 Inspired by Kayali Yum Pistachio Gelato 33 Kayali kayali Kayali Yum Pistachio Gelato 33 Yummy Pistachio & Gelato 34 Gourmand womens Pistachio Hazelnut Cardamom Gelato Accord Jasmine White Peony Vanilla Whipped Cream Sandalwood"
+  },
+  "fragrances": [
+    {
+      "id": 250,
+      "fragranceSlug": "kayali-lovefest-burning-cherry-48-250",
+      "brandName": "Kayali",
+      "brandSlug": "kayali",
+      "originalFragranceName": "Lovefest Burning Cherry 48",
+      "originalFragranceSlug": "kayali-lovefest-burning-cherry-48",
+      "mistifyProductName": "Loving Flaming Cherry 49",
+      "mistifyProductSlug": "loving-flaming-cherry-49",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/loving-flaming-cherry-49?variant=49907914604863",
+      "publicInspiredByLabel": "Inspired by Kayali Lovefest Burning Cherry 48",
+      "audience": "unisex",
+      "classification": "Floral Fruity Gourmand/Warm Sweet Gourmand",
+      "topNotes": [
+        "Black Cherry",
+        "Raspberry",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose Damascena",
+        "Jasmine Sambac",
+        "Heliotrope",
+        "Praline"
+      ],
+      "baseNotes": [
+        "Palo Santo",
+        "Patchouli",
+        "Ambrettolide",
+        "Peru Balsam",
+        "Vetiver",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Black Cherry",
+        "Raspberry",
+        "Bergamot",
+        "Rose Damascena",
+        "Jasmine Sambac",
+        "Heliotrope",
+        "Praline",
+        "Palo Santo",
+        "Patchouli",
+        "Ambrettolide",
+        "Peru Balsam",
+        "Vetiver",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_11_04_38PM.png?v=1774407885",
+      "searchableText": "Kayali kayali Kayali Lovefest Burning Cherry 48 Loving Flaming Cherry 49 Floral Fruity Gourmand/Warm Sweet Gourmand unisex Black Cherry Raspberry Bergamot Rose Damascena Jasmine Sambac Heliotrope Praline Palo Santo Patchouli Ambrettolide Peru Balsam Vetiver Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:39.218Z"
+    },
+    {
+      "id": 252,
+      "fragranceSlug": "kayali-oudgasm-tobacco-oud-04-252",
+      "brandName": "Kayali",
+      "brandSlug": "kayali",
+      "originalFragranceName": "Oudgasm Tobacco Oud 04",
+      "originalFragranceSlug": "kayali-oudgasm-tobacco-oud-04",
+      "mistifyProductName": "Oudgasma Tobaccoe",
+      "mistifyProductSlug": "oudgasma-tobaccoe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oudgasma-tobaccoe",
+      "publicInspiredByLabel": "Inspired by Kayali Oudgasm Tobacco Oud 04",
+      "audience": "unisex",
+      "classification": "Woody/Earthy,Oud Tobacco",
+      "topNotes": [
+        "Mandarin",
+        "Clary Sage",
+        "Plum",
+        "White Honey",
+        "Geranium"
+      ],
+      "middleNotes": [
+        "Clove",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Tobacco Leaf",
+        "Patchouli",
+        "Vanilla",
+        "Benzoin",
+        "Praline",
+        "Oud"
+      ],
+      "allNotes": [
+        "Mandarin",
+        "Clary Sage",
+        "Plum",
+        "White Honey",
+        "Geranium",
+        "Clove",
+        "Saffron",
+        "Tobacco Leaf",
+        "Patchouli",
+        "Vanilla",
+        "Benzoin",
+        "Praline",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_11_25_03PM.png?v=1774409114",
+      "searchableText": "Kayali kayali Kayali Oudgasm Tobacco Oud 04 Oudgasma Tobaccoe Woody/Earthy,Oud Tobacco unisex Mandarin Clary Sage Plum White Honey Geranium Clove Saffron Tobacco Leaf Patchouli Vanilla Benzoin Praline Oud",
+      "createdAt": "2026-05-04T04:41:39.344Z"
+    },
+    {
+      "id": 304,
+      "fragranceSlug": "kayali-vanilla-28-304",
+      "brandName": "Kayali",
+      "brandSlug": "kayali",
+      "originalFragranceName": "Vanilla 28",
+      "originalFragranceSlug": "kayali-vanilla-28",
+      "mistifyProductName": "Vanille 28",
+      "mistifyProductSlug": "vanille-28",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vanille-28",
+      "publicInspiredByLabel": "Kayali Vanilla 28",
+      "audience": null,
+      "classification": "Amber Vanilla / Gourmand",
+      "topNotes": [
+        "Vanilla Orchid",
+        "Jasmine"
+      ],
+      "middleNotes": [
+        "Brown Sugar",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Amberwood",
+        "Musk",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Vanilla Orchid",
+        "Jasmine",
+        "Brown Sugar",
+        "Tonka Bean",
+        "Amber",
+        "Amberwood",
+        "Musk",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_13_39PM.png?v=1781712827",
+      "searchableText": "Kayali Kayali Vanilla 28 Vanille 28 Amber Vanilla / Gourmand Vanilla Orchid Jasmine Brown Sugar Tonka Bean Amber Amberwood Musk Patchouli",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 330,
+      "fragranceSlug": "kayali-vanilla-candy-rock-sugar-42-330",
+      "brandName": "Kayali",
+      "brandSlug": "kayali",
+      "originalFragranceName": "Vanilla Candy Rock Sugar | 42",
+      "originalFragranceSlug": "kayali-vanilla-candy-rock-sugar-42",
+      "mistifyProductName": "Sugar Vanilla 42",
+      "mistifyProductSlug": "sugar-vanilla-42",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sugar-vanilla-42",
+      "publicInspiredByLabel": "Kayali Vanilla Candy Rock Sugar | 42",
+      "audience": null,
+      "classification": "Gourmand / Sweet Amber",
+      "topNotes": [
+        "Vanilla",
+        "Pear",
+        "Marshmallow",
+        "Rum",
+        "Violet Leaves",
+        "Ylang-Ylang"
+      ],
+      "middleNotes": [
+        "Bubble Gum",
+        "Jellybean",
+        "Caramel",
+        "Jasmine",
+        "Labdanum"
+      ],
+      "baseNotes": [
+        "Sugar",
+        "Patchouli",
+        "Tonka",
+        "Cashmere Wood",
+        "Sandalwood",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Vanilla",
+        "Pear",
+        "Marshmallow",
+        "Rum",
+        "Violet Leaves",
+        "Ylang-Ylang",
+        "Bubble Gum",
+        "Jellybean",
+        "Caramel",
+        "Jasmine",
+        "Labdanum",
+        "Sugar",
+        "Patchouli",
+        "Tonka",
+        "Cashmere Wood",
+        "Sandalwood",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb18-2026-01-09-38PM-e9239fe9-5bad-4143-92ff-b14b95fdd315-_1.png?v=1773460138",
+      "searchableText": "Kayali Kayali Vanilla Candy Rock Sugar | 42 Sugar Vanilla 42 Gourmand / Sweet Amber Vanilla Pear Marshmallow Rum Violet Leaves Ylang-Ylang Bubble Gum Jellybean Caramel Jasmine Labdanum Sugar Patchouli Tonka Cashmere Wood Sandalwood Vetiver",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 322,
+      "fragranceSlug": "kayali-yum-boujee-marshmallow-322",
+      "brandName": "Kayali",
+      "brandSlug": "kayali",
+      "originalFragranceName": "Yum Boujee Marshmallow",
+      "originalFragranceSlug": "kayali-yum-boujee-marshmallow",
+      "mistifyProductName": "Boujee Mallows",
+      "mistifyProductSlug": "boujee-mallows",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/boujee-mallows",
+      "publicInspiredByLabel": "Kayali Yum Boujee Marshmallow",
+      "audience": null,
+      "classification": "Floral Fruity Gourmand",
+      "topNotes": [
+        "Freesia",
+        "Italian Lemon",
+        "Nectarine Blossom",
+        "Apple"
+      ],
+      "middleNotes": [
+        "Marshmallow",
+        "Strawberry",
+        "Coconut",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Whipped Vanilla",
+        "Sugar",
+        "Musk",
+        "Raspberry",
+        "Ambroxan"
+      ],
+      "allNotes": [
+        "Freesia",
+        "Italian Lemon",
+        "Nectarine Blossom",
+        "Apple",
+        "Marshmallow",
+        "Strawberry",
+        "Coconut",
+        "Orange Blossom",
+        "Whipped Vanilla",
+        "Sugar",
+        "Musk",
+        "Raspberry",
+        "Ambroxan"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-35-42PM-_1.png?v=1773460295",
+      "searchableText": "Kayali Kayali Yum Boujee Marshmallow Boujee Mallows Floral Fruity Gourmand Freesia Italian Lemon Nectarine Blossom Apple Marshmallow Strawberry Coconut Orange Blossom Whipped Vanilla Sugar Musk Raspberry Ambroxan",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 251,
+      "fragranceSlug": "kayali-yum-pistachio-gelato-33-251",
+      "brandName": "Kayali",
+      "brandSlug": "kayali",
+      "originalFragranceName": "Yum Pistachio Gelato 33",
+      "originalFragranceSlug": "kayali-yum-pistachio-gelato-33",
+      "mistifyProductName": "Yummy Pistachio & Gelato 34",
+      "mistifyProductSlug": "yummy-pistachio-and-gelato-34",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/yummy-pistachio-gelato-34",
+      "publicInspiredByLabel": "Inspired by Kayali Yum Pistachio Gelato 33",
+      "audience": "womens",
+      "classification": "Gourmand",
+      "topNotes": [
+        "Pistachio",
+        "Hazelnut",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Gelato Accord",
+        "Jasmine",
+        "White Peony"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Whipped Cream",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Pistachio",
+        "Hazelnut",
+        "Cardamom",
+        "Gelato Accord",
+        "Jasmine",
+        "White Peony",
+        "Vanilla",
+        "Whipped Cream",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-11-22-00PM-_1.png?v=1773460382",
+      "searchableText": "Kayali kayali Kayali Yum Pistachio Gelato 33 Yummy Pistachio & Gelato 34 Gourmand womens Pistachio Hazelnut Cardamom Gelato Accord Jasmine White Peony Vanilla Whipped Cream Sandalwood",
+      "createdAt": "2026-05-04T04:41:39.281Z"
+    }
+  ]
+}

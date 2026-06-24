@@ -1,0 +1,283 @@
+{
+  "fragrances": [
+    {
+      "id": 229,
+      "fragranceSlug": "tiziana-terenzi-gumin-229",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Gumin",
+      "originalFragranceSlug": "tiziana-terenzi-gumin",
+      "mistifyProductName": "Gemine",
+      "mistifyProductSlug": "gemine",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gemine",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Gumin",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Mandarin Orange",
+        "Orange",
+        "Pineapple",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Ozonic Notes",
+        "Amber",
+        "Violet",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Orange",
+        "Pineapple",
+        "Bergamot",
+        "Ozonic Notes",
+        "Amber",
+        "Violet",
+        "Jasmine",
+        "Rose",
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Gemine-_1.png?v=1773460415",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Gumin Gemine Not listed clearly by Fragrantica unisex Mandarin Orange Orange Pineapple Bergamot Ozonic Notes Amber Violet Jasmine Rose Musk Sandalwood Birch Oud",
+      "createdAt": "2026-05-04T04:41:37.940Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Oud",
+        "Amber"
+      ]
+    },
+    {
+      "id": 184,
+      "fragranceSlug": "mind-games-j-adoube-184",
+      "brandName": "Mind Games",
+      "brandSlug": "mind-games",
+      "originalFragranceName": "J’Adoube",
+      "originalFragranceSlug": "mind-games-j-adoube",
+      "mistifyProductName": "Jadoubelle",
+      "mistifyProductSlug": "jadoubelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/jadoubelle",
+      "publicInspiredByLabel": "Inspired by Mind Games J’Adoube",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Red Currant",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Pomegranate",
+        "Damask Rose"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Patchouli",
+        "Benzoin",
+        "Amber"
+      ],
+      "allNotes": [
+        "Red Currant",
+        "Mandarin Orange",
+        "Pomegranate",
+        "Damask Rose",
+        "Leather",
+        "Patchouli",
+        "Benzoin",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov12-2025-07-34-41PM-_1.png?v=1773460224",
+      "searchableText": "Mind Games mind games Mind Games J’Adoube Jadoubelle Not listed clearly by Fragrantica unisex Red Currant Mandarin Orange Pomegranate Damask Rose Leather Patchouli Benzoin Amber",
+      "createdAt": "2026-05-04T04:41:35.232Z",
+      "sharedNotes": [
+        "Amber",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 268,
+      "fragranceSlug": "byredo-animalique-268",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Animalique",
+      "originalFragranceSlug": "byredo-animalique",
+      "mistifyProductName": "Animal Instincts",
+      "mistifyProductSlug": "animal-instincts",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/animal-instincts",
+      "publicInspiredByLabel": "Inspired by Byredo Animalique",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Violet",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Tobacco Leaf",
+        "Amber"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Violet",
+        "Mimosa",
+        "Suede",
+        "Tobacco Leaf",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-19-10PM-_1.png?v=1773460283",
+      "searchableText": "Byredo byredo Byredo Animalique Animal Instincts Oriental Floral unisex Bergamot Lemon Violet Mimosa Suede Tobacco Leaf Amber",
+      "createdAt": "2026-05-04T04:41:40.321Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Suede",
+        "Amber"
+      ]
+    },
+    {
+      "id": 239,
+      "fragranceSlug": "nasomatto-sadonaso-239",
+      "brandName": "Nasomatto",
+      "brandSlug": "nasomatto",
+      "originalFragranceName": "Sadonaso",
+      "originalFragranceSlug": "nasomatto-sadonaso",
+      "mistifyProductName": "Sadonara",
+      "mistifyProductSlug": "sadonara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sadonara",
+      "publicInspiredByLabel": "Inspired by Nasomatto Sadonaso",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Coffee"
+      ],
+      "middleNotes": [
+        "Musk",
+        "Tobacco",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Animal Notes",
+        "Amber",
+        "Tonka"
+      ],
+      "allNotes": [
+        "Coffee",
+        "Musk",
+        "Tobacco",
+        "Sandalwood",
+        "Vanilla",
+        "Animal Notes",
+        "Amber",
+        "Tonka"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_04_24_06PM_cfd3cae7-8aeb-47b7-bea5-26c69f6e9c0d.png?v=1778617465",
+      "searchableText": "Nasomatto nasomatto Nasomatto Sadonaso Sadonara Not listed clearly by Fragrantica unisex Coffee Musk Tobacco Sandalwood Vanilla Animal Notes Amber Tonka",
+      "createdAt": "2026-05-04T04:41:38.543Z",
+      "sharedNotes": [
+        "Amber"
+      ]
+    },
+    {
+      "id": 183,
+      "fragranceSlug": "mind-games-double-attack-183",
+      "brandName": "Mind Games",
+      "brandSlug": "mind-games",
+      "originalFragranceName": "Double Attack",
+      "originalFragranceSlug": "mind-games-double-attack",
+      "mistifyProductName": "Double Attraque",
+      "mistifyProductSlug": "double-attraque",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/double-attraque",
+      "publicInspiredByLabel": "Inspired by Mind Games Double Attack",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Bitter Orange",
+        "Pimento",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Agave",
+        "Geranium"
+      ],
+      "baseNotes": [
+        "Dark Chocolate",
+        "Madagascar Vanilla",
+        "Sandalwood",
+        "Bourbon Vetiver"
+      ],
+      "allNotes": [
+        "Bitter Orange",
+        "Pimento",
+        "Pink Pepper",
+        "Cinnamon",
+        "Agave",
+        "Geranium",
+        "Dark Chocolate",
+        "Madagascar Vanilla",
+        "Sandalwood",
+        "Bourbon Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov12-2025-07-31-44PM-_1.png?v=1773460228",
+      "searchableText": "Mind Games mind games Mind Games Double Attack Double Attraque Not listed clearly by Fragrantica unisex Bitter Orange Pimento Pink Pepper Cinnamon Agave Geranium Dark Chocolate Madagascar Vanilla Sandalwood Bourbon Vetiver",
+      "createdAt": "2026-05-04T04:41:35.174Z",
+      "sharedNotes": [
+        "Pink Pepper"
+      ]
+    },
+    {
+      "id": 79,
+      "fragranceSlug": "tom-ford-lavender-extreme-79",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lavender Extreme",
+      "originalFragranceSlug": "tom-ford-lavender-extreme",
+      "mistifyProductName": "Lavender Extremism",
+      "mistifyProductSlug": "lavender-extremism",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lavender-extremism",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lavender Extreme",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LavenderExtremism.png?v=1765422873",
+      "searchableText": "Tom Ford tom ford Tom Ford Lavender Extreme Lavender Extremism Aromatic unisex Lavender Bergamot Cinnamon Tonka Bean Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:29.108Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Lavender",
+        "Patchouli"
+      ]
+    }
+  ]
+}

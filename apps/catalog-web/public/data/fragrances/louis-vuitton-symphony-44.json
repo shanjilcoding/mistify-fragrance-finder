@@ -1,0 +1,31 @@
+{
+  "fragrance": {
+    "id": 44,
+    "fragranceSlug": "louis-vuitton-symphony-44",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Symphony",
+    "originalFragranceSlug": "louis-vuitton-symphony",
+    "mistifyProductName": "Synchrony",
+    "mistifyProductSlug": "synchrony",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/synchrony",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Symphony",
+    "audience": "unisex",
+    "classification": "Citrus",
+    "topNotes": [],
+    "middleNotes": [
+      "Grapefruit",
+      "Bergamot",
+      "Ginger"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Grapefruit",
+      "Bergamot",
+      "Ginger"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_44_42PM.png?v=1765422838",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Symphony Synchrony Citrus unisex Grapefruit Bergamot Ginger",
+    "createdAt": "2026-05-04T04:41:27.061Z"
+  }
+}

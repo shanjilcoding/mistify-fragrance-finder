@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 97,
+    "fragranceSlug": "parfums-de-marly-althair-97",
+    "brandName": "Parfums de Marly",
+    "brandSlug": "parfums-de-marly",
+    "originalFragranceName": "Althair",
+    "originalFragranceSlug": "parfums-de-marly-althair",
+    "mistifyProductName": "Altair",
+    "mistifyProductSlug": "altair",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/altair",
+    "publicInspiredByLabel": "Inspired by Parfums de Marly Althair",
+    "audience": "unisex",
+    "classification": "Oriental Vanilla",
+    "topNotes": [
+      "Orange Blossom",
+      "Bergamot",
+      "Cinnamon",
+      "Cardamom"
+    ],
+    "middleNotes": [
+      "Bourbon Vanilla",
+      "Elemi"
+    ],
+    "baseNotes": [
+      "Praline",
+      "Musk",
+      "Ambroxan",
+      "Guaiac Wood"
+    ],
+    "allNotes": [
+      "Orange Blossom",
+      "Bergamot",
+      "Cinnamon",
+      "Cardamom",
+      "Bourbon Vanilla",
+      "Elemi",
+      "Praline",
+      "Musk",
+      "Ambroxan",
+      "Guaiac Wood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-10-18PM-_1.png?v=1773460503",
+    "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Althair Altair Oriental Vanilla unisex Orange Blossom Bergamot Cinnamon Cardamom Bourbon Vanilla Elemi Praline Musk Ambroxan Guaiac Wood",
+    "createdAt": "2026-05-04T04:41:30.144Z"
+  }
+}

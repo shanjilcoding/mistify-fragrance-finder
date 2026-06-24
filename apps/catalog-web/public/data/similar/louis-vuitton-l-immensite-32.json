@@ -1,0 +1,297 @@
+{
+  "fragrances": [
+    {
+      "id": 191,
+      "fragranceSlug": "dolce-and-gabbana-light-blue-191",
+      "brandName": "Dolce & Gabbana",
+      "brandSlug": "dolce-and-gabbana",
+      "originalFragranceName": "Light Blue",
+      "originalFragranceSlug": "dolce-and-gabbana-light-blue",
+      "mistifyProductName": "Lumine Bleu",
+      "mistifyProductSlug": "lumine-bleu",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lumine-bleu",
+      "publicInspiredByLabel": "Inspired by Dolce & Gabbana Light Blue",
+      "audience": "unisex",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Sicilian Mandarin",
+        "Juniper",
+        "Pepper",
+        "Rosemary",
+        "Brazilian Rosewood",
+        "Musk",
+        "Incense",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-04-05AM-_1.png?v=1773460205",
+      "searchableText": "Dolce & Gabbana dolce and gabbana Dolce & Gabbana Light Blue Lumine Bleu Citrus Aromatic unisex Grapefruit Bergamot Sicilian Mandarin Juniper Pepper Rosemary Brazilian Rosewood Musk Incense Oakmoss",
+      "createdAt": "2026-05-04T04:41:35.651Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Rosemary"
+      ]
+    },
+    {
+      "id": 110,
+      "fragranceSlug": "parfums-de-marly-castley-110",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Castley",
+      "originalFragranceSlug": "parfums-de-marly-castley",
+      "mistifyProductName": "Castellan",
+      "mistifyProductSlug": "castellan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/castellan",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Castley",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Bergamot",
+        "Black Pepper",
+        "Ginger",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Neroli",
+        "Petitgrain",
+        "Timur",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Akigalawood",
+        "Labdanum",
+        "Benzoin",
+        "Leather"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Pepper",
+        "Ginger",
+        "Grapefruit",
+        "Pepper",
+        "Neroli",
+        "Petitgrain",
+        "Timur",
+        "Rose",
+        "Akigalawood",
+        "Labdanum",
+        "Benzoin",
+        "Leather"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-29-17AM-_1.png?v=1773460238",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Castley Castellan Citrus Aromatic mens Bergamot Black Pepper Ginger Grapefruit Pepper Neroli Petitgrain Timur Rose Akigalawood Labdanum Benzoin Leather",
+      "createdAt": "2026-05-04T04:41:30.917Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Bergamot"
+      ]
+    },
+    {
+      "id": 217,
+      "fragranceSlug": "ermenegildo-zegna-italian-bergamot-217",
+      "brandName": "Ermenegildo Zegna",
+      "brandSlug": "ermenegildo-zegna",
+      "originalFragranceName": "Italian Bergamot",
+      "originalFragranceSlug": "ermenegildo-zegna-italian-bergamot",
+      "mistifyProductName": "Island Vetiver",
+      "mistifyProductSlug": "island-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/island-vetiver",
+      "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Italian Bergamot",
+      "audience": null,
+      "classification": "Citrus Aromatic",
+      "topNotes": [],
+      "middleNotes": [
+        "Bergamot",
+        "Neroli",
+        "Rosemary",
+        "Vetiver"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Bergamot",
+        "Neroli",
+        "Rosemary",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_07_33AM.png?v=1774325260",
+      "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Italian Bergamot Island Vetiver Citrus Aromatic Bergamot Neroli Rosemary Vetiver",
+      "createdAt": "2026-05-04T04:41:37.209Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Rosemary"
+      ]
+    },
+    {
+      "id": 107,
+      "fragranceSlug": "parfums-de-marly-percival-107",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Percival",
+      "originalFragranceSlug": "parfums-de-marly-percival",
+      "mistifyProductName": "Perception",
+      "mistifyProductSlug": "perception",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/perception",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Percival",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Bergamot",
+        "Geranium"
+      ],
+      "middleNotes": [
+        "Hedione",
+        "Violet",
+        "Jasmine",
+        "Coriander",
+        "Cinnamon"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Amberwood",
+        "Musk",
+        "Balsam Fir",
+        "Clearwood"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Mandarin Orange",
+        "Bergamot",
+        "Geranium",
+        "Hedione",
+        "Violet",
+        "Jasmine",
+        "Coriander",
+        "Cinnamon",
+        "Ambroxan",
+        "Amberwood",
+        "Musk",
+        "Balsam Fir",
+        "Clearwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-17-46PM-_1.png?v=1773460485",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Percival Perception Citrus Aromatic mens Lavender Mandarin Orange Bergamot Geranium Hedione Violet Jasmine Coriander Cinnamon Ambroxan Amberwood Musk Balsam Fir Clearwood",
+      "createdAt": "2026-05-04T04:41:30.742Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Ambroxan"
+      ]
+    },
+    {
+      "id": 31,
+      "fragranceSlug": "louis-vuitton-imagination-31",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Imagination",
+      "originalFragranceSlug": "louis-vuitton-imagination",
+      "mistifyProductName": "Imaginique",
+      "mistifyProductSlug": "imaginique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/imaginique",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Imagination",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Citron",
+        "Calabrian Bergamot",
+        "Sicilian Orange"
+      ],
+      "middleNotes": [
+        "Tunisian Neroli",
+        "Nigerian Ginger",
+        "Ceylon Cinnamon"
+      ],
+      "baseNotes": [
+        "Chinese Black Tea",
+        "Ambroxan",
+        "Guaiac Wood",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Citron",
+        "Calabrian Bergamot",
+        "Sicilian Orange",
+        "Tunisian Neroli",
+        "Nigerian Ginger",
+        "Ceylon Cinnamon",
+        "Chinese Black Tea",
+        "Ambroxan",
+        "Guaiac Wood",
+        "Olibanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_57_38AM.png?v=1765422818",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Imagination Imaginique Citrus Aromatic mens Citron Calabrian Bergamot Sicilian Orange Tunisian Neroli Nigerian Ginger Ceylon Cinnamon Chinese Black Tea Ambroxan Guaiac Wood Olibanum",
+      "createdAt": "2026-05-04T04:41:26.297Z",
+      "sharedNotes": [
+        "Ambroxan"
+      ]
+    },
+    {
+      "id": 108,
+      "fragranceSlug": "parfums-de-marly-valaya-108",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Valaya",
+      "originalFragranceSlug": "parfums-de-marly-valaya",
+      "mistifyProductName": "Valeti",
+      "mistifyProductSlug": "valeti",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/valeti",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Valaya",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Peach",
+        "Petalia"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin",
+        "Orange Blossom",
+        "Peach",
+        "Petalia",
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-15AM-_1.png?v=1773460483",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valaya Valeti Floral Woody Musk womens Bergamot Grapefruit Mandarin Orange Blossom Peach Petalia Ambroxan White Musk Akigalawood",
+      "createdAt": "2026-05-04T04:41:30.796Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Ambroxan"
+      ]
+    }
+  ]
+}

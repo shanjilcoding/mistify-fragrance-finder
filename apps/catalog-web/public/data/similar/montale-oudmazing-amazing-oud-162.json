@@ -1,0 +1,287 @@
+{
+  "fragrances": [
+    {
+      "id": 176,
+      "fragranceSlug": "mancera-instant-crush-176",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Instant Crush",
+      "originalFragranceSlug": "mancera-instant-crush",
+      "mistifyProductName": "Instant Love",
+      "mistifyProductSlug": "instant-love",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/instant-love",
+      "publicInspiredByLabel": "Inspired by Mancera Instant Crush",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Saffron",
+        "Ginger",
+        "Sicilian Mandarin",
+        "Sicilian Bergamot"
+      ],
+      "middleNotes": [
+        "Amberwood",
+        "Moroccan Rose",
+        "Egyptian Jasmine",
+        "Indonesian Patchouli Leaf"
+      ],
+      "baseNotes": [
+        "Madagascar Vanilla",
+        "White Musk",
+        "Sandalwood",
+        "Oakmoss"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Ginger",
+        "Sicilian Mandarin",
+        "Sicilian Bergamot",
+        "Amberwood",
+        "Moroccan Rose",
+        "Egyptian Jasmine",
+        "Indonesian Patchouli Leaf",
+        "Madagascar Vanilla",
+        "White Musk",
+        "Sandalwood",
+        "Oakmoss"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_15_53AM.png?v=1774325760",
+      "searchableText": "Mancera mancera Mancera Instant Crush Instant Love Oriental Floral unisex Saffron Ginger Sicilian Mandarin Sicilian Bergamot Amberwood Moroccan Rose Egyptian Jasmine Indonesian Patchouli Leaf Madagascar Vanilla White Musk Sandalwood Oakmoss",
+      "createdAt": "2026-05-04T04:41:34.765Z",
+      "sharedNotes": [
+        "Sicilian Bergamot",
+        "Egyptian Jasmine",
+        "Madagascar Vanilla",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 202,
+      "fragranceSlug": "xerjoff-erba-pura-202",
+      "brandName": "Xerjoff",
+      "brandSlug": "xerjoff",
+      "originalFragranceName": "Erba Pura",
+      "originalFragranceSlug": "xerjoff-erba-pura",
+      "mistifyProductName": "Herb Pura",
+      "mistifyProductSlug": "herb-pura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/herb-pura",
+      "publicInspiredByLabel": "Inspired by Xerjoff Erba Pura",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Sicilian Orange",
+        "Calabrian Bergamot",
+        "Sicilian Lemon"
+      ],
+      "middleNotes": [
+        "Fruits"
+      ],
+      "baseNotes": [
+        "White Musk",
+        "Madagascar Vanilla",
+        "Amber"
+      ],
+      "allNotes": [
+        "Sicilian Orange",
+        "Calabrian Bergamot",
+        "Sicilian Lemon",
+        "Fruits",
+        "White Musk",
+        "Madagascar Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb27-2026-09-47-48AM-_1.png?v=1773460527",
+      "searchableText": "Xerjoff xerjoff Xerjoff Erba Pura Herb Pura Oriental unisex Sicilian Orange Calabrian Bergamot Sicilian Lemon Fruits White Musk Madagascar Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:36.343Z",
+      "sharedNotes": [
+        "Sicilian Orange",
+        "Madagascar Vanilla",
+        "White Musk"
+      ]
+    },
+    {
+      "id": 168,
+      "fragranceSlug": "montale-black-aoud-168",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Black Aoud",
+      "originalFragranceSlug": "montale-black-aoud",
+      "mistifyProductName": "Oud Noir",
+      "mistifyProductSlug": "oud-noir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-noir",
+      "publicInspiredByLabel": "Inspired by Montale Black Aoud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Musk",
+        "French Labdanum",
+        "Mandarin Orange"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudNoir.png?v=1765422952",
+      "searchableText": "Montale montale Montale Black Aoud Oud Noir Woody Floral Musk unisex Rose Oud Patchouli Musk French Labdanum Mandarin Orange",
+      "createdAt": "2026-05-04T04:41:34.288Z",
+      "sharedNotes": [
+        "Oud"
+      ]
+    },
+    {
+      "id": 66,
+      "fragranceSlug": "kilian-musk-oud-66",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Musk Oud",
+      "originalFragranceSlug": "kilian-musk-oud",
+      "mistifyProductName": "Oud Musk",
+      "mistifyProductSlug": "oud-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-musk",
+      "publicInspiredByLabel": "Inspired by Kilian Musk Oud",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Lemon",
+        "Cardamom",
+        "Coriander"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Cypress",
+        "Geranium",
+        "Artemisia"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Musk",
+        "Rum",
+        "Incense",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lemon",
+        "Cardamom",
+        "Coriander",
+        "Bulgarian Rose",
+        "Cypress",
+        "Geranium",
+        "Artemisia",
+        "Oud",
+        "Musk",
+        "Rum",
+        "Incense",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudMusk.png?v=1765422915",
+      "searchableText": "Kilian kilian By Kilian Musk Oud Oud Musk Woody Floral Musk unisex Lemon Cardamom Coriander Bulgarian Rose Cypress Geranium Artemisia Oud Musk Rum Incense Patchouli",
+      "createdAt": "2026-05-04T04:41:28.331Z",
+      "sharedNotes": [
+        "Oud"
+      ]
+    },
+    {
+      "id": 156,
+      "fragranceSlug": "initio-musk-therapy-156",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Musk Therapy",
+      "originalFragranceSlug": "initio-musk-therapy",
+      "mistifyProductName": "Therapeutic Musk",
+      "mistifyProductSlug": "therapeutic-musk",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/therapeutic-musk",
+      "publicInspiredByLabel": "Inspired by Initio Musk Therapy",
+      "audience": "unisex",
+      "classification": "Woody Floral Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "White Musk",
+        "Musk",
+        "Black Currant",
+        "Bergamot",
+        "Mandarin Orange",
+        "Magnolia",
+        "White Sandalwood",
+        "Hedione"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "White Musk",
+        "Musk",
+        "Black Currant",
+        "Bergamot",
+        "Mandarin Orange",
+        "Magnolia",
+        "White Sandalwood",
+        "Hedione"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-25-54PM-_1.png?v=1773460508",
+      "searchableText": "Initio initio parfums Initio Parfums Musk Therapy Therapeutic Musk Woody Floral Musk unisex White Musk Musk Black Currant Bergamot Mandarin Orange Magnolia White Sandalwood Hedione",
+      "createdAt": "2026-05-04T04:41:33.598Z",
+      "sharedNotes": [
+        "White Musk"
+      ]
+    },
+    {
+      "id": 166,
+      "fragranceSlug": "montale-aoud-night-166",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Night",
+      "originalFragranceSlug": "montale-aoud-night",
+      "mistifyProductName": "Midnight Oud",
+      "mistifyProductSlug": "midnight-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/midnight-oud",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Night",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Fruity Notes",
+        "Bergamot",
+        "Sicilian Lemon"
+      ],
+      "middleNotes": [
+        "Moroccan Rose",
+        "Indonesian Patchouli Leaf"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Guaiac Wood",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Fruity Notes",
+        "Bergamot",
+        "Sicilian Lemon",
+        "Moroccan Rose",
+        "Indonesian Patchouli Leaf",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Guaiac Wood",
+        "White Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MidnightOud.png?v=1765422949",
+      "searchableText": "Montale montale Montale Aoud Night Midnight Oud Oriental Woody unisex Oud Fruity Notes Bergamot Sicilian Lemon Moroccan Rose Indonesian Patchouli Leaf Leather Sandalwood Amber Guaiac Wood White Musk",
+      "createdAt": "2026-05-04T04:41:34.175Z",
+      "sharedNotes": [
+        "Oud",
+        "Leather",
+        "White Musk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "fragrances": [
+    {
+      "id": 236,
+      "fragranceSlug": "stephane-h-lucas-sea-my-love-236",
+      "brandName": "Stephane H. Lucas",
+      "brandSlug": "stephane-h-lucas",
+      "originalFragranceName": "Sea My Love",
+      "originalFragranceSlug": "stephane-h-lucas-sea-my-love",
+      "mistifyProductName": "Sea Siren",
+      "mistifyProductSlug": "sea-siren",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sea-siren",
+      "publicInspiredByLabel": "Inspired by Stephane H. Lucas Sea My Love",
+      "audience": "unisex",
+      "classification": "Woody Aquatic",
+      "topNotes": [
+        "Salt",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Marine Notes",
+        "Leather",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Benzoin",
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Salt",
+        "Mandarin",
+        "Marine Notes",
+        "Leather",
+        "Jasmine",
+        "Amber",
+        "Benzoin",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-08-53-01PM-_1.png?v=1773460277",
+      "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas Sea My Love Sea Siren Woody Aquatic unisex Salt Mandarin Marine Notes Leather Jasmine Amber Benzoin Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:38.365Z",
+      "sharedNotes": [
+        "Leather",
+        "Patchouli",
+        "Benzoin",
+        "Amber"
+      ]
+    },
+    {
+      "id": 182,
+      "fragranceSlug": "mind-games-blockade-182",
+      "brandName": "Mind Games",
+      "brandSlug": "mind-games",
+      "originalFragranceName": "Blockade",
+      "originalFragranceSlug": "mind-games-blockade",
+      "mistifyProductName": "Blocade",
+      "mistifyProductSlug": "blocade",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/blocade",
+      "publicInspiredByLabel": "Inspired by Mind Games Blockade",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Mango",
+        "Bergamot",
+        "Tomato Leaf",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Mango Blossom",
+        "Lavender",
+        "Star Anise",
+        "Watery Cyclamen"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Oud",
+        "Amber",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Mango",
+        "Bergamot",
+        "Tomato Leaf",
+        "Pink Pepper",
+        "Mango Blossom",
+        "Lavender",
+        "Star Anise",
+        "Watery Cyclamen",
+        "Suede",
+        "Oud",
+        "Amber",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov12-2025-07-26-23PM-_1.png?v=1773460230",
+      "searchableText": "Mind Games mind games Mind Games Blockade Blocade Not listed clearly by Fragrantica unisex Mango Bergamot Tomato Leaf Pink Pepper Mango Blossom Lavender Star Anise Watery Cyclamen Suede Oud Amber Patchouli",
+      "createdAt": "2026-05-04T04:41:35.119Z",
+      "sharedNotes": [
+        "Patchouli",
+        "Amber"
+      ]
+    },
+    {
+      "id": 229,
+      "fragranceSlug": "tiziana-terenzi-gumin-229",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Gumin",
+      "originalFragranceSlug": "tiziana-terenzi-gumin",
+      "mistifyProductName": "Gemine",
+      "mistifyProductSlug": "gemine",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gemine",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Gumin",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Mandarin Orange",
+        "Orange",
+        "Pineapple",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Ozonic Notes",
+        "Amber",
+        "Violet",
+        "Jasmine",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Orange",
+        "Pineapple",
+        "Bergamot",
+        "Ozonic Notes",
+        "Amber",
+        "Violet",
+        "Jasmine",
+        "Rose",
+        "Musk",
+        "Sandalwood",
+        "Birch",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Gemine-_1.png?v=1773460415",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Gumin Gemine Not listed clearly by Fragrantica unisex Mandarin Orange Orange Pineapple Bergamot Ozonic Notes Amber Violet Jasmine Rose Musk Sandalwood Birch Oud",
+      "createdAt": "2026-05-04T04:41:37.940Z",
+      "sharedNotes": [
+        "Mandarin Orange",
+        "Amber"
+      ]
+    },
+    {
+      "id": 239,
+      "fragranceSlug": "nasomatto-sadonaso-239",
+      "brandName": "Nasomatto",
+      "brandSlug": "nasomatto",
+      "originalFragranceName": "Sadonaso",
+      "originalFragranceSlug": "nasomatto-sadonaso",
+      "mistifyProductName": "Sadonara",
+      "mistifyProductSlug": "sadonara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sadonara",
+      "publicInspiredByLabel": "Inspired by Nasomatto Sadonaso",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Coffee"
+      ],
+      "middleNotes": [
+        "Musk",
+        "Tobacco",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Animal Notes",
+        "Amber",
+        "Tonka"
+      ],
+      "allNotes": [
+        "Coffee",
+        "Musk",
+        "Tobacco",
+        "Sandalwood",
+        "Vanilla",
+        "Animal Notes",
+        "Amber",
+        "Tonka"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_04_24_06PM_cfd3cae7-8aeb-47b7-bea5-26c69f6e9c0d.png?v=1778617465",
+      "searchableText": "Nasomatto nasomatto Nasomatto Sadonaso Sadonara Not listed clearly by Fragrantica unisex Coffee Musk Tobacco Sandalwood Vanilla Animal Notes Amber Tonka",
+      "createdAt": "2026-05-04T04:41:38.543Z",
+      "sharedNotes": [
+        "Amber"
+      ]
+    },
+    {
+      "id": 175,
+      "fragranceSlug": "mancera-aoud-orchid-175",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Aoud Orchid",
+      "originalFragranceSlug": "mancera-aoud-orchid",
+      "mistifyProductName": "Orchid Essence",
+      "mistifyProductSlug": "orchid-essence",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orchid-essence",
+      "publicInspiredByLabel": "Inspired by Mancera Aoud Orchid",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Coconut",
+        "Peach",
+        "Mandarin Orange",
+        "Orchid",
+        "Patchouli",
+        "Woody Notes",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OrchidEssence.png?v=1765422998",
+      "searchableText": "Mancera mancera Mancera Aoud Orchid Orchid Essence Oriental Floral unisex Coconut Peach Mandarin Orange Orchid Patchouli Woody Notes Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.708Z",
+      "sharedNotes": [
+        "Mandarin Orange",
+        "Patchouli",
+        "Amber"
+      ]
+    },
+    {
+      "id": 92,
+      "fragranceSlug": "tom-ford-ombre-leather-92",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Ombre Leather",
+      "originalFragranceSlug": "tom-ford-ombre-leather",
+      "mistifyProductName": "Ombre Royale",
+      "mistifyProductSlug": "ombre-royale",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-royale",
+      "publicInspiredByLabel": "Inspired by Tom Ford Ombre Leather",
+      "audience": "mens",
+      "classification": "Leather",
+      "topNotes": [
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Moss",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Jasmine Sambac",
+        "Leather",
+        "Amber",
+        "Moss",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-42-02AM-_1.png?v=1773460288",
+      "searchableText": "Tom Ford tom ford Tom Ford Ombre Leather Ombre Royale Leather mens Cardamom Jasmine Sambac Leather Amber Moss Patchouli",
+      "createdAt": "2026-05-04T04:41:29.855Z",
+      "sharedNotes": [
+        "Leather",
+        "Patchouli",
+        "Amber"
+      ]
+    }
+  ]
+}

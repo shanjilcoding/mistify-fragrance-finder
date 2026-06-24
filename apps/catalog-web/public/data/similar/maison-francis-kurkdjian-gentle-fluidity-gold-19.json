@@ -1,0 +1,266 @@
+{
+  "fragrances": [
+    {
+      "id": 199,
+      "fragranceSlug": "maison-mataha-escapade-gourmande-199",
+      "brandName": "Maison Mataha",
+      "brandSlug": "maison-mataha",
+      "originalFragranceName": "Escapade Gourmande",
+      "originalFragranceSlug": "maison-mataha-escapade-gourmande",
+      "mistifyProductName": "Gourmande Évasion",
+      "mistifyProductSlug": "gourmande-evasion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gourmande-evasion",
+      "publicInspiredByLabel": "Inspired by Maison Mataha Escapade Gourmande",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar Cane"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sugar Cane",
+        "Vanilla",
+        "Tonka Bean",
+        "Benzoin",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb24-2026-11-56-42AM-_1.png?v=1773460130",
+      "searchableText": "Maison Mataha maison mataha Maison Mataha Escapade Gourmande Gourmande Évasion Oriental Vanilla unisex Sugar Cane Vanilla Tonka Bean Benzoin Musk",
+      "createdAt": "2026-05-04T04:41:36.157Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Musk"
+      ]
+    },
+    {
+      "id": 6,
+      "fragranceSlug": "guerlain-vanille-planifolia-extrait-21-6",
+      "brandName": "Guerlain",
+      "brandSlug": "guerlain",
+      "originalFragranceName": "Vanille Planifolia Extrait 21",
+      "originalFragranceSlug": "guerlain-vanille-planifolia-extrait-21",
+      "mistifyProductName": "Not verified on Mistify",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Guerlain Vanille Planifolia Extrait 21",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [],
+      "middleNotes": [
+        "Vanilla",
+        "Spices",
+        "Amber",
+        "Opoponax",
+        "Musk"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Vanilla",
+        "Spices",
+        "Amber",
+        "Opoponax",
+        "Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Guerlain guerlain Guerlain Vanille Planifolia Extrait 21 Not verified on Mistify Oriental Vanilla Vanilla Spices Amber Opoponax Musk",
+      "createdAt": "2026-05-04T04:41:24.857Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 187,
+      "fragranceSlug": "sabrina-carpenter-caramel-dream-187",
+      "brandName": "Sabrina Carpenter",
+      "brandSlug": "sabrina-carpenter",
+      "originalFragranceName": "Caramel Dream",
+      "originalFragranceSlug": "sabrina-carpenter-caramel-dream",
+      "mistifyProductName": "Caramel Rêverie",
+      "mistifyProductSlug": "caramel-reverie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/caramel-reverie",
+      "publicInspiredByLabel": "Inspired by Sabrina Carpenter Caramel Dream",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar",
+        "Almond Milk",
+        "Orange",
+        "Freesia",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Vanilla",
+        "Orange Blossom",
+        "Orchid"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Sugar",
+        "Almond Milk",
+        "Orange",
+        "Freesia",
+        "Lemon",
+        "Dark Chocolate",
+        "Vanilla",
+        "Orange Blossom",
+        "Orchid",
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec29-2025-01-49-19PM-_1.png?v=1773460180",
+      "searchableText": "Sabrina Carpenter sabrina carpenter Sabrina Carpenter Caramel Dream Caramel Rêverie Oriental Vanilla unisex Sugar Almond Milk Orange Freesia Lemon Dark Chocolate Vanilla Orange Blossom Orchid Caramel Patchouli Sandalwood Musk Amber",
+      "createdAt": "2026-05-04T04:41:35.407Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber",
+        "Musk"
+      ]
+    },
+    {
+      "id": 171,
+      "fragranceSlug": "montale-intense-cafe-171",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Intense Cafe",
+      "originalFragranceSlug": "montale-intense-cafe",
+      "mistifyProductName": "Café Rose",
+      "mistifyProductSlug": "cafe-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cafe-rose",
+      "publicInspiredByLabel": "Inspired by Montale Intense Cafe",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Floral Notes"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Coffee"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Floral Notes",
+        "Rose",
+        "Coffee",
+        "Vanilla",
+        "White Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/CafeRose.png?v=1765422956",
+      "searchableText": "Montale montale Montale Intense Cafe Café Rose Oriental Vanilla unisex Floral Notes Rose Coffee Vanilla White Musk Amber",
+      "createdAt": "2026-05-04T04:41:34.468Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 293,
+      "fragranceSlug": "bvlgari-baciami-293",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Baciami",
+      "originalFragranceSlug": "bvlgari-baciami",
+      "mistifyProductName": "Baciâme",
+      "mistifyProductSlug": "baciame",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baciame",
+      "publicInspiredByLabel": "Inspired by Bvlgari Baciami",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Gardenia"
+      ],
+      "middleNotes": [
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Gardenia",
+        "Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan1-2026-06-46-55AM-_1.png?v=1773460177",
+      "searchableText": "Bvlgari bvlgari Bvlgari Baciami Baciâme Oriental Floral unisex Gardenia Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:41.838Z",
+      "sharedNotes": [
+        "Vanilla",
+        "Amber"
+      ]
+    },
+    {
+      "id": 320,
+      "fragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-silver-320",
+      "brandName": "Maison Francis Kurkdjian",
+      "brandSlug": "maison-francis-kurkdjian",
+      "originalFragranceName": "Gentle Fluidity Silver",
+      "originalFragranceSlug": "maison-francis-kurkdjian-gentle-fluidity-silver",
+      "mistifyProductName": "Fluidité Argent",
+      "mistifyProductSlug": "fluidite-argent",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fluidite-argent",
+      "publicInspiredByLabel": "Maison Francis Kurkdjian Gentle Fluidity Silver",
+      "audience": null,
+      "classification": "Aromatic Woody / Fresh Musky",
+      "topNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Bergamot",
+        "Pineapple"
+      ],
+      "middleNotes": [
+        "Coriander"
+      ],
+      "baseNotes": [
+        "Musks",
+        "Ambery Woods",
+        "Vanilla",
+        "Cedar",
+        "Woody Notes"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Bergamot",
+        "Pineapple",
+        "Coriander",
+        "Musks",
+        "Ambery Woods",
+        "Vanilla",
+        "Cedar",
+        "Woody Notes"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun9_2026_05_33_25PM.png?v=1781040812",
+      "searchableText": "Maison Francis Kurkdjian Maison Francis Kurkdjian Gentle Fluidity Silver Fluidité Argent Aromatic Woody / Fresh Musky Juniper Berries Nutmeg Bergamot Pineapple Coriander Musks Ambery Woods Vanilla Cedar Woody Notes",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Juniper Berries",
+        "Nutmeg",
+        "Coriander",
+        "Vanilla"
+      ]
+    }
+  ]
+}

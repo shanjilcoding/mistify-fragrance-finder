@@ -1,8 +1,9 @@
-import { and, eq, isNull, or, sql } from 'drizzle-orm'
+import { and, eq, inArray, isNull, or, sql } from 'drizzle-orm'
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs'
 import { join, resolve } from 'node:path'
 import { db, pool } from '../db/connection'
 import { fragrances } from '../db/schema'
+import { buildCatalogFields } from '../utils/catalogFields'
 
 type CsvRow = Record<string, string>
 
@@ -773,6 +774,46 @@ async function applyExactMatches(exactMatches: MatchReportRow[]) {
   return updatedCount
 }
 
+// After Mistify product name/URL fills, the derived catalog fields (slugs,
+// inspired-by label, searchable text, visibility) may change for those rows.
+// Recompute them from the freshly updated rows so the public catalog stays
+// consistent without requiring a separate full backfill run.
+async function recomputeCatalogFieldsForIds(ids: number[]) {
+  const uniqueIds = Array.from(new Set(ids)).filter((id) => Number.isFinite(id))
+
+  if (!uniqueIds.length) {
+    return 0
+  }
+
+  const rows = await db
+    .select({
+      id: fragrances.id,
+      originalFragranceName: fragrances.originalFragranceName,
+      mistifyProductName: fragrances.mistifyProductName,
+      mistifyProductUrl: fragrances.mistifyProductUrl,
+      sourceBrandBatch: fragrances.sourceBrandBatch,
+      classification: fragrances.classification,
+      audience: fragrances.audience,
+      allNotes: fragrances.allNotes,
+      verifiedOnMistify: fragrances.verifiedOnMistify,
+      mistifyProductFound: fragrances.mistifyProductFound,
+    })
+    .from(fragrances)
+    .where(inArray(fragrances.id, uniqueIds))
+
+  for (const row of rows) {
+    await db
+      .update(fragrances)
+      .set({
+        ...buildCatalogFields(row),
+        updatedAt: new Date(),
+      })
+      .where(eq(fragrances.id, row.id))
+  }
+
+  return rows.length
+}
+
 function printSummary(result: AnalysisResult, mode: 'dry-run' | 'apply', updatedCount = 0) {
   const exactOriginalBrandMatches = result.exactMatches.filter(
     (match) => match.match_type === 'exact_original_brand_name',
@@ -838,6 +879,15 @@ async function main() {
   const updatedCount = mode === 'apply'
     ? await applyExactMatches(result.exactMatches)
     : 0
+
+  if (mode === 'apply' && updatedCount) {
+    const updatedIds = result.exactMatches
+      .map((match) => Number(match.fragrance_id))
+      .filter((id) => Number.isFinite(id))
+    const recomputedCount = await recomputeCatalogFieldsForIds(updatedIds)
+
+    console.log(`- catalog fields recomputed for ${recomputedCount} rows`)
+  }
 
   printSummary(result, mode, updatedCount)
 }

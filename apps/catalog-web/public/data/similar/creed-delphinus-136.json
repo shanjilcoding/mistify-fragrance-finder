@@ -1,0 +1,289 @@
+{
+  "fragrances": [
+    {
+      "id": 142,
+      "fragranceSlug": "ysl-yves-saint-laurent-babycat-142",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Babycat",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-babycat",
+      "mistifyProductName": "Wildcat",
+      "mistifyProductSlug": "wildcat",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/wildcat",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Babycat",
+      "audience": "unisex",
+      "classification": "Oriental Spicy",
+      "topNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Elemi"
+      ],
+      "middleNotes": [
+        "Olibanum",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Suede",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Elemi",
+        "Olibanum",
+        "Saffron",
+        "Bourbon Vanilla",
+        "Suede",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-18-52PM-_1.png?v=1773460434",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Babycat Wildcat Oriental Spicy unisex Pink Pepper Black Pepper Elemi Olibanum Saffron Bourbon Vanilla Suede Cedar",
+      "createdAt": "2026-05-04T04:41:32.770Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Black Pepper",
+        "Bourbon Vanilla"
+      ]
+    },
+    {
+      "id": 111,
+      "fragranceSlug": "parfums-de-marly-eragon-111",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Eragon",
+      "originalFragranceSlug": "parfums-de-marly-eragon",
+      "mistifyProductName": "Eragone",
+      "mistifyProductSlug": "eragone",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/eragone",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Eragon",
+      "audience": "unisex",
+      "classification": "Spicy Oriental/Warm Gourmand",
+      "topNotes": [
+        "Cardamom",
+        "Mandarin",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Cypriol",
+        "Davana"
+      ],
+      "baseNotes": [
+        "Vanilla Bean",
+        "Tonka Bean",
+        "Leather",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Mandarin",
+        "Bergamot",
+        "Cinnamon",
+        "Cypriol",
+        "Davana",
+        "Vanilla Bean",
+        "Tonka Bean",
+        "Leather",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec19-2025-10-34-44AM-_1.png?v=1773460191",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Eragon Eragone Spicy Oriental/Warm Gourmand unisex Cardamom Mandarin Bergamot Cinnamon Cypriol Davana Vanilla Bean Tonka Bean Leather Patchouli",
+      "createdAt": "2026-05-04T04:41:30.975Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Leather",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 95,
+      "fragranceSlug": "tom-ford-fucking-fabulous-95",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Fucking Fabulous",
+      "originalFragranceSlug": "tom-ford-fucking-fabulous",
+      "mistifyProductName": "Fabuleux",
+      "mistifyProductSlug": "fabuleux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fabuleux",
+      "publicInspiredByLabel": "Inspired by Tom Ford Fucking Fabulous",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Lavender",
+        "Clary Sage"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris",
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec11-2025-09-54-59AM-_1.png?v=1773460202",
+      "searchableText": "Tom Ford tom ford Tom Ford Fucking Fabulous Fabuleux Leather unisex Lavender Clary Sage Leather Bitter Almond Vanilla Orris Leather Tonka Bean Cashmeran White Woods Amber",
+      "createdAt": "2026-05-04T04:41:30.032Z",
+      "sharedNotes": [
+        "Orris",
+        "Tonka Bean",
+        "Leather"
+      ]
+    },
+    {
+      "id": 64,
+      "fragranceSlug": "kilian-light-my-fire-64",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Light My Fire",
+      "originalFragranceSlug": "kilian-light-my-fire",
+      "mistifyProductName": "Light My Flame",
+      "mistifyProductSlug": "light-my-flame",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/light-my-flame",
+      "publicInspiredByLabel": "Inspired by Kilian Light My Fire",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [],
+      "middleNotes": [
+        "Tobacco",
+        "Hay",
+        "Honey",
+        "Patchouli",
+        "Cumin",
+        "Vanilla",
+        "Vetiver",
+        "Birch",
+        "Almond",
+        "Tonka Bean",
+        "Heliotrope"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Tobacco",
+        "Hay",
+        "Honey",
+        "Patchouli",
+        "Cumin",
+        "Vanilla",
+        "Vetiver",
+        "Birch",
+        "Almond",
+        "Tonka Bean",
+        "Heliotrope"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LightMyFlame.png?v=1765422911",
+      "searchableText": "Kilian kilian By Kilian Light My Fire Light My Flame Oriental Woody unisex Tobacco Hay Honey Patchouli Cumin Vanilla Vetiver Birch Almond Tonka Bean Heliotrope",
+      "createdAt": "2026-05-04T04:41:28.216Z",
+      "sharedNotes": [
+        "Almond",
+        "Heliotrope",
+        "Tonka Bean",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 218,
+      "fragranceSlug": "ermenegildo-zegna-javanese-patchouli-218",
+      "brandName": "Ermenegildo Zegna",
+      "brandSlug": "ermenegildo-zegna",
+      "originalFragranceName": "Javanese Patchouli",
+      "originalFragranceSlug": "ermenegildo-zegna-javanese-patchouli",
+      "mistifyProductName": "Mystic Pathouli",
+      "mistifyProductSlug": "mystic-pathouli",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mystic-pathouli",
+      "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Javanese Patchouli",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Patchouli",
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Cedar",
+        "Tonka Bean"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Patchouli",
+        "Pink Pepper",
+        "Calabrian Bergamot",
+        "Cedar",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-31-15PM-_1.png?v=1773460478",
+      "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Javanese Patchouli Mystic Pathouli Woody Spicy unisex Patchouli Pink Pepper Calabrian Bergamot Cedar Tonka Bean",
+      "createdAt": "2026-05-04T04:41:37.272Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Tonka Bean",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 224,
+      "fragranceSlug": "dior-vanilla-diorama-224",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Vanilla Diorama",
+      "originalFragranceSlug": "dior-vanilla-diorama",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Dior Vanilla Diorama",
+      "audience": null,
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Orange",
+        "Pink Pepper",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Rum",
+        "Cacao",
+        "Cardamom"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Orange",
+        "Pink Pepper",
+        "Lemon",
+        "Rum",
+        "Cacao",
+        "Cardamom",
+        "Bourbon Vanilla",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Dior christian dior Christian Dior Vanilla Diorama Not verified Oriental Vanilla Orange Pink Pepper Lemon Rum Cacao Cardamom Bourbon Vanilla Sandalwood Patchouli",
+      "createdAt": "2026-05-04T04:41:37.634Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Bourbon Vanilla",
+        "Patchouli"
+      ]
+    }
+  ]
+}

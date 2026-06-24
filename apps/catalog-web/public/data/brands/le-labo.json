@@ -1,0 +1,131 @@
+{
+  "brand": {
+    "brandName": "Le Labo",
+    "brandSlug": "le-labo",
+    "fragranceCount": 3,
+    "searchableText": "Another 13 A13ther Inspired by Le Labo Another 13 Le Labo le labo Le Labo Another 13 A13ther Woody Musk/Musky Amber unisex Pear Apple Citruses Ambrette Amyl Salicylate Moss Jasmine Iso E Super Cetalox Helvetolide Ambrettolide Myrrhe 55 Myrrhique 55 Inspired by Le Labo Myrrhe 55 Le Labo le labo Le Labo Myrrhe 55 Myrrhique 55 Not split cleanly unisex Jasmine Myrrh Patchouli Musk Ambergris Oud Santal 33 Santana 33 Inspired by Le Labo Santal 33 Le Labo le labo Le Labo Santal 33 Santana 33 Woody Aromatic unisex Sandalwood Leather Papyrus Virginia Cedar Cardamom Violet Iris Amber"
+  },
+  "fragrances": [
+    {
+      "id": 243,
+      "fragranceSlug": "le-labo-another-13-243",
+      "brandName": "Le Labo",
+      "brandSlug": "le-labo",
+      "originalFragranceName": "Another 13",
+      "originalFragranceSlug": "le-labo-another-13",
+      "mistifyProductName": "A13ther",
+      "mistifyProductSlug": "a13ther",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/a13ther",
+      "publicInspiredByLabel": "Inspired by Le Labo Another 13",
+      "audience": "unisex",
+      "classification": "Woody Musk/Musky Amber",
+      "topNotes": [
+        "Pear",
+        "Apple",
+        "Citruses"
+      ],
+      "middleNotes": [
+        "Ambrette",
+        "Amyl Salicylate",
+        "Moss",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Iso E Super",
+        "Cetalox",
+        "Helvetolide",
+        "Ambrettolide"
+      ],
+      "allNotes": [
+        "Pear",
+        "Apple",
+        "Citruses",
+        "Ambrette",
+        "Amyl Salicylate",
+        "Moss",
+        "Jasmine",
+        "Iso E Super",
+        "Cetalox",
+        "Helvetolide",
+        "Ambrettolide"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-37-16AM-_1.png?v=1773460263",
+      "searchableText": "Le Labo le labo Le Labo Another 13 A13ther Woody Musk/Musky Amber unisex Pear Apple Citruses Ambrette Amyl Salicylate Moss Jasmine Iso E Super Cetalox Helvetolide Ambrettolide",
+      "createdAt": "2026-05-04T04:41:38.793Z"
+    },
+    {
+      "id": 244,
+      "fragranceSlug": "le-labo-myrrhe-55-244",
+      "brandName": "Le Labo",
+      "brandSlug": "le-labo",
+      "originalFragranceName": "Myrrhe 55",
+      "originalFragranceSlug": "le-labo-myrrhe-55",
+      "mistifyProductName": "Myrrhique 55",
+      "mistifyProductSlug": "myrrhique-55",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/myrrhique-55",
+      "publicInspiredByLabel": "Inspired by Le Labo Myrrhe 55",
+      "audience": "unisex",
+      "classification": "Not split cleanly",
+      "topNotes": [],
+      "middleNotes": [
+        "Jasmine",
+        "Myrrh",
+        "Patchouli",
+        "Musk",
+        "Ambergris",
+        "Oud"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Jasmine",
+        "Myrrh",
+        "Patchouli",
+        "Musk",
+        "Ambergris",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov13-2025-09-35-43AM-_1.png?v=1773460218",
+      "searchableText": "Le Labo le labo Le Labo Myrrhe 55 Myrrhique 55 Not split cleanly unisex Jasmine Myrrh Patchouli Musk Ambergris Oud",
+      "createdAt": "2026-05-04T04:41:38.851Z"
+    },
+    {
+      "id": 242,
+      "fragranceSlug": "le-labo-santal-33-242",
+      "brandName": "Le Labo",
+      "brandSlug": "le-labo",
+      "originalFragranceName": "Santal 33",
+      "originalFragranceSlug": "le-labo-santal-33",
+      "mistifyProductName": "Santana 33",
+      "mistifyProductSlug": "santana-33",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/santana-33",
+      "publicInspiredByLabel": "Inspired by Le Labo Santal 33",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [],
+      "middleNotes": [
+        "Sandalwood",
+        "Leather",
+        "Papyrus",
+        "Virginia Cedar",
+        "Cardamom",
+        "Violet",
+        "Iris",
+        "Amber"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Sandalwood",
+        "Leather",
+        "Papyrus",
+        "Virginia Cedar",
+        "Cardamom",
+        "Violet",
+        "Iris",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-10-57PM-_1.png?v=1773460392",
+      "searchableText": "Le Labo le labo Le Labo Santal 33 Santana 33 Woody Aromatic unisex Sandalwood Leather Papyrus Virginia Cedar Cardamom Violet Iris Amber",
+      "createdAt": "2026-05-04T04:41:38.731Z"
+    }
+  ]
+}

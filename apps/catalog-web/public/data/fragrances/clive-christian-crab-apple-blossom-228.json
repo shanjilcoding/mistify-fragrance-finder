@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 228,
+    "fragranceSlug": "clive-christian-crab-apple-blossom-228",
+    "brandName": "Clive Christian",
+    "brandSlug": "clive-christian",
+    "originalFragranceName": "Crab Apple Blossom",
+    "originalFragranceSlug": "clive-christian-crab-apple-blossom",
+    "mistifyProductName": "Crabapple Bloom",
+    "mistifyProductSlug": "crabapple-bloom",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/crabapple-bloom",
+    "publicInspiredByLabel": "Inspired by Clive Christian Crab Apple Blossom",
+    "audience": "unisex",
+    "classification": "Fresh Aquatic/Woody",
+    "topNotes": [
+      "Sea Notes",
+      "Bergamot",
+      "Apple Blossom"
+    ],
+    "middleNotes": [
+      "Mojito",
+      "Rhubarb"
+    ],
+    "baseNotes": [
+      "Driftwood",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Sea Notes",
+      "Bergamot",
+      "Apple Blossom",
+      "Mojito",
+      "Rhubarb",
+      "Driftwood",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb13-2026-02-59-42PM-_1.png?v=1773460141",
+    "searchableText": "Clive Christian clive christian Clive Christian Crab Apple Blossom Crabapple Bloom Fresh Aquatic/Woody unisex Sea Notes Bergamot Apple Blossom Mojito Rhubarb Driftwood Sandalwood",
+    "createdAt": "2026-05-04T04:41:37.882Z"
+  }
+}

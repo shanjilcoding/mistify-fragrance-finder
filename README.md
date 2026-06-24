@@ -1,6 +1,6 @@
 # Mistify Fragrance Finder
 
-**Live demo:** [https://mistify-chatbot.vercel.app](https://mistify-chatbot.vercel.app)
+**Live demo:** [Fragrance Finder](https://mistify-chatbot.vercel.app) | **Catalog demo:** [Mistify Fragrance Catalog](https://mistify-catalog.vercel.app)
 
 Mistify Fragrance Finder is a full-stack fragrance recommendation app for Mistify Parfums.
 
@@ -10,13 +10,14 @@ The project is built as a practical AI/product recommendation system. Determinis
 
 ## For recruiters and reviewers
 
-This project shows practical full-stack AI implementation work, not a wrapper around a chat prompt. The core recommendation flow combines a React customer UI, an Express/TypeScript API, PostgreSQL-backed product data, deterministic ranking, request validation, prompt-injection checks, and optional backend-only AI explanation support.
+This project shows practical full-stack AI implementation work, not a wrapper around a chat prompt. The core recommendation flow combines a React customer UI, a standalone catalog app, an Express/TypeScript API, PostgreSQL-backed product data, deterministic ranking, request validation, prompt-injection checks, and optional backend-only AI explanation support.
 
 What I built:
 
 - A public fragrance finder with Concierge, Guided, and Reference search modes.
+- A separate static catalog site for browsing brands, notes, and fragrance detail pages.
 - A backend recommendation API that keeps product selection grounded in database rows.
-- Admin tools for curated prompt chips and allowed product metadata updates.
+- Admin tools for curated prompt chips, product metadata updates, and catalog sync review.
 - Safety controls for off-topic requests, prompt-injection-like input, CORS, rate limiting, request validation, and safe API errors.
 - Data-quality scripts for imports, audits, recommendation evaluation, regression checks, and performance benchmarking.
 
@@ -24,9 +25,10 @@ What I built:
 
 | Area | Tools |
 | --- | --- |
-| Frontend | React, TypeScript, Vite, CSS |
+| Frontend apps | React, TypeScript, Vite, CSS |
 | Backend | Node.js, Express, TypeScript |
 | Database | PostgreSQL/Supabase, Drizzle ORM |
+| Catalog export | Static JSON generated from curated database rows |
 | Optional AI layer | Gemini, backend-only explanation support |
 | Quality/security | Zod validation, Helmet, CORS allowlist, rate limiting, prompt-injection/topic guards |
 
@@ -54,12 +56,13 @@ What I built:
 
 This section assumes you are on a fresh Windows computer and have never used programming tools before. Follow the steps in order.
 
-Unlike a browser-only app, this project has two parts:
+Unlike a browser-only app, this project has three parts:
 
 - **Backend API**: searches the fragrance database and returns recommendations.
 - **Frontend web app**: the customer/admin interface you open in the browser.
+- **Catalog web app**: optional static browsing site generated from the fragrance catalog.
 
-You will run the backend in one PowerShell window and the frontend in a second PowerShell window.
+You will run the backend in one PowerShell window and the frontend in a second PowerShell window. The catalog app is optional for local development unless you want to explore the static catalog experience too.
 
 ### What you are installing
 
@@ -238,6 +241,18 @@ Important: keep both PowerShell windows open. If you close the backend window, r
 4. Review the recommendation cards and match details.
 5. To manage curated chips or product metadata, go to `/admin/login` and use the local `ADMIN_PASSWORD` from `backend\.env`.
 
+### Optional: run the catalog app locally
+
+The hosted catalog is available at [https://mistify-catalog.vercel.app](https://mistify-catalog.vercel.app). To run the catalog app locally, open a third PowerShell window and run:
+
+```powershell
+cd $HOME\Desktop\mistify-fragrance-finder\apps\catalog-web
+npm install
+npm run dev
+```
+
+Open the Vite URL shown in that terminal. It is usually `http://localhost:5173/` if no other Vite app is running, or the next available port such as `http://localhost:5174/`.
+
 ### How to start the app again later
 
 After the first setup, you do not need to download or install everything again.
@@ -330,6 +345,13 @@ Use the value from `ADMIN_PASSWORD` in `backend\.env`. Restart the backend after
 - Sorting and filters for match strength, popularity, rating, seasons, and day/night use.
 - Follow-up refinement chips such as sweeter, fresher, more masculine, more feminine, office-safe, and date night.
 
+### Static fragrance catalog
+
+- Separate catalog web app for browsing fragrance detail pages without using the chat flow.
+- Brand, fragrance, and note pages generated from exported static JSON.
+- Catalog landing page with shelves for featured, popular, seasonal, and browseable fragrance groups.
+- Public demo: [https://mistify-catalog.vercel.app](https://mistify-catalog.vercel.app)
+
 ### Backend recommendation API
 
 - Express/TypeScript API for fragrance recommendations.
@@ -355,6 +377,7 @@ Use the value from `ADMIN_PASSWORD` in `backend\.env`. Restart the backend after
 - Admin login with backend-issued token.
 - Curated chip management.
 - Product metadata management for allowed fields.
+- Catalog sync review for matching Mistify shop products to database rows.
 - Import, audit, benchmark, and regression scripts for fragrance data quality.
 
 ## How the app works
@@ -369,6 +392,7 @@ Use the value from `ADMIN_PASSWORD` in `backend\.env`. Restart the backend after
 8. Optional Gemini support may write short explanations for already-selected products.
 9. The backend returns grounded recommendations to the frontend.
 10. The frontend displays recommendation cards and lets the user sort, filter, or refine the search.
+11. The catalog export script can generate static JSON for the standalone catalog app.
 
 Important rule: the database is the source of truth. AI can explain selected recommendations, but it cannot choose products, invent products, invent notes, invent ratings, or create official claims.
 
@@ -395,6 +419,10 @@ Admin page for managing public prompt chips and curated recommendation chips. Pu
 ### Admin products: `/admin/products`
 
 Admin page for managing allowed product metadata fields, such as Mistify product names or product URLs. Product metadata edits should not change fragrance notes, ratings, scoring, ranking, or broad product rows unless intentionally developed as a backend/data task.
+
+### Static catalog app
+
+The separate catalog app in `apps/catalog-web/` reads exported JSON files from `apps/catalog-web/public/data/` and renders public browse/detail pages. It can be deployed separately from the finder and is available at [https://mistify-catalog.vercel.app](https://mistify-catalog.vercel.app).
 
 ## Privacy, security, and API keys
 
@@ -550,6 +578,27 @@ npm run build
 npm run preview
 ```
 
+Catalog app:
+
+```bash
+cd apps/catalog-web
+
+# Install dependencies
+npm install
+
+# Start local catalog dev server
+npm run dev
+
+# Lint catalog code
+npm run lint
+
+# Build production catalog assets
+npm run build
+
+# Preview production catalog build
+npm run preview
+```
+
 Security/audit checks:
 
 ```bash
@@ -557,6 +606,9 @@ cd backend
 npm audit --audit-level=moderate
 
 cd ../frontend
+npm audit --audit-level=moderate
+
+cd ../apps/catalog-web
 npm audit --audit-level=moderate
 ```
 
@@ -601,47 +653,32 @@ The prompt-injection request should be refused instead of answered as a general-
 ```txt
 mistify-fragrance-finder/
 ├── backend/
-│   ├── src/
-│   │   ├── controllers/             # Request handlers
-│   │   │   └── chatController.ts
-│   │   ├── db/                      # Database connection and schema
-│   │   │   ├── connection.ts
-│   │   │   └── schema.ts
-│   │   ├── routes/                  # Express route modules
-│   │   │   ├── adminRoutes.ts
-│   │   │   ├── chatRoutes.ts
-│   │   │   ├── chipRoutes.ts
-│   │   │   ├── promptChipRoutes.ts
-│   │   │   └── recommendationOptionsRoutes.ts
-│   │   ├── scripts/                 # Import, benchmark, audit, and regression scripts
-│   │   ├── services/                # Recommendation, guard, chip, and explanation services
-│   │   ├── utils/                   # Validation, constants, matching helpers
-│   │   └── index.ts                 # Express app entrypoint
-│   ├── sql/                         # Database migration/helper SQL files
-│   ├── .env.example
-│   ├── package.json
-│   └── tsconfig.json
+│   ├── scripts/                      # Node wrappers for sync/import scripts
+│   ├── sql/                          # Database migration/helper SQL files
+│   └── src/
+│       ├── controllers/              # Request handlers
+│       ├── db/                       # Database connection and schema
+│       ├── routes/                   # Express route modules
+│       ├── scripts/                  # Import, export, benchmark, audit, and regression scripts
+│       ├── services/                 # Recommendation, catalog sync, guard, chip, and explanation services
+│       └── utils/                    # Validation, constants, matching helpers, catalog mappers
+├── apps/
+│   └── catalog-web/                  # Standalone static catalog app
+│       ├── public/data/              # Exported static catalog JSON
+│       └── src/                      # Catalog React/Vite app
 ├── docs/
-│   └── screenshots/                 # README screenshots with safe public UI examples
+│   └── screenshots/                  # README screenshots with safe public UI examples
 ├── frontend/
-│   ├── src/
-│   │   ├── api/                     # Browser API clients
-│   │   ├── components/              # Chat and fragrance card components
-│   │   ├── pages/                   # Public and admin pages
-│   │   │   ├── ChatPage.tsx
-│   │   │   ├── AdminLoginPage.tsx
-│   │   │   ├── AdminChipsPage.tsx
-│   │   │   └── AdminProductsPage.tsx
-│   │   ├── styles/                  # Main app styling
-│   │   ├── App.tsx                  # Simple route switcher
-│   │   └── main.tsx                 # React entrypoint
-│   ├── public/
-│   ├── .env.example
-│   ├── package.json
-│   ├── vite.config.ts
-│   └── vercel.json
-├── AGENTS.md                        # Contributor operating notes
-├── code_review.md                   # Security/correctness review checklist
+│   ├── public/assets/                # Public finder image assets
+│   └── src/
+│       ├── api/                      # Browser API clients
+│       ├── components/               # Shared recommendation card components
+│       ├── pages/                    # Public and admin pages
+│       ├── styles/                   # Main app styling
+│       ├── App.tsx                   # Simple route switcher
+│       └── main.tsx                  # React entrypoint
+├── AGENTS.md                         # Contributor operating notes
+├── code_review.md                    # Security/correctness review checklist
 └── README.md
 ```
 
@@ -658,6 +695,14 @@ Before shipping a frontend or full-stack change, run:
 
 ```bash
 cd frontend
+npm run lint
+npm run build
+```
+
+Before shipping a catalog change, run:
+
+```bash
+cd apps/catalog-web
 npm run lint
 npm run build
 ```

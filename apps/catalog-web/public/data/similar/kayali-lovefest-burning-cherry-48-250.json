@@ -1,0 +1,296 @@
+{
+  "fragrances": [
+    {
+      "id": 80,
+      "fragranceSlug": "tom-ford-lost-cherry-80",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lost Cherry",
+      "originalFragranceSlug": "tom-ford-lost-cherry",
+      "mistifyProductName": "Cherry Reverie",
+      "mistifyProductSlug": "cherry-reverie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cherry-reverie",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lost Cherry",
+      "audience": "unisex",
+      "classification": "Floral Gourmand",
+      "topNotes": [
+        "Black Cherry",
+        "Bitter Almond",
+        "Cherry Liqueur"
+      ],
+      "middleNotes": [
+        "Griotte Syrup",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Peru Balsam",
+        "Roasted Tonka Bean",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Black Cherry",
+        "Bitter Almond",
+        "Cherry Liqueur",
+        "Griotte Syrup",
+        "Jasmine Sambac",
+        "Peru Balsam",
+        "Roasted Tonka Bean",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-25-11AM-_1.png?v=1773460540",
+      "searchableText": "Tom Ford tom ford Tom Ford Lost Cherry Cherry Reverie Floral Gourmand unisex Black Cherry Bitter Almond Cherry Liqueur Griotte Syrup Jasmine Sambac Peru Balsam Roasted Tonka Bean Sandalwood Vetiver Cedar",
+      "createdAt": "2026-05-04T04:41:29.166Z",
+      "sharedNotes": [
+        "Black Cherry",
+        "Jasmine Sambac",
+        "Peru Balsam",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 160,
+      "fragranceSlug": "initio-rehab-160",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Rehab",
+      "originalFragranceSlug": "initio-rehab",
+      "mistifyProductName": "Rehabilitee",
+      "mistifyProductSlug": "rehabilitee",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rehabilitee",
+      "publicInspiredByLabel": "Inspired by Initio Rehab",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cedar",
+        "Vetiver",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Rehabilitee.png?v=1765422993",
+      "searchableText": "Initio initio parfums Initio Parfums Rehab Rehabilitee Woody Aromatic unisex Lavender Bergamot Cedar Vetiver Patchouli Sandalwood Musk Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:33.822Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Patchouli",
+        "Vetiver",
+        "Guaiac Wood"
+      ]
+    },
+    {
+      "id": 230,
+      "fragranceSlug": "tiziana-terenzi-kirke-230",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Kirke",
+      "originalFragranceSlug": "tiziana-terenzi-kirke",
+      "mistifyProductName": "Kirka",
+      "mistifyProductSlug": "kirka",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/kirka",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Kirke",
+      "audience": "unisex",
+      "classification": "Fruity Chypre",
+      "topNotes": [
+        "Passionfruit",
+        "Peach",
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Lily of the Valley",
+        "Heliotrope"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Passionfruit",
+        "Peach",
+        "Raspberry",
+        "Lily of the Valley",
+        "Heliotrope",
+        "Musk",
+        "Sandalwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Kirka-_1.png?v=1773460412",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Kirke Kirka Fruity Chypre unisex Passionfruit Peach Raspberry Lily of the Valley Heliotrope Musk Sandalwood Patchouli",
+      "createdAt": "2026-05-04T04:41:38.002Z",
+      "sharedNotes": [
+        "Raspberry",
+        "Heliotrope",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 75,
+      "fragranceSlug": "tom-ford-black-orchid-75",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Black Orchid",
+      "originalFragranceSlug": "tom-ford-black-orchid",
+      "mistifyProductName": "Black Orchard",
+      "mistifyProductSlug": "black-orchard",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/black-orchard",
+      "publicInspiredByLabel": "Inspired by Tom Ford Black Orchid",
+      "audience": "unisex",
+      "classification": "Floral Oriental",
+      "topNotes": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Black Orchid",
+        "Lotus Wood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vanilla",
+        "Vetiver",
+        "Incense"
+      ],
+      "allNotes": [
+        "Black Truffle",
+        "Ylang-Ylang",
+        "Bergamot",
+        "Black Orchid",
+        "Lotus Wood",
+        "Patchouli",
+        "Vanilla",
+        "Vetiver",
+        "Incense"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-39-28AM-_1.png?v=1773460543",
+      "searchableText": "Tom Ford tom ford Tom Ford Black Orchid Black Orchard Floral Oriental unisex Black Truffle Ylang-Ylang Bergamot Black Orchid Lotus Wood Patchouli Vanilla Vetiver Incense",
+      "createdAt": "2026-05-04T04:41:28.869Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Patchouli",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 103,
+      "fragranceSlug": "parfums-de-marly-layton-103",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Layton",
+      "originalFragranceSlug": "parfums-de-marly-layton",
+      "mistifyProductName": "Laytonington",
+      "mistifyProductSlug": "laytonington",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/laytonington",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Layton",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Geranium",
+        "Violet",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Apple",
+        "Bergamot",
+        "Lavender",
+        "Geranium",
+        "Violet",
+        "Jasmine",
+        "Vanilla",
+        "Pepper",
+        "Patchouli",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-32-05AM-_1.png?v=1773460493",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Layton Laytonington Oriental Floral unisex Apple Bergamot Lavender Geranium Violet Jasmine Vanilla Pepper Patchouli Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:30.521Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Patchouli",
+        "Guaiac Wood"
+      ]
+    },
+    {
+      "id": 81,
+      "fragranceSlug": "tom-ford-metallique-81",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Metallique",
+      "originalFragranceSlug": "tom-ford-metallique",
+      "mistifyProductName": "Metallic",
+      "mistifyProductSlug": "metallic",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/metallic",
+      "publicInspiredByLabel": "Inspired by Tom Ford Metallique",
+      "audience": "unisex",
+      "classification": "Aldehydic Floral",
+      "topNotes": [
+        "Aldehydes",
+        "Pink Pepper",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Lily-of-the-Valley",
+        "Heliotrope",
+        "Hawthorn"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Peru Balsam",
+        "Sandalwood",
+        "Ambrette"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Pink Pepper",
+        "Bergamot",
+        "Lily-of-the-Valley",
+        "Heliotrope",
+        "Hawthorn",
+        "Vanilla",
+        "Peru Balsam",
+        "Sandalwood",
+        "Ambrette"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Metallic.png?v=1765422895",
+      "searchableText": "Tom Ford tom ford Tom Ford Metallique Metallic Aldehydic Floral unisex Aldehydes Pink Pepper Bergamot Lily-of-the-Valley Heliotrope Hawthorn Vanilla Peru Balsam Sandalwood Ambrette",
+      "createdAt": "2026-05-04T04:41:29.225Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Heliotrope",
+        "Peru Balsam"
+      ]
+    }
+  ]
+}

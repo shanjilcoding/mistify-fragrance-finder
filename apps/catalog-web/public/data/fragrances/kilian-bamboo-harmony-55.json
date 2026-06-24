@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 55,
+    "fragranceSlug": "kilian-bamboo-harmony-55",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Bamboo Harmony",
+    "originalFragranceSlug": "kilian-bamboo-harmony",
+    "mistifyProductName": "Harmony Bamboo",
+    "mistifyProductSlug": "harmony-bamboo",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/harmony-bamboo",
+    "publicInspiredByLabel": "Inspired by Kilian Bamboo Harmony",
+    "audience": "unisex",
+    "classification": "Citrus Aromatic",
+    "topNotes": [
+      "Bergamot",
+      "Neroli",
+      "Bitter Orange"
+    ],
+    "middleNotes": [
+      "Tea",
+      "Bamboo",
+      "Mate",
+      "Mimosa",
+      "Spices"
+    ],
+    "baseNotes": [
+      "Fig Leaf",
+      "Holly",
+      "Oakmoss"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Neroli",
+      "Bitter Orange",
+      "Tea",
+      "Bamboo",
+      "Mate",
+      "Mimosa",
+      "Spices",
+      "Fig Leaf",
+      "Holly",
+      "Oakmoss"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/HarmonyBamboo.png?v=1765422902",
+    "searchableText": "Kilian kilian By Kilian Bamboo Harmony Harmony Bamboo Citrus Aromatic unisex Bergamot Neroli Bitter Orange Tea Bamboo Mate Mimosa Spices Fig Leaf Holly Oakmoss",
+    "createdAt": "2026-05-04T04:41:27.703Z"
+  }
+}

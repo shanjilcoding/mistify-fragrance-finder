@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 16,
+    "fragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte-16",
+    "brandName": "Maison Francis Kurkdjian",
+    "brandSlug": "maison-francis-kurkdjian",
+    "originalFragranceName": "Aqua Vitae Cologne Forte",
+    "originalFragranceSlug": "maison-francis-kurkdjian-aqua-vitae-cologne-forte",
+    "mistifyProductName": "Vitae Essence",
+    "mistifyProductSlug": "vitae-essence",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/vitae-essence",
+    "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Aqua Vitae Cologne Forte",
+    "audience": "unisex",
+    "classification": "Citrus",
+    "topNotes": [
+      "Mandarin Orange",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Floral Notes",
+      "Solar Notes"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Mandarin Orange",
+      "Bergamot",
+      "Floral Notes",
+      "Solar Notes",
+      "Musk",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/VitaeEssence.png?v=1765422978",
+    "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Aqua Vitae Cologne Forte Vitae Essence Citrus unisex Mandarin Orange Bergamot Floral Notes Solar Notes Musk Sandalwood",
+    "createdAt": "2026-05-04T04:41:25.428Z"
+  }
+}

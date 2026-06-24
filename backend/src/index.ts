@@ -5,6 +5,7 @@ import type { NextFunction, Request, Response } from 'express'
 import helmet from 'helmet'
 import { allowedOrigins } from './utils/env'
 import adminRouter from './routes/adminRoutes'
+import catalogRouter from './routes/catalogRoutes'
 import chatRouter from './routes/chatRoutes'
 import chipRouter from './routes/chipRoutes'
 import promptChipRouter from './routes/promptChipRoutes'
@@ -35,6 +36,7 @@ app.get('/', (_req, res) => {
   })
 })
 
+app.use('/api/catalog', catalogRouter)
 app.use('/api/chat', chatRouter)
 app.use('/api/prompt-chips', promptChipRouter)
 app.use('/api/recommendation-options', recommendationOptionsRouter)

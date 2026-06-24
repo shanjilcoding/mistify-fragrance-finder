@@ -1,0 +1,33 @@
+{
+  "fragrance": {
+    "id": 217,
+    "fragranceSlug": "ermenegildo-zegna-italian-bergamot-217",
+    "brandName": "Ermenegildo Zegna",
+    "brandSlug": "ermenegildo-zegna",
+    "originalFragranceName": "Italian Bergamot",
+    "originalFragranceSlug": "ermenegildo-zegna-italian-bergamot",
+    "mistifyProductName": "Island Vetiver",
+    "mistifyProductSlug": "island-vetiver",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/island-vetiver",
+    "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Italian Bergamot",
+    "audience": null,
+    "classification": "Citrus Aromatic",
+    "topNotes": [],
+    "middleNotes": [
+      "Bergamot",
+      "Neroli",
+      "Rosemary",
+      "Vetiver"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Bergamot",
+      "Neroli",
+      "Rosemary",
+      "Vetiver"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_07_33AM.png?v=1774325260",
+    "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Italian Bergamot Island Vetiver Citrus Aromatic Bergamot Neroli Rosemary Vetiver",
+    "createdAt": "2026-05-04T04:41:37.209Z"
+  }
+}

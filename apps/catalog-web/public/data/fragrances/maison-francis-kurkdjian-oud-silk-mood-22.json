@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 22,
+    "fragranceSlug": "maison-francis-kurkdjian-oud-silk-mood-22",
+    "brandName": "Maison Francis Kurkdjian",
+    "brandSlug": "maison-francis-kurkdjian",
+    "originalFragranceName": "Oud Silk Mood",
+    "originalFragranceSlug": "maison-francis-kurkdjian-oud-silk-mood",
+    "mistifyProductName": "Silky Oud",
+    "mistifyProductSlug": "silky-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/silky-oud",
+    "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian Oud Silk Mood",
+    "audience": "unisex",
+    "classification": "Floral Woody/Oud Floral",
+    "topNotes": [
+      "Bulgarian Rose",
+      "Chamomile",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Guaiac Wood",
+      "Hedione"
+    ],
+    "baseNotes": [
+      "Oud",
+      "Papyrus"
+    ],
+    "allNotes": [
+      "Bulgarian Rose",
+      "Chamomile",
+      "Bergamot",
+      "Guaiac Wood",
+      "Hedione",
+      "Oud",
+      "Papyrus"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_14_14AM.png?v=1774325661",
+    "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian Oud Silk Mood Silky Oud Floral Woody/Oud Floral unisex Bulgarian Rose Chamomile Bergamot Guaiac Wood Hedione Oud Papyrus",
+    "createdAt": "2026-05-04T04:41:25.778Z"
+  }
+}

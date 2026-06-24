@@ -1,0 +1,325 @@
+{
+  "fragrances": [
+    {
+      "id": 125,
+      "fragranceSlug": "creed-aventus-absolute-125",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus Absolute",
+      "originalFragranceSlug": "creed-aventus-absolute",
+      "mistifyProductName": "Absolu Crestus",
+      "mistifyProductSlug": "absolu-crestus",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/absolu-crestus",
+      "publicInspiredByLabel": "Inspired by Creed Aventus Absolute",
+      "audience": "mens",
+      "classification": "Chypre Fruity",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Nutmeg",
+        "Cloves"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Cinnamon",
+        "Citron",
+        "Cardamom",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vetiver",
+        "Oakmoss",
+        "Ambroxan",
+        "Sandalwood",
+        "Musk",
+        "Tonka",
+        "Evernyl"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Nutmeg",
+        "Cloves",
+        "Ginger",
+        "Cinnamon",
+        "Citron",
+        "Cardamom",
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oakmoss",
+        "Ambroxan",
+        "Sandalwood",
+        "Musk",
+        "Tonka",
+        "Evernyl"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageOct28_2025_12_34_56AM.png?v=1765422817",
+      "searchableText": "Creed creed Creed Aventus Absolute Absolu Crestus Chypre Fruity mens Grapefruit Bergamot Pink Pepper Black Currant Pineapple Nutmeg Cloves Ginger Cinnamon Citron Cardamom Rose Patchouli Vetiver Oakmoss Ambroxan Sandalwood Musk Tonka Evernyl",
+      "createdAt": "2026-05-04T04:41:31.801Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Ginger",
+        "Ambroxan",
+        "Musk",
+        "Vetiver",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 301,
+      "fragranceSlug": "chanel-bleu-de-chanel-301",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Bleu de Chanel",
+      "originalFragranceSlug": "chanel-bleu-de-chanel",
+      "mistifyProductName": "Bleu Élan",
+      "mistifyProductSlug": "bleu-elan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-elan",
+      "publicInspiredByLabel": "Inspired by Chanel Bleu de Chanel",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper",
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super",
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Chanel chanel Chanel Bleu de Chanel Bleu Élan Woody Aromatic mens Grapefruit Lemon Mint Pink Pepper Ginger Nutmeg Jasmine Iso E Super Incense Cedar Vetiver Sandalwood Patchouli Labdanum White Musk",
+      "createdAt": "2026-05-04T04:41:42.307Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Ginger",
+        "Vetiver",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 32,
+      "fragranceSlug": "louis-vuitton-l-immensite-32",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "L’Immensité",
+      "originalFragranceSlug": "louis-vuitton-l-immensite",
+      "mistifyProductName": "Immensity",
+      "mistifyProductSlug": "immensity",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/immensity",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton L’Immensité",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rosemary",
+        "Sage",
+        "Watery Notes"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Ambroxan"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Rosemary",
+        "Sage",
+        "Watery Notes",
+        "Amber",
+        "Ambroxan"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_26_09PM.png?v=1765422829",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton L’Immensité Immensity Citrus Aromatic mens Grapefruit Bergamot Rosemary Sage Watery Notes Amber Ambroxan",
+      "createdAt": "2026-05-04T04:41:26.356Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Ambroxan"
+      ]
+    },
+    {
+      "id": 258,
+      "fragranceSlug": "narciso-rodriguez-vetiver-musc-258",
+      "brandName": "Narciso Rodriguez",
+      "brandSlug": "narciso-rodriguez",
+      "originalFragranceName": "Vetiver Musc",
+      "originalFragranceSlug": "narciso-rodriguez-vetiver-musc",
+      "mistifyProductName": "Vetiver Muskine",
+      "mistifyProductSlug": "vetiver-muskine",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vetiver-muskine",
+      "publicInspiredByLabel": "Inspired by Narciso Rodriguez Vetiver Musc",
+      "audience": "mens",
+      "classification": "Aromatic/Woody Vetiver",
+      "topNotes": [
+        "Cardamom",
+        "Cypress",
+        "Nutmeg"
+      ],
+      "middleNotes": [
+        "Musk",
+        "Geranium",
+        "Seaweed",
+        "Algae"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Cypress",
+        "Nutmeg",
+        "Musk",
+        "Geranium",
+        "Seaweed",
+        "Algae",
+        "Vetiver",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_03_16_20PM.png?v=1778613387",
+      "searchableText": "Narciso Rodriguez narciso rodriguez Narciso Rodriguez Vetiver Musc Vetiver Muskine Aromatic/Woody Vetiver mens Cardamom Cypress Nutmeg Musk Geranium Seaweed Algae Vetiver Cedarwood Patchouli",
+      "createdAt": "2026-05-04T04:41:39.713Z",
+      "sharedNotes": [
+        "Musk",
+        "Vetiver",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 283,
+      "fragranceSlug": "carolina-herrera-bad-boy-extreme-283",
+      "brandName": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "originalFragranceName": "Bad Boy Extreme",
+      "originalFragranceSlug": "carolina-herrera-bad-boy-extreme",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Carolina Herrera Bad Boy Extreme",
+      "audience": null,
+      "classification": "Not verified from source",
+      "topNotes": [
+        "Sage",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Vetiver",
+        "Cocoa"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Sage",
+        "Ginger",
+        "Vetiver",
+        "Cocoa",
+        "Tonka Bean",
+        "Patchouli"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Carolina Herrera carolina herrera Carolina Herrera Bad Boy Extreme Not verified Not verified from source Sage Ginger Vetiver Cocoa Tonka Bean Patchouli",
+      "createdAt": "2026-05-04T04:41:41.246Z",
+      "sharedNotes": [
+        "Ginger",
+        "Vetiver",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 146,
+      "fragranceSlug": "ysl-yves-saint-laurent-l-homme-ultimate-146",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "L’Homme Ultimate",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-l-homme-ultimate",
+      "mistifyProductName": "Hommes Ultimate",
+      "mistifyProductSlug": "hommes-ultimate",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/hommes-ultimate",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) L’Homme Ultimate",
+      "audience": "mens",
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Sage",
+        "Geranium",
+        "Apple"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Vetiver",
+        "Cashmere Wood"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Grapefruit",
+        "Cardamom",
+        "Bergamot",
+        "Rose",
+        "Sage",
+        "Geranium",
+        "Apple",
+        "Cedar",
+        "Vetiver",
+        "Cashmere Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-30PM-_1.png?v=1773460429",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) L’Homme Ultimate Hommes Ultimate Woody Floral Musk mens Ginger Grapefruit Cardamom Bergamot Rose Sage Geranium Apple Cedar Vetiver Cashmere Wood",
+      "createdAt": "2026-05-04T04:41:33.006Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Ginger",
+        "Vetiver"
+      ]
+    }
+  ]
+}

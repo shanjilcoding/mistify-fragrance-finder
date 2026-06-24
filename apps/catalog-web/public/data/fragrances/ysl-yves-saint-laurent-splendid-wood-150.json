@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 150,
+    "fragranceSlug": "ysl-yves-saint-laurent-splendid-wood-150",
+    "brandName": "YSL (Yves Saint Laurent)",
+    "brandSlug": "ysl-yves-saint-laurent",
+    "originalFragranceName": "Splendid Wood",
+    "originalFragranceSlug": "ysl-yves-saint-laurent-splendid-wood",
+    "mistifyProductName": "Majestic Timber",
+    "mistifyProductSlug": "majestic-timber",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-timber",
+    "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Splendid Wood",
+    "audience": "unisex",
+    "classification": "Woody Spicy",
+    "topNotes": [
+      "Cardamom",
+      "Incense"
+    ],
+    "middleNotes": [
+      "Cedar",
+      "Cypriol"
+    ],
+    "baseNotes": [
+      "Oud",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Cardamom",
+      "Incense",
+      "Cedar",
+      "Cypriol",
+      "Oud",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MajesticTimber-_1.png?v=1773460419",
+    "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Splendid Wood Majestic Timber Woody Spicy unisex Cardamom Incense Cedar Cypriol Oud Sandalwood",
+    "createdAt": "2026-05-04T04:41:33.251Z"
+  }
+}

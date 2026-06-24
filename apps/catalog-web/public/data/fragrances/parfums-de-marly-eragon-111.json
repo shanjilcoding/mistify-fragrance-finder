@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 111,
+    "fragranceSlug": "parfums-de-marly-eragon-111",
+    "brandName": "Parfums de Marly",
+    "brandSlug": "parfums-de-marly",
+    "originalFragranceName": "Eragon",
+    "originalFragranceSlug": "parfums-de-marly-eragon",
+    "mistifyProductName": "Eragone",
+    "mistifyProductSlug": "eragone",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/eragone",
+    "publicInspiredByLabel": "Inspired by Parfums de Marly Eragon",
+    "audience": "unisex",
+    "classification": "Spicy Oriental/Warm Gourmand",
+    "topNotes": [
+      "Cardamom",
+      "Mandarin",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Cinnamon",
+      "Cypriol",
+      "Davana"
+    ],
+    "baseNotes": [
+      "Vanilla Bean",
+      "Tonka Bean",
+      "Leather",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Cardamom",
+      "Mandarin",
+      "Bergamot",
+      "Cinnamon",
+      "Cypriol",
+      "Davana",
+      "Vanilla Bean",
+      "Tonka Bean",
+      "Leather",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec19-2025-10-34-44AM-_1.png?v=1773460191",
+    "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Eragon Eragone Spicy Oriental/Warm Gourmand unisex Cardamom Mandarin Bergamot Cinnamon Cypriol Davana Vanilla Bean Tonka Bean Leather Patchouli",
+    "createdAt": "2026-05-04T04:41:30.975Z"
+  }
+}

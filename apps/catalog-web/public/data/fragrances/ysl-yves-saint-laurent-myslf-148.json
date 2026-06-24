@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 148,
+    "fragranceSlug": "ysl-yves-saint-laurent-myslf-148",
+    "brandName": "YSL (Yves Saint Laurent)",
+    "brandSlug": "ysl-yves-saint-laurent",
+    "originalFragranceName": "MYSLF",
+    "originalFragranceSlug": "ysl-yves-saint-laurent-myslf",
+    "mistifyProductName": "MYSELF",
+    "mistifyProductSlug": "myself",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/myself",
+    "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) MYSLF",
+    "audience": "mens",
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Bergamot",
+      "Ginger"
+    ],
+    "middleNotes": [
+      "Lavender",
+      "Sage",
+      "Orange Blossom"
+    ],
+    "baseNotes": [
+      "Cedarwood",
+      "Ambergris"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Ginger",
+      "Lavender",
+      "Sage",
+      "Orange Blossom",
+      "Cedarwood",
+      "Ambergris"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-19-50PM-_1.png?v=1773460424",
+    "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) MYSLF MYSELF Woody Aromatic mens Bergamot Ginger Lavender Sage Orange Blossom Cedarwood Ambergris",
+    "createdAt": "2026-05-04T04:41:33.134Z"
+  }
+}

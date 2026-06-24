@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 244,
+    "fragranceSlug": "le-labo-myrrhe-55-244",
+    "brandName": "Le Labo",
+    "brandSlug": "le-labo",
+    "originalFragranceName": "Myrrhe 55",
+    "originalFragranceSlug": "le-labo-myrrhe-55",
+    "mistifyProductName": "Myrrhique 55",
+    "mistifyProductSlug": "myrrhique-55",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/myrrhique-55",
+    "publicInspiredByLabel": "Inspired by Le Labo Myrrhe 55",
+    "audience": "unisex",
+    "classification": "Not split cleanly",
+    "topNotes": [],
+    "middleNotes": [
+      "Jasmine",
+      "Myrrh",
+      "Patchouli",
+      "Musk",
+      "Ambergris",
+      "Oud"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Jasmine",
+      "Myrrh",
+      "Patchouli",
+      "Musk",
+      "Ambergris",
+      "Oud"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov13-2025-09-35-43AM-_1.png?v=1773460218",
+    "searchableText": "Le Labo le labo Le Labo Myrrhe 55 Myrrhique 55 Not split cleanly unisex Jasmine Myrrh Patchouli Musk Ambergris Oud",
+    "createdAt": "2026-05-04T04:41:38.851Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 13,
+    "fragranceSlug": "maison-francis-kurkdjian-a-la-rose-13",
+    "brandName": "Maison Francis Kurkdjian",
+    "brandSlug": "maison-francis-kurkdjian",
+    "originalFragranceName": "A La Rose",
+    "originalFragranceSlug": "maison-francis-kurkdjian-a-la-rose",
+    "mistifyProductName": "Rose Veil",
+    "mistifyProductSlug": "rose-veil",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-veil",
+    "publicInspiredByLabel": "Inspired by Maison Francis Kurkdjian A La Rose",
+    "audience": "womens",
+    "classification": "Floral",
+    "topNotes": [
+      "Bulgarian Damask Rose",
+      "Calabrian Bergamot",
+      "Orange"
+    ],
+    "middleNotes": [
+      "May Rose",
+      "Magnolia"
+    ],
+    "baseNotes": [
+      "Musk",
+      "Cedarwood"
+    ],
+    "allNotes": [
+      "Bulgarian Damask Rose",
+      "Calabrian Bergamot",
+      "Orange",
+      "May Rose",
+      "Magnolia",
+      "Musk",
+      "Cedarwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-28-01PM-_1.png?v=1773460522",
+    "searchableText": "Maison Francis Kurkdjian maison francis kurkdjian Maison Francis Kurkdjian A La Rose Rose Veil Floral womens Bulgarian Damask Rose Calabrian Bergamot Orange May Rose Magnolia Musk Cedarwood",
+    "createdAt": "2026-05-04T04:41:25.261Z"
+  }
+}

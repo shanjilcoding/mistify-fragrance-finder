@@ -1,0 +1,57 @@
+{
+  "fragrance": {
+    "id": 234,
+    "fragranceSlug": "stephane-h-lucas-pink-boa-234",
+    "brandName": "Stephane H. Lucas",
+    "brandSlug": "stephane-h-lucas",
+    "originalFragranceName": "Pink Boa",
+    "originalFragranceSlug": "stephane-h-lucas-pink-boa",
+    "mistifyProductName": "Rose Boa",
+    "mistifyProductSlug": "rose-boa",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/rose-boa",
+    "publicInspiredByLabel": "Inspired by Stephane H. Lucas Pink Boa",
+    "audience": "unisex",
+    "classification": "Floral Fruity",
+    "topNotes": [
+      "Black Currant",
+      "Rosemary",
+      "Blackberry",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Raspberry",
+      "Vodka",
+      "Basil",
+      "Lily of the Valley"
+    ],
+    "baseNotes": [
+      "Strawberry",
+      "Musk",
+      "Sandalwood",
+      "Peach",
+      "Amber",
+      "Incense",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Black Currant",
+      "Rosemary",
+      "Blackberry",
+      "Bergamot",
+      "Raspberry",
+      "Vodka",
+      "Basil",
+      "Lily of the Valley",
+      "Strawberry",
+      "Musk",
+      "Sandalwood",
+      "Peach",
+      "Amber",
+      "Incense",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RoseBoa-_1.png?v=1773460402",
+    "searchableText": "Stephane H. Lucas stephane h lucas Stephane H. Lucas Pink Boa Rose Boa Floral Fruity unisex Black Currant Rosemary Blackberry Bergamot Raspberry Vodka Basil Lily of the Valley Strawberry Musk Sandalwood Peach Amber Incense Patchouli",
+    "createdAt": "2026-05-04T04:41:38.242Z"
+  }
+}

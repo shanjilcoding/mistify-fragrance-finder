@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 154,
+    "fragranceSlug": "ysl-yves-saint-laurent-libre-berry-crush-154",
+    "brandName": "YSL (Yves Saint Laurent)",
+    "brandSlug": "ysl-yves-saint-laurent",
+    "originalFragranceName": "Libre Berry Crush",
+    "originalFragranceSlug": "ysl-yves-saint-laurent-libre-berry-crush",
+    "mistifyProductName": "Libre Berry",
+    "mistifyProductSlug": "libre-berry",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-berry",
+    "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre Berry Crush",
+    "audience": null,
+    "classification": "Floral Fruity",
+    "topNotes": [
+      "Raspberry",
+      "Mandarin"
+    ],
+    "middleNotes": [
+      "Orange Blossom",
+      "Lavender"
+    ],
+    "baseNotes": [
+      "Bourbon Vanilla",
+      "Musk",
+      "Coconut"
+    ],
+    "allNotes": [
+      "Raspberry",
+      "Mandarin",
+      "Orange Blossom",
+      "Lavender",
+      "Bourbon Vanilla",
+      "Musk",
+      "Coconut"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_10_01_31AM.png?v=1778594501",
+    "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Berry Crush Libre Berry Floral Fruity Raspberry Mandarin Orange Blossom Lavender Bourbon Vanilla Musk Coconut",
+    "createdAt": "2026-05-04T04:41:33.476Z"
+  }
+}

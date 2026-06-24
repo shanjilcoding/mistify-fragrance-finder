@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 195,
+    "fragranceSlug": "giardini-di-toscana-bianco-latte-195",
+    "brandName": "Giardini Di Toscana",
+    "brandSlug": "giardini-di-toscana",
+    "originalFragranceName": "Bianco Latte",
+    "originalFragranceSlug": "giardini-di-toscana-bianco-latte",
+    "mistifyProductName": "Bianco Lattéa",
+    "mistifyProductSlug": "bianco-lattea",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/valeroux",
+    "publicInspiredByLabel": "Inspired by Giardini Di Toscana Bianco Latte",
+    "audience": "unisex",
+    "classification": "Gourmand/Creamy Vanilla",
+    "topNotes": [
+      "Caramel"
+    ],
+    "middleNotes": [
+      "Coumarin",
+      "Honey"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "White Musk"
+    ],
+    "allNotes": [
+      "Caramel",
+      "Coumarin",
+      "Honey",
+      "Vanilla",
+      "White Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec22-2025-09-52-18AM-_1.png?v=1773460188",
+    "searchableText": "Giardini Di Toscana giardini di toscana Giardini di Toscana Bianco Latte Bianco Lattéa Gourmand/Creamy Vanilla unisex Caramel Coumarin Honey Vanilla White Musk",
+    "createdAt": "2026-05-04T04:41:35.913Z"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "fragrance": {
+    "id": 90,
+    "fragranceSlug": "tom-ford-velvet-orchid-90",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Velvet Orchid",
+    "originalFragranceSlug": "tom-ford-velvet-orchid",
+    "mistifyProductName": "Velvet Orchard",
+    "mistifyProductSlug": "velvet-orchard",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/velvet-orchard",
+    "publicInspiredByLabel": "Inspired by Tom Ford Velvet Orchid",
+    "audience": "womens",
+    "classification": "Floral Oriental",
+    "topNotes": [
+      "Honey",
+      "Rum",
+      "Mandarin Orange",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Orchid",
+      "Jasmine",
+      "Rose",
+      "Magnolia"
+    ],
+    "baseNotes": [
+      "Myrrh",
+      "Vanilla",
+      "Suede",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Honey",
+      "Rum",
+      "Mandarin Orange",
+      "Bergamot",
+      "Orchid",
+      "Jasmine",
+      "Rose",
+      "Magnolia",
+      "Myrrh",
+      "Vanilla",
+      "Suede",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_12_27_58AM.png?v=1765422890",
+    "searchableText": "Tom Ford tom ford Tom Ford Velvet Orchid Velvet Orchard Floral Oriental womens Honey Rum Mandarin Orange Bergamot Orchid Jasmine Rose Magnolia Myrrh Vanilla Suede Sandalwood",
+    "createdAt": "2026-05-04T04:41:29.739Z"
+  }
+}

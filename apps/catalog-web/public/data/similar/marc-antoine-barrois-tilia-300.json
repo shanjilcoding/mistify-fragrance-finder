@@ -1,0 +1,284 @@
+{
+  "fragrances": [
+    {
+      "id": 186,
+      "fragranceSlug": "ex-nihilo-blue-talisman-186",
+      "brandName": "Ex Nihilo",
+      "brandSlug": "ex-nihilo",
+      "originalFragranceName": "Blue Talisman",
+      "originalFragranceSlug": "ex-nihilo-blue-talisman",
+      "mistifyProductName": "Azure Talisman",
+      "mistifyProductSlug": "azure-talisman",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/azure-talisman",
+      "publicInspiredByLabel": "Inspired by Ex Nihilo Blue Talisman",
+      "audience": "unisex",
+      "classification": "Woody/Ambery Oriental",
+      "topNotes": [
+        "Pear",
+        "Bergamot",
+        "Mandarin",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Georgywood"
+      ],
+      "baseNotes": [
+        "Akigalawood",
+        "Musk",
+        "Ambrofix"
+      ],
+      "allNotes": [
+        "Pear",
+        "Bergamot",
+        "Mandarin",
+        "Ginger",
+        "Orange Blossom",
+        "Georgywood",
+        "Akigalawood",
+        "Musk",
+        "Ambrofix"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-12-25-00PM-_1.png?v=1773460308",
+      "searchableText": "Ex Nihilo ex nihilo Ex Nihilo Blue Talisman Azure Talisman Woody/Ambery Oriental unisex Pear Bergamot Mandarin Ginger Orange Blossom Georgywood Akigalawood Musk Ambrofix",
+      "createdAt": "2026-05-04T04:41:35.349Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Ambrofix",
+        "Georgywood"
+      ]
+    },
+    {
+      "id": 108,
+      "fragranceSlug": "parfums-de-marly-valaya-108",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Valaya",
+      "originalFragranceSlug": "parfums-de-marly-valaya",
+      "mistifyProductName": "Valeti",
+      "mistifyProductSlug": "valeti",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/valeti",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Valaya",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Peach",
+        "Petalia"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Grapefruit",
+        "Mandarin",
+        "Orange Blossom",
+        "Peach",
+        "Petalia",
+        "Ambroxan",
+        "White Musk",
+        "Akigalawood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-37-15AM-_1.png?v=1773460483",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Valaya Valeti Floral Woody Musk womens Bergamot Grapefruit Mandarin Orange Blossom Peach Petalia Ambroxan White Musk Akigalawood",
+      "createdAt": "2026-05-04T04:41:30.796Z",
+      "sharedNotes": [
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 61,
+      "fragranceSlug": "kilian-good-girl-gone-bad-extreme-61",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Good Girl Gone Bad Extreme",
+      "originalFragranceSlug": "kilian-good-girl-gone-bad-extreme",
+      "mistifyProductName": "Gone Rouge",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gone-rouge?variant=53362062131519",
+      "publicInspiredByLabel": "Inspired by Kilian Good Girl Gone Bad Extreme",
+      "audience": null,
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Osmanthus",
+        "Jasmine",
+        "Rose de Mai",
+        "Peach",
+        "Cherry"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Milk",
+        "Narcissus",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Amber",
+        "White Cedar Extract",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Jasmine",
+        "Rose de Mai",
+        "Peach",
+        "Cherry",
+        "Tuberose",
+        "Milk",
+        "Narcissus",
+        "Orange Blossom",
+        "Amber",
+        "White Cedar Extract",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay29_2026_02_31_49PM.png?v=1780079516",
+      "searchableText": "Kilian kilian By Kilian Good Girl Gone Bad Extreme Not verified on Mistify Floral Woody Musk Osmanthus Jasmine Rose de Mai Peach Cherry Tuberose Milk Narcissus Orange Blossom Amber White Cedar Extract Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.046Z",
+      "sharedNotes": [
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 292,
+      "fragranceSlug": "bvlgari-eau-parfumee-au-the-blanc-292",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Eau Parfumée Au Thé Blanc",
+      "originalFragranceSlug": "bvlgari-eau-parfumee-au-the-blanc",
+      "mistifyProductName": "Blanc Théique",
+      "mistifyProductSlug": "blanc-theique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/blanc-theique",
+      "publicInspiredByLabel": "Inspired by Bvlgari Eau Parfumée Au Thé Blanc",
+      "audience": "unisex",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Tea",
+        "Artemisia",
+        "Bergamot",
+        "Orange Blossom",
+        "Bitter Orange"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Cardamom",
+        "Coriander"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Woody Notes",
+        "Jasmine",
+        "Amber",
+        "Rose"
+      ],
+      "allNotes": [
+        "Tea",
+        "Artemisia",
+        "Bergamot",
+        "Orange Blossom",
+        "Bitter Orange",
+        "Pepper",
+        "Cardamom",
+        "Coriander",
+        "Musk",
+        "Woody Notes",
+        "Jasmine",
+        "Amber",
+        "Rose"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov14-2025-10-23-42AM-_1.png?v=1773460213",
+      "searchableText": "Bvlgari bvlgari Bvlgari Eau Parfumée Au Thé Blanc Blanc Théique Floral Woody Musk unisex Tea Artemisia Bergamot Orange Blossom Bitter Orange Pepper Cardamom Coriander Musk Woody Notes Jasmine Amber Rose",
+      "createdAt": "2026-05-04T04:41:41.776Z",
+      "sharedNotes": [
+        "Orange Blossom"
+      ]
+    },
+    {
+      "id": 282,
+      "fragranceSlug": "juliette-has-a-gun-not-a-perfume-282",
+      "brandName": "Juliette Has A Gun",
+      "brandSlug": "juliette-has-a-gun",
+      "originalFragranceName": "Not a Perfume",
+      "originalFragranceSlug": "juliette-has-a-gun-not-a-perfume",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Juliette Has A Gun Not a Perfume",
+      "audience": null,
+      "classification": "Floral Woody Musk",
+      "topNotes": [],
+      "middleNotes": [
+        "Cetalox"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Cetalox"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Juliette Has A Gun juliette has a gun Juliette Has a Gun Not a Perfume Not verified Floral Woody Musk Cetalox",
+      "createdAt": "2026-05-04T04:41:41.184Z",
+      "sharedNotes": []
+    },
+    {
+      "id": 231,
+      "fragranceSlug": "tiziana-terenzi-orion-231",
+      "brandName": "Tiziana Terenzi",
+      "brandSlug": "tiziana-terenzi",
+      "originalFragranceName": "Orion",
+      "originalFragranceSlug": "tiziana-terenzi-orion",
+      "mistifyProductName": "Orien",
+      "mistifyProductSlug": "orien",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orien",
+      "publicInspiredByLabel": "Inspired by Tiziana Terenzi Orion",
+      "audience": "unisex",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant"
+      ],
+      "middleNotes": [
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Pineapple",
+        "Apple",
+        "Bergamot",
+        "Red Currant",
+        "Birch",
+        "Thyme",
+        "Patchouli",
+        "Jasmine",
+        "Cedar",
+        "Incense",
+        "Oud",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Orien-_1.png?v=1773460410",
+      "searchableText": "Tiziana Terenzi tiziana terenzi Tiziana Terenzi Orion Orien Floral Woody Musk unisex Pineapple Apple Bergamot Red Currant Birch Thyme Patchouli Jasmine Cedar Incense Oud Musk Amber",
+      "createdAt": "2026-05-04T04:41:38.057Z",
+      "sharedNotes": []
+    }
+  ]
+}

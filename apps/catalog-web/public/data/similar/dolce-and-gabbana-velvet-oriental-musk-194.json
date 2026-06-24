@@ -1,0 +1,301 @@
+{
+  "fragrances": [
+    {
+      "id": 150,
+      "fragranceSlug": "ysl-yves-saint-laurent-splendid-wood-150",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Splendid Wood",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-splendid-wood",
+      "mistifyProductName": "Majestic Timber",
+      "mistifyProductSlug": "majestic-timber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-timber",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Splendid Wood",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom",
+        "Incense"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Cypriol"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Incense",
+        "Cedar",
+        "Cypriol",
+        "Oud",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MajesticTimber-_1.png?v=1773460419",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Splendid Wood Majestic Timber Woody Spicy unisex Cardamom Incense Cedar Cypriol Oud Sandalwood",
+      "createdAt": "2026-05-04T04:41:33.251Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Cypriol",
+        "Cedar",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 247,
+      "fragranceSlug": "penhaligon-s-halfeti-247",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti",
+      "originalFragranceSlug": "penhaligon-s-halfeti",
+      "mistifyProductName": "Halfeti Rose",
+      "mistifyProductSlug": "halfeti-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cypress Leaf",
+        "Saffron",
+        "Cardamom",
+        "Artemisia",
+        "Bergamot",
+        "Grapefruit",
+        "Bulgarian Rose",
+        "Nutmeg",
+        "Jasmine",
+        "Oud",
+        "Cedar",
+        "Leather",
+        "Sandalwood",
+        "Amber",
+        "Tonka Bean",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_43_29AM.png?v=1765422933",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Halfeti Rose Oriental Woody unisex Cypress Leaf Saffron Cardamom Artemisia Bergamot Grapefruit Bulgarian Rose Nutmeg Jasmine Oud Cedar Leather Sandalwood Amber Tonka Bean Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:39.038Z",
+      "sharedNotes": [
+        "Saffron",
+        "Cardamom",
+        "Musk",
+        "Amber",
+        "Cedar",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 59,
+      "fragranceSlug": "kilian-gold-oudh-59",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Oudh",
+      "originalFragranceSlug": "kilian-gold-oudh",
+      "mistifyProductName": "Golden Oud",
+      "mistifyProductSlug": "golden-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Oud",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Oud",
+        "Saffron",
+        "Rose",
+        "Cedar",
+        "Vanilla",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+      "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+      "createdAt": "2026-05-04T04:41:27.929Z",
+      "sharedNotes": [
+        "Saffron",
+        "Musk",
+        "Cedar",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 255,
+      "fragranceSlug": "mugler-alien-oud-majestueux-255",
+      "brandName": "Mugler",
+      "brandSlug": "mugler",
+      "originalFragranceName": "Alien Oud Majestueux",
+      "originalFragranceSlug": "mugler-alien-oud-majestueux",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Mugler Alien Oud Majestueux",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Cardamom",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Cashmeran"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Amber"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Saffron",
+        "Jasmine",
+        "Cashmeran",
+        "Oud",
+        "Amber"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Mugler mugler Mugler Alien Oud Majestueux Not verified Oriental Woody Cardamom Saffron Jasmine Cashmeran Oud Amber",
+      "createdAt": "2026-05-04T04:41:39.525Z",
+      "sharedNotes": [
+        "Saffron",
+        "Cardamom",
+        "Amber"
+      ]
+    },
+    {
+      "id": 213,
+      "fragranceSlug": "maison-crivelli-oud-stallion-213",
+      "brandName": "Maison Crivelli",
+      "brandSlug": "maison-crivelli",
+      "originalFragranceName": "Oud Stallion",
+      "originalFragranceSlug": "maison-crivelli-oud-stallion",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Maison Crivelli Oud Stallion",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Saffron",
+        "Cardamom",
+        "Indonesian Nutmeg"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Osmanthus",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Cedar",
+        "Patchouli",
+        "Tonka"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Cardamom",
+        "Indonesian Nutmeg",
+        "Jasmine",
+        "Osmanthus",
+        "Turkish Rose",
+        "Oud",
+        "Leather",
+        "Cedar",
+        "Patchouli",
+        "Tonka"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Maison Crivelli maison crivelli Maison Crivelli Oud Stallion Not verified Oriental Woody Saffron Cardamom Indonesian Nutmeg Jasmine Osmanthus Turkish Rose Oud Leather Cedar Patchouli Tonka",
+      "createdAt": "2026-05-04T04:41:36.980Z",
+      "sharedNotes": [
+        "Saffron",
+        "Cardamom",
+        "Cedar",
+        "Tonka"
+      ]
+    },
+    {
+      "id": 239,
+      "fragranceSlug": "nasomatto-sadonaso-239",
+      "brandName": "Nasomatto",
+      "brandSlug": "nasomatto",
+      "originalFragranceName": "Sadonaso",
+      "originalFragranceSlug": "nasomatto-sadonaso",
+      "mistifyProductName": "Sadonara",
+      "mistifyProductSlug": "sadonara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/sadonara",
+      "publicInspiredByLabel": "Inspired by Nasomatto Sadonaso",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Coffee"
+      ],
+      "middleNotes": [
+        "Musk",
+        "Tobacco",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Animal Notes",
+        "Amber",
+        "Tonka"
+      ],
+      "allNotes": [
+        "Coffee",
+        "Musk",
+        "Tobacco",
+        "Sandalwood",
+        "Vanilla",
+        "Animal Notes",
+        "Amber",
+        "Tonka"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_04_24_06PM_cfd3cae7-8aeb-47b7-bea5-26c69f6e9c0d.png?v=1778617465",
+      "searchableText": "Nasomatto nasomatto Nasomatto Sadonaso Sadonara Not listed clearly by Fragrantica unisex Coffee Musk Tobacco Sandalwood Vanilla Animal Notes Amber Tonka",
+      "createdAt": "2026-05-04T04:41:38.543Z",
+      "sharedNotes": [
+        "Musk",
+        "Amber",
+        "Sandalwood",
+        "Tonka"
+      ]
+    }
+  ]
+}

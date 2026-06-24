@@ -1,0 +1,51 @@
+{
+  "fragrance": {
+    "id": 328,
+    "fragranceSlug": "tom-ford-lys-fume-328",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Lys Fume",
+    "originalFragranceSlug": "tom-ford-lys-fume",
+    "mistifyProductName": "Lys Fumée",
+    "mistifyProductSlug": "lys-fumee",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/lys-fumee",
+    "publicInspiredByLabel": "Tom Ford Lys Fume",
+    "audience": null,
+    "classification": "Spicy Floral / Smoky Amber",
+    "topNotes": [
+      "Italian Mandarin",
+      "Pink Pepper",
+      "Turmeric",
+      "Nutmeg"
+    ],
+    "middleNotes": [
+      "White Lily",
+      "Ylang-Ylang",
+      "Artemisia",
+      "Rum"
+    ],
+    "baseNotes": [
+      "Madagascar Vanilla",
+      "Labdanum",
+      "Styrax",
+      "Oak"
+    ],
+    "allNotes": [
+      "Italian Mandarin",
+      "Pink Pepper",
+      "Turmeric",
+      "Nutmeg",
+      "White Lily",
+      "Ylang-Ylang",
+      "Artemisia",
+      "Rum",
+      "Madagascar Vanilla",
+      "Labdanum",
+      "Styrax",
+      "Oak"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar15_2026_03_23_42PM.png?v=1773602734",
+    "searchableText": "Tom Ford Tom Ford Lys Fume Lys Fumée Spicy Floral / Smoky Amber Italian Mandarin Pink Pepper Turmeric Nutmeg White Lily Ylang-Ylang Artemisia Rum Madagascar Vanilla Labdanum Styrax Oak",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

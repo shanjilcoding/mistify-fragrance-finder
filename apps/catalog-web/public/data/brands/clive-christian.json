@@ -1,0 +1,239 @@
+{
+  "brand": {
+    "brandName": "Clive Christian",
+    "brandSlug": "clive-christian",
+    "fragranceCount": 5,
+    "searchableText": "Blonde Amber Amber Luxe Inspired by Clive Christian Blonde Amber Clive Christian clive christian Clive Christian Blonde Amber Amber Luxe Oriental unisex Rum Olibanum Bitter Orange Cardamom Pink Pepper Ginger Bergamot Grapefruit Dried Fruits White Tobacco Sandalwood Tuberose Saffron Osmanthus Jasmine Orris Tonka Bean Vanilla Myrrh Labdanum Patchouli Musk Cedar Vetiver Clive Christian V Vividly Christian V Inspired by Clive Christian Clive Christian V Clive Christian clive christian Clive Christian Clive Christian V Vividly Christian V Oriental Fougere mens Black Pepper Bergamot Olibanum Vetiver Smoke Amber Crab Apple Blossom Crabapple Bloom Inspired by Clive Christian Crab Apple Blossom Clive Christian clive christian Clive Christian Crab Apple Blossom Crabapple Bloom Fresh Aquatic/Woody unisex Sea Notes Bergamot Apple Blossom Mojito Rhubarb Driftwood Sandalwood L Red Tea Vetiver Rouge Thé Vetiver Clive Christian L Red Tea Vetiver Clive Christian Clive Christian L Red Tea Vetiver Rouge Thé Vetiver Citrus Woody / Aromatic Tea Bergamot Lemon Rooibos Tea Vetiver Sandalwood Musk Strange Heavens Out of the Blue Strange Skies Clive Christian Strange Heavens Out of the Blue Clive Christian Clive Christian Strange Heavens Out of the Blue Strange Skies Gourmand Oriental / Smoky Sweet Coffee Pink Pepper Anise Jasmine Orange Blossom Caramel Cocoa Vanilla Smoke"
+  },
+  "fragrances": [
+    {
+      "id": 226,
+      "fragranceSlug": "clive-christian-blonde-amber-226",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Blonde Amber",
+      "originalFragranceSlug": "clive-christian-blonde-amber",
+      "mistifyProductName": "Amber Luxe",
+      "mistifyProductSlug": "amber-luxe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/amber-luxe",
+      "publicInspiredByLabel": "Inspired by Clive Christian Blonde Amber",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Rum",
+        "Olibanum",
+        "Bitter Orange",
+        "Cardamom",
+        "Pink Pepper",
+        "Ginger",
+        "Bergamot",
+        "Grapefruit",
+        "Dried Fruits",
+        "White Tobacco",
+        "Sandalwood",
+        "Tuberose",
+        "Saffron",
+        "Osmanthus",
+        "Jasmine",
+        "Orris",
+        "Tonka Bean",
+        "Vanilla",
+        "Myrrh",
+        "Labdanum",
+        "Patchouli",
+        "Musk",
+        "Cedar",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-34-30PM-_1.png?v=1773460457",
+      "searchableText": "Clive Christian clive christian Clive Christian Blonde Amber Amber Luxe Oriental unisex Rum Olibanum Bitter Orange Cardamom Pink Pepper Ginger Bergamot Grapefruit Dried Fruits White Tobacco Sandalwood Tuberose Saffron Osmanthus Jasmine Orris Tonka Bean Vanilla Myrrh Labdanum Patchouli Musk Cedar Vetiver",
+      "createdAt": "2026-05-04T04:41:37.756Z"
+    },
+    {
+      "id": 227,
+      "fragranceSlug": "clive-christian-clive-christian-v-227",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Clive Christian V",
+      "originalFragranceSlug": "clive-christian-clive-christian-v",
+      "mistifyProductName": "Vividly Christian V",
+      "mistifyProductSlug": "vividly-christian-v",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/vividly-christian-v",
+      "publicInspiredByLabel": "Inspired by Clive Christian Clive Christian V",
+      "audience": "mens",
+      "classification": "Oriental Fougere",
+      "topNotes": [
+        "Black Pepper",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Olibanum"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Smoke",
+        "Amber"
+      ],
+      "allNotes": [
+        "Black Pepper",
+        "Bergamot",
+        "Olibanum",
+        "Vetiver",
+        "Smoke",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-40-13PM-_1.png?v=1773460454",
+      "searchableText": "Clive Christian clive christian Clive Christian Clive Christian V Vividly Christian V Oriental Fougere mens Black Pepper Bergamot Olibanum Vetiver Smoke Amber",
+      "createdAt": "2026-05-04T04:41:37.822Z"
+    },
+    {
+      "id": 228,
+      "fragranceSlug": "clive-christian-crab-apple-blossom-228",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Crab Apple Blossom",
+      "originalFragranceSlug": "clive-christian-crab-apple-blossom",
+      "mistifyProductName": "Crabapple Bloom",
+      "mistifyProductSlug": "crabapple-bloom",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/crabapple-bloom",
+      "publicInspiredByLabel": "Inspired by Clive Christian Crab Apple Blossom",
+      "audience": "unisex",
+      "classification": "Fresh Aquatic/Woody",
+      "topNotes": [
+        "Sea Notes",
+        "Bergamot",
+        "Apple Blossom"
+      ],
+      "middleNotes": [
+        "Mojito",
+        "Rhubarb"
+      ],
+      "baseNotes": [
+        "Driftwood",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Sea Notes",
+        "Bergamot",
+        "Apple Blossom",
+        "Mojito",
+        "Rhubarb",
+        "Driftwood",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb13-2026-02-59-42PM-_1.png?v=1773460141",
+      "searchableText": "Clive Christian clive christian Clive Christian Crab Apple Blossom Crabapple Bloom Fresh Aquatic/Woody unisex Sea Notes Bergamot Apple Blossom Mojito Rhubarb Driftwood Sandalwood",
+      "createdAt": "2026-05-04T04:41:37.882Z"
+    },
+    {
+      "id": 311,
+      "fragranceSlug": "clive-christian-l-red-tea-vetiver-311",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "L Red Tea Vetiver",
+      "originalFragranceSlug": "clive-christian-l-red-tea-vetiver",
+      "mistifyProductName": "Rouge Thé Vetiver",
+      "mistifyProductSlug": "rouge-the-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rouge-the-vetiver",
+      "publicInspiredByLabel": "Clive Christian L Red Tea Vetiver",
+      "audience": null,
+      "classification": "Citrus Woody / Aromatic Tea",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Rooibos Tea",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Rooibos Tea",
+        "Vetiver",
+        "Sandalwood",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_45_38AM.png?v=1781711148",
+      "searchableText": "Clive Christian Clive Christian L Red Tea Vetiver Rouge Thé Vetiver Citrus Woody / Aromatic Tea Bergamot Lemon Rooibos Tea Vetiver Sandalwood Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 324,
+      "fragranceSlug": "clive-christian-strange-heavens-out-of-the-blue-324",
+      "brandName": "Clive Christian",
+      "brandSlug": "clive-christian",
+      "originalFragranceName": "Strange Heavens Out of the Blue",
+      "originalFragranceSlug": "clive-christian-strange-heavens-out-of-the-blue",
+      "mistifyProductName": "Strange Skies",
+      "mistifyProductSlug": "strange-skies",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/strange-skies",
+      "publicInspiredByLabel": "Clive Christian Strange Heavens Out of the Blue",
+      "audience": null,
+      "classification": "Gourmand Oriental / Smoky Sweet",
+      "topNotes": [
+        "Coffee",
+        "Pink Pepper",
+        "Anise"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Cocoa",
+        "Vanilla",
+        "Smoke"
+      ],
+      "allNotes": [
+        "Coffee",
+        "Pink Pepper",
+        "Anise",
+        "Jasmine",
+        "Orange Blossom",
+        "Caramel",
+        "Cocoa",
+        "Vanilla",
+        "Smoke"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay11_2026_02_44_12PM.png?v=1778525061",
+      "searchableText": "Clive Christian Clive Christian Strange Heavens Out of the Blue Strange Skies Gourmand Oriental / Smoky Sweet Coffee Pink Pepper Anise Jasmine Orange Blossom Caramel Cocoa Vanilla Smoke",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    }
+  ]
+}

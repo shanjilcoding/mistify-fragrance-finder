@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 59,
+    "fragranceSlug": "kilian-gold-oudh-59",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Gold Oudh",
+    "originalFragranceSlug": "kilian-gold-oudh",
+    "mistifyProductName": "Golden Oud",
+    "mistifyProductSlug": "golden-oud",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-oud",
+    "publicInspiredByLabel": "Inspired by Kilian Gold Oudh",
+    "audience": "unisex",
+    "classification": "Oriental Woody",
+    "topNotes": [
+      "Oud",
+      "Saffron"
+    ],
+    "middleNotes": [
+      "Rose",
+      "Cedar"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Sandalwood",
+      "Musk"
+    ],
+    "allNotes": [
+      "Oud",
+      "Saffron",
+      "Rose",
+      "Cedar",
+      "Vanilla",
+      "Sandalwood",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_41_40AM.png?v=1774327307",
+    "searchableText": "Kilian kilian By Kilian Gold Oudh Golden Oud Oriental Woody unisex Oud Saffron Rose Cedar Vanilla Sandalwood Musk",
+    "createdAt": "2026-05-04T04:41:27.929Z"
+  }
+}

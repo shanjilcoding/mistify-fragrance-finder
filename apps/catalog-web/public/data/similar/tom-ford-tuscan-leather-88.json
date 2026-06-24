@@ -1,0 +1,280 @@
+{
+  "fragrances": [
+    {
+      "id": 95,
+      "fragranceSlug": "tom-ford-fucking-fabulous-95",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Fucking Fabulous",
+      "originalFragranceSlug": "tom-ford-fucking-fabulous",
+      "mistifyProductName": "Fabuleux",
+      "mistifyProductSlug": "fabuleux",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/fabuleux",
+      "publicInspiredByLabel": "Inspired by Tom Ford Fucking Fabulous",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Lavender",
+        "Clary Sage"
+      ],
+      "middleNotes": [
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Clary Sage",
+        "Leather",
+        "Bitter Almond",
+        "Vanilla",
+        "Orris",
+        "Leather",
+        "Tonka Bean",
+        "Cashmeran",
+        "White Woods",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec11-2025-09-54-59AM-_1.png?v=1773460202",
+      "searchableText": "Tom Ford tom ford Tom Ford Fucking Fabulous Fabuleux Leather unisex Lavender Clary Sage Leather Bitter Almond Vanilla Orris Leather Tonka Bean Cashmeran White Woods Amber",
+      "createdAt": "2026-05-04T04:41:30.032Z",
+      "sharedNotes": [
+        "Leather",
+        "Amber"
+      ]
+    },
+    {
+      "id": 93,
+      "fragranceSlug": "tom-ford-white-suede-93",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "White Suede",
+      "originalFragranceSlug": "tom-ford-white-suede",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Tom Ford White Suede",
+      "audience": null,
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Thyme",
+        "Tea"
+      ],
+      "middleNotes": [
+        "Lily-of-the-Valley",
+        "Saffron",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Musk",
+        "Sandalwood",
+        "Amber",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Thyme",
+        "Tea",
+        "Lily-of-the-Valley",
+        "Saffron",
+        "Rose",
+        "Suede",
+        "Musk",
+        "Sandalwood",
+        "Amber",
+        "Olibanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Tom Ford tom ford Tom Ford White Suede Not verified Floral Woody Musk Thyme Tea Lily-of-the-Valley Saffron Rose Suede Musk Sandalwood Amber Olibanum",
+      "createdAt": "2026-05-04T04:41:29.912Z",
+      "sharedNotes": [
+        "Saffron",
+        "Thyme",
+        "Olibanum",
+        "Suede",
+        "Amber"
+      ]
+    },
+    {
+      "id": 165,
+      "fragranceSlug": "montale-aoud-leather-165",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Leather",
+      "originalFragranceSlug": "montale-aoud-leather",
+      "mistifyProductName": "Oud Hide",
+      "mistifyProductSlug": "oud-hide",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-hide",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Leather",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [],
+      "middleNotes": [
+        "Leather",
+        "Oud",
+        "Saffron",
+        "Bergamot",
+        "Cardamom",
+        "Pepper",
+        "Ambergris"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Leather",
+        "Oud",
+        "Saffron",
+        "Bergamot",
+        "Cardamom",
+        "Pepper",
+        "Ambergris"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudHide_ec6fce37-d220-454a-aab8-992c47a67666.png?v=1765422947",
+      "searchableText": "Montale montale Montale Aoud Leather Oud Hide Leather unisex Leather Oud Saffron Bergamot Cardamom Pepper Ambergris",
+      "createdAt": "2026-05-04T04:41:34.121Z",
+      "sharedNotes": [
+        "Saffron",
+        "Leather"
+      ]
+    },
+    {
+      "id": 122,
+      "fragranceSlug": "bond-no-9-bleecker-street-122",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Bleecker Street",
+      "originalFragranceSlug": "bond-no-9-bleecker-street",
+      "mistifyProductName": "Bleek St.",
+      "mistifyProductSlug": "bleek-st",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleek-st",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Bleecker Street",
+      "audience": "unisex",
+      "classification": "Woody Aromatic Gourmand",
+      "topNotes": [
+        "Violet Leaf",
+        "Blueberry",
+        "Thyme"
+      ],
+      "middleNotes": [
+        "Cedarwood",
+        "Jasmine",
+        "Cinnamon"
+      ],
+      "baseNotes": [
+        "Oakmoss",
+        "Suede",
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Caramel"
+      ],
+      "allNotes": [
+        "Violet Leaf",
+        "Blueberry",
+        "Thyme",
+        "Cedarwood",
+        "Jasmine",
+        "Cinnamon",
+        "Oakmoss",
+        "Suede",
+        "Amber",
+        "Vanilla",
+        "Patchouli",
+        "Caramel"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-33-00AM-_1.png?v=1773460249",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Bleecker Street Bleek St. Woody Aromatic Gourmand unisex Violet Leaf Blueberry Thyme Cedarwood Jasmine Cinnamon Oakmoss Suede Amber Vanilla Patchouli Caramel",
+      "createdAt": "2026-05-04T04:41:31.629Z",
+      "sharedNotes": [
+        "Thyme",
+        "Jasmine",
+        "Suede",
+        "Amber"
+      ]
+    },
+    {
+      "id": 92,
+      "fragranceSlug": "tom-ford-ombre-leather-92",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Ombre Leather",
+      "originalFragranceSlug": "tom-ford-ombre-leather",
+      "mistifyProductName": "Ombre Royale",
+      "mistifyProductSlug": "ombre-royale",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-royale",
+      "publicInspiredByLabel": "Inspired by Tom Ford Ombre Leather",
+      "audience": "mens",
+      "classification": "Leather",
+      "topNotes": [
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Jasmine Sambac",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Moss",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Jasmine Sambac",
+        "Leather",
+        "Amber",
+        "Moss",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-42-02AM-_1.png?v=1773460288",
+      "searchableText": "Tom Ford tom ford Tom Ford Ombre Leather Ombre Royale Leather mens Cardamom Jasmine Sambac Leather Amber Moss Patchouli",
+      "createdAt": "2026-05-04T04:41:29.855Z",
+      "sharedNotes": [
+        "Leather",
+        "Amber"
+      ]
+    },
+    {
+      "id": 36,
+      "fragranceSlug": "louis-vuitton-ombre-nomade-36",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "Ombre Nomade",
+      "originalFragranceSlug": "louis-vuitton-ombre-nomade",
+      "mistifyProductName": "Ombre Nomad",
+      "mistifyProductSlug": "ombre-nomad",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-nomad",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton Ombre Nomade",
+      "audience": "unisex",
+      "classification": "Leather",
+      "topNotes": [
+        "Raspberry"
+      ],
+      "middleNotes": [
+        "Oud Wood"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Oud Wood",
+        "Incense",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_45_50PM.png?v=1765422836",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Ombre Nomade Ombre Nomad Leather unisex Raspberry Oud Wood Incense Benzoin",
+      "createdAt": "2026-05-04T04:41:26.592Z",
+      "sharedNotes": [
+        "Raspberry"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 216,
+    "fragranceSlug": "ermenegildo-zegna-haitian-vetiver-216",
+    "brandName": "Ermenegildo Zegna",
+    "brandSlug": "ermenegildo-zegna",
+    "originalFragranceName": "Haitian Vetiver",
+    "originalFragranceSlug": "ermenegildo-zegna-haitian-vetiver",
+    "mistifyProductName": "Island Vetiver",
+    "mistifyProductSlug": "island-vetiver",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/island-vetiver",
+    "publicInspiredByLabel": "Inspired by Ermenegildo Zegna Haitian Vetiver",
+    "audience": "mens",
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Italian Bergamot",
+      "Neroli"
+    ],
+    "middleNotes": [
+      "Iris",
+      "Carrot Seed"
+    ],
+    "baseNotes": [
+      "Haitian Vetiver"
+    ],
+    "allNotes": [
+      "Italian Bergamot",
+      "Neroli",
+      "Iris",
+      "Carrot Seed",
+      "Haitian Vetiver"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_07_33AM.png?v=1774325260",
+    "searchableText": "Ermenegildo Zegna ermenegildo zegna Ermenegildo Zegna Haitian Vetiver Island Vetiver Woody Aromatic mens Italian Bergamot Neroli Iris Carrot Seed Haitian Vetiver",
+    "createdAt": "2026-05-04T04:41:37.155Z"
+  }
+}

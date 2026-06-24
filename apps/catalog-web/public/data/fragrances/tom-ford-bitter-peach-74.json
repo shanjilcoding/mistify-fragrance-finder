@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 74,
+    "fragranceSlug": "tom-ford-bitter-peach-74",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Bitter Peach",
+    "originalFragranceSlug": "tom-ford-bitter-peach",
+    "mistifyProductName": "Bitter Peachy",
+    "mistifyProductSlug": "bitter-peachy",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/bitter-peachy",
+    "publicInspiredByLabel": "Inspired by Tom Ford Bitter Peach",
+    "audience": "unisex",
+    "classification": "Fruity Gourmand",
+    "topNotes": [
+      "Wild Peach",
+      "Sicilian Blood Orange",
+      "Cardamom"
+    ],
+    "middleNotes": [
+      "Rum Absolute",
+      "Davana",
+      "Jasmine Sambac"
+    ],
+    "baseNotes": [
+      "Sandalwood",
+      "Tonka Bean",
+      "Patchouli",
+      "Benzoin"
+    ],
+    "allNotes": [
+      "Wild Peach",
+      "Sicilian Blood Orange",
+      "Cardamom",
+      "Rum Absolute",
+      "Davana",
+      "Jasmine Sambac",
+      "Sandalwood",
+      "Tonka Bean",
+      "Patchouli",
+      "Benzoin"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_26_07AM.png?v=1774326374",
+    "searchableText": "Tom Ford tom ford Tom Ford Bitter Peach Bitter Peachy Fruity Gourmand unisex Wild Peach Sicilian Blood Orange Cardamom Rum Absolute Davana Jasmine Sambac Sandalwood Tonka Bean Patchouli Benzoin",
+    "createdAt": "2026-05-04T04:41:28.810Z"
+  }
+}

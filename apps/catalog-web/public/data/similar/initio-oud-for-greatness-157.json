@@ -1,0 +1,287 @@
+{
+  "fragrances": [
+    {
+      "id": 69,
+      "fragranceSlug": "kilian-rose-oud-69",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Rose Oud",
+      "originalFragranceSlug": "kilian-rose-oud",
+      "mistifyProductName": "Rosy Oud",
+      "mistifyProductSlug": "rosy-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rosy-oud",
+      "publicInspiredByLabel": "Inspired by Kilian Rose Oud",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Rose",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Oud",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Rose",
+        "Saffron",
+        "Oud",
+        "Cedarwood",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/RosyOud_9a080a3b-9ff3-481e-8ecc-190466f11560.png?v=1765422921",
+      "searchableText": "Kilian kilian By Kilian Rose Oud Rosy Oud Oriental Floral unisex Rose Saffron Oud Cedarwood Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:28.526Z",
+      "sharedNotes": [
+        "Saffron",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ]
+    },
+    {
+      "id": 167,
+      "fragranceSlug": "montale-aoud-safran-167",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Safran",
+      "originalFragranceSlug": "montale-aoud-safran",
+      "mistifyProductName": "Saffron Oud",
+      "mistifyProductSlug": "saffron-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saffron-oud",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Safran",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Saffron",
+        "Arabian Rose",
+        "Oud"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Saffron",
+        "Arabian Rose",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/SaffronOud.png?v=1765422951",
+      "searchableText": "Montale montale Montale Aoud Safran Saffron Oud Woody Spicy unisex Saffron Arabian Rose Oud",
+      "createdAt": "2026-05-04T04:41:34.229Z",
+      "sharedNotes": [
+        "Saffron",
+        "Oud"
+      ]
+    },
+    {
+      "id": 298,
+      "fragranceSlug": "marc-antoine-barrois-ganymede-298",
+      "brandName": "Marc-Antoine Barrois",
+      "brandSlug": "marc-antoine-barrois",
+      "originalFragranceName": "Ganymede",
+      "originalFragranceSlug": "marc-antoine-barrois-ganymede",
+      "mistifyProductName": "Mineral Suede",
+      "mistifyProductSlug": "mineral-suede",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mineral-suede",
+      "publicInspiredByLabel": "Inspired by Marc-Antoine Barrois Ganymede",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Italian Mandarin"
+      ],
+      "middleNotes": [
+        "Chinese Osmanthus",
+        "Immortelle",
+        "Violet Leaf"
+      ],
+      "baseNotes": [
+        "Mineral Notes",
+        "Suede",
+        "Akigalawood",
+        "Cedar",
+        "Musk",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Italian Mandarin",
+        "Chinese Osmanthus",
+        "Immortelle",
+        "Violet Leaf",
+        "Mineral Notes",
+        "Suede",
+        "Akigalawood",
+        "Cedar",
+        "Musk",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay20_2026_02_13_18PM.png?v=1779300809",
+      "searchableText": "Marc-Antoine Barrois marc antoine barrois Marc-Antoine Barrois Ganymede Mineral Suede Woody Spicy Saffron Italian Mandarin Chinese Osmanthus Immortelle Violet Leaf Mineral Notes Suede Akigalawood Cedar Musk Patchouli",
+      "createdAt": "2026-05-04T04:41:42.126Z",
+      "sharedNotes": [
+        "Saffron",
+        "Patchouli",
+        "Musk"
+      ]
+    },
+    {
+      "id": 178,
+      "fragranceSlug": "mancera-red-tobacco-178",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Red Tobacco",
+      "originalFragranceSlug": "mancera-red-tobacco",
+      "mistifyProductName": "Scarlet Tobacco",
+      "mistifyProductSlug": "scarlet-tobacco",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/scarlet-tobacco",
+      "publicInspiredByLabel": "Inspired by Mancera Red Tobacco",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Oud",
+        "Incense",
+        "Saffron",
+        "Nutmeg",
+        "Green Apple",
+        "White Pear"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Tobacco",
+        "Madagascar Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk",
+        "Haitian Vetiver"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Oud",
+        "Incense",
+        "Saffron",
+        "Nutmeg",
+        "Green Apple",
+        "White Pear",
+        "Patchouli",
+        "Jasmine",
+        "Tobacco",
+        "Madagascar Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk",
+        "Haitian Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ScarletTobacco.png?v=1765423002",
+      "searchableText": "Mancera mancera Mancera Red Tobacco Scarlet Tobacco Woody Spicy unisex Cinnamon Oud Incense Saffron Nutmeg Green Apple White Pear Patchouli Jasmine Tobacco Madagascar Vanilla Amber Sandalwood Guaiac Wood White Musk Haitian Vetiver",
+      "createdAt": "2026-05-04T04:41:34.885Z",
+      "sharedNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Oud",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 72,
+      "fragranceSlug": "kilian-straight-to-heaven-72",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Straight to Heaven",
+      "originalFragranceSlug": "kilian-straight-to-heaven",
+      "mistifyProductName": "Heaven’s Voyage",
+      "mistifyProductSlug": "heaven-s-voyage",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/heavens-voyage",
+      "publicInspiredByLabel": "Inspired by Kilian Straight to Heaven",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Rum",
+        "Dried Fruits"
+      ],
+      "middleNotes": [
+        "Nutmeg",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Rum",
+        "Dried Fruits",
+        "Nutmeg",
+        "Cedarwood",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_04_02_12PM.png?v=1774382538",
+      "searchableText": "Kilian kilian By Kilian Straight to Heaven Heaven’s Voyage Woody Spicy unisex Rum Dried Fruits Nutmeg Cedarwood Patchouli Vanilla",
+      "createdAt": "2026-05-04T04:41:28.698Z",
+      "sharedNotes": [
+        "Nutmeg",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 120,
+      "fragranceSlug": "bond-no-9-new-york-oud-120",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "New York Oud",
+      "originalFragranceSlug": "bond-no-9-new-york-oud",
+      "mistifyProductName": "Urban Oud",
+      "mistifyProductSlug": "urban-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/urban-oud",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 New York Oud",
+      "audience": "unisex",
+      "classification": "Oriental",
+      "topNotes": [
+        "Plum",
+        "Saffron",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root"
+      ],
+      "baseNotes": [
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Plum",
+        "Saffron",
+        "Orange",
+        "Rose",
+        "Oud",
+        "Patchouli",
+        "Orris Root",
+        "Musk",
+        "White Honey",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_18_40AM.png?v=1774325928",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 New York Oud Urban Oud Oriental unisex Plum Saffron Orange Rose Oud Patchouli Orris Root Musk White Honey Vetiver",
+      "createdAt": "2026-05-04T04:41:31.518Z",
+      "sharedNotes": [
+        "Saffron",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ]
+    }
+  ]
+}

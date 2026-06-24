@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 33,
+    "fragranceSlug": "louis-vuitton-meteore-33",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Météore",
+    "originalFragranceSlug": "louis-vuitton-meteore",
+    "mistifyProductName": "Meteor",
+    "mistifyProductSlug": "meteor",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/stellarium",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Météore",
+    "audience": "mens",
+    "classification": "Citrus Aromatic",
+    "topNotes": [
+      "Mandarin Orange",
+      "Sicilian Orange",
+      "Calabrian Bergamot"
+    ],
+    "middleNotes": [
+      "Pink Pepper",
+      "Pepper",
+      "Nutmeg",
+      "Neroli",
+      "Cardamom"
+    ],
+    "baseNotes": [
+      "Java Vetiver Oil"
+    ],
+    "allNotes": [
+      "Mandarin Orange",
+      "Sicilian Orange",
+      "Calabrian Bergamot",
+      "Pink Pepper",
+      "Pepper",
+      "Nutmeg",
+      "Neroli",
+      "Cardamom",
+      "Java Vetiver Oil"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_30_48PM.png?v=1765422830",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Météore Meteor Citrus Aromatic mens Mandarin Orange Sicilian Orange Calabrian Bergamot Pink Pepper Pepper Nutmeg Neroli Cardamom Java Vetiver Oil",
+    "createdAt": "2026-05-04T04:41:26.419Z"
+  }
+}

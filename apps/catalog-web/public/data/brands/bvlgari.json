@@ -1,0 +1,189 @@
+{
+  "brand": {
+    "brandName": "Bvlgari",
+    "brandSlug": "bvlgari",
+    "fragranceCount": 5,
+    "searchableText": "Baciami Baciâme Inspired by Bvlgari Baciami Bvlgari bvlgari Bvlgari Baciami Baciâme Oriental Floral unisex Gardenia Vanilla Amber Eau Parfumée Au Thé Blanc Blanc Théique Inspired by Bvlgari Eau Parfumée Au Thé Blanc Bvlgari bvlgari Bvlgari Eau Parfumée Au Thé Blanc Blanc Théique Floral Woody Musk unisex Tea Artemisia Bergamot Orange Blossom Bitter Orange Pepper Cardamom Coriander Musk Woody Notes Jasmine Amber Rose Le Gemme Onekh Onekh Noir Inspired by Bvlgari Le Gemme Onekh Bvlgari bvlgari Bvlgari Le Gemme Onekh Onekh Noir Ambery Oud unisex Oud Essence Smoked Labdanum Accord Le Gemme Orom Orom Vanillé Inspired by Bvlgari Le Gemme Orom Bvlgari bvlgari Bvlgari Le Gemme Orom Orom Vanillé Oriental Vanilla unisex Bourbon Vanilla Siam Benzoin Oud Le Gemme Tygar Tygara Inspired by Bvlgari Le Gemme Tygar Bvlgari bvlgari Bvlgari Le Gemme Tygar Tygara Citrus Woody/Musky Amber mens Grapefruit Ginger Ambrette Ambroxan Musk Vetiver Patchouli"
+  },
+  "fragrances": [
+    {
+      "id": 293,
+      "fragranceSlug": "bvlgari-baciami-293",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Baciami",
+      "originalFragranceSlug": "bvlgari-baciami",
+      "mistifyProductName": "Baciâme",
+      "mistifyProductSlug": "baciame",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/baciame",
+      "publicInspiredByLabel": "Inspired by Bvlgari Baciami",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Gardenia"
+      ],
+      "middleNotes": [
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Amber"
+      ],
+      "allNotes": [
+        "Gardenia",
+        "Vanilla",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan1-2026-06-46-55AM-_1.png?v=1773460177",
+      "searchableText": "Bvlgari bvlgari Bvlgari Baciami Baciâme Oriental Floral unisex Gardenia Vanilla Amber",
+      "createdAt": "2026-05-04T04:41:41.838Z"
+    },
+    {
+      "id": 292,
+      "fragranceSlug": "bvlgari-eau-parfumee-au-the-blanc-292",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Eau Parfumée Au Thé Blanc",
+      "originalFragranceSlug": "bvlgari-eau-parfumee-au-the-blanc",
+      "mistifyProductName": "Blanc Théique",
+      "mistifyProductSlug": "blanc-theique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/blanc-theique",
+      "publicInspiredByLabel": "Inspired by Bvlgari Eau Parfumée Au Thé Blanc",
+      "audience": "unisex",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Tea",
+        "Artemisia",
+        "Bergamot",
+        "Orange Blossom",
+        "Bitter Orange"
+      ],
+      "middleNotes": [
+        "Pepper",
+        "Cardamom",
+        "Coriander"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Woody Notes",
+        "Jasmine",
+        "Amber",
+        "Rose"
+      ],
+      "allNotes": [
+        "Tea",
+        "Artemisia",
+        "Bergamot",
+        "Orange Blossom",
+        "Bitter Orange",
+        "Pepper",
+        "Cardamom",
+        "Coriander",
+        "Musk",
+        "Woody Notes",
+        "Jasmine",
+        "Amber",
+        "Rose"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov14-2025-10-23-42AM-_1.png?v=1773460213",
+      "searchableText": "Bvlgari bvlgari Bvlgari Eau Parfumée Au Thé Blanc Blanc Théique Floral Woody Musk unisex Tea Artemisia Bergamot Orange Blossom Bitter Orange Pepper Cardamom Coriander Musk Woody Notes Jasmine Amber Rose",
+      "createdAt": "2026-05-04T04:41:41.776Z"
+    },
+    {
+      "id": 295,
+      "fragranceSlug": "bvlgari-le-gemme-onekh-295",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Le Gemme Onekh",
+      "originalFragranceSlug": "bvlgari-le-gemme-onekh",
+      "mistifyProductName": "Onekh Noir",
+      "mistifyProductSlug": "onekh-noir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/onekh-noir",
+      "publicInspiredByLabel": "Inspired by Bvlgari Le Gemme Onekh",
+      "audience": "unisex",
+      "classification": "Ambery Oud",
+      "topNotes": [],
+      "middleNotes": [
+        "Oud Essence",
+        "Smoked Labdanum Accord"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Oud Essence",
+        "Smoked Labdanum Accord"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr30_2026_03_19_40PM.png?v=1777576789",
+      "searchableText": "Bvlgari bvlgari Bvlgari Le Gemme Onekh Onekh Noir Ambery Oud unisex Oud Essence Smoked Labdanum Accord",
+      "createdAt": "2026-05-04T04:41:41.955Z"
+    },
+    {
+      "id": 294,
+      "fragranceSlug": "bvlgari-le-gemme-orom-294",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Le Gemme Orom",
+      "originalFragranceSlug": "bvlgari-le-gemme-orom",
+      "mistifyProductName": "Orom Vanillé",
+      "mistifyProductSlug": "orom-vanille",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/orom-vanille",
+      "publicInspiredByLabel": "Inspired by Bvlgari Le Gemme Orom",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Bourbon Vanilla"
+      ],
+      "middleNotes": [
+        "Siam Benzoin"
+      ],
+      "baseNotes": [
+        "Oud"
+      ],
+      "allNotes": [
+        "Bourbon Vanilla",
+        "Siam Benzoin",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr30_2026_03_16_07PM.png?v=1777576576",
+      "searchableText": "Bvlgari bvlgari Bvlgari Le Gemme Orom Orom Vanillé Oriental Vanilla unisex Bourbon Vanilla Siam Benzoin Oud",
+      "createdAt": "2026-05-04T04:41:41.897Z"
+    },
+    {
+      "id": 291,
+      "fragranceSlug": "bvlgari-le-gemme-tygar-291",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Le Gemme Tygar",
+      "originalFragranceSlug": "bvlgari-le-gemme-tygar",
+      "mistifyProductName": "Tygara",
+      "mistifyProductSlug": "tygara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/castellan-copy",
+      "publicInspiredByLabel": "Inspired by Bvlgari Le Gemme Tygar",
+      "audience": "mens",
+      "classification": "Citrus Woody/Musky Amber",
+      "topNotes": [
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Ambrette"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Musk",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Ginger",
+        "Ambrette",
+        "Ambroxan",
+        "Musk",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-20-42AM-_1.png?v=1773460236",
+      "searchableText": "Bvlgari bvlgari Bvlgari Le Gemme Tygar Tygara Citrus Woody/Musky Amber mens Grapefruit Ginger Ambrette Ambroxan Musk Vetiver Patchouli",
+      "createdAt": "2026-05-04T04:41:41.717Z"
+    }
+  ]
+}

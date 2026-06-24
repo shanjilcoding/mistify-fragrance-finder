@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 225,
+    "fragranceSlug": "dior-sauvage-elixir-225",
+    "brandName": "Dior",
+    "brandSlug": "dior",
+    "originalFragranceName": "Sauvage Elixir",
+    "originalFragranceSlug": "dior-sauvage-elixir",
+    "mistifyProductName": "Savage Elixir",
+    "mistifyProductSlug": "savage-elixir",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/savage-elixir",
+    "publicInspiredByLabel": "Inspired by Dior Sauvage Elixir",
+    "audience": "mens",
+    "classification": "Aromatic Spicy/Woody Spicy",
+    "topNotes": [
+      "Cinnamon",
+      "Nutmeg",
+      "Cardamom",
+      "Grapefruit"
+    ],
+    "middleNotes": [
+      "Lavender"
+    ],
+    "baseNotes": [
+      "Licorice",
+      "Sandalwood",
+      "Amber",
+      "Patchouli",
+      "Haitian Vetiver"
+    ],
+    "allNotes": [
+      "Cinnamon",
+      "Nutmeg",
+      "Cardamom",
+      "Grapefruit",
+      "Lavender",
+      "Licorice",
+      "Sandalwood",
+      "Amber",
+      "Patchouli",
+      "Haitian Vetiver"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-01-16PM-_1.png?v=1773460280",
+    "searchableText": "Dior christian dior Christian Dior Sauvage Elixir Savage Elixir Aromatic Spicy/Woody Spicy mens Cinnamon Nutmeg Cardamom Grapefruit Lavender Licorice Sandalwood Amber Patchouli Haitian Vetiver",
+    "createdAt": "2026-05-04T04:41:37.693Z"
+  }
+}

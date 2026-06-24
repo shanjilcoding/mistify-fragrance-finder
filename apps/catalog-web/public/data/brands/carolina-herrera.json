@@ -1,0 +1,155 @@
+{
+  "brand": {
+    "brandName": "Carolina Herrera",
+    "brandSlug": "carolina-herrera",
+    "fragranceCount": 3,
+    "searchableText": "Bad Boy Extreme Not verified Inspired by Carolina Herrera Bad Boy Extreme Carolina Herrera carolina herrera Carolina Herrera Bad Boy Extreme Not verified Not verified from source Sage Ginger Vetiver Cocoa Tonka Bean Patchouli Good Girl Belle Noire Carolina Herrera Good Girl Carolina Herrera Carolina Herrera Good Girl Belle Noire Gourmand Floral / Sweet Oriental Almond Coffee Bergamot Lemon Tuberose Jasmine Sambac Orange Blossom Bulgarian Rose Orris Tonka Bean Cacao Vanilla Praline Sandalwood Musk Amber Cashmere Wood Patchouli Cinnamon Cedar Mystery Tobacco Not verified Inspired by Carolina Herrera Mystery Tobacco Carolina Herrera carolina herrera Carolina Herrera Mystery Tobacco Not verified Oriental Woody Osmanthus Ginger Citruses Artemisia Tobacco Patchouli Guaiac Wood Vetiver Tonka Bean"
+  },
+  "fragrances": [
+    {
+      "id": 283,
+      "fragranceSlug": "carolina-herrera-bad-boy-extreme-283",
+      "brandName": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "originalFragranceName": "Bad Boy Extreme",
+      "originalFragranceSlug": "carolina-herrera-bad-boy-extreme",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Carolina Herrera Bad Boy Extreme",
+      "audience": null,
+      "classification": "Not verified from source",
+      "topNotes": [
+        "Sage",
+        "Ginger"
+      ],
+      "middleNotes": [
+        "Vetiver",
+        "Cocoa"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Sage",
+        "Ginger",
+        "Vetiver",
+        "Cocoa",
+        "Tonka Bean",
+        "Patchouli"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Carolina Herrera carolina herrera Carolina Herrera Bad Boy Extreme Not verified Not verified from source Sage Ginger Vetiver Cocoa Tonka Bean Patchouli",
+      "createdAt": "2026-05-04T04:41:41.246Z"
+    },
+    {
+      "id": 313,
+      "fragranceSlug": "carolina-herrera-good-girl-313",
+      "brandName": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "originalFragranceName": "Good Girl",
+      "originalFragranceSlug": "carolina-herrera-good-girl",
+      "mistifyProductName": "Belle Noire",
+      "mistifyProductSlug": "belle-noire",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/belle-noire",
+      "publicInspiredByLabel": "Carolina Herrera Good Girl",
+      "audience": null,
+      "classification": "Gourmand Floral / Sweet Oriental",
+      "topNotes": [
+        "Almond",
+        "Coffee",
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Tuberose",
+        "Jasmine Sambac",
+        "Orange Blossom",
+        "Bulgarian Rose",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Cacao",
+        "Vanilla",
+        "Praline",
+        "Sandalwood",
+        "Musk",
+        "Amber",
+        "Cashmere Wood",
+        "Patchouli",
+        "Cinnamon",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Almond",
+        "Coffee",
+        "Bergamot",
+        "Lemon",
+        "Tuberose",
+        "Jasmine Sambac",
+        "Orange Blossom",
+        "Bulgarian Rose",
+        "Orris",
+        "Tonka Bean",
+        "Cacao",
+        "Vanilla",
+        "Praline",
+        "Sandalwood",
+        "Musk",
+        "Amber",
+        "Cashmere Wood",
+        "Patchouli",
+        "Cinnamon",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_11_36_33AM_27cd1d8f-5bee-43bd-9919-e465da23c44f.png?v=1781710613",
+      "searchableText": "Carolina Herrera Carolina Herrera Good Girl Belle Noire Gourmand Floral / Sweet Oriental Almond Coffee Bergamot Lemon Tuberose Jasmine Sambac Orange Blossom Bulgarian Rose Orris Tonka Bean Cacao Vanilla Praline Sandalwood Musk Amber Cashmere Wood Patchouli Cinnamon Cedar",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    },
+    {
+      "id": 284,
+      "fragranceSlug": "carolina-herrera-mystery-tobacco-284",
+      "brandName": "Carolina Herrera",
+      "brandSlug": "carolina-herrera",
+      "originalFragranceName": "Mystery Tobacco",
+      "originalFragranceSlug": "carolina-herrera-mystery-tobacco",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Carolina Herrera Mystery Tobacco",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Osmanthus",
+        "Ginger",
+        "Citruses",
+        "Artemisia"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Patchouli",
+        "Guaiac Wood",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Tonka Bean"
+      ],
+      "allNotes": [
+        "Osmanthus",
+        "Ginger",
+        "Citruses",
+        "Artemisia",
+        "Tobacco",
+        "Patchouli",
+        "Guaiac Wood",
+        "Vetiver",
+        "Tonka Bean"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Carolina Herrera carolina herrera Carolina Herrera Mystery Tobacco Not verified Oriental Woody Osmanthus Ginger Citruses Artemisia Tobacco Patchouli Guaiac Wood Vetiver Tonka Bean",
+      "createdAt": "2026-05-04T04:41:41.303Z"
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "fragrances": [
+    {
+      "id": 105,
+      "fragranceSlug": "parfums-de-marly-oriana-105",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Oriana",
+      "originalFragranceSlug": "parfums-de-marly-oriana",
+      "mistifyProductName": "Oriental",
+      "mistifyProductSlug": "oriental",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oriental",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Oriana",
+      "audience": "womens",
+      "classification": "Floral Fruity Gourmand",
+      "topNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Black Currant",
+        "Raspberry"
+      ],
+      "baseNotes": [
+        "Marshmallow",
+        "Whipped Cream",
+        "Musk",
+        "Ambrette"
+      ],
+      "allNotes": [
+        "Mandarin Orange",
+        "Bergamot",
+        "Grapefruit",
+        "Orange Blossom",
+        "Black Currant",
+        "Raspberry",
+        "Marshmallow",
+        "Whipped Cream",
+        "Musk",
+        "Ambrette"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_01_56AM.png?v=1774324934",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Oriana Oriental Floral Fruity Gourmand womens Mandarin Orange Bergamot Grapefruit Orange Blossom Black Currant Raspberry Marshmallow Whipped Cream Musk Ambrette",
+      "createdAt": "2026-05-04T04:41:30.629Z",
+      "sharedNotes": [
+        "Marshmallow",
+        "Orange Blossom",
+        "Musk",
+        "Raspberry"
+      ]
+    },
+    {
+      "id": 197,
+      "fragranceSlug": "sol-de-janeiro-cheirosa-40-197",
+      "brandName": "Sol De Janeiro",
+      "brandSlug": "sol-de-janeiro",
+      "originalFragranceName": "Cheirosa 40",
+      "originalFragranceSlug": "sol-de-janeiro-cheirosa-40",
+      "mistifyProductName": "Carioca 40",
+      "mistifyProductSlug": "carioca-40",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/carioca-40",
+      "publicInspiredByLabel": "Inspired by Sol De Janeiro Cheirosa 40",
+      "audience": "unisex",
+      "classification": "Floral Fruity Gourmand",
+      "topNotes": [
+        "Plum",
+        "Black Amber",
+        "Cassis"
+      ],
+      "middleNotes": [
+        "Orchid",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Woodsy Notes",
+        "Musk"
+      ],
+      "allNotes": [
+        "Plum",
+        "Black Amber",
+        "Cassis",
+        "Orchid",
+        "Jasmine",
+        "Vanilla",
+        "Woodsy Notes",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb11-2026-11-15-33AM-_1.png?v=1773460147",
+      "searchableText": "Sol De Janeiro sol de janeiro Sol de Janeiro Cheirosa 40 Carioca 40 Floral Fruity Gourmand unisex Plum Black Amber Cassis Orchid Jasmine Vanilla Woodsy Notes Musk",
+      "createdAt": "2026-05-04T04:41:36.037Z",
+      "sharedNotes": [
+        "Musk"
+      ]
+    },
+    {
+      "id": 154,
+      "fragranceSlug": "ysl-yves-saint-laurent-libre-berry-crush-154",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Libre Berry Crush",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-libre-berry-crush",
+      "mistifyProductName": "Libre Berry",
+      "mistifyProductSlug": "libre-berry",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/libre-berry",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Libre Berry Crush",
+      "audience": null,
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Raspberry",
+        "Mandarin"
+      ],
+      "middleNotes": [
+        "Orange Blossom",
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Musk",
+        "Coconut"
+      ],
+      "allNotes": [
+        "Raspberry",
+        "Mandarin",
+        "Orange Blossom",
+        "Lavender",
+        "Bourbon Vanilla",
+        "Musk",
+        "Coconut"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay12_2026_10_01_31AM.png?v=1778594501",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Libre Berry Crush Libre Berry Floral Fruity Raspberry Mandarin Orange Blossom Lavender Bourbon Vanilla Musk Coconut",
+      "createdAt": "2026-05-04T04:41:33.476Z",
+      "sharedNotes": [
+        "Coconut",
+        "Orange Blossom",
+        "Musk",
+        "Raspberry"
+      ]
+    },
+    {
+      "id": 187,
+      "fragranceSlug": "sabrina-carpenter-caramel-dream-187",
+      "brandName": "Sabrina Carpenter",
+      "brandSlug": "sabrina-carpenter",
+      "originalFragranceName": "Caramel Dream",
+      "originalFragranceSlug": "sabrina-carpenter-caramel-dream",
+      "mistifyProductName": "Caramel Rêverie",
+      "mistifyProductSlug": "caramel-reverie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/caramel-reverie",
+      "publicInspiredByLabel": "Inspired by Sabrina Carpenter Caramel Dream",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar",
+        "Almond Milk",
+        "Orange",
+        "Freesia",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Dark Chocolate",
+        "Vanilla",
+        "Orange Blossom",
+        "Orchid"
+      ],
+      "baseNotes": [
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Amber"
+      ],
+      "allNotes": [
+        "Sugar",
+        "Almond Milk",
+        "Orange",
+        "Freesia",
+        "Lemon",
+        "Dark Chocolate",
+        "Vanilla",
+        "Orange Blossom",
+        "Orchid",
+        "Caramel",
+        "Patchouli",
+        "Sandalwood",
+        "Musk",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec29-2025-01-49-19PM-_1.png?v=1773460180",
+      "searchableText": "Sabrina Carpenter sabrina carpenter Sabrina Carpenter Caramel Dream Caramel Rêverie Oriental Vanilla unisex Sugar Almond Milk Orange Freesia Lemon Dark Chocolate Vanilla Orange Blossom Orchid Caramel Patchouli Sandalwood Musk Amber",
+      "createdAt": "2026-05-04T04:41:35.407Z",
+      "sharedNotes": [
+        "Freesia",
+        "Orange Blossom",
+        "Sugar",
+        "Musk"
+      ]
+    },
+    {
+      "id": 97,
+      "fragranceSlug": "parfums-de-marly-althair-97",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Althair",
+      "originalFragranceSlug": "parfums-de-marly-althair",
+      "mistifyProductName": "Altair",
+      "mistifyProductSlug": "altair",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/altair",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Althair",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Cinnamon",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Bourbon Vanilla",
+        "Elemi"
+      ],
+      "baseNotes": [
+        "Praline",
+        "Musk",
+        "Ambroxan",
+        "Guaiac Wood"
+      ],
+      "allNotes": [
+        "Orange Blossom",
+        "Bergamot",
+        "Cinnamon",
+        "Cardamom",
+        "Bourbon Vanilla",
+        "Elemi",
+        "Praline",
+        "Musk",
+        "Ambroxan",
+        "Guaiac Wood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-10-18PM-_1.png?v=1773460503",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Althair Altair Oriental Vanilla unisex Orange Blossom Bergamot Cinnamon Cardamom Bourbon Vanilla Elemi Praline Musk Ambroxan Guaiac Wood",
+      "createdAt": "2026-05-04T04:41:30.144Z",
+      "sharedNotes": [
+        "Orange Blossom",
+        "Musk",
+        "Ambroxan"
+      ]
+    },
+    {
+      "id": 185,
+      "fragranceSlug": "mind-games-queening-185",
+      "brandName": "Mind Games",
+      "brandSlug": "mind-games",
+      "originalFragranceName": "Queening",
+      "originalFragranceSlug": "mind-games-queening",
+      "mistifyProductName": "Queenique",
+      "mistifyProductSlug": "queenique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/queenique",
+      "publicInspiredByLabel": "Inspired by Mind Games Queening",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Cotton Flower",
+        "Apple",
+        "Cypress"
+      ],
+      "middleNotes": [
+        "Orris Root",
+        "Rum",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Coconut",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cotton Flower",
+        "Apple",
+        "Cypress",
+        "Orris Root",
+        "Rum",
+        "Saffron",
+        "Vanilla",
+        "Coconut",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov12-2025-07-37-24PM-_1.png?v=1773460221",
+      "searchableText": "Mind Games mind games Mind Games Queening Queenique Not listed clearly by Fragrantica unisex Cotton Flower Apple Cypress Orris Root Rum Saffron Vanilla Coconut Musk",
+      "createdAt": "2026-05-04T04:41:35.290Z",
+      "sharedNotes": [
+        "Apple",
+        "Coconut",
+        "Musk"
+      ]
+    }
+  ]
+}

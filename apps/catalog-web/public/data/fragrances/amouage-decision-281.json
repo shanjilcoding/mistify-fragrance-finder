@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 281,
+    "fragranceSlug": "amouage-decision-281",
+    "brandName": "Amouage",
+    "brandSlug": "amouage",
+    "originalFragranceName": "Decision",
+    "originalFragranceSlug": "amouage-decision",
+    "mistifyProductName": "Final Say",
+    "mistifyProductSlug": "final-say",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/final-say",
+    "publicInspiredByLabel": "Inspired by Amouage Decision",
+    "audience": "unisex",
+    "classification": "Woody Aromatic",
+    "topNotes": [
+      "Cardamom",
+      "Bergamot",
+      "Pink Pepper"
+    ],
+    "middleNotes": [
+      "Frankincense",
+      "Juniper Berries",
+      "Myrrh"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Cedarwood",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Cardamom",
+      "Bergamot",
+      "Pink Pepper",
+      "Frankincense",
+      "Juniper Berries",
+      "Myrrh",
+      "Vanilla",
+      "Cedarwood",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb10-2026-01-48-07PM-_1.png?v=1773460152",
+    "searchableText": "Amouage amouage Amouage Decision Final Say Woody Aromatic unisex Cardamom Bergamot Pink Pepper Frankincense Juniper Berries Myrrh Vanilla Cedarwood Patchouli",
+    "createdAt": "2026-05-04T04:41:41.123Z"
+  }
+}

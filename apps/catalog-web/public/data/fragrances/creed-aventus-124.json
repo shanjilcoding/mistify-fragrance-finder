@@ -1,0 +1,53 @@
+{
+  "fragrance": {
+    "id": 124,
+    "fragranceSlug": "creed-aventus-124",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Aventus",
+    "originalFragranceSlug": "creed-aventus",
+    "mistifyProductName": "Ventis",
+    "mistifyProductSlug": "ventis",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/ventis",
+    "publicInspiredByLabel": "Inspired by Creed Aventus",
+    "audience": "mens",
+    "classification": "Chypre Fruity",
+    "topNotes": [
+      "Bergamot",
+      "Black Currant",
+      "Apple",
+      "Lemon",
+      "Pink Pepper"
+    ],
+    "middleNotes": [
+      "Pineapple",
+      "Patchouli",
+      "Moroccan Jasmine"
+    ],
+    "baseNotes": [
+      "Birch",
+      "Musk",
+      "Oakmoss",
+      "Ambroxan",
+      "Cedarwood"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Black Currant",
+      "Apple",
+      "Lemon",
+      "Pink Pepper",
+      "Pineapple",
+      "Patchouli",
+      "Moroccan Jasmine",
+      "Birch",
+      "Musk",
+      "Oakmoss",
+      "Ambroxan",
+      "Cedarwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_04_13AM.png?v=1765422842",
+    "searchableText": "Creed creed Creed Aventus Ventis Chypre Fruity mens Bergamot Black Currant Apple Lemon Pink Pepper Pineapple Patchouli Moroccan Jasmine Birch Musk Oakmoss Ambroxan Cedarwood",
+    "createdAt": "2026-05-04T04:41:31.739Z"
+  }
+}

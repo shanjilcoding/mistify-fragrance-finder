@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 276,
+    "fragranceSlug": "amouage-opus-v-woods-symphony-276",
+    "brandName": "Amouage",
+    "brandSlug": "amouage",
+    "originalFragranceName": "Opus V - Woods Symphony",
+    "originalFragranceSlug": "amouage-opus-v-woods-symphony",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Amouage Opus V - Woods Symphony",
+    "audience": null,
+    "classification": "Woody Floral Musk",
+    "topNotes": [
+      "Orris Root",
+      "Rum"
+    ],
+    "middleNotes": [
+      "Orris Root",
+      "Rose",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Oud",
+      "Dry Wood",
+      "Civet"
+    ],
+    "allNotes": [
+      "Orris Root",
+      "Rum",
+      "Orris Root",
+      "Rose",
+      "Jasmine",
+      "Oud",
+      "Dry Wood",
+      "Civet"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Amouage amouage Amouage Opus V - Woods Symphony Not verified Woody Floral Musk Orris Root Rum Orris Root Rose Jasmine Oud Dry Wood Civet",
+    "createdAt": "2026-05-04T04:41:40.816Z"
+  }
+}

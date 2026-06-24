@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 64,
+    "fragranceSlug": "kilian-light-my-fire-64",
+    "brandName": "Kilian",
+    "brandSlug": "kilian",
+    "originalFragranceName": "Light My Fire",
+    "originalFragranceSlug": "kilian-light-my-fire",
+    "mistifyProductName": "Light My Flame",
+    "mistifyProductSlug": "light-my-flame",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/light-my-flame",
+    "publicInspiredByLabel": "Inspired by Kilian Light My Fire",
+    "audience": "unisex",
+    "classification": "Oriental Woody",
+    "topNotes": [],
+    "middleNotes": [
+      "Tobacco",
+      "Hay",
+      "Honey",
+      "Patchouli",
+      "Cumin",
+      "Vanilla",
+      "Vetiver",
+      "Birch",
+      "Almond",
+      "Tonka Bean",
+      "Heliotrope"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Tobacco",
+      "Hay",
+      "Honey",
+      "Patchouli",
+      "Cumin",
+      "Vanilla",
+      "Vetiver",
+      "Birch",
+      "Almond",
+      "Tonka Bean",
+      "Heliotrope"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LightMyFlame.png?v=1765422911",
+    "searchableText": "Kilian kilian By Kilian Light My Fire Light My Flame Oriental Woody unisex Tobacco Hay Honey Patchouli Cumin Vanilla Vetiver Birch Almond Tonka Bean Heliotrope",
+    "createdAt": "2026-05-04T04:41:28.216Z"
+  }
+}

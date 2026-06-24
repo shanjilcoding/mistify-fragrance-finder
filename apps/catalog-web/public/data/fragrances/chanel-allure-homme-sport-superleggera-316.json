@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 316,
+    "fragranceSlug": "chanel-allure-homme-sport-superleggera-316",
+    "brandName": "Chanel",
+    "brandSlug": "chanel",
+    "originalFragranceName": "Allure Homme Sport Superleggera",
+    "originalFragranceSlug": "chanel-allure-homme-sport-superleggera",
+    "mistifyProductName": "Sport Legato",
+    "mistifyProductSlug": "sport-legato",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/sport-legato",
+    "publicInspiredByLabel": "Chanel Allure Homme Sport Superleggera",
+    "audience": null,
+    "classification": "Citrus Woody / Fresh Musky",
+    "topNotes": [
+      "Citrus",
+      "Mandarin",
+      "Grapefruit"
+    ],
+    "middleNotes": [
+      "Woody Notes",
+      "Cedarwood"
+    ],
+    "baseNotes": [
+      "White Musk",
+      "Amber",
+      "Patchouli",
+      "Sandalwood"
+    ],
+    "allNotes": [
+      "Citrus",
+      "Mandarin",
+      "Grapefruit",
+      "Woody Notes",
+      "Cedarwood",
+      "White Musk",
+      "Amber",
+      "Patchouli",
+      "Sandalwood"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun16_2026_08_19_28AM.png?v=1781612481",
+    "searchableText": "Chanel Chanel Allure Homme Sport Superleggera Sport Legato Citrus Woody / Fresh Musky Citrus Mandarin Grapefruit Woody Notes Cedarwood White Musk Amber Patchouli Sandalwood",
+    "createdAt": "2026-06-19T17:22:54.618Z"
+  }
+}

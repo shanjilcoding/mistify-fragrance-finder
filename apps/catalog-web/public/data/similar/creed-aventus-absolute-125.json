@@ -1,0 +1,338 @@
+{
+  "fragrances": [
+    {
+      "id": 124,
+      "fragranceSlug": "creed-aventus-124",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Aventus",
+      "originalFragranceSlug": "creed-aventus",
+      "mistifyProductName": "Ventis",
+      "mistifyProductSlug": "ventis",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/ventis",
+      "publicInspiredByLabel": "Inspired by Creed Aventus",
+      "audience": "mens",
+      "classification": "Chypre Fruity",
+      "topNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Apple",
+        "Lemon",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Pineapple",
+        "Patchouli",
+        "Moroccan Jasmine"
+      ],
+      "baseNotes": [
+        "Birch",
+        "Musk",
+        "Oakmoss",
+        "Ambroxan",
+        "Cedarwood"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Black Currant",
+        "Apple",
+        "Lemon",
+        "Pink Pepper",
+        "Pineapple",
+        "Patchouli",
+        "Moroccan Jasmine",
+        "Birch",
+        "Musk",
+        "Oakmoss",
+        "Ambroxan",
+        "Cedarwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_04_13AM.png?v=1765422842",
+      "searchableText": "Creed creed Creed Aventus Ventis Chypre Fruity mens Bergamot Black Currant Apple Lemon Pink Pepper Pineapple Patchouli Moroccan Jasmine Birch Musk Oakmoss Ambroxan Cedarwood",
+      "createdAt": "2026-05-04T04:41:31.739Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Pineapple",
+        "Patchouli",
+        "Oakmoss",
+        "Ambroxan",
+        "Musk"
+      ]
+    },
+    {
+      "id": 291,
+      "fragranceSlug": "bvlgari-le-gemme-tygar-291",
+      "brandName": "Bvlgari",
+      "brandSlug": "bvlgari",
+      "originalFragranceName": "Le Gemme Tygar",
+      "originalFragranceSlug": "bvlgari-le-gemme-tygar",
+      "mistifyProductName": "Tygara",
+      "mistifyProductSlug": "tygara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/castellan-copy",
+      "publicInspiredByLabel": "Inspired by Bvlgari Le Gemme Tygar",
+      "audience": "mens",
+      "classification": "Citrus Woody/Musky Amber",
+      "topNotes": [
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Ambrette"
+      ],
+      "baseNotes": [
+        "Ambroxan",
+        "Musk",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Ginger",
+        "Ambrette",
+        "Ambroxan",
+        "Musk",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-20-42AM-_1.png?v=1773460236",
+      "searchableText": "Bvlgari bvlgari Bvlgari Le Gemme Tygar Tygara Citrus Woody/Musky Amber mens Grapefruit Ginger Ambrette Ambroxan Musk Vetiver Patchouli",
+      "createdAt": "2026-05-04T04:41:41.717Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Ginger",
+        "Patchouli",
+        "Vetiver",
+        "Ambroxan",
+        "Musk"
+      ]
+    },
+    {
+      "id": 306,
+      "fragranceSlug": "nishane-ani-306",
+      "brandName": "Nishane",
+      "brandSlug": "nishane",
+      "originalFragranceName": "Ani",
+      "originalFragranceSlug": "nishane-ani",
+      "mistifyProductName": "Anique",
+      "mistifyProductSlug": "anique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/anique",
+      "publicInspiredByLabel": "Nishane Ani",
+      "audience": null,
+      "classification": "Spicy Vanilla / Woody Amber",
+      "topNotes": [
+        "Ginger",
+        "Bergamot",
+        "Pink Pepper",
+        "Green Notes"
+      ],
+      "middleNotes": [
+        "Cardamom",
+        "Black Currant",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Benzoin",
+        "Sandalwood",
+        "Cedar",
+        "Patchouli",
+        "Ambergris",
+        "Musk"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Bergamot",
+        "Pink Pepper",
+        "Green Notes",
+        "Cardamom",
+        "Black Currant",
+        "Turkish Rose",
+        "Vanilla",
+        "Benzoin",
+        "Sandalwood",
+        "Cedar",
+        "Patchouli",
+        "Ambergris",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun17_2026_12_05_01PM_b09c0367-8ac0-482e-8c49-bb95010362c5.png?v=1781712317",
+      "searchableText": "Nishane Nishane Ani Anique Spicy Vanilla / Woody Amber Ginger Bergamot Pink Pepper Green Notes Cardamom Black Currant Turkish Rose Vanilla Benzoin Sandalwood Cedar Patchouli Ambergris Musk",
+      "createdAt": "2026-06-19T17:22:54.618Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Pink Pepper",
+        "Black Currant",
+        "Ginger",
+        "Cardamom",
+        "Patchouli",
+        "Sandalwood",
+        "Musk"
+      ]
+    },
+    {
+      "id": 301,
+      "fragranceSlug": "chanel-bleu-de-chanel-301",
+      "brandName": "Chanel",
+      "brandSlug": "chanel",
+      "originalFragranceName": "Bleu de Chanel",
+      "originalFragranceSlug": "chanel-bleu-de-chanel",
+      "mistifyProductName": "Bleu Élan",
+      "mistifyProductSlug": "bleu-elan",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bleu-elan",
+      "publicInspiredByLabel": "Inspired by Chanel Bleu de Chanel",
+      "audience": "mens",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super"
+      ],
+      "baseNotes": [
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lemon",
+        "Mint",
+        "Pink Pepper",
+        "Ginger",
+        "Nutmeg",
+        "Jasmine",
+        "Iso E Super",
+        "Incense",
+        "Cedar",
+        "Vetiver",
+        "Sandalwood",
+        "Patchouli",
+        "Labdanum",
+        "White Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Chanel chanel Chanel Bleu de Chanel Bleu Élan Woody Aromatic mens Grapefruit Lemon Mint Pink Pepper Ginger Nutmeg Jasmine Iso E Super Incense Cedar Vetiver Sandalwood Patchouli Labdanum White Musk",
+      "createdAt": "2026-05-04T04:41:42.307Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Pink Pepper",
+        "Nutmeg",
+        "Ginger",
+        "Patchouli",
+        "Vetiver",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 253,
+      "fragranceSlug": "jo-malone-english-pear-and-freesia-253",
+      "brandName": "Jo Malone",
+      "brandSlug": "jo-malone",
+      "originalFragranceName": "English Pear & Freesia",
+      "originalFragranceSlug": "jo-malone-english-pear-and-freesia",
+      "mistifyProductName": "Pear Fresia",
+      "mistifyProductSlug": "pear-fresia",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pear-fresia",
+      "publicInspiredByLabel": "Inspired by Jo Malone English Pear & Freesia",
+      "audience": "unisex",
+      "classification": "Chypre Fruity",
+      "topNotes": [
+        "Pear",
+        "Melon"
+      ],
+      "middleNotes": [
+        "Freesia",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Musk",
+        "Patchouli",
+        "Rhubarb",
+        "Amber"
+      ],
+      "allNotes": [
+        "Pear",
+        "Melon",
+        "Freesia",
+        "Rose",
+        "Musk",
+        "Patchouli",
+        "Rhubarb",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-47-41PM-_1.png?v=1773460331",
+      "searchableText": "Jo Malone jo malone Jo Malone English Pear & Freesia Pear Fresia Chypre Fruity unisex Pear Melon Freesia Rose Musk Patchouli Rhubarb Amber",
+      "createdAt": "2026-05-04T04:41:39.407Z",
+      "sharedNotes": [
+        "Rose",
+        "Patchouli",
+        "Musk"
+      ]
+    },
+    {
+      "id": 225,
+      "fragranceSlug": "dior-sauvage-elixir-225",
+      "brandName": "Dior",
+      "brandSlug": "dior",
+      "originalFragranceName": "Sauvage Elixir",
+      "originalFragranceSlug": "dior-sauvage-elixir",
+      "mistifyProductName": "Savage Elixir",
+      "mistifyProductSlug": "savage-elixir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/savage-elixir",
+      "publicInspiredByLabel": "Inspired by Dior Sauvage Elixir",
+      "audience": "mens",
+      "classification": "Aromatic Spicy/Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Nutmeg",
+        "Cardamom",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Licorice",
+        "Sandalwood",
+        "Amber",
+        "Patchouli",
+        "Haitian Vetiver"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Nutmeg",
+        "Cardamom",
+        "Grapefruit",
+        "Lavender",
+        "Licorice",
+        "Sandalwood",
+        "Amber",
+        "Patchouli",
+        "Haitian Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-01-16PM-_1.png?v=1773460280",
+      "searchableText": "Dior christian dior Christian Dior Sauvage Elixir Savage Elixir Aromatic Spicy/Woody Spicy mens Cinnamon Nutmeg Cardamom Grapefruit Lavender Licorice Sandalwood Amber Patchouli Haitian Vetiver",
+      "createdAt": "2026-05-04T04:41:37.693Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Nutmeg",
+        "Cinnamon",
+        "Cardamom",
+        "Patchouli",
+        "Sandalwood"
+      ]
+    }
+  ]
+}

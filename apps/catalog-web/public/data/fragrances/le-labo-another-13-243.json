@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 243,
+    "fragranceSlug": "le-labo-another-13-243",
+    "brandName": "Le Labo",
+    "brandSlug": "le-labo",
+    "originalFragranceName": "Another 13",
+    "originalFragranceSlug": "le-labo-another-13",
+    "mistifyProductName": "A13ther",
+    "mistifyProductSlug": "a13ther",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/a13ther",
+    "publicInspiredByLabel": "Inspired by Le Labo Another 13",
+    "audience": "unisex",
+    "classification": "Woody Musk/Musky Amber",
+    "topNotes": [
+      "Pear",
+      "Apple",
+      "Citruses"
+    ],
+    "middleNotes": [
+      "Ambrette",
+      "Amyl Salicylate",
+      "Moss",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Iso E Super",
+      "Cetalox",
+      "Helvetolide",
+      "Ambrettolide"
+    ],
+    "allNotes": [
+      "Pear",
+      "Apple",
+      "Citruses",
+      "Ambrette",
+      "Amyl Salicylate",
+      "Moss",
+      "Jasmine",
+      "Iso E Super",
+      "Cetalox",
+      "Helvetolide",
+      "Ambrettolide"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-37-16AM-_1.png?v=1773460263",
+    "searchableText": "Le Labo le labo Le Labo Another 13 A13ther Woody Musk/Musky Amber unisex Pear Apple Citruses Ambrette Amyl Salicylate Moss Jasmine Iso E Super Cetalox Helvetolide Ambrettolide",
+    "createdAt": "2026-05-04T04:41:38.793Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 208,
+    "fragranceSlug": "rabanne-lady-million-208",
+    "brandName": "Rabanne",
+    "brandSlug": "rabanne",
+    "originalFragranceName": "Lady Million",
+    "originalFragranceSlug": "rabanne-lady-million",
+    "mistifyProductName": "Lady Billion",
+    "mistifyProductSlug": "lady-billion",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/lady-billion",
+    "publicInspiredByLabel": "Inspired by Rabanne Lady Million",
+    "audience": "womens",
+    "classification": "Floral Fruity",
+    "topNotes": [
+      "Raspberry",
+      "Neroli",
+      "Amalfi Lemon"
+    ],
+    "middleNotes": [
+      "Jasmine",
+      "Orange Blossom",
+      "Gardenia"
+    ],
+    "baseNotes": [
+      "Honey",
+      "Amber",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Raspberry",
+      "Neroli",
+      "Amalfi Lemon",
+      "Jasmine",
+      "Orange Blossom",
+      "Gardenia",
+      "Honey",
+      "Amber",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_12_33AM.png?v=1774325559",
+    "searchableText": "Rabanne paco rabanne Paco Rabanne Lady Million Lady Billion Floral Fruity womens Raspberry Neroli Amalfi Lemon Jasmine Orange Blossom Gardenia Honey Amber Patchouli",
+    "createdAt": "2026-05-04T04:41:36.697Z"
+  }
+}

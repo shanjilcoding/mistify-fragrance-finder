@@ -1,0 +1,37 @@
+{
+  "fragrance": {
+    "id": 168,
+    "fragranceSlug": "montale-black-aoud-168",
+    "brandName": "Montale",
+    "brandSlug": "montale",
+    "originalFragranceName": "Black Aoud",
+    "originalFragranceSlug": "montale-black-aoud",
+    "mistifyProductName": "Oud Noir",
+    "mistifyProductSlug": "oud-noir",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-noir",
+    "publicInspiredByLabel": "Inspired by Montale Black Aoud",
+    "audience": "unisex",
+    "classification": "Woody Floral Musk",
+    "topNotes": [],
+    "middleNotes": [
+      "Rose",
+      "Oud",
+      "Patchouli",
+      "Musk",
+      "French Labdanum",
+      "Mandarin Orange"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Rose",
+      "Oud",
+      "Patchouli",
+      "Musk",
+      "French Labdanum",
+      "Mandarin Orange"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudNoir.png?v=1765422952",
+    "searchableText": "Montale montale Montale Black Aoud Oud Noir Woody Floral Musk unisex Rose Oud Patchouli Musk French Labdanum Mandarin Orange",
+    "createdAt": "2026-05-04T04:41:34.288Z"
+  }
+}

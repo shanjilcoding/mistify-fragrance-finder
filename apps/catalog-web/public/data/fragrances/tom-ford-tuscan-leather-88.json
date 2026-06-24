@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 88,
+    "fragranceSlug": "tom-ford-tuscan-leather-88",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Tuscan Leather",
+    "originalFragranceSlug": "tom-ford-tuscan-leather",
+    "mistifyProductName": "Leather Tuscany",
+    "mistifyProductSlug": "leather-tuscany",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/leather-tuscany",
+    "publicInspiredByLabel": "Inspired by Tom Ford Tuscan Leather",
+    "audience": "unisex",
+    "classification": "Leather",
+    "topNotes": [
+      "Raspberry",
+      "Saffron",
+      "Thyme"
+    ],
+    "middleNotes": [
+      "Olibanum",
+      "Jasmine"
+    ],
+    "baseNotes": [
+      "Leather",
+      "Suede",
+      "Amber",
+      "Woody Notes"
+    ],
+    "allNotes": [
+      "Raspberry",
+      "Saffron",
+      "Thyme",
+      "Olibanum",
+      "Jasmine",
+      "Leather",
+      "Suede",
+      "Amber",
+      "Woody Notes"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Tom Ford tom ford Tom Ford Tuscan Leather Leather Tuscany Leather unisex Raspberry Saffron Thyme Olibanum Jasmine Leather Suede Amber Woody Notes",
+    "createdAt": "2026-05-04T04:41:29.625Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 158,
+    "fragranceSlug": "initio-oud-for-happiness-158",
+    "brandName": "Initio",
+    "brandSlug": "initio",
+    "originalFragranceName": "Oud for Happiness",
+    "originalFragranceSlug": "initio-oud-for-happiness",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Initio Oud for Happiness",
+    "audience": null,
+    "classification": "Woody Spicy",
+    "topNotes": [
+      "Bergamot",
+      "Ginger"
+    ],
+    "middleNotes": [
+      "Licorice",
+      "Oud",
+      "Cedar"
+    ],
+    "baseNotes": [
+      "Vanilla",
+      "Herbal Notes",
+      "Musk"
+    ],
+    "allNotes": [
+      "Bergamot",
+      "Ginger",
+      "Licorice",
+      "Oud",
+      "Cedar",
+      "Vanilla",
+      "Herbal Notes",
+      "Musk"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Initio initio parfums Initio Parfums Oud for Happiness Not verified Woody Spicy Bergamot Ginger Licorice Oud Cedar Vanilla Herbal Notes Musk",
+    "createdAt": "2026-05-04T04:41:33.707Z"
+  }
+}

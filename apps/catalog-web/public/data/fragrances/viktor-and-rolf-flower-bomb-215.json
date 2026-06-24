@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 215,
+    "fragranceSlug": "viktor-and-rolf-flower-bomb-215",
+    "brandName": "Viktor & Rolf",
+    "brandSlug": "viktor-and-rolf",
+    "originalFragranceName": "Flower Bomb",
+    "originalFragranceSlug": "viktor-and-rolf-flower-bomb",
+    "mistifyProductName": "Not verified",
+    "mistifyProductSlug": null,
+    "mistifyProductUrl": null,
+    "publicInspiredByLabel": "Inspired by Viktor & Rolf Flower Bomb",
+    "audience": null,
+    "classification": "Oriental Floral",
+    "topNotes": [
+      "Tea",
+      "Bergamot",
+      "Osmanthus"
+    ],
+    "middleNotes": [
+      "Orchid",
+      "Jasmine",
+      "Rose",
+      "Freesia",
+      "African Orange Flower"
+    ],
+    "baseNotes": [
+      "Patchouli",
+      "Musk",
+      "Vanilla"
+    ],
+    "allNotes": [
+      "Tea",
+      "Bergamot",
+      "Osmanthus",
+      "Orchid",
+      "Jasmine",
+      "Rose",
+      "Freesia",
+      "African Orange Flower",
+      "Patchouli",
+      "Musk",
+      "Vanilla"
+    ],
+    "catalogImageUrl": null,
+    "searchableText": "Viktor & Rolf viktor and rolf Viktor & Rolf Flower Bomb Not verified Oriental Floral Tea Bergamot Osmanthus Orchid Jasmine Rose Freesia African Orange Flower Patchouli Musk Vanilla",
+    "createdAt": "2026-05-04T04:41:37.102Z"
+  }
+}

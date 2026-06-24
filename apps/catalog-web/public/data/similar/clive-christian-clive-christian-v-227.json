@@ -1,0 +1,280 @@
+{
+  "fragrances": [
+    {
+      "id": 117,
+      "fragranceSlug": "bond-no-9-lafayette-street-117",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Lafayette Street",
+      "originalFragranceSlug": "bond-no-9-lafayette-street",
+      "mistifyProductName": "Lafayette Avenue",
+      "mistifyProductSlug": "lafayette-avenue",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lafayette-avenue",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Lafayette Street",
+      "audience": "unisex",
+      "classification": "Oriental Fougere",
+      "topNotes": [
+        "Bergamot",
+        "Coriander"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Apple",
+        "Amber"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Cedarwood",
+        "Dry Wood Accord"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Coriander",
+        "Vanilla",
+        "Apple",
+        "Amber",
+        "Tonka Bean",
+        "Cedarwood",
+        "Dry Wood Accord"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-46-19AM-_1.png?v=1773460444",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Lafayette Street Lafayette Avenue Oriental Fougere unisex Bergamot Coriander Vanilla Apple Amber Tonka Bean Cedarwood Dry Wood Accord",
+      "createdAt": "2026-05-04T04:41:31.335Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Amber"
+      ]
+    },
+    {
+      "id": 32,
+      "fragranceSlug": "louis-vuitton-l-immensite-32",
+      "brandName": "Louis Vuitton",
+      "brandSlug": "louis-vuitton",
+      "originalFragranceName": "L’Immensité",
+      "originalFragranceSlug": "louis-vuitton-l-immensite",
+      "mistifyProductName": "Immensity",
+      "mistifyProductSlug": "immensity",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/immensity",
+      "publicInspiredByLabel": "Inspired by Louis Vuitton L’Immensité",
+      "audience": "mens",
+      "classification": "Citrus Aromatic",
+      "topNotes": [
+        "Grapefruit",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Rosemary",
+        "Sage",
+        "Watery Notes"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Ambroxan"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Bergamot",
+        "Rosemary",
+        "Sage",
+        "Watery Notes",
+        "Amber",
+        "Ambroxan"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_26_09PM.png?v=1765422829",
+      "searchableText": "Louis Vuitton louis vuitton Louis Vuitton L’Immensité Immensity Citrus Aromatic mens Grapefruit Bergamot Rosemary Sage Watery Notes Amber Ambroxan",
+      "createdAt": "2026-05-04T04:41:26.356Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Amber"
+      ]
+    },
+    {
+      "id": 116,
+      "fragranceSlug": "bond-no-9-harrod-s-oud-116",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Harrod’s Oud",
+      "originalFragranceSlug": "bond-no-9-harrod-s-oud",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Harrod’s Oud",
+      "audience": null,
+      "classification": "Oriental Woody",
+      "topNotes": [],
+      "middleNotes": [
+        "Agarwood/Oud",
+        "Cumin",
+        "Myrrh",
+        "Black Pepper",
+        "Vetiver",
+        "Amber"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Agarwood/Oud",
+        "Cumin",
+        "Myrrh",
+        "Black Pepper",
+        "Vetiver",
+        "Amber"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Harrod’s Oud Not verified Oriental Woody Agarwood/Oud Cumin Myrrh Black Pepper Vetiver Amber",
+      "createdAt": "2026-05-04T04:41:31.274Z",
+      "sharedNotes": [
+        "Black Pepper",
+        "Vetiver",
+        "Amber"
+      ]
+    },
+    {
+      "id": 106,
+      "fragranceSlug": "parfums-de-marly-pegasus-106",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Pegasus",
+      "originalFragranceSlug": "parfums-de-marly-pegasus",
+      "mistifyProductName": "Pegasi",
+      "mistifyProductSlug": "pegasi",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pegasi",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Pegasus",
+      "audience": "mens",
+      "classification": "Amber Fougere",
+      "topNotes": [
+        "Heliotrope",
+        "Cumin",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Bitter Almond",
+        "Lavender",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Sandalwood",
+        "Amber"
+      ],
+      "allNotes": [
+        "Heliotrope",
+        "Cumin",
+        "Bergamot",
+        "Bitter Almond",
+        "Lavender",
+        "Jasmine",
+        "Vanilla",
+        "Sandalwood",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-26-24PM-_1.png?v=1773460487",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Pegasus Pegasi Amber Fougere mens Heliotrope Cumin Bergamot Bitter Almond Lavender Jasmine Vanilla Sandalwood Amber",
+      "createdAt": "2026-05-04T04:41:30.688Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Amber"
+      ]
+    },
+    {
+      "id": 144,
+      "fragranceSlug": "ysl-yves-saint-laurent-y-intense-144",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Y Intense",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-y-intense",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Y Intense",
+      "audience": null,
+      "classification": "Aromatic Fougere",
+      "topNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries"
+      ],
+      "middleNotes": [
+        "Sage",
+        "Geranium",
+        "Lavender"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "allNotes": [
+        "Ginger",
+        "Bergamot",
+        "Juniper Berries",
+        "Sage",
+        "Geranium",
+        "Lavender",
+        "Vetiver",
+        "Tonka Bean",
+        "Cedar",
+        "Olibanum"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Y Intense Not verified Aromatic Fougere Ginger Bergamot Juniper Berries Sage Geranium Lavender Vetiver Tonka Bean Cedar Olibanum",
+      "createdAt": "2026-05-04T04:41:32.882Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Olibanum",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 207,
+      "fragranceSlug": "rabanne-1-million-golden-oud-207",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "1 Million Golden Oud",
+      "originalFragranceSlug": "rabanne-1-million-golden-oud",
+      "mistifyProductName": "Oud Millionaire",
+      "mistifyProductSlug": "oud-millionaire",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-millionaire",
+      "publicInspiredByLabel": "Inspired by Rabanne 1 Million Golden Oud",
+      "audience": "mens",
+      "classification": "Leather",
+      "topNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Black Pepper",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Sandalwood",
+        "Gurjan Balsam"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Cedarwood",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Black Pepper",
+        "Bergamot",
+        "Patchouli",
+        "Sandalwood",
+        "Gurjan Balsam",
+        "Oud",
+        "Leather",
+        "Cedarwood",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-36-58PM-_1.png?v=1773460314",
+      "searchableText": "Rabanne paco rabanne Paco Rabanne 1 Million Golden Oud Oud Millionaire Leather mens Saffron Nutmeg Black Pepper Bergamot Patchouli Sandalwood Gurjan Balsam Oud Leather Cedarwood Labdanum",
+      "createdAt": "2026-05-04T04:41:36.634Z",
+      "sharedNotes": [
+        "Black Pepper",
+        "Bergamot"
+      ]
+    }
+  ]
+}

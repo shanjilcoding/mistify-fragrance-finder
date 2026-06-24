@@ -1,0 +1,373 @@
+{
+  "brand": {
+    "brandName": "Amouage",
+    "brandSlug": "amouage",
+    "fragranceCount": 7,
+    "searchableText": "Decision Final Say Inspired by Amouage Decision Amouage amouage Amouage Decision Final Say Woody Aromatic unisex Cardamom Bergamot Pink Pepper Frankincense Juniper Berries Myrrh Vanilla Cedarwood Patchouli Guidance Guidara Inspired by Amouage Guidance Amouage amouage Amouage Guidance Guidara Floral Fruity unisex Pear Hazelnut Olibanum Osmanthus Rose Saffron Jasmine Sambac Sandalwood Vanilla Akigalawood Ambergris Labdanum Memoir Mémoire Femme Inspired by Amouage Memoir Amouage amouage Amouage Memoir Mémoire Femme Leather Wormwood Mint Basil Incense Lavender Rose Tobacco Leather Sandalwood Guaiac Wood Vetiver Oakmoss Amber Vanilla Musk Opus V - Woods Symphony Not verified Inspired by Amouage Opus V - Woods Symphony Amouage amouage Amouage Opus V - Woods Symphony Not verified Woody Floral Musk Orris Root Rum Orris Root Rose Jasmine Oud Dry Wood Civet Outlands Outland Aura Inspired by Amouage Outlands Amouage amouage Amouage Outlands Outland Aura Oriental Woody unisex Frankincense Cardamom Elemi Lemon Bergamot Sichuan Pepper Patchouli Anise Coriander Cumin Saffron Orange Blossom Wormwood Geranium Rose Frankincense Vanilla Amber Benzoin Oud Opoponax Birch Ambergris Labdanum Maltol Musk Purpose 50 True Purpose Inspired by Amouage Purpose 50 Amouage amouage Amouage Purpose 50 True Purpose Woody Spicy unisex Frankincense Pimento Pink Pepper Bergamot Sandalwood Vetiver Papyrus Rose Akigalawood Suede Vanilla Mystikal Saffron Reflection Man Reflexion Amouage Reflection Man Amouage Amouage Reflection Man Reflexion Floral Woody / Fresh Aromatic Rosemary Pink Pepper Petitgrain Jasmine Neroli Orris Root Ylang-Ylang Sandalwood Cedar Vetiver Patchouli"
+  },
+  "fragrances": [
+    {
+      "id": 281,
+      "fragranceSlug": "amouage-decision-281",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Decision",
+      "originalFragranceSlug": "amouage-decision",
+      "mistifyProductName": "Final Say",
+      "mistifyProductSlug": "final-say",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/final-say",
+      "publicInspiredByLabel": "Inspired by Amouage Decision",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper",
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh",
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb10-2026-01-48-07PM-_1.png?v=1773460152",
+      "searchableText": "Amouage amouage Amouage Decision Final Say Woody Aromatic unisex Cardamom Bergamot Pink Pepper Frankincense Juniper Berries Myrrh Vanilla Cedarwood Patchouli",
+      "createdAt": "2026-05-04T04:41:41.123Z"
+    },
+    {
+      "id": 277,
+      "fragranceSlug": "amouage-guidance-277",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Guidance",
+      "originalFragranceSlug": "amouage-guidance",
+      "mistifyProductName": "Guidara",
+      "mistifyProductSlug": "guidara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/guidara",
+      "publicInspiredByLabel": "Inspired by Amouage Guidance",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pear",
+        "Hazelnut",
+        "Olibanum"
+      ],
+      "middleNotes": [
+        "Osmanthus",
+        "Rose",
+        "Saffron",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Vanilla",
+        "Akigalawood",
+        "Ambergris",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Pear",
+        "Hazelnut",
+        "Olibanum",
+        "Osmanthus",
+        "Rose",
+        "Saffron",
+        "Jasmine Sambac",
+        "Sandalwood",
+        "Vanilla",
+        "Akigalawood",
+        "Ambergris",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov14-2025-09-56-20AM-_1.png?v=1773460216",
+      "searchableText": "Amouage amouage Amouage Guidance Guidara Floral Fruity unisex Pear Hazelnut Olibanum Osmanthus Rose Saffron Jasmine Sambac Sandalwood Vanilla Akigalawood Ambergris Labdanum",
+      "createdAt": "2026-05-04T04:41:40.883Z"
+    },
+    {
+      "id": 280,
+      "fragranceSlug": "amouage-memoir-280",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Memoir",
+      "originalFragranceSlug": "amouage-memoir",
+      "mistifyProductName": "Mémoire Femme",
+      "mistifyProductSlug": "memoire-femme",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/memoire-femme",
+      "publicInspiredByLabel": "Inspired by Amouage Memoir",
+      "audience": null,
+      "classification": "Leather",
+      "topNotes": [
+        "Wormwood",
+        "Mint",
+        "Basil"
+      ],
+      "middleNotes": [
+        "Incense",
+        "Lavender",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Tobacco",
+        "Leather",
+        "Sandalwood",
+        "Guaiac Wood",
+        "Vetiver",
+        "Oakmoss",
+        "Amber",
+        "Vanilla",
+        "Musk"
+      ],
+      "allNotes": [
+        "Wormwood",
+        "Mint",
+        "Basil",
+        "Incense",
+        "Lavender",
+        "Rose",
+        "Tobacco",
+        "Leather",
+        "Sandalwood",
+        "Guaiac Wood",
+        "Vetiver",
+        "Oakmoss",
+        "Amber",
+        "Vanilla",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay19_2026_10_22_23AM.png?v=1779200550",
+      "searchableText": "Amouage amouage Amouage Memoir Mémoire Femme Leather Wormwood Mint Basil Incense Lavender Rose Tobacco Leather Sandalwood Guaiac Wood Vetiver Oakmoss Amber Vanilla Musk",
+      "createdAt": "2026-05-04T04:41:41.059Z"
+    },
+    {
+      "id": 276,
+      "fragranceSlug": "amouage-opus-v-woods-symphony-276",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Opus V - Woods Symphony",
+      "originalFragranceSlug": "amouage-opus-v-woods-symphony",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Amouage Opus V - Woods Symphony",
+      "audience": null,
+      "classification": "Woody Floral Musk",
+      "topNotes": [
+        "Orris Root",
+        "Rum"
+      ],
+      "middleNotes": [
+        "Orris Root",
+        "Rose",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Dry Wood",
+        "Civet"
+      ],
+      "allNotes": [
+        "Orris Root",
+        "Rum",
+        "Orris Root",
+        "Rose",
+        "Jasmine",
+        "Oud",
+        "Dry Wood",
+        "Civet"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Amouage amouage Amouage Opus V - Woods Symphony Not verified Woody Floral Musk Orris Root Rum Orris Root Rose Jasmine Oud Dry Wood Civet",
+      "createdAt": "2026-05-04T04:41:40.816Z"
+    },
+    {
+      "id": 278,
+      "fragranceSlug": "amouage-outlands-278",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Outlands",
+      "originalFragranceSlug": "amouage-outlands",
+      "mistifyProductName": "Outland Aura",
+      "mistifyProductSlug": "outland-aura",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/outland-aura",
+      "publicInspiredByLabel": "Inspired by Amouage Outlands",
+      "audience": "unisex",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Frankincense",
+        "Cardamom",
+        "Elemi",
+        "Lemon",
+        "Bergamot",
+        "Sichuan Pepper"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Anise",
+        "Coriander",
+        "Cumin",
+        "Saffron",
+        "Orange Blossom",
+        "Wormwood",
+        "Geranium",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Frankincense",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Oud",
+        "Opoponax",
+        "Birch",
+        "Ambergris",
+        "Labdanum",
+        "Maltol",
+        "Musk"
+      ],
+      "allNotes": [
+        "Frankincense",
+        "Cardamom",
+        "Elemi",
+        "Lemon",
+        "Bergamot",
+        "Sichuan Pepper",
+        "Patchouli",
+        "Anise",
+        "Coriander",
+        "Cumin",
+        "Saffron",
+        "Orange Blossom",
+        "Wormwood",
+        "Geranium",
+        "Rose",
+        "Frankincense",
+        "Vanilla",
+        "Amber",
+        "Benzoin",
+        "Oud",
+        "Opoponax",
+        "Birch",
+        "Ambergris",
+        "Labdanum",
+        "Maltol",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb3-2026-06-02-40PM-_1.png?v=1773460158",
+      "searchableText": "Amouage amouage Amouage Outlands Outland Aura Oriental Woody unisex Frankincense Cardamom Elemi Lemon Bergamot Sichuan Pepper Patchouli Anise Coriander Cumin Saffron Orange Blossom Wormwood Geranium Rose Frankincense Vanilla Amber Benzoin Oud Opoponax Birch Ambergris Labdanum Maltol Musk",
+      "createdAt": "2026-05-04T04:41:40.947Z"
+    },
+    {
+      "id": 279,
+      "fragranceSlug": "amouage-purpose-50-279",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Purpose 50",
+      "originalFragranceSlug": "amouage-purpose-50",
+      "mistifyProductName": "True Purpose",
+      "mistifyProductSlug": "true-purpose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/true-purpose",
+      "publicInspiredByLabel": "Inspired by Amouage Purpose 50",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Frankincense",
+        "Pimento",
+        "Pink Pepper",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Sandalwood",
+        "Vetiver",
+        "Papyrus",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Akigalawood",
+        "Suede",
+        "Vanilla",
+        "Mystikal",
+        "Saffron"
+      ],
+      "allNotes": [
+        "Frankincense",
+        "Pimento",
+        "Pink Pepper",
+        "Bergamot",
+        "Sandalwood",
+        "Vetiver",
+        "Papyrus",
+        "Rose",
+        "Akigalawood",
+        "Suede",
+        "Vanilla",
+        "Mystikal",
+        "Saffron"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb12-2026-11-17-45AM-_1.png?v=1773460144",
+      "searchableText": "Amouage amouage Amouage Purpose 50 True Purpose Woody Spicy unisex Frankincense Pimento Pink Pepper Bergamot Sandalwood Vetiver Papyrus Rose Akigalawood Suede Vanilla Mystikal Saffron",
+      "createdAt": "2026-05-04T04:41:41.000Z"
+    },
+    {
+      "id": 321,
+      "fragranceSlug": "amouage-reflection-man-321",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Reflection Man",
+      "originalFragranceSlug": "amouage-reflection-man",
+      "mistifyProductName": "Reflexion",
+      "mistifyProductSlug": "reflexion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/reflexion",
+      "publicInspiredByLabel": "Amouage Reflection Man",
+      "audience": null,
+      "classification": "Floral Woody / Fresh Aromatic",
+      "topNotes": [
+        "Rosemary",
+        "Pink Pepper",
+        "Petitgrain"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Neroli",
+        "Orris Root",
+        "Ylang-Ylang"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Rosemary",
+        "Pink Pepper",
+        "Petitgrain",
+        "Jasmine",
+        "Neroli",
+        "Orris Root",
+        "Ylang-Ylang",
+        "Sandalwood",
+        "Cedar",
+        "Vetiver",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJun9_2026_07_43_40AM.png?v=1781005432",
+      "searchableText": "Amouage Amouage Reflection Man Reflexion Floral Woody / Fresh Aromatic Rosemary Pink Pepper Petitgrain Jasmine Neroli Orris Root Ylang-Ylang Sandalwood Cedar Vetiver Patchouli",
+      "createdAt": "2026-06-19T17:22:54.618Z"
+    }
+  ]
+}

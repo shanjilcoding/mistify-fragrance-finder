@@ -1,0 +1,41 @@
+{
+  "fragrance": {
+    "id": 2,
+    "fragranceSlug": "guerlain-cherry-oud-2",
+    "brandName": "Guerlain",
+    "brandSlug": "guerlain",
+    "originalFragranceName": "Cherry Oud",
+    "originalFragranceSlug": "guerlain-cherry-oud",
+    "mistifyProductName": "Cherry Oudra",
+    "mistifyProductSlug": "cherry-oudra",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/cherry-oudra",
+    "publicInspiredByLabel": "Inspired by Guerlain Cherry Oud",
+    "audience": "unisex",
+    "classification": "Oriental Woody",
+    "topNotes": [
+      "Cherry",
+      "Cinnamon"
+    ],
+    "middleNotes": [
+      "Rose",
+      "Agarwood/Oud"
+    ],
+    "baseNotes": [
+      "Amber",
+      "Peru Balsam",
+      "Musk"
+    ],
+    "allNotes": [
+      "Cherry",
+      "Cinnamon",
+      "Rose",
+      "Agarwood/Oud",
+      "Amber",
+      "Peru Balsam",
+      "Musk"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-23-34PM-_1.png?v=1773460359",
+    "searchableText": "Guerlain guerlain Guerlain Cherry Oud Cherry Oudra Oriental Woody unisex Cherry Cinnamon Rose Agarwood/Oud Amber Peru Balsam Musk",
+    "createdAt": "2026-05-04T04:41:24.605Z"
+  }
+}

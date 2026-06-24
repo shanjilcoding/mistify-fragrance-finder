@@ -1,0 +1,306 @@
+{
+  "fragrances": [
+    {
+      "id": 79,
+      "fragranceSlug": "tom-ford-lavender-extreme-79",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lavender Extreme",
+      "originalFragranceSlug": "tom-ford-lavender-extreme",
+      "mistifyProductName": "Lavender Extremism",
+      "mistifyProductSlug": "lavender-extremism",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lavender-extremism",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lavender Extreme",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LavenderExtremism.png?v=1765422873",
+      "searchableText": "Tom Ford tom ford Tom Ford Lavender Extreme Lavender Extremism Aromatic unisex Lavender Bergamot Cinnamon Tonka Bean Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:29.108Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Cinnamon",
+        "Tonka Bean",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 74,
+      "fragranceSlug": "tom-ford-bitter-peach-74",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Bitter Peach",
+      "originalFragranceSlug": "tom-ford-bitter-peach",
+      "mistifyProductName": "Bitter Peachy",
+      "mistifyProductSlug": "bitter-peachy",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bitter-peachy",
+      "publicInspiredByLabel": "Inspired by Tom Ford Bitter Peach",
+      "audience": "unisex",
+      "classification": "Fruity Gourmand",
+      "topNotes": [
+        "Wild Peach",
+        "Sicilian Blood Orange",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Rum Absolute",
+        "Davana",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Tonka Bean",
+        "Patchouli",
+        "Benzoin"
+      ],
+      "allNotes": [
+        "Wild Peach",
+        "Sicilian Blood Orange",
+        "Cardamom",
+        "Rum Absolute",
+        "Davana",
+        "Jasmine Sambac",
+        "Sandalwood",
+        "Tonka Bean",
+        "Patchouli",
+        "Benzoin"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_26_07AM.png?v=1774326374",
+      "searchableText": "Tom Ford tom ford Tom Ford Bitter Peach Bitter Peachy Fruity Gourmand unisex Wild Peach Sicilian Blood Orange Cardamom Rum Absolute Davana Jasmine Sambac Sandalwood Tonka Bean Patchouli Benzoin",
+      "createdAt": "2026-05-04T04:41:28.810Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Davana",
+        "Tonka Bean",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 10,
+      "fragranceSlug": "guerlain-extra-habit-rouge-prive-10",
+      "brandName": "Guerlain Extra",
+      "brandSlug": "guerlain-extra",
+      "originalFragranceName": "Habit Rouge Privé",
+      "originalFragranceSlug": "guerlain-extra-habit-rouge-prive",
+      "mistifyProductName": "Rogue Privé",
+      "mistifyProductSlug": "rogue-prive",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/rogue-prive",
+      "publicInspiredByLabel": "Inspired by Guerlain Extra Habit Rouge Privé",
+      "audience": "mens",
+      "classification": "Oriental Woody",
+      "topNotes": [
+        "Bergamot",
+        "Lime",
+        "Orange"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Rose",
+        "Cinnamon"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lime",
+        "Orange",
+        "Jasmine",
+        "Rose",
+        "Cinnamon",
+        "Leather",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-39-53PM-_1.png?v=1773460367",
+      "searchableText": "Guerlain Extra guerlain extra Guerlain extra Habit Rouge Privé Rogue Privé Oriental Woody mens Bergamot Lime Orange Jasmine Rose Cinnamon Leather Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:25.095Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Cinnamon",
+        "Leather",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 281,
+      "fragranceSlug": "amouage-decision-281",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Decision",
+      "originalFragranceSlug": "amouage-decision",
+      "mistifyProductName": "Final Say",
+      "mistifyProductSlug": "final-say",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/final-say",
+      "publicInspiredByLabel": "Inspired by Amouage Decision",
+      "audience": "unisex",
+      "classification": "Woody Aromatic",
+      "topNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Pink Pepper",
+        "Frankincense",
+        "Juniper Berries",
+        "Myrrh",
+        "Vanilla",
+        "Cedarwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb10-2026-01-48-07PM-_1.png?v=1773460152",
+      "searchableText": "Amouage amouage Amouage Decision Final Say Woody Aromatic unisex Cardamom Bergamot Pink Pepper Frankincense Juniper Berries Myrrh Vanilla Cedarwood Patchouli",
+      "createdAt": "2026-05-04T04:41:41.123Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Bergamot",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 248,
+      "fragranceSlug": "penhaligon-s-halfeti-cedar-248",
+      "brandName": "Penhaligon's",
+      "brandSlug": "penhaligon-s",
+      "originalFragranceName": "Halfeti Cedar",
+      "originalFragranceSlug": "penhaligon-s-halfeti-cedar",
+      "mistifyProductName": "Halfeti Cedar Rose",
+      "mistifyProductSlug": "halfeti-cedar-rose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/halfeti-cedar-rose",
+      "publicInspiredByLabel": "Inspired by Penhaligon's Halfeti Cedar",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Rum",
+        "Saffron",
+        "Peach",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Virginia Cedar",
+        "Dried Fruits",
+        "Cinnamon",
+        "Mineral Notes",
+        "Immortelle"
+      ],
+      "baseNotes": [
+        "Atlas Cedar",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Rum",
+        "Saffron",
+        "Peach",
+        "Cardamom",
+        "Virginia Cedar",
+        "Dried Fruits",
+        "Cinnamon",
+        "Mineral Notes",
+        "Immortelle",
+        "Atlas Cedar",
+        "Tonka Bean",
+        "Vanilla",
+        "Labdanum",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10_2025_11_46_35AM.png?v=1765422935",
+      "searchableText": "Penhaligon's penhaligons Penhaligon's Halfeti Cedar Halfeti Cedar Rose Woody Spicy unisex Rum Saffron Peach Cardamom Virginia Cedar Dried Fruits Cinnamon Mineral Notes Immortelle Atlas Cedar Tonka Bean Vanilla Labdanum Patchouli",
+      "createdAt": "2026-05-04T04:41:39.097Z",
+      "sharedNotes": [
+        "Cardamom",
+        "Cinnamon",
+        "Tonka Bean",
+        "Patchouli"
+      ]
+    },
+    {
+      "id": 136,
+      "fragranceSlug": "creed-delphinus-136",
+      "brandName": "Creed",
+      "brandSlug": "creed",
+      "originalFragranceName": "Delphinus",
+      "originalFragranceSlug": "creed-delphinus",
+      "mistifyProductName": "Starphinus",
+      "mistifyProductSlug": "starphinus",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/starphinus",
+      "publicInspiredByLabel": "Inspired by Creed Delphinus",
+      "audience": "unisex",
+      "classification": "Amber Spicy",
+      "topNotes": [
+        "Almond",
+        "Pink Pepper",
+        "Black Pepper"
+      ],
+      "middleNotes": [
+        "Orris",
+        "Heliotrope",
+        "Orchid"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Tonka Bean",
+        "Leather",
+        "Amberwood",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Almond",
+        "Pink Pepper",
+        "Black Pepper",
+        "Orris",
+        "Heliotrope",
+        "Orchid",
+        "Bourbon Vanilla",
+        "Tonka Bean",
+        "Leather",
+        "Amberwood",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec10-2025-11-13-03AM-_1.png?v=1773460303",
+      "searchableText": "Creed creed Creed Delphinus Starphinus Amber Spicy unisex Almond Pink Pepper Black Pepper Orris Heliotrope Orchid Bourbon Vanilla Tonka Bean Leather Amberwood Patchouli",
+      "createdAt": "2026-05-04T04:41:32.427Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Leather",
+        "Patchouli"
+      ]
+    }
+  ]
+}

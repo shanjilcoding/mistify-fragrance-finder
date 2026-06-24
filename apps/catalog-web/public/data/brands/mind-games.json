@@ -1,0 +1,188 @@
+{
+  "brand": {
+    "brandName": "Mind Games",
+    "brandSlug": "mind-games",
+    "fragranceCount": 4,
+    "searchableText": "Blockade Blocade Inspired by Mind Games Blockade Mind Games mind games Mind Games Blockade Blocade Not listed clearly by Fragrantica unisex Mango Bergamot Tomato Leaf Pink Pepper Mango Blossom Lavender Star Anise Watery Cyclamen Suede Oud Amber Patchouli Double Attack Double Attraque Inspired by Mind Games Double Attack Mind Games mind games Mind Games Double Attack Double Attraque Not listed clearly by Fragrantica unisex Bitter Orange Pimento Pink Pepper Cinnamon Agave Geranium Dark Chocolate Madagascar Vanilla Sandalwood Bourbon Vetiver J’Adoube Jadoubelle Inspired by Mind Games J’Adoube Mind Games mind games Mind Games J’Adoube Jadoubelle Not listed clearly by Fragrantica unisex Red Currant Mandarin Orange Pomegranate Damask Rose Leather Patchouli Benzoin Amber Queening Queenique Inspired by Mind Games Queening Mind Games mind games Mind Games Queening Queenique Not listed clearly by Fragrantica unisex Cotton Flower Apple Cypress Orris Root Rum Saffron Vanilla Coconut Musk"
+  },
+  "fragrances": [
+    {
+      "id": 182,
+      "fragranceSlug": "mind-games-blockade-182",
+      "brandName": "Mind Games",
+      "brandSlug": "mind-games",
+      "originalFragranceName": "Blockade",
+      "originalFragranceSlug": "mind-games-blockade",
+      "mistifyProductName": "Blocade",
+      "mistifyProductSlug": "blocade",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/blocade",
+      "publicInspiredByLabel": "Inspired by Mind Games Blockade",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Mango",
+        "Bergamot",
+        "Tomato Leaf",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Mango Blossom",
+        "Lavender",
+        "Star Anise",
+        "Watery Cyclamen"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Oud",
+        "Amber",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Mango",
+        "Bergamot",
+        "Tomato Leaf",
+        "Pink Pepper",
+        "Mango Blossom",
+        "Lavender",
+        "Star Anise",
+        "Watery Cyclamen",
+        "Suede",
+        "Oud",
+        "Amber",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov12-2025-07-26-23PM-_1.png?v=1773460230",
+      "searchableText": "Mind Games mind games Mind Games Blockade Blocade Not listed clearly by Fragrantica unisex Mango Bergamot Tomato Leaf Pink Pepper Mango Blossom Lavender Star Anise Watery Cyclamen Suede Oud Amber Patchouli",
+      "createdAt": "2026-05-04T04:41:35.119Z"
+    },
+    {
+      "id": 183,
+      "fragranceSlug": "mind-games-double-attack-183",
+      "brandName": "Mind Games",
+      "brandSlug": "mind-games",
+      "originalFragranceName": "Double Attack",
+      "originalFragranceSlug": "mind-games-double-attack",
+      "mistifyProductName": "Double Attraque",
+      "mistifyProductSlug": "double-attraque",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/double-attraque",
+      "publicInspiredByLabel": "Inspired by Mind Games Double Attack",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Bitter Orange",
+        "Pimento",
+        "Pink Pepper"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Agave",
+        "Geranium"
+      ],
+      "baseNotes": [
+        "Dark Chocolate",
+        "Madagascar Vanilla",
+        "Sandalwood",
+        "Bourbon Vetiver"
+      ],
+      "allNotes": [
+        "Bitter Orange",
+        "Pimento",
+        "Pink Pepper",
+        "Cinnamon",
+        "Agave",
+        "Geranium",
+        "Dark Chocolate",
+        "Madagascar Vanilla",
+        "Sandalwood",
+        "Bourbon Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov12-2025-07-31-44PM-_1.png?v=1773460228",
+      "searchableText": "Mind Games mind games Mind Games Double Attack Double Attraque Not listed clearly by Fragrantica unisex Bitter Orange Pimento Pink Pepper Cinnamon Agave Geranium Dark Chocolate Madagascar Vanilla Sandalwood Bourbon Vetiver",
+      "createdAt": "2026-05-04T04:41:35.174Z"
+    },
+    {
+      "id": 184,
+      "fragranceSlug": "mind-games-j-adoube-184",
+      "brandName": "Mind Games",
+      "brandSlug": "mind-games",
+      "originalFragranceName": "J’Adoube",
+      "originalFragranceSlug": "mind-games-j-adoube",
+      "mistifyProductName": "Jadoubelle",
+      "mistifyProductSlug": "jadoubelle",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/jadoubelle",
+      "publicInspiredByLabel": "Inspired by Mind Games J’Adoube",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Red Currant",
+        "Mandarin Orange"
+      ],
+      "middleNotes": [
+        "Pomegranate",
+        "Damask Rose"
+      ],
+      "baseNotes": [
+        "Leather",
+        "Patchouli",
+        "Benzoin",
+        "Amber"
+      ],
+      "allNotes": [
+        "Red Currant",
+        "Mandarin Orange",
+        "Pomegranate",
+        "Damask Rose",
+        "Leather",
+        "Patchouli",
+        "Benzoin",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov12-2025-07-34-41PM-_1.png?v=1773460224",
+      "searchableText": "Mind Games mind games Mind Games J’Adoube Jadoubelle Not listed clearly by Fragrantica unisex Red Currant Mandarin Orange Pomegranate Damask Rose Leather Patchouli Benzoin Amber",
+      "createdAt": "2026-05-04T04:41:35.232Z"
+    },
+    {
+      "id": 185,
+      "fragranceSlug": "mind-games-queening-185",
+      "brandName": "Mind Games",
+      "brandSlug": "mind-games",
+      "originalFragranceName": "Queening",
+      "originalFragranceSlug": "mind-games-queening",
+      "mistifyProductName": "Queenique",
+      "mistifyProductSlug": "queenique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/queenique",
+      "publicInspiredByLabel": "Inspired by Mind Games Queening",
+      "audience": "unisex",
+      "classification": "Not listed clearly by Fragrantica",
+      "topNotes": [
+        "Cotton Flower",
+        "Apple",
+        "Cypress"
+      ],
+      "middleNotes": [
+        "Orris Root",
+        "Rum",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Coconut",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cotton Flower",
+        "Apple",
+        "Cypress",
+        "Orris Root",
+        "Rum",
+        "Saffron",
+        "Vanilla",
+        "Coconut",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov12-2025-07-37-24PM-_1.png?v=1773460221",
+      "searchableText": "Mind Games mind games Mind Games Queening Queenique Not listed clearly by Fragrantica unisex Cotton Flower Apple Cypress Orris Root Rum Saffron Vanilla Coconut Musk",
+      "createdAt": "2026-05-04T04:41:35.290Z"
+    }
+  ]
+}

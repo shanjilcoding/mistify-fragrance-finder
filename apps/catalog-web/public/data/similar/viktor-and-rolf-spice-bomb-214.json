@@ -1,0 +1,308 @@
+{
+  "fragrances": [
+    {
+      "id": 206,
+      "fragranceSlug": "rabanne-1-million-206",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "1 Million",
+      "originalFragranceSlug": "rabanne-1-million",
+      "mistifyProductName": "Golden Luxe",
+      "mistifyProductSlug": "golden-luxe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-luxe?_pos=2&_sid=cb998cf94&_ss=r",
+      "publicInspiredByLabel": "Inspired by Rabanne 1 Million",
+      "audience": "mens",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Blood Mandarin",
+        "Grapefruit",
+        "Mint"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Spicy Notes",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Leather",
+        "Woody Notes",
+        "Indian Patchouli"
+      ],
+      "allNotes": [
+        "Blood Mandarin",
+        "Grapefruit",
+        "Mint",
+        "Cinnamon",
+        "Spicy Notes",
+        "Rose",
+        "Amber",
+        "Leather",
+        "Woody Notes",
+        "Indian Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_45_20PM_eda64bdf-de46-4f14-8adf-b3a151fd82f8.png?v=1774406735",
+      "searchableText": "Rabanne paco rabanne Paco Rabanne 1 Million Golden Luxe Woody Spicy mens Blood Mandarin Grapefruit Mint Cinnamon Spicy Notes Rose Amber Leather Woody Notes Indian Patchouli",
+      "createdAt": "2026-05-04T04:41:36.571Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Cinnamon",
+        "Leather"
+      ]
+    },
+    {
+      "id": 279,
+      "fragranceSlug": "amouage-purpose-50-279",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Purpose 50",
+      "originalFragranceSlug": "amouage-purpose-50",
+      "mistifyProductName": "True Purpose",
+      "mistifyProductSlug": "true-purpose",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/true-purpose",
+      "publicInspiredByLabel": "Inspired by Amouage Purpose 50",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Frankincense",
+        "Pimento",
+        "Pink Pepper",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Sandalwood",
+        "Vetiver",
+        "Papyrus",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Akigalawood",
+        "Suede",
+        "Vanilla",
+        "Mystikal",
+        "Saffron"
+      ],
+      "allNotes": [
+        "Frankincense",
+        "Pimento",
+        "Pink Pepper",
+        "Bergamot",
+        "Sandalwood",
+        "Vetiver",
+        "Papyrus",
+        "Rose",
+        "Akigalawood",
+        "Suede",
+        "Vanilla",
+        "Mystikal",
+        "Saffron"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb12-2026-11-17-45AM-_1.png?v=1773460144",
+      "searchableText": "Amouage amouage Amouage Purpose 50 True Purpose Woody Spicy unisex Frankincense Pimento Pink Pepper Bergamot Sandalwood Vetiver Papyrus Rose Akigalawood Suede Vanilla Mystikal Saffron",
+      "createdAt": "2026-05-04T04:41:41.000Z",
+      "sharedNotes": [
+        "Pink Pepper",
+        "Bergamot",
+        "Saffron",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 263,
+      "fragranceSlug": "chopard-oud-malaki-263",
+      "brandName": "Chopard",
+      "brandSlug": "chopard",
+      "originalFragranceName": "Oud Malaki",
+      "originalFragranceSlug": "chopard-oud-malaki",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Chopard Oud Malaki",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Grapefruit",
+        "Lavender",
+        "Artemisia"
+      ],
+      "middleNotes": [
+        "Tobacco",
+        "Spices",
+        "Leather"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Dark Woodsy Notes",
+        "Ambergris"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Lavender",
+        "Artemisia",
+        "Tobacco",
+        "Spices",
+        "Leather",
+        "Oud",
+        "Dark Woodsy Notes",
+        "Ambergris"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Chopard chopard Chopard Oud Malaki Not verified Woody Spicy Grapefruit Lavender Artemisia Tobacco Spices Leather Oud Dark Woodsy Notes Ambergris",
+      "createdAt": "2026-05-04T04:41:40.023Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Tobacco",
+        "Leather"
+      ]
+    },
+    {
+      "id": 77,
+      "fragranceSlug": "tom-ford-grey-vetiver-77",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Grey Vetiver",
+      "originalFragranceSlug": "tom-ford-grey-vetiver",
+      "mistifyProductName": "Silver Vetiver",
+      "mistifyProductSlug": "silver-vetiver",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/silver-vetiver",
+      "publicInspiredByLabel": "Inspired by Tom Ford Grey Vetiver",
+      "audience": "mens",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Grapefruit",
+        "Orange Blossom",
+        "Sage"
+      ],
+      "middleNotes": [
+        "Nutmeg",
+        "Orris Root",
+        "Pimento"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Woodsy Notes",
+        "Oakmoss",
+        "Amber"
+      ],
+      "allNotes": [
+        "Grapefruit",
+        "Orange Blossom",
+        "Sage",
+        "Nutmeg",
+        "Orris Root",
+        "Pimento",
+        "Vetiver",
+        "Woodsy Notes",
+        "Oakmoss",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4_2025_11_54_08AM.png?v=1765422869",
+      "searchableText": "Tom Ford tom ford Tom Ford Grey Vetiver Silver Vetiver Woody Spicy mens Grapefruit Orange Blossom Sage Nutmeg Orris Root Pimento Vetiver Woodsy Notes Oakmoss Amber",
+      "createdAt": "2026-05-04T04:41:28.987Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Vetiver"
+      ]
+    },
+    {
+      "id": 178,
+      "fragranceSlug": "mancera-red-tobacco-178",
+      "brandName": "Mancera",
+      "brandSlug": "mancera",
+      "originalFragranceName": "Red Tobacco",
+      "originalFragranceSlug": "mancera-red-tobacco",
+      "mistifyProductName": "Scarlet Tobacco",
+      "mistifyProductSlug": "scarlet-tobacco",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/scarlet-tobacco",
+      "publicInspiredByLabel": "Inspired by Mancera Red Tobacco",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cinnamon",
+        "Oud",
+        "Incense",
+        "Saffron",
+        "Nutmeg",
+        "Green Apple",
+        "White Pear"
+      ],
+      "middleNotes": [
+        "Patchouli",
+        "Jasmine"
+      ],
+      "baseNotes": [
+        "Tobacco",
+        "Madagascar Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk",
+        "Haitian Vetiver"
+      ],
+      "allNotes": [
+        "Cinnamon",
+        "Oud",
+        "Incense",
+        "Saffron",
+        "Nutmeg",
+        "Green Apple",
+        "White Pear",
+        "Patchouli",
+        "Jasmine",
+        "Tobacco",
+        "Madagascar Vanilla",
+        "Amber",
+        "Sandalwood",
+        "Guaiac Wood",
+        "White Musk",
+        "Haitian Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ScarletTobacco.png?v=1765423002",
+      "searchableText": "Mancera mancera Mancera Red Tobacco Scarlet Tobacco Woody Spicy unisex Cinnamon Oud Incense Saffron Nutmeg Green Apple White Pear Patchouli Jasmine Tobacco Madagascar Vanilla Amber Sandalwood Guaiac Wood White Musk Haitian Vetiver",
+      "createdAt": "2026-05-04T04:41:34.885Z",
+      "sharedNotes": [
+        "Cinnamon",
+        "Saffron",
+        "Tobacco"
+      ]
+    },
+    {
+      "id": 152,
+      "fragranceSlug": "ysl-yves-saint-laurent-la-nuit-de-l-homme-152",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "La Nuit de l’Homme",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-la-nuit-de-l-homme",
+      "mistifyProductName": "The Night of Man",
+      "mistifyProductSlug": "the-night-of-man",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/the-night-of-man",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) La Nuit de l’Homme",
+      "audience": "mens",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Lavender",
+        "Cedar"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Caraway"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Lavender",
+        "Cedar",
+        "Vetiver",
+        "Caraway"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-12-41-32AM-_1.png?v=1773460417",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) La Nuit de l’Homme The Night of Man Woody Spicy mens Cardamom Lavender Cedar Vetiver Caraway",
+      "createdAt": "2026-05-04T04:41:33.364Z",
+      "sharedNotes": [
+        "Vetiver"
+      ]
+    }
+  ]
+}

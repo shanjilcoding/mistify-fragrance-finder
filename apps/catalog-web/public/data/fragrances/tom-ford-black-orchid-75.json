@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 75,
+    "fragranceSlug": "tom-ford-black-orchid-75",
+    "brandName": "Tom Ford",
+    "brandSlug": "tom-ford",
+    "originalFragranceName": "Black Orchid",
+    "originalFragranceSlug": "tom-ford-black-orchid",
+    "mistifyProductName": "Black Orchard",
+    "mistifyProductSlug": "black-orchard",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/black-orchard",
+    "publicInspiredByLabel": "Inspired by Tom Ford Black Orchid",
+    "audience": "unisex",
+    "classification": "Floral Oriental",
+    "topNotes": [
+      "Black Truffle",
+      "Ylang-Ylang",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "Black Orchid",
+      "Lotus Wood"
+    ],
+    "baseNotes": [
+      "Patchouli",
+      "Vanilla",
+      "Vetiver",
+      "Incense"
+    ],
+    "allNotes": [
+      "Black Truffle",
+      "Ylang-Ylang",
+      "Bergamot",
+      "Black Orchid",
+      "Lotus Wood",
+      "Patchouli",
+      "Vanilla",
+      "Vetiver",
+      "Incense"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-39-28AM-_1.png?v=1773460543",
+    "searchableText": "Tom Ford tom ford Tom Ford Black Orchid Black Orchard Floral Oriental unisex Black Truffle Ylang-Ylang Bergamot Black Orchid Lotus Wood Patchouli Vanilla Vetiver Incense",
+    "createdAt": "2026-05-04T04:41:28.869Z"
+  }
+}

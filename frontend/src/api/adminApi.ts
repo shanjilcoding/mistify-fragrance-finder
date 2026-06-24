@@ -1,3 +1,5 @@
+import { apiUrl } from './apiUrl'
+
 export type AdminProduct = {
   id: number
   originalFragranceName: string | null
@@ -69,8 +71,6 @@ export type AdminChipFragrance = {
   adminNote: string | null
   fragrance: AdminProduct
 }
-
-const apiUrl = import.meta.env.VITE_API_URL ?? (import.meta.env.DEV ? 'http://localhost:5000/api' : '/api')
 
 async function readJson<T extends object>(response: Response): Promise<T> {
   const data = (await response.json()) as T | { error?: string }
@@ -355,4 +355,118 @@ export async function removeAdminChipFragrance(
   })
 
   return readJson<{ success: boolean }>(response)
+}
+
+// ── Mistify Catalog Sync ──────────────────────────────────────
+
+export type SyncMatchRow = {
+  fragranceId: number
+  sourceBrandBatch: string
+  originalFragranceName: string
+  oldMistifyProductName: string
+  oldMistifyProductUrl: string
+  oldCatalogImageUrl: string
+  newMistifyProductName: string
+  newMistifyProductUrl: string
+  newCatalogImageUrl: string
+  shopHandle: string
+  matchType: string
+  matchConfidence: 'high' | 'medium' | 'low'
+  fieldsToUpdate: string[]
+  reason: string
+}
+
+export type SyncManualReviewRow = SyncMatchRow & {
+  reviewReason: string
+}
+
+export type SyncSkippedRow = {
+  fragranceId: number
+  sourceBrandBatch: string
+  originalFragranceName: string
+  mistifyProductName: string
+  mistifyProductUrl: string
+  reason: string
+}
+
+export type AnalyzeResult = {
+  shopProductsFetched: number
+  dbFragrancesRead: number
+  highConfidenceMatches: SyncMatchRow[]
+  manualReviewRows: SyncManualReviewRow[]
+  skippedRows: SyncSkippedRow[]
+  newProductCandidates: NewProductCandidate[]
+  staleDbProductUrls: Array<{
+    fragranceId: number
+    originalFragranceName: string
+    mistifyProductUrl: string
+  }>
+}
+
+export type NewProductCandidate = {
+  shopTitle: string
+  shopHandle: string
+  shopUrl: string
+  imageUrl: string
+  vendor: string
+  inspirationText: string
+  originalFragranceName: string
+  sourceBrandBatch: string
+  classification: string
+  topNotes: string[]
+  middleNotes: string[]
+  baseNotes: string[]
+  allNotes: string[]
+  brandName: string | null
+  brandSlug: string | null
+  originalFragranceSlug: string | null
+  mistifyProductSlug: string | null
+  publicInspiredByLabel: string | null
+  searchableText: string
+  isCatalogVisible: boolean
+  duplicateReasons: string[]
+  missingFields: string[]
+}
+
+export type ApplyInput = {
+  fragranceId: number
+  mistifyProductName?: string
+  mistifyProductUrl?: string
+  catalogImageUrl?: string
+}
+
+export type ApplyResult = {
+  updatedCount: number
+  importedCount: number
+  catalogFieldsRecomputed: number
+}
+
+export async function analyzeMistifySync(token: string, scope: string = 'all') {
+  const response = await fetch(`${apiUrl}/admin/sync-catalog/analyze`, {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${token}`,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({ scope }),
+  })
+
+  return readJson<AnalyzeResult>(response)
+}
+
+export async function applyMistifySync(
+  token: string,
+  updates: ApplyInput[],
+  imports: NewProductCandidate[] = [],
+) {
+  const response = await fetch(`${apiUrl}/admin/sync-catalog/apply`, {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${token}`,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({ updates, imports }),
+  })
+
+  return readJson<ApplyResult>(response)
 }

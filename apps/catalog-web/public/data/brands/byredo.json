@@ -1,0 +1,172 @@
+{
+  "brand": {
+    "brandName": "Byredo",
+    "brandSlug": "byredo",
+    "fragranceCount": 4,
+    "searchableText": "Animalique Animal Instincts Inspired by Byredo Animalique Byredo byredo Byredo Animalique Animal Instincts Oriental Floral unisex Bergamot Lemon Violet Mimosa Suede Tobacco Leaf Amber Bal d’Afrique Bali Afrique Inspired by Byredo Bal d’Afrique Byredo byredo Byredo Bal d’Afrique Bali Afrique Floral unisex Bergamot African Marigold Buchu/Agathosma Violet Cyclamen Vetiver Cedar Black Saffron Saffron Noir Inspired by Byredo Black Saffron Byredo byredo Byredo Black Saffron Saffron Noir Amber/Leather unisex Juniper Berries Pomelo Saffron Black Violet Cristal Rose Leather Accord Blonde Woods Raspberry Vetiver Mojave Ghost Mojava Mist Inspired by Byredo Mojave Ghost Byredo byredo Byredo Mojave Ghost Mojava Mist Oriental Floral unisex Sapodilla Ambrette Magnolia Violet Sandalwood Ambergris Cedar Musk"
+  },
+  "fragrances": [
+    {
+      "id": 268,
+      "fragranceSlug": "byredo-animalique-268",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Animalique",
+      "originalFragranceSlug": "byredo-animalique",
+      "mistifyProductName": "Animal Instincts",
+      "mistifyProductSlug": "animal-instincts",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/animal-instincts",
+      "publicInspiredByLabel": "Inspired by Byredo Animalique",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Bergamot",
+        "Lemon"
+      ],
+      "middleNotes": [
+        "Violet",
+        "Mimosa"
+      ],
+      "baseNotes": [
+        "Suede",
+        "Tobacco Leaf",
+        "Amber"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Lemon",
+        "Violet",
+        "Mimosa",
+        "Suede",
+        "Tobacco Leaf",
+        "Amber"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-19-10PM-_1.png?v=1773460283",
+      "searchableText": "Byredo byredo Byredo Animalique Animal Instincts Oriental Floral unisex Bergamot Lemon Violet Mimosa Suede Tobacco Leaf Amber",
+      "createdAt": "2026-05-04T04:41:40.321Z"
+    },
+    {
+      "id": 267,
+      "fragranceSlug": "byredo-bal-d-afrique-267",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Bal d’Afrique",
+      "originalFragranceSlug": "byredo-bal-d-afrique",
+      "mistifyProductName": "Bali Afrique",
+      "mistifyProductSlug": "bali-afrique",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/bali-afrique",
+      "publicInspiredByLabel": "Inspired by Byredo Bal d’Afrique",
+      "audience": "unisex",
+      "classification": "Floral",
+      "topNotes": [
+        "Bergamot",
+        "African Marigold",
+        "Buchu/Agathosma"
+      ],
+      "middleNotes": [
+        "Violet",
+        "Cyclamen"
+      ],
+      "baseNotes": [
+        "Vetiver",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "African Marigold",
+        "Buchu/Agathosma",
+        "Violet",
+        "Cyclamen",
+        "Vetiver",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-08-33PM-_1.png?v=1773460349",
+      "searchableText": "Byredo byredo Byredo Bal d’Afrique Bali Afrique Floral unisex Bergamot African Marigold Buchu/Agathosma Violet Cyclamen Vetiver Cedar",
+      "createdAt": "2026-05-04T04:41:40.260Z"
+    },
+    {
+      "id": 269,
+      "fragranceSlug": "byredo-black-saffron-269",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Black Saffron",
+      "originalFragranceSlug": "byredo-black-saffron",
+      "mistifyProductName": "Saffron Noir",
+      "mistifyProductSlug": "saffron-noir",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saffron-noir",
+      "publicInspiredByLabel": "Inspired by Byredo Black Saffron",
+      "audience": "unisex",
+      "classification": "Amber/Leather",
+      "topNotes": [
+        "Juniper Berries",
+        "Pomelo",
+        "Saffron"
+      ],
+      "middleNotes": [
+        "Black Violet",
+        "Cristal Rose",
+        "Leather Accord"
+      ],
+      "baseNotes": [
+        "Blonde Woods",
+        "Raspberry",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Juniper Berries",
+        "Pomelo",
+        "Saffron",
+        "Black Violet",
+        "Cristal Rose",
+        "Leather Accord",
+        "Blonde Woods",
+        "Raspberry",
+        "Vetiver"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-10-04-11PM-_1.png?v=1773460347",
+      "searchableText": "Byredo byredo Byredo Black Saffron Saffron Noir Amber/Leather unisex Juniper Berries Pomelo Saffron Black Violet Cristal Rose Leather Accord Blonde Woods Raspberry Vetiver",
+      "createdAt": "2026-05-04T04:41:40.380Z"
+    },
+    {
+      "id": 266,
+      "fragranceSlug": "byredo-mojave-ghost-266",
+      "brandName": "Byredo",
+      "brandSlug": "byredo",
+      "originalFragranceName": "Mojave Ghost",
+      "originalFragranceSlug": "byredo-mojave-ghost",
+      "mistifyProductName": "Mojava Mist",
+      "mistifyProductSlug": "mojava-mist",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/mojava-mist",
+      "publicInspiredByLabel": "Inspired by Byredo Mojave Ghost",
+      "audience": "unisex",
+      "classification": "Oriental Floral",
+      "topNotes": [
+        "Sapodilla",
+        "Ambrette"
+      ],
+      "middleNotes": [
+        "Magnolia",
+        "Violet",
+        "Sandalwood"
+      ],
+      "baseNotes": [
+        "Ambergris",
+        "Cedar",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sapodilla",
+        "Ambrette",
+        "Magnolia",
+        "Violet",
+        "Sandalwood",
+        "Ambergris",
+        "Cedar",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-07-35PM-_1.png?v=1773460344",
+      "searchableText": "Byredo byredo Byredo Mojave Ghost Mojava Mist Oriental Floral unisex Sapodilla Ambrette Magnolia Violet Sandalwood Ambergris Cedar Musk",
+      "createdAt": "2026-05-04T04:41:40.202Z"
+    }
+  ]
+}

@@ -70,6 +70,7 @@ export type FragranceRecommendation = {
   sourceConfidence: string | null
   sourceUsed: string | null
   sourceStatus: string | null
+  catalogImageUrl?: string | null
   rating?: RecommendationRating
   matchScore: number
   matchTier: MatchTier
@@ -101,6 +102,7 @@ export type ReferenceFragrance = {
   audience?: Audience | string
   originalFragranceName: string
   sourceBrandBatch?: string
+  catalogImageUrl?: string | null
   classification?: string
   topNotes: string[]
   middleNotes: string[]

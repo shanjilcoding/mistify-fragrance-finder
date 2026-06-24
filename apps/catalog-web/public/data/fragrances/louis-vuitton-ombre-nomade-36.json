@@ -1,0 +1,35 @@
+{
+  "fragrance": {
+    "id": 36,
+    "fragranceSlug": "louis-vuitton-ombre-nomade-36",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Ombre Nomade",
+    "originalFragranceSlug": "louis-vuitton-ombre-nomade",
+    "mistifyProductName": "Ombre Nomad",
+    "mistifyProductSlug": "ombre-nomad",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/ombre-nomad",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Ombre Nomade",
+    "audience": "unisex",
+    "classification": "Leather",
+    "topNotes": [
+      "Raspberry"
+    ],
+    "middleNotes": [
+      "Oud Wood"
+    ],
+    "baseNotes": [
+      "Incense",
+      "Benzoin"
+    ],
+    "allNotes": [
+      "Raspberry",
+      "Oud Wood",
+      "Incense",
+      "Benzoin"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_03_45_50PM.png?v=1765422836",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Ombre Nomade Ombre Nomad Leather unisex Raspberry Oud Wood Incense Benzoin",
+    "createdAt": "2026-05-04T04:41:26.592Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "fragrance": {
+    "id": 115,
+    "fragranceSlug": "bond-no-9-greenwich-village-115",
+    "brandName": "Bond No. 9",
+    "brandSlug": "bond-no-9",
+    "originalFragranceName": "Greenwich Village",
+    "originalFragranceSlug": "bond-no-9-greenwich-village",
+    "mistifyProductName": "Green Village",
+    "mistifyProductSlug": "green-village",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/green-village",
+    "publicInspiredByLabel": "Inspired by Bond No. 9 Greenwich Village",
+    "audience": "unisex",
+    "classification": "Floral Fruity",
+    "topNotes": [
+      "Cassis",
+      "Lychee",
+      "Mandarin"
+    ],
+    "middleNotes": [
+      "Peony",
+      "Jasmine",
+      "Waterlily"
+    ],
+    "baseNotes": [
+      "Ambroxan",
+      "Musk",
+      "Vanilla",
+      "Oakmoss"
+    ],
+    "allNotes": [
+      "Cassis",
+      "Lychee",
+      "Mandarin",
+      "Peony",
+      "Jasmine",
+      "Waterlily",
+      "Ambroxan",
+      "Musk",
+      "Vanilla",
+      "Oakmoss"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-04-14-18PM-_1.png?v=1773460449",
+    "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Greenwich Village Green Village Floral Fruity unisex Cassis Lychee Mandarin Peony Jasmine Waterlily Ambroxan Musk Vanilla Oakmoss",
+    "createdAt": "2026-05-04T04:41:31.214Z"
+  }
+}

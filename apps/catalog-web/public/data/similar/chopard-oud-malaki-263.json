@@ -1,0 +1,267 @@
+{
+  "fragrances": [
+    {
+      "id": 214,
+      "fragranceSlug": "viktor-and-rolf-spice-bomb-214",
+      "brandName": "Viktor & Rolf",
+      "brandSlug": "viktor-and-rolf",
+      "originalFragranceName": "Spice Bomb",
+      "originalFragranceSlug": "viktor-and-rolf-spice-bomb",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Viktor & Rolf Spice Bomb",
+      "audience": null,
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Pink Pepper",
+        "Elemi",
+        "Bergamot",
+        "Grapefruit"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Paprika",
+        "Saffron"
+      ],
+      "baseNotes": [
+        "Tobacco",
+        "Leather",
+        "Vetiver"
+      ],
+      "allNotes": [
+        "Pink Pepper",
+        "Elemi",
+        "Bergamot",
+        "Grapefruit",
+        "Cinnamon",
+        "Paprika",
+        "Saffron",
+        "Tobacco",
+        "Leather",
+        "Vetiver"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Viktor & Rolf viktor and rolf Viktor & Rolf Spice Bomb Not verified Woody Spicy Pink Pepper Elemi Bergamot Grapefruit Cinnamon Paprika Saffron Tobacco Leather Vetiver",
+      "createdAt": "2026-05-04T04:41:37.047Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Tobacco",
+        "Leather"
+      ]
+    },
+    {
+      "id": 157,
+      "fragranceSlug": "initio-oud-for-greatness-157",
+      "brandName": "Initio",
+      "brandSlug": "initio",
+      "originalFragranceName": "Oud for Greatness",
+      "originalFragranceSlug": "initio-oud-for-greatness",
+      "mistifyProductName": "Majestic Oud",
+      "mistifyProductSlug": "majestic-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-oud",
+      "publicInspiredByLabel": "Inspired by Initio Oud for Greatness",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender"
+      ],
+      "middleNotes": [
+        "Oud"
+      ],
+      "baseNotes": [
+        "Patchouli",
+        "Musk"
+      ],
+      "allNotes": [
+        "Saffron",
+        "Nutmeg",
+        "Lavender",
+        "Oud",
+        "Patchouli",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_56_51PM.png?v=1765422990",
+      "searchableText": "Initio initio parfums Initio Parfums Oud for Greatness Majestic Oud Woody Spicy unisex Saffron Nutmeg Lavender Oud Patchouli Musk",
+      "createdAt": "2026-05-04T04:41:33.651Z",
+      "sharedNotes": [
+        "Lavender",
+        "Oud"
+      ]
+    },
+    {
+      "id": 163,
+      "fragranceSlug": "montale-arabians-163",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Arabians",
+      "originalFragranceSlug": "montale-arabians",
+      "mistifyProductName": "Not verified",
+      "mistifyProductSlug": null,
+      "mistifyProductUrl": null,
+      "publicInspiredByLabel": "Inspired by Montale Arabians",
+      "audience": null,
+      "classification": "Oriental",
+      "topNotes": [
+        "Cardamom",
+        "Lavender",
+        "Red Thyme"
+      ],
+      "middleNotes": [
+        "Rose",
+        "Patchouli",
+        "Vetiver"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Leather",
+        "Ambergris",
+        "Musk"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Lavender",
+        "Red Thyme",
+        "Rose",
+        "Patchouli",
+        "Vetiver",
+        "Oud",
+        "Leather",
+        "Ambergris",
+        "Musk"
+      ],
+      "catalogImageUrl": null,
+      "searchableText": "Montale montale Montale Arabians Not verified Oriental Cardamom Lavender Red Thyme Rose Patchouli Vetiver Oud Leather Ambergris Musk",
+      "createdAt": "2026-05-04T04:41:34.009Z",
+      "sharedNotes": [
+        "Lavender",
+        "Leather",
+        "Oud",
+        "Ambergris"
+      ]
+    },
+    {
+      "id": 206,
+      "fragranceSlug": "rabanne-1-million-206",
+      "brandName": "Rabanne",
+      "brandSlug": "rabanne",
+      "originalFragranceName": "1 Million",
+      "originalFragranceSlug": "rabanne-1-million",
+      "mistifyProductName": "Golden Luxe",
+      "mistifyProductSlug": "golden-luxe",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/golden-luxe?_pos=2&_sid=cb998cf94&_ss=r",
+      "publicInspiredByLabel": "Inspired by Rabanne 1 Million",
+      "audience": "mens",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Blood Mandarin",
+        "Grapefruit",
+        "Mint"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Spicy Notes",
+        "Rose"
+      ],
+      "baseNotes": [
+        "Amber",
+        "Leather",
+        "Woody Notes",
+        "Indian Patchouli"
+      ],
+      "allNotes": [
+        "Blood Mandarin",
+        "Grapefruit",
+        "Mint",
+        "Cinnamon",
+        "Spicy Notes",
+        "Rose",
+        "Amber",
+        "Leather",
+        "Woody Notes",
+        "Indian Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_10_45_20PM_eda64bdf-de46-4f14-8adf-b3a151fd82f8.png?v=1774406735",
+      "searchableText": "Rabanne paco rabanne Paco Rabanne 1 Million Golden Luxe Woody Spicy mens Blood Mandarin Grapefruit Mint Cinnamon Spicy Notes Rose Amber Leather Woody Notes Indian Patchouli",
+      "createdAt": "2026-05-04T04:41:36.571Z",
+      "sharedNotes": [
+        "Grapefruit",
+        "Leather"
+      ]
+    },
+    {
+      "id": 150,
+      "fragranceSlug": "ysl-yves-saint-laurent-splendid-wood-150",
+      "brandName": "YSL (Yves Saint Laurent)",
+      "brandSlug": "ysl-yves-saint-laurent",
+      "originalFragranceName": "Splendid Wood",
+      "originalFragranceSlug": "ysl-yves-saint-laurent-splendid-wood",
+      "mistifyProductName": "Majestic Timber",
+      "mistifyProductSlug": "majestic-timber",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/majestic-timber",
+      "publicInspiredByLabel": "Inspired by YSL (Yves Saint Laurent) Splendid Wood",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [
+        "Cardamom",
+        "Incense"
+      ],
+      "middleNotes": [
+        "Cedar",
+        "Cypriol"
+      ],
+      "baseNotes": [
+        "Oud",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Cardamom",
+        "Incense",
+        "Cedar",
+        "Cypriol",
+        "Oud",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/MajesticTimber-_1.png?v=1773460419",
+      "searchableText": "YSL (Yves Saint Laurent) ysl yves saint laurent YSL (Yves Saint Laurent) Splendid Wood Majestic Timber Woody Spicy unisex Cardamom Incense Cedar Cypriol Oud Sandalwood",
+      "createdAt": "2026-05-04T04:41:33.251Z",
+      "sharedNotes": [
+        "Oud"
+      ]
+    },
+    {
+      "id": 167,
+      "fragranceSlug": "montale-aoud-safran-167",
+      "brandName": "Montale",
+      "brandSlug": "montale",
+      "originalFragranceName": "Aoud Safran",
+      "originalFragranceSlug": "montale-aoud-safran",
+      "mistifyProductName": "Saffron Oud",
+      "mistifyProductSlug": "saffron-oud",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/saffron-oud",
+      "publicInspiredByLabel": "Inspired by Montale Aoud Safran",
+      "audience": "unisex",
+      "classification": "Woody Spicy",
+      "topNotes": [],
+      "middleNotes": [
+        "Saffron",
+        "Arabian Rose",
+        "Oud"
+      ],
+      "baseNotes": [],
+      "allNotes": [
+        "Saffron",
+        "Arabian Rose",
+        "Oud"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/SaffronOud.png?v=1765422951",
+      "searchableText": "Montale montale Montale Aoud Safran Saffron Oud Woody Spicy unisex Saffron Arabian Rose Oud",
+      "createdAt": "2026-05-04T04:41:34.229Z",
+      "sharedNotes": [
+        "Oud"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "fragrance": {
+    "id": 139,
+    "fragranceSlug": "creed-oud-zarian-139",
+    "brandName": "Creed",
+    "brandSlug": "creed",
+    "originalFragranceName": "Oud Zarian",
+    "originalFragranceSlug": "creed-oud-zarian",
+    "mistifyProductName": "Oud Zarien",
+    "mistifyProductSlug": "oud-zarien",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-zarien",
+    "publicInspiredByLabel": "Inspired by Creed Oud Zarian",
+    "audience": "unisex",
+    "classification": "Oriental Woody",
+    "topNotes": [
+      "Spices",
+      "Frankincense",
+      "Ginger",
+      "Bergamot"
+    ],
+    "middleNotes": [
+      "May Rose"
+    ],
+    "baseNotes": [
+      "Licorice",
+      "Myrrh",
+      "Oud",
+      "Tonka Bean",
+      "Sandalwood",
+      "Patchouli"
+    ],
+    "allNotes": [
+      "Spices",
+      "Frankincense",
+      "Ginger",
+      "Bergamot",
+      "May Rose",
+      "Licorice",
+      "Myrrh",
+      "Oud",
+      "Tonka Bean",
+      "Sandalwood",
+      "Patchouli"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec16-2025-10-53-37AM-_1.png?v=1773460199",
+    "searchableText": "Creed creed Creed Oud Zarian Oud Zarien Oriental Woody unisex Spices Frankincense Ginger Bergamot May Rose Licorice Myrrh Oud Tonka Bean Sandalwood Patchouli",
+    "createdAt": "2026-05-04T04:41:32.597Z"
+  }
+}

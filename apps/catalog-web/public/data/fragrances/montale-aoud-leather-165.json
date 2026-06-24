@@ -1,0 +1,39 @@
+{
+  "fragrance": {
+    "id": 165,
+    "fragranceSlug": "montale-aoud-leather-165",
+    "brandName": "Montale",
+    "brandSlug": "montale",
+    "originalFragranceName": "Aoud Leather",
+    "originalFragranceSlug": "montale-aoud-leather",
+    "mistifyProductName": "Oud Hide",
+    "mistifyProductSlug": "oud-hide",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/oud-hide",
+    "publicInspiredByLabel": "Inspired by Montale Aoud Leather",
+    "audience": "unisex",
+    "classification": "Leather",
+    "topNotes": [],
+    "middleNotes": [
+      "Leather",
+      "Oud",
+      "Saffron",
+      "Bergamot",
+      "Cardamom",
+      "Pepper",
+      "Ambergris"
+    ],
+    "baseNotes": [],
+    "allNotes": [
+      "Leather",
+      "Oud",
+      "Saffron",
+      "Bergamot",
+      "Cardamom",
+      "Pepper",
+      "Ambergris"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/OudHide_ec6fce37-d220-454a-aab8-992c47a67666.png?v=1765422947",
+    "searchableText": "Montale montale Montale Aoud Leather Oud Hide Leather unisex Leather Oud Saffron Bergamot Cardamom Pepper Ambergris",
+    "createdAt": "2026-05-04T04:41:34.121Z"
+  }
+}

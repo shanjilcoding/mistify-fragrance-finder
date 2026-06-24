@@ -1,0 +1,45 @@
+{
+  "fragrance": {
+    "id": 48,
+    "fragranceSlug": "louis-vuitton-spell-on-you-48",
+    "brandName": "Louis Vuitton",
+    "brandSlug": "louis-vuitton",
+    "originalFragranceName": "Spell On You",
+    "originalFragranceSlug": "louis-vuitton-spell-on-you",
+    "mistifyProductName": "Spelle",
+    "mistifyProductSlug": "spelle",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/spelle",
+    "publicInspiredByLabel": "Inspired by Louis Vuitton Spell On You",
+    "audience": "womens",
+    "classification": "Floral Powdery/Soft Fruity",
+    "topNotes": [
+      "Tuscan Iris",
+      "Violet",
+      "Green Notes"
+    ],
+    "middleNotes": [
+      "Tuscan Iris",
+      "Rose",
+      "Chinese Jasmine"
+    ],
+    "baseNotes": [
+      "Acacia Flower",
+      "White Musk",
+      "Peach"
+    ],
+    "allNotes": [
+      "Tuscan Iris",
+      "Violet",
+      "Green Notes",
+      "Tuscan Iris",
+      "Rose",
+      "Chinese Jasmine",
+      "Acacia Flower",
+      "White Musk",
+      "Peach"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageApr30_2026_03_05_57PM.png?v=1777575969",
+    "searchableText": "Louis Vuitton louis vuitton Louis Vuitton Spell On You Spelle Floral Powdery/Soft Fruity womens Tuscan Iris Violet Green Notes Tuscan Iris Rose Chinese Jasmine Acacia Flower White Musk Peach",
+    "createdAt": "2026-05-04T04:41:27.300Z"
+  }
+}

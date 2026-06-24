@@ -1,0 +1,260 @@
+{
+  "fragrances": [
+    {
+      "id": 79,
+      "fragranceSlug": "tom-ford-lavender-extreme-79",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lavender Extreme",
+      "originalFragranceSlug": "tom-ford-lavender-extreme",
+      "mistifyProductName": "Lavender Extremism",
+      "mistifyProductSlug": "lavender-extremism",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lavender-extremism",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lavender Extreme",
+      "audience": "unisex",
+      "classification": "Aromatic",
+      "topNotes": [
+        "Lavender",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Lavender",
+        "Bergamot",
+        "Cinnamon",
+        "Tonka Bean",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/LavenderExtremism.png?v=1765422873",
+      "searchableText": "Tom Ford tom ford Tom Ford Lavender Extreme Lavender Extremism Aromatic unisex Lavender Bergamot Cinnamon Tonka Bean Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:29.108Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Tonka Bean",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 117,
+      "fragranceSlug": "bond-no-9-lafayette-street-117",
+      "brandName": "Bond No. 9",
+      "brandSlug": "bond-no-9",
+      "originalFragranceName": "Lafayette Street",
+      "originalFragranceSlug": "bond-no-9-lafayette-street",
+      "mistifyProductName": "Lafayette Avenue",
+      "mistifyProductSlug": "lafayette-avenue",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/lafayette-avenue",
+      "publicInspiredByLabel": "Inspired by Bond No. 9 Lafayette Street",
+      "audience": "unisex",
+      "classification": "Oriental Fougere",
+      "topNotes": [
+        "Bergamot",
+        "Coriander"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Apple",
+        "Amber"
+      ],
+      "baseNotes": [
+        "Tonka Bean",
+        "Cedarwood",
+        "Dry Wood Accord"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Coriander",
+        "Vanilla",
+        "Apple",
+        "Amber",
+        "Tonka Bean",
+        "Cedarwood",
+        "Dry Wood Accord"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-11-46-19AM-_1.png?v=1773460444",
+      "searchableText": "Bond No. 9 bond no 9 Bond No. 9 Lafayette Street Lafayette Avenue Oriental Fougere unisex Bergamot Coriander Vanilla Apple Amber Tonka Bean Cedarwood Dry Wood Accord",
+      "createdAt": "2026-05-04T04:41:31.335Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Tonka Bean",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 53,
+      "fragranceSlug": "kilian-angels-share-53",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Angels’ Share",
+      "originalFragranceSlug": "kilian-angels-share",
+      "mistifyProductName": "Angels’ Limit",
+      "mistifyProductSlug": "angels-limit",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/angels-limit",
+      "publicInspiredByLabel": "Inspired by Kilian Angels’ Share",
+      "audience": "unisex",
+      "classification": "Gourmand",
+      "topNotes": [
+        "Cognac"
+      ],
+      "middleNotes": [
+        "Oak",
+        "Cinnamon",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Praline",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Cognac",
+        "Oak",
+        "Cinnamon",
+        "Tonka Bean",
+        "Sandalwood",
+        "Praline",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3_2025_11_27_43PM.png?v=1765422900",
+      "searchableText": "Kilian kilian By Kilian Angels’ Share Angels’ Limit Gourmand unisex Cognac Oak Cinnamon Tonka Bean Sandalwood Praline Vanilla",
+      "createdAt": "2026-05-04T04:41:27.592Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Vanilla",
+        "Praline"
+      ]
+    },
+    {
+      "id": 58,
+      "fragranceSlug": "kilian-gold-knight-58",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Gold Knight",
+      "originalFragranceSlug": "kilian-gold-knight",
+      "mistifyProductName": "Knight in Gold",
+      "mistifyProductSlug": "knight-in-gold",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/knight-in-gold",
+      "publicInspiredByLabel": "Inspired by Kilian Gold Knight",
+      "audience": "unisex",
+      "classification": "Amber/Sweet Spicy",
+      "topNotes": [
+        "Anise",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Honey",
+        "Vanilla"
+      ],
+      "baseNotes": [
+        "Patchouli"
+      ],
+      "allNotes": [
+        "Anise",
+        "Bergamot",
+        "Honey",
+        "Vanilla",
+        "Patchouli"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_39_10AM.png?v=1774327156",
+      "searchableText": "Kilian kilian By Kilian Gold Knight Knight in Gold Amber/Sweet Spicy unisex Anise Bergamot Honey Vanilla Patchouli",
+      "createdAt": "2026-05-04T04:41:27.879Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 65,
+      "fragranceSlug": "kilian-love-don-t-be-shy-65",
+      "brandName": "Kilian",
+      "brandSlug": "kilian",
+      "originalFragranceName": "Love, Don’t Be Shy",
+      "originalFragranceSlug": "kilian-love-don-t-be-shy",
+      "mistifyProductName": "Love, I’m Not Shy",
+      "mistifyProductSlug": "love-i-m-not-shy",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/love-im-not-shy",
+      "publicInspiredByLabel": "Inspired by Kilian Love, Don’t Be Shy",
+      "audience": "unisex",
+      "classification": "Floral Gourmand",
+      "topNotes": [
+        "Neroli",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "allNotes": [
+        "Neroli",
+        "Bergamot",
+        "Jasmine",
+        "Honeysuckle",
+        "Orange Blossom",
+        "Vanilla",
+        "Caramel",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageJan22-2026-01-33-02PM-_1.png?v=1773460529",
+      "searchableText": "Kilian kilian By Kilian Love, Don’t Be Shy Love, I’m Not Shy Floral Gourmand unisex Neroli Bergamot Jasmine Honeysuckle Orange Blossom Vanilla Caramel Musk",
+      "createdAt": "2026-05-04T04:41:28.274Z",
+      "sharedNotes": [
+        "Bergamot",
+        "Vanilla",
+        "Caramel"
+      ]
+    },
+    {
+      "id": 199,
+      "fragranceSlug": "maison-mataha-escapade-gourmande-199",
+      "brandName": "Maison Mataha",
+      "brandSlug": "maison-mataha",
+      "originalFragranceName": "Escapade Gourmande",
+      "originalFragranceSlug": "maison-mataha-escapade-gourmande",
+      "mistifyProductName": "Gourmande Évasion",
+      "mistifyProductSlug": "gourmande-evasion",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/gourmande-evasion",
+      "publicInspiredByLabel": "Inspired by Maison Mataha Escapade Gourmande",
+      "audience": "unisex",
+      "classification": "Oriental Vanilla",
+      "topNotes": [
+        "Sugar Cane"
+      ],
+      "middleNotes": [
+        "Vanilla",
+        "Tonka Bean"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Musk"
+      ],
+      "allNotes": [
+        "Sugar Cane",
+        "Vanilla",
+        "Tonka Bean",
+        "Benzoin",
+        "Musk"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb24-2026-11-56-42AM-_1.png?v=1773460130",
+      "searchableText": "Maison Mataha maison mataha Maison Mataha Escapade Gourmande Gourmande Évasion Oriental Vanilla unisex Sugar Cane Vanilla Tonka Bean Benzoin Musk",
+      "createdAt": "2026-05-04T04:41:36.157Z",
+      "sharedNotes": [
+        "Tonka Bean",
+        "Vanilla"
+      ]
+    }
+  ]
+}

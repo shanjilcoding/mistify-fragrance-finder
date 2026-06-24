@@ -1,0 +1,35 @@
+{
+  "fragrance": {
+    "id": 299,
+    "fragranceSlug": "marc-antoine-barrois-aldebaran-299",
+    "brandName": "Marc-Antoine Barrois",
+    "brandSlug": "marc-antoine-barrois",
+    "originalFragranceName": "Aldebaran",
+    "originalFragranceSlug": "marc-antoine-barrois-aldebaran",
+    "mistifyProductName": "Aldébaré",
+    "mistifyProductSlug": "aldebare",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/aldebare",
+    "publicInspiredByLabel": "Inspired by Marc-Antoine Barrois Aldebaran",
+    "audience": null,
+    "classification": "Floral",
+    "topNotes": [
+      "Tuberose"
+    ],
+    "middleNotes": [
+      "Paprika",
+      "Mate"
+    ],
+    "baseNotes": [
+      "Tonka Bean"
+    ],
+    "allNotes": [
+      "Tuberose",
+      "Paprika",
+      "Mate",
+      "Tonka Bean"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMay14_2026_05_02_42PM.png?v=1778792569",
+    "searchableText": "Marc-Antoine Barrois marc antoine barrois Marc-Antoine Barrois Aldebaran Aldébaré Floral Tuberose Paprika Mate Tonka Bean",
+    "createdAt": "2026-05-04T04:41:42.184Z"
+  }
+}

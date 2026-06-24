@@ -1,0 +1,43 @@
+{
+  "fragrance": {
+    "id": 8,
+    "fragranceSlug": "guerlain-herbes-troublantes-8",
+    "brandName": "Guerlain",
+    "brandSlug": "guerlain",
+    "originalFragranceName": "Herbes Troublantes",
+    "originalFragranceSlug": "guerlain-herbes-troublantes",
+    "mistifyProductName": "Herb Murmur",
+    "mistifyProductSlug": "herb-murmur",
+    "mistifyProductUrl": "https://www.mistifyparfums.com/products/herb-murmur",
+    "publicInspiredByLabel": "Inspired by Guerlain Herbes Troublantes",
+    "audience": "unisex",
+    "classification": "Aromatic Citrus/Soft Musky",
+    "topNotes": [
+      "Calabrian Bergamot",
+      "Aromatic Herbs",
+      "Thyme",
+      "Mint",
+      "Rosemary"
+    ],
+    "middleNotes": [
+      "Orange Blossom"
+    ],
+    "baseNotes": [
+      "White Musks",
+      "Powdery Notes"
+    ],
+    "allNotes": [
+      "Calabrian Bergamot",
+      "Aromatic Herbs",
+      "Thyme",
+      "Mint",
+      "Rosemary",
+      "Orange Blossom",
+      "White Musks",
+      "Powdery Notes"
+    ],
+    "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb10-2026-12-54-51PM-_1.png?v=1773460155",
+    "searchableText": "Guerlain guerlain Guerlain Herbes Troublantes Herb Murmur Aromatic Citrus/Soft Musky unisex Calabrian Bergamot Aromatic Herbs Thyme Mint Rosemary Orange Blossom White Musks Powdery Notes",
+    "createdAt": "2026-05-04T04:41:24.975Z"
+  }
+}

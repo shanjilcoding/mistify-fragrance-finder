@@ -1,0 +1,300 @@
+{
+  "fragrances": [
+    {
+      "id": 81,
+      "fragranceSlug": "tom-ford-metallique-81",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Metallique",
+      "originalFragranceSlug": "tom-ford-metallique",
+      "mistifyProductName": "Metallic",
+      "mistifyProductSlug": "metallic",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/metallic",
+      "publicInspiredByLabel": "Inspired by Tom Ford Metallique",
+      "audience": "unisex",
+      "classification": "Aldehydic Floral",
+      "topNotes": [
+        "Aldehydes",
+        "Pink Pepper",
+        "Bergamot"
+      ],
+      "middleNotes": [
+        "Lily-of-the-Valley",
+        "Heliotrope",
+        "Hawthorn"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Peru Balsam",
+        "Sandalwood",
+        "Ambrette"
+      ],
+      "allNotes": [
+        "Aldehydes",
+        "Pink Pepper",
+        "Bergamot",
+        "Lily-of-the-Valley",
+        "Heliotrope",
+        "Hawthorn",
+        "Vanilla",
+        "Peru Balsam",
+        "Sandalwood",
+        "Ambrette"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/Metallic.png?v=1765422895",
+      "searchableText": "Tom Ford tom ford Tom Ford Metallique Metallic Aldehydic Floral unisex Aldehydes Pink Pepper Bergamot Lily-of-the-Valley Heliotrope Hawthorn Vanilla Peru Balsam Sandalwood Ambrette",
+      "createdAt": "2026-05-04T04:41:29.225Z",
+      "sharedNotes": [
+        "Peru Balsam",
+        "Sandalwood",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 86,
+      "fragranceSlug": "tom-ford-soleil-neige-86",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Soleil Neige",
+      "originalFragranceSlug": "tom-ford-soleil-neige",
+      "mistifyProductName": "Soleil Snow",
+      "mistifyProductSlug": "soleil-snow",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/soleil-snow",
+      "publicInspiredByLabel": "Inspired by Tom Ford Soleil Neige",
+      "audience": "unisex",
+      "classification": "Floral Musk",
+      "topNotes": [
+        "Bergamot",
+        "Carrot Seeds"
+      ],
+      "middleNotes": [
+        "White Flowers",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose"
+      ],
+      "baseNotes": [
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Carrot Seeds",
+        "White Flowers",
+        "Jasmine",
+        "Orange Blossom",
+        "Turkish Rose",
+        "Benzoin",
+        "Vanilla",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageMar24_2026_12_09_07AM.png?v=1774325369",
+      "searchableText": "Tom Ford tom ford Tom Ford Soleil Neige Soleil Snow Floral Musk unisex Bergamot Carrot Seeds White Flowers Jasmine Orange Blossom Turkish Rose Benzoin Vanilla Labdanum",
+      "createdAt": "2026-05-04T04:41:29.512Z",
+      "sharedNotes": [
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 80,
+      "fragranceSlug": "tom-ford-lost-cherry-80",
+      "brandName": "Tom Ford",
+      "brandSlug": "tom-ford",
+      "originalFragranceName": "Lost Cherry",
+      "originalFragranceSlug": "tom-ford-lost-cherry",
+      "mistifyProductName": "Cherry Reverie",
+      "mistifyProductSlug": "cherry-reverie",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/cherry-reverie",
+      "publicInspiredByLabel": "Inspired by Tom Ford Lost Cherry",
+      "audience": "unisex",
+      "classification": "Floral Gourmand",
+      "topNotes": [
+        "Black Cherry",
+        "Bitter Almond",
+        "Cherry Liqueur"
+      ],
+      "middleNotes": [
+        "Griotte Syrup",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Peru Balsam",
+        "Roasted Tonka Bean",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar"
+      ],
+      "allNotes": [
+        "Black Cherry",
+        "Bitter Almond",
+        "Cherry Liqueur",
+        "Griotte Syrup",
+        "Jasmine Sambac",
+        "Peru Balsam",
+        "Roasted Tonka Bean",
+        "Sandalwood",
+        "Vetiver",
+        "Cedar"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageFeb19-2026-11-25-11AM-_1.png?v=1773460540",
+      "searchableText": "Tom Ford tom ford Tom Ford Lost Cherry Cherry Reverie Floral Gourmand unisex Black Cherry Bitter Almond Cherry Liqueur Griotte Syrup Jasmine Sambac Peru Balsam Roasted Tonka Bean Sandalwood Vetiver Cedar",
+      "createdAt": "2026-05-04T04:41:29.166Z",
+      "sharedNotes": [
+        "Jasmine Sambac",
+        "Peru Balsam",
+        "Sandalwood"
+      ]
+    },
+    {
+      "id": 251,
+      "fragranceSlug": "kayali-yum-pistachio-gelato-33-251",
+      "brandName": "Kayali",
+      "brandSlug": "kayali",
+      "originalFragranceName": "Yum Pistachio Gelato 33",
+      "originalFragranceSlug": "kayali-yum-pistachio-gelato-33",
+      "mistifyProductName": "Yummy Pistachio & Gelato 34",
+      "mistifyProductSlug": "yummy-pistachio-and-gelato-34",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/yummy-pistachio-gelato-34",
+      "publicInspiredByLabel": "Inspired by Kayali Yum Pistachio Gelato 33",
+      "audience": "womens",
+      "classification": "Gourmand",
+      "topNotes": [
+        "Pistachio",
+        "Hazelnut",
+        "Cardamom"
+      ],
+      "middleNotes": [
+        "Gelato Accord",
+        "Jasmine",
+        "White Peony"
+      ],
+      "baseNotes": [
+        "Vanilla",
+        "Whipped Cream",
+        "Sandalwood"
+      ],
+      "allNotes": [
+        "Pistachio",
+        "Hazelnut",
+        "Cardamom",
+        "Gelato Accord",
+        "Jasmine",
+        "White Peony",
+        "Vanilla",
+        "Whipped Cream",
+        "Sandalwood"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec4-2025-11-22-00PM-_1.png?v=1773460382",
+      "searchableText": "Kayali kayali Kayali Yum Pistachio Gelato 33 Yummy Pistachio & Gelato 34 Gourmand womens Pistachio Hazelnut Cardamom Gelato Accord Jasmine White Peony Vanilla Whipped Cream Sandalwood",
+      "createdAt": "2026-05-04T04:41:39.281Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 277,
+      "fragranceSlug": "amouage-guidance-277",
+      "brandName": "Amouage",
+      "brandSlug": "amouage",
+      "originalFragranceName": "Guidance",
+      "originalFragranceSlug": "amouage-guidance",
+      "mistifyProductName": "Guidara",
+      "mistifyProductSlug": "guidara",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/guidara",
+      "publicInspiredByLabel": "Inspired by Amouage Guidance",
+      "audience": "unisex",
+      "classification": "Floral Fruity",
+      "topNotes": [
+        "Pear",
+        "Hazelnut",
+        "Olibanum"
+      ],
+      "middleNotes": [
+        "Osmanthus",
+        "Rose",
+        "Saffron",
+        "Jasmine Sambac"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Vanilla",
+        "Akigalawood",
+        "Ambergris",
+        "Labdanum"
+      ],
+      "allNotes": [
+        "Pear",
+        "Hazelnut",
+        "Olibanum",
+        "Osmanthus",
+        "Rose",
+        "Saffron",
+        "Jasmine Sambac",
+        "Sandalwood",
+        "Vanilla",
+        "Akigalawood",
+        "Ambergris",
+        "Labdanum"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageNov14-2025-09-56-20AM-_1.png?v=1773460216",
+      "searchableText": "Amouage amouage Amouage Guidance Guidara Floral Fruity unisex Pear Hazelnut Olibanum Osmanthus Rose Saffron Jasmine Sambac Sandalwood Vanilla Akigalawood Ambergris Labdanum",
+      "createdAt": "2026-05-04T04:41:40.883Z",
+      "sharedNotes": [
+        "Jasmine Sambac",
+        "Sandalwood",
+        "Vanilla"
+      ]
+    },
+    {
+      "id": 109,
+      "fragranceSlug": "parfums-de-marly-palatine-109",
+      "brandName": "Parfums de Marly",
+      "brandSlug": "parfums-de-marly",
+      "originalFragranceName": "Palatine",
+      "originalFragranceSlug": "parfums-de-marly-palatine",
+      "mistifyProductName": "Pala‑Majesty",
+      "mistifyProductSlug": "pala-majesty",
+      "mistifyProductUrl": "https://www.mistifyparfums.com/products/pala-majesty",
+      "publicInspiredByLabel": "Inspired by Parfums de Marly Palatine",
+      "audience": "womens",
+      "classification": "Floral Woody Musk",
+      "topNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear"
+      ],
+      "middleNotes": [
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes"
+      ],
+      "baseNotes": [
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "allNotes": [
+        "Bergamot",
+        "Mandarin Orange",
+        "Pear",
+        "Violet Petals",
+        "Lavender",
+        "Floral Notes",
+        "Sandalwood",
+        "Musk",
+        "Patchouli",
+        "Vanilla"
+      ],
+      "catalogImageUrl": "https://cdn.shopify.com/s/files/1/0846/8201/5039/files/ChatGPTImageDec3-2025-09-22-44PM-_1.png?v=1773460298",
+      "searchableText": "Parfums de Marly parfums de marly Parfums de Marly Palatine Pala‑Majesty Floral Woody Musk womens Bergamot Mandarin Orange Pear Violet Petals Lavender Floral Notes Sandalwood Musk Patchouli Vanilla",
+      "createdAt": "2026-05-04T04:41:30.859Z",
+      "sharedNotes": [
+        "Sandalwood",
+        "Vanilla"
+      ]
+    }
+  ]
+}

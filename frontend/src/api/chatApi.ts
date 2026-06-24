@@ -14,6 +14,7 @@ export type Recommendation = {
   sourceConfidence?: string
   sourceUsed?: string
   sourceStatus?: string
+  catalogImageUrl?: string | null
   rating?: {
     ratingValue: number | null
     ratingVoteCount: number | null
